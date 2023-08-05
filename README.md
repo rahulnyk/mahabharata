@@ -1,7 +1,7 @@
 # Mahabharata
 This is a compilation of the text of Mahabharata from the following sources
 
-1. [Complete Translation by K. N. Ganguli](https://github.com/kunjee17/mahabharata/tree/master): Github Repository of the text. Here this project is trying to look at epic from the Data Science perspective.
+1. [Complete Translation by K. M. Ganguli](https://en.wikipedia.org/wiki/Kisari_Mohan_Ganguli): Complete text is here from this [github repository](https://github.com/kunjee17/mahabharata/tree/master)
 2. [Laura Gibbs Tiny Tales](https://microfables.blogspot.com/2020/11/tiny-tales-from-mahabharata.html): This is a retelling of the Mahabharata using two hundred episodes that are each 100 words long. 
 3. [Kaggle data repo by Tilak](https://www.kaggle.com/datasets/tilakd/mahabharata): All 18 parvas of Mahabharata in txt format for NLP
 4. Wikipedia Parva Summaries
