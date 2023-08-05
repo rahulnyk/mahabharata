@@ -25,6 +25,7 @@ Contains the final output of data parsing notebooks into pandas dataframes as `|
 #### data/named_entities
 Each data csv also has a corrosponding Named Entities csv. The `chunk_id` is used as an index for tagging named entities to corrosponding chunks.
 
-    Note: If you regenerate the data csv files, you must also regenerate the named entities, or else the chunk_id will not corrospond to the regenerated csv rows
-
+``` text
+Note: If you regenerate the data csv files, you must also regenerate the named entities, or else the chunk_id will not corrospond to the regenerated csv rows
+```
 
