@@ -1,3 +1,0 @@
-books:
-short_stories: https://microfables.blogspot.com/2020/11/tiny-tales-from-mahabharata.html
-archive-3:
