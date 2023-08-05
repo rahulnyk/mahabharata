@@ -1,4 +1,4 @@
-book_number|section|section_name|text|para_number|book_name|num_tokens
+book_number|section|section_name|text|para_number|book_name|num_tokens|chunk_id
 2|NA|NA|"The Mahabharata
 
 of
@@ -23,7 +23,7 @@ sacred-texts.com, by J. B. Hare.
 
 
 
-"|1|Sabha Parva|106
+"|1|Sabha Parva|106|0f663eff68374709a1a39f3cc2aed1ad
 2|SECTION I|Sabhakriya Parva|"
 
 Om! After having bowed down to Narayana, and Nara, the most exalted male
@@ -50,7 +50,7 @@ from imminent death. Even if it hath been so, I cannot make thee do
 anything for me. At the same time, O Danava, I do not wish to frustrate
 thy intentions. Do thou something for Krishna. That will be a sufficient
 requital for my services to thee.'
-"|1|Sabha Parva|373
+"|1|Sabha Parva|373|dafce633cb48483f8a34a2810300d2b5
 2|SECTION I|Sabhakriya Parva|"Vaisampayana said,--""Then, O bull of the Bharata race, urged by Maya,
 Vasudeva reflected for a moment as to what he should ask Maya to
 accomplish. Krishna, the Lord of the universe and the Creator of every
@@ -82,10 +82,10 @@ kinds, measured out a plot of land five thousand cubits square, which was
 delightful and exceedingly handsome to behold and which was favourable
 for construction of a building well-suited to the exigencies of every
 season.""
-"|2|Sabha Parva|500
+"|2|Sabha Parva|500|e95cb5267a3f47a4b976ad4a1a322f63
 2|SECTION I|Sabhakriya Parva|"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|3fa10dcdffd94d5f86527072c1957d91
 2|SECTION II||"
 ""Vaisampayana said,--""Janardana deserving the worship of all, having
 lived happily at Khandavaprastha for some time, and having been treated
@@ -116,7 +116,7 @@ then thought of setting out. The chief of the Yadu race then came out of
 the inner to the outer apartment, and issuing thence he made unto
 Brahmanas, deserving of worship, offerings of vessel-fulls of curd and
 fruits, and parched-grain and caused them to pronounce benedictions upon
-"|1|Sabha Parva|517
+"|1|Sabha Parva|517|aeda1514a3d74c249c344c11177ad5f9
 2|SECTION II||"Then ascending his excellent car of gold endued with great speed and
 adorned with banner bearing the figure of Tarkhya (Garuda) and furnished
 also with mace, discus, sword, his bow Sharnga and other weapons, and
@@ -145,7 +145,7 @@ the slayer of Madhu, making an appointment with them (about his return)
 in words that were proper, and preventing with difficulty the Pandavas
 from following him further on foot, gladly proceeded towards his own
 city, like Indra going towards Amravati. Out of the love and affection
-"|2|Sabha Parva|511
+"|2|Sabha Parva|511|4c9e85a9a3cc41d7ba6b542fdbeb6bde
 2|SECTION II||"sight, and their minds also followed him when he got out of sight. And
 Kesava of agreeable person soon disappeared from their sight, unsatiated
 though their minds were with looking at him. Those bulls among men, the
@@ -166,10 +166,10 @@ And worshipping his old father and his illustrious mother, and saluting
 Embracing Pradyumna, Shamva, Nishatha, Charudeshna, Gada, Aniruddha and
 Bhanu, and obtaining the leave of all the elderly men, Janardana entered
 the apartments of Rukmini.""
-"|3|Sabha Parva|330
+"|3|Sabha Parva|330|90459d8c28db4119875986f222f724ae
 2|SECTION II||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|aa753af57f0045d2b3847520c1996776
 2|SECTION III||"
 ""Vaisampayana said,--""Then Maya Danava addressed Arjuna, that foremost of
 successful warriors, saying,--'I now go with thy leave, but shall come
@@ -198,7 +198,7 @@ called Bhagirathee after that king's name. And there, on its banks, O
 thou best of the Bharatas, Indra the illustrious lord of every created
 thing, performed one hundred great sacrifices. There, for the sake of
 beauty, though not according to the dictates of the ordinance, were
-"|1|Sabha Parva|501
+"|1|Sabha Parva|501|d9dc50e6600845af8977afba26b6acf7
 2|SECTION III||"performing those sacrifices, the thousand-eyed lord of Sachi became
 crowned with success. There the fierce Mahadeva, the eternal lord of
 every creature, has taken up his abode after having created all the
@@ -230,7 +230,7 @@ Indeed, the palace that the dexterous Maya built was so wide, delightful,
 and refreshing, and composed of such excellent materials, and furnished
 with such golden walls and archways, and adorned with so many varied
 pictures, and was withal so rich and well-built, that in beauty it far
-"|2|Sabha Parva|513
+"|2|Sabha Parva|513|1931c046bbf746eaa579dab2a670d60f
 2|SECTION III||"And eight thousand Rakshasas called Kinkaras, fierce, huge-bodied and
 endued with great strength, of red coppery eyes and arrowy ears,
 well-armed and capable of ranging through the air, used to guard and
@@ -255,10 +255,10 @@ the mansion. And the breeze bearing the fragrance of lotuses growing in
 water and (of those growing on land) ministered unto the pleasure and
 happiness of the Pandavas. And Maya having constructed such a palatial
 hall within fourteen months, reported its completion unto Yudhishthira.""
-"|3|Sabha Parva|392
+"|3|Sabha Parva|392|bfcbd37067904f3292c21f73f34e2cb4
 2|SECTION III||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|9652eff100564a8ea0146adfe0ed66c4
 2|SECTION IV||"
 ""Vaisampayana said,--""Then that chief of men, king Yudhishthira, entered
 that palatial sabha having first fed ten thousand Brahmanas with
@@ -287,7 +287,7 @@ Sumanta, Jaimini, Paila, and the disciples of Vyasa, viz., ourselves;
 Tittiri, Yajanavalkya, and Lomaharshana with his son; Apsuhomya, Dhaumya,
 Animandavya; and Kausika; Damoshnisha and Traivali, Parnada, and
 Varayanuka, Maunjayana, Vayubhaksha, Parasarya, and Sarika; Valivaka,
-"|1|Sabha Parva|523
+"|1|Sabha Parva|523|d24fddcea13042b58b809f14e00a92ce
 2|SECTION IV||"Parijataka; the exalted Parvata, and the great Muni Markandeya;
 Pavitrapani, Savarna, Bhaluki, and Galava. Janghabandhu, Raibhya,
 Kopavega, and Bhrigu: Harivabhru, Kaundinya, Vabhrumali, and Sanatana,
@@ -311,7 +311,7 @@ the Kiratas, and Chanur the King of the Yavanas, Devarata, Bhoja, and the
 so called Bhimaratha, Srutayudha--the king of Kalinga, Jayasena the king
 of Magadha; and Sukarman, and Chekitana, and Puru that slayer of foes;
 Ketumata, Vasudana, and Vaideha and Kritakshana: Sudharman, Aniruddha,
-"|2|Sabha Parva|529
+"|2|Sabha Parva|529|95f3f08a63ce48d2969882084d7edca5
 2|SECTION IV||"handsome Karmajit; Sisupala with his son, the king of Karusha; and the
 invincible youths of the Vrishni race, all equal in beauty unto the
 celestials, viz., Ahuka, Viprithu, Sada, Sarana, Akrura, Kritavarman, and
@@ -336,10 +336,10 @@ upon and gladdened the sons of Pandu and the Rishis who sat in that
 Sabha. And seated in that Sabha, those bull among men, of rigid vows and
 devoted to truth, all waited upon Yudhishthira like the celestials in
 heaven waiting upon Brahma.""
-"|3|Sabha Parva|475
+"|3|Sabha Parva|475|badca71fe2524efb9d99ed58ee966f7a
 2|SECTION IV||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|953a365315b045a5a572641f5f0c2f2b
 2|SECTION V|Lokapala Sabhakhayana Parva|"
 
 ""Vaisampayana said,--""While the illustrious Pandavas were seated in that
@@ -374,7 +374,7 @@ possessed of these and numberless other accomplishments. The Rishi,
 having wandered over the different worlds, came into that Sabha. And the
 celestial Rishi  of immeasurable splendour, endued with great energy was
 accompanied, O monarch, by Parijata and the intelligent Raivata and
-"|1|Sabha Parva|512
+"|1|Sabha Parva|512|af2b99d5526448fda72c6d8ea8db2b1a
 2|SECTION V|Lokapala Sabhakhayana Parva|"thither and was filled with gladness upon beholding the Pandavas. The
 Brahmana, on arriving there, paid homage unto Yudhishthira by uttering
 blessings on him and wishing him victory. Beholding the learned Rishi
@@ -407,7 +407,7 @@ dost thou attend to the seven means (viz., sowing dissensions,
 chastisement, conciliation, gifts, incantations, medicine and magic)?
 Examinest thou also, after a survey of thy own strength and weakness, the
 fourteen possessions of thy foes? These are the country, forts, cars,
-"|2|Sabha Parva|512
+"|2|Sabha Parva|512|d11b2df4faaf4b398c41071465803d90
 2|SECTION V|Lokapala Sabhakhayana Parva|"zenana, food supply, computations of the army and income, the religious
 treatises in force, the accounts of state, the revenue, wine-shops and
 other secret enemies. Attendest thou to the eight occupations (of
@@ -438,7 +438,7 @@ thou hast resolved upon, do not become known all over thy kingdom?
 Commencest thou soon to accomplish measures of great utility that are
 easy of accomplishment? Such measures are never obstructed? Keepest thou
 the agriculturists not out of thy sight? They do not fear to approach
-"|3|Sabha Parva|513
+"|3|Sabha Parva|513|9a2ae1593ccf464f96e450795f33fe4f
 2|SECTION V|Lokapala Sabhakhayana Parva|"incorruptible, and possessed of practical experience? And, O brave king.
 I hope, people only know the measures already accomplished by thee and
 those that have been partially accomplished and are awaiting completion,
@@ -471,7 +471,7 @@ and low ones in offices that are low? Hast thou appointed to high offices
 ministers that are guileless and of well conduct for generations and
 above the common run? Oppressest thou not thy people with cruel and
 severe punishment? And, O bull of the Bharata race, do thy ministers rule
-"|4|Sabha Parva|503
+"|4|Sabha Parva|503|96b7d787120d45968f9dfb7c59cc373b
 2|SECTION V|Lokapala Sabhakhayana Parva|"sacrificial priests slighting men that are fallen (and incapable of
 performing any more sacrifices) or like wives slighting husbands that are
 proud and incontinent in their behaviour? Is the commander of thy forces
@@ -503,7 +503,7 @@ fear, as if thou wert their mother and father? And O bull of the Bharata
 race, marchest thou, without loss of time, and reflecting well upon three
 kinds of forces, against thy foe when thou hearest that he is in
 distress? O subjugator of all foes beginnest thou thy march when the time
-"|5|Sabha Parva|509
+"|5|Sabha Parva|509|f140cc0d57184a699192e62ca2cb9a0d
 2|SECTION V|Lokapala Sabhakhayana Parva|"resolutions thou hast made, and that the ultimate victory depends upon
 the twelve mandalas (such as reserves, ambuscades, &c, and payment of pay
 to the troops in advance)? And, O persecutor of all foes, givest thou
@@ -535,7 +535,7 @@ first thyself from thy domestic and public servants, then from those
 servants of thy relatives and from one another. Do thy servants, O king,
 ever speak to thee in the forenoon regarding thy extravagant expenditure
 in respect of thy drinks, sports, and women? Is thy expenditure always
-"|6|Sabha Parva|502
+"|6|Sabha Parva|502|517b9b42305f4402918ebceabd559682
 2|SECTION V|Lokapala Sabhakhayana Parva|"always, with food and wealth, relatives, superiors, merchants, the aged,
 and other proteges, and the distressed? Do the accountants and clerks
 employed by thee in looking after thy income and expenditure, always
@@ -568,7 +568,7 @@ of them? O monarch, having heard of any danger and having reflected on it
 also, liest thou in the inner apartments enjoying every agreeable object?
 Having slept during the second and the third divisions of the night,
 thinkest thou of religion and profit in the fourth division wakefully. O
-"|7|Sabha Parva|506
+"|7|Sabha Parva|506|36dca39241b54931b2bc26b7a6ff6bd0
 2|SECTION V|Lokapala Sabhakhayana Parva|"well, showest thou thyself to thy people, accompanied by ministers
 conversant with the auspiciousness or otherwise of moments? O represser
 of all foes, do men dressed in red and armed with swords and adorned with
@@ -600,7 +600,7 @@ also obtain pecuniary gifts at the conclusion of those feasts? Dost thou,
 with passions under complete control and with singleness of mind, strive
 to perform the sacrifices called Vajapeya and Pundarika with their full
 complement of rites? Bowest thou unto thy relatives and superiors, the
-"|8|Sabha Parva|512
+"|8|Sabha Parva|512|4b5b1099f4e54872b0e4006af0a245bb
 2|SECTION V|Lokapala Sabhakhayana Parva|"in villages, that are of so much benefit to people? O sinless one,
 causest thou ever grief or anger in any one? Do priests capable of
 granting thee auspicious fruits ever stand by thy side? O sinless one,
@@ -625,7 +625,7 @@ counsels, non-accomplishment of beneficial projects, and undertaking
 everything without reflection? By these, O king, even monarchs firmly
 seated on their thrones are ruined. Hath thy study of the Vedas, thy
 wealth and knowledge of the Sastras and marriage been fruitful?
-"|9|Sabha Parva|414
+"|9|Sabha Parva|414|4877304f73ec4a118027e89d390b6fec
 2|SECTION V|Lokapala Sabhakhayana Parva|"""Vaisampayana continued,--After the Rishi had finished, Yudhishthira
 asked,--""How, O Rishi, do the Vedas, wealth, wife, and knowledge of the
 Sastras bear fruit?""
@@ -660,7 +660,7 @@ aphorisms (of the sage) in respect of every concern particularly those
 relating to elephants, horses, and cars? O bull of the Bharata race, are
 the aphorisms relating to the science of arms, as also those that relate
 to the practice of engines in warfare--so useful to towns and fortified
-"|10|Sabha Parva|510
+"|10|Sabha Parva|510|20df7bc6b42245c9befaac1e64090b32
 2|SECTION V|Lokapala Sabhakhayana Parva|"mysterious incantations, and with the secrets of poisons destructive of
 all foes? Protectest thou thy kingdom from the fear of fire, of snakes
 and other animals destructive of life, of disease, and Rakshasas? As
@@ -679,10 +679,10 @@ whole Earth bounded by her belt of seas. Narada again spoke,
 saying,--""That king who is thus employed in the protection of four
 orders, Brahmanas, Kshatriyas, Vaishyas, and Sudras, passeth his days
 here happily and attaineth hereafter to the region of Sakra (heaven).'""
-"|11|Sabha Parva|301
+"|11|Sabha Parva|301|fa1ca71da2e14a81a15e0ef04788ba17
 2|SECTION V|Lokapala Sabhakhayana Parva|"
 
-"|12|Sabha Parva|1
+"|12|Sabha Parva|1|910e39d311bb4b35bfafddd612bc8f51
 2|SECTION VI||"
 ""Vaisampayana said,--At the conclusion of Narada's words, king
 Yudhishthira the just worshipped him duly; and commanded by him the
@@ -708,7 +708,7 @@ days of yore by Brahma, beholding everything. Tell me, I ask thee, if
 thou hast, O Brahmana, ever beheld before anywhere an assembly room like
 this of mine or superior to it!' Hearing these words of Yudhishthira the
 just, Narada smilingly answered the son of Pandu in these sweet accents,--
-"|1|Sabha Parva|375
+"|1|Sabha Parva|375|4c710fc29c4643fa898925a1d2bbc007
 2|SECTION VI||"""Narada said,--'O child, O king I did neither see nor hear of ever before
 amongst men, any assembly room built of gems and precious stones like
 this of thine, O Bharata. I shall, however, describe unto thee the rooms
@@ -739,10 +739,10 @@ these. We all together desire to hear thee describe them. Indeed, our
 curiosity is great.' Thus addressed by the son of Pandu, Narada replied,
 saying,--'O monarch, hear ye all about those celestial assembly rooms one
 after another.""
-"|2|Sabha Parva|502
+"|2|Sabha Parva|502|e980f38ec5074a6ba22e15c11c3fa1cd
 2|SECTION VI||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|01592b8dee954dd6864118c99e51efc9
 2|SECTION VII||"
 ""Narada said,--the celestial assembly room of Sakra is full of lustre. He
 hath obtained it as the fruit of his own acts. Possessed of the splendour
@@ -771,7 +771,7 @@ sorrow of any kind, and freed from the fever of anxiety, and all
 performers of the Soma sacrifice, also wait upon and worship Indra. And
 Parasara and Parvata and Savarni and Galava; and Sankha, and the Muni,
 Gaursiras, and Durvasa, and Krodhana and Swena and the Muni Dhirghatamas;
-"|1|Sabha Parva|510
+"|1|Sabha Parva|510|4f7bc0fc20ab486a9713cf21c8835c44
 2|SECTION VII||"Swetaketu, and Tandya, and also Bhandayani; and Havishmat, and Garishta,
 and king Harischandra; and Hridya, Udarshandilya. Parasarya, Krishivala;
 Vataskandha, Visakha, Vidhatas and Kala. Karaladanta, Tastri, and
@@ -795,7 +795,7 @@ Savitri, and Aryaman; Bhaga, Viswa the Sadhyas, the preceptor
 (Vrihaspati), and also Sukra; and Vishwavasu and Chitrasena, and Sumanas,
 and also Taruna; the Sacrifices, the gifts to Brahmanas, the planets, and
 the stars, O Bharata, and the mantras that are uttered in sacrifices--all
-"|2|Sabha Parva|504
+"|2|Sabha Parva|504|a3f14a121f2d4ef6847909e68ffa3f88
 2|SECTION VII||"various kinds of dances and music both instrumental and vocal, and by the
 practice of auspicious rites, and by the exhibition of many feats of
 skill, gratify the lord of the celestials--Satakratu--the illustrious
@@ -813,7 +813,7 @@ now to the account of Yama's assembly house.""
 
 
 
-"|3|Sabha Parva|248
+"|3|Sabha Parva|248|88718c3aa2654abfac234871bcd44668
 2|SECTION VIII||"
 ""Narada said,--'O Yudhisthira, I shall now describe the assembly house of
 Yama, the son of Vivaswat, which, O son of Pritha, was built by
@@ -839,7 +839,7 @@ Vrihadratha, Vartta, Marutta, Kusika, Sankasya, Sankriti, Dhruva,
 Chaturaswa, Sadaswormi and king Kartavirya; Bharata and Suratha, Sunitha,
 Nisatha, Nala, Divodasa, and Sumanas, Amvarisha, Bhagiratha; Vyaswa,
 Vadhraswa, Prithuvega, Prithusravas, Prishadaswa, Vasumanas, Kshupa, and
-"|1|Sabha Parva|511
+"|1|Sabha Parva|511|df2acf44582248f188c0c58911e2c0e5
 2|SECTION VIII||"Arshtisena, Dwilipa, and the high-souled Ushinara; Ausinari, Pundarika,
 Saryati, Sarava, and Suchi; Anga, Rishta, Vena, Dushmanta, Srinjaya and
 Jaya; Bhangasuri, Sunitha, and Nishada, and Bahinara; Karandhama,
@@ -861,7 +861,7 @@ a hundred Palasas, and a hundred called Kasa and Kusa; that king of kings
 Santanu, and thy father Pandu, Usangava, Sata-ratha, Devaraja,
 Jayadratha; the intelligent royal sage Vrishadarva with his ministers;
 and a thousand other kings known by the name of Sasa-vindu, and who have
-"|2|Sabha Parva|508
+"|2|Sabha Parva|508|c3a971867f11444a947515d409b1ca63
 2|SECTION VIII||"the Brahmanas--these holy royal sages of grand achievements and great
 knowledge of the Sastras, wait upon, O King, and worship the son of
 Vivaswat in that assembly house. And Agastya and Matanga, and Kala, and
@@ -891,7 +891,7 @@ of that mansion with music; both instrumental and vocal and with sounds
 of laughter and dance. And, O son of Pritha, excellent perfumes, and
 sweet sounds and garlands of celestial flowers always contribute towards
 making that mansion supremely blest. And hundreds of thousands of
-"|3|Sabha Parva|512
+"|3|Sabha Parva|512|824c338095a244f380e16b266094f46e
 2|SECTION VIII||"and worship the illustrious Yama, the lord of created beings in that
 assembly house. Such, O monarch, is the Sabha, of the illustrious king of
 the Pitris! I shall now describe unto the assembly house of Varuna also
@@ -899,7 +899,7 @@ called Pushkaramalini!""
 
 
 
-"|4|Sabha Parva|60
+"|4|Sabha Parva|60|164216d8542b4b879a88b7f8a6035600
 2|SECTION IX||"
 'Narada said--O Yudhishthira, the celestial Sabha of Varuna is
 unparalleled in splendour. In dimensions it is similar to that of Yama.
@@ -928,7 +928,7 @@ illustrious Varuna. And, O king, Vali the son of Virochana, and Naraka
 the subjugator of the whole Earth; Sanghraha and Viprachitti, and those
 Danavas called Kalakanja; and Suhanu and Durmukha and Sankha and Sumanas
 and also Sumati; and Ghatodara, and Mahaparswa, and Karthana and also
-"|1|Sabha Parva|514
+"|1|Sabha Parva|514|58639b22142d4a8388c173f1d0d94080
 2|SECTION IX||"Vali, and Meghavasas and Dasavara; Tittiva, and Vitabhuta, and Sanghrada,
 and Indratapana--these Daityas and Danavas, all bedecked with ear-rings
 and floral wreaths and crowns, and attired in the celestial robes, all
@@ -954,7 +954,7 @@ various tribes of Gandharvas and Apsaras, devoted to music, both vocal
 and instrumental, wait upon Varuna, singing eulogistic hymns unto him.
 And all those mountains that are noted for being both delightful and rich
 in jewels, wait (in their personified forms) in that Sabha, enjoying
-"|2|Sabha Parva|503
+"|2|Sabha Parva|503|ec7d0f33cebe465ab0c7a9418230ebfa
 2|SECTION IX||"Sunabha by name, surrounded by his sons and grandsons, also attend upon
 his master, along with (the personified form) of a sacred water called
 go. These all, in their personified forms, worship the deity. O bull of
@@ -964,7 +964,7 @@ assembly room of Kuvera.'""
 
 
 
-"|3|Sabha Parva|98
+"|3|Sabha Parva|98|77cdfcedd1824d30b95645018a4c07a4
 2|SECTION X||"
 ""Narada said,--'Possessed of great splendour, the assembly house of
 Vaisravana, O king, is a hundred yojanas in length and seventy yojanas in
@@ -993,7 +993,7 @@ Punjikasthala; and Viswachi Sahajanya, and Pramlocha and Urvasi and Ira,
 and Varga and Sauraveyi, and Samichi, and Vududa, and Lata--these and a
 thousand other Apsaras and Gandharvas, all well-skilled in music and
 dance, attend upon Kuvera, the lord of treasures. And that mansion,
-"|1|Sabha Parva|502
+"|1|Sabha Parva|502|20e3b225f2cc41b686f4450a8646cd25
 2|SECTION X||"with the sounds of dance of various tribes of Gandharvas, and Apsaras
 hath become extremely charming and delicious. The Gandharvas called
 Kinnaras, and others called Naras, and Manibhadra, and Dhanada, and
@@ -1020,7 +1020,7 @@ always waiteth here upon their friend Kuvera, the lord of treasures. And
 hundreds of Gandharva chiefs, with cheerful hearts and attired in their
 respective robes and Viswavasu, and Haha and Huhu; and Tumvuru and
 Parvatta, and Sailusha; and Chitrasena skilled in music and also
-"|2|Sabha Parva|512
+"|2|Sabha Parva|512|b910e8bce33d4a25b8cf5874d39ebe67
 2|SECTION X||"treasures. And Chakradhaman, the chief of the Vidyadharas, with his
 followers, waiteth in that mansion upon the lord of treasures. And
 Kinnaras by hundreds and innumerable kings with Bhagadatta as their
@@ -1046,14 +1046,14 @@ on the mansion of his friend, the lord of treasures. Those best of all
 jewels, those princes of all gems in the three worlds, viz., Sankha and
 Padma, in their personified forms, accompanied by all the jewels of the
 earth (also in their personified forms) worship Kuvera.""
-"|3|Sabha Parva|487
+"|3|Sabha Parva|487|a35350e672824e10b975f19918193323
 2|SECTION X||"""This delightful assembly house of Kuvera that I have seen, attached to
 the firmament and capable of moving along it, is such, O king. Listen now
 to the Sabha I describe unto thee, belonging to Brahma the Grandsire.""
 
 
 
-"|4|Sabha Parva|52
+"|4|Sabha Parva|52|37fba336dc9f4cc08eb5521461708108
 2|SECTION XI||"
 ""Narada said,--Listen to me, O child, as I tell thee of the assembly
 house of the Grandsire, that house which none can describe, saying it is
@@ -1082,7 +1082,7 @@ describe that Sabha, saying--it is such, for within a moment it assumes a
 different form that language fails to paint. O Bharata, it is impossible
 to indicate its dimensions or shape. I never saw anything like it before.
 Ever contributing to the happiness of those within it, its atmosphere is
-"|1|Sabha Parva|509
+"|1|Sabha Parva|509|736cd407528946c1a5bd645f9dfb70a7
 2|SECTION XI||"disappear as soon as one goeth thither. It seems to be made up of
 brilliant gems of many kinds. It doth not seem to be supported on
 columns, it knoweth no deterioration, being eternal. That self effulgent
@@ -1109,7 +1109,7 @@ moon with all the stars and the stellar conjunctions; Aditya with all his
 rays; the winds; the Sacrifices, the Declarations of purpose (in
 sacrifices), the Vital principles,--these illustrious and vow-observing
 beings in their personified forms, and many others too numerous to
-"|2|Sabha Parva|508
+"|2|Sabha Parva|508|1c2912b94fe34227ab32b4a94885e373
 2|SECTION XI||"Desire, and Joy, and Aversion, and Asceticism and Tranquillity--all wait
 together upon the Supreme Deity in that palace. The twenty tribes of the
 Gandharvas and Apsaras, as also their seven other tribes, and all the
@@ -1135,7 +1135,7 @@ the gods, and to Brahma) and that eternal, indestructible,
 undeteriorating, excellent Wheel of Time and also the Wheel of
 Virtue,--these always wait there. O Yudhishthira; and Aditi, Diti, Danu,
 Surasa, Vinata, Ira, Kalika, Suravi, Devi, Sarama, Gautami and the
-"|3|Sabha Parva|526
+"|3|Sabha Parva|526|0a6489e107b44dcd82de9bc5760bb7e5
 2|SECTION XI||"Rudrani, Sree, Lakshmi, Bhadra, Shashthi, the Earth, Ganga, Hri, Swaha,
 Kriti, the goddess Sura, Sachi Pushti, Arundhati, Samvritti, Asa, Niyati,
 Srishti, Rati,--these and many other goddesses wait upon the Creator of
@@ -1161,7 +1161,7 @@ females and all those not born of females, and whatever else is seen in
 the three worlds--both mobile and immobile, were all seen by me there,
 know O king. And eighty thousand Rishis with vital seed drawn up, and O
 Pandu, fifty thousand Rishis having sons, were all seen by me there. And
-"|4|Sabha Parva|519
+"|4|Sabha Parva|519|90fec2e08bd546079a9d0a6ddc6fcc01
 2|SECTION XI||"when they please, and worshipping him with a bow of their head return
 whence they came. And, O king of men, the Grandsire of all created
 beings, the Soul of the universe, the Self create Brahma of immeasurable
@@ -1181,7 +1181,7 @@ in the world of men!""
 
 
 
-"|5|Sabha Parva|278
+"|5|Sabha Parva|278|203e48034ac94183907c064a3620cecd
 2|SECTION XII||"
 ""Yudhishthira said,--'O thou foremost of eloquent men, as thou hast
 described the different Sabhas unto me, it appeareth that almost all the
@@ -1202,7 +1202,7 @@ Brahmana, how didst thou also meet with my father, the exalted Pandu, now
 a guest in the region of the Pitris? O exalted one of excellent vows hath
 he told thee anything? O tell me all as I am exceedingly curious to hear
 all this from thee.""
-"|1|Sabha Parva|365
+"|1|Sabha Parva|365|d21a1a07e9124cb18c631e93052d472c
 2|SECTION XII||"""Narada said,--'O king of kings, I shall tell thee all that thou askest
 me about Harischandra, I shall presently tell thee of his high
 excellence. He was a powerful king, in fact, an emperor over all the
@@ -1234,7 +1234,7 @@ their backs on the field of battle attain to the mansion of Indra and
 live in joy with him. Those again that yield up their bodies after severe
 ascetic penances also attain to the same region and shine brightly there
 for ages. O king of the Kuru race, O son of Kunti, thy father Pandu,
-"|2|Sabha Parva|519
+"|2|Sabha Parva|519|93074d97b1394a5bbef7b9b4a6c48ef4
 2|SECTION XII||"hath told thee something. Knowing that I was coming to the world of men,
 he bowed unto me and said,--Thou shouldst tell Yudhishthira, O Rishi,
 that he can subjugate the whole Earth inasmuch as his brothers are all
@@ -1260,7 +1260,7 @@ prosperity, and enjoy thou felicity. Gratify thou the Brahmanas with
 gifts of wealth. I have now answered in detail all that thou hast asked
 me. With thy leave I will now go to the city (Dwaravati) of that
 Dasarhas.""
-"|3|Sabha Parva|441
+"|3|Sabha Parva|441|12fdbadaa19649bd8869339b483fe627
 2|SECTION XII||"Vaisampayana said,--'O Janamejaya, having said this unto the son of
 Pritha, Narada went away, accompanied by those Rishis with whom he had
 come. And after Narada had gone away, king Yudhishthira, O thou of the
@@ -1269,7 +1269,7 @@ sacrifices called Rajasuya.'
 
 
 
-"|4|Sabha Parva|94
+"|4|Sabha Parva|94|024eb828d80d4e7384cfaa82a09f711c
 2|SECTION XIII||"
 Vaisampayana said,--""Yudhishthira, having heard these words of Narada,
 began to sigh heavily. And, O Bharata, engaged in his thoughts about the
@@ -1302,7 +1302,7 @@ to all this, the kingdom became free from disputes and fear of every
 kind. And all the people became attentive to their respective
 occupations. The rain became so abundant as to leave no room for desiring
 more; and the kingdom grew in prosperity. And in consequence of the
-"|1|Sabha Parva|514
+"|1|Sabha Parva|514|846ab71bb78b4fa9bbae14d88c3e0b91
 2|SECTION XIII||"cattle-rearing, tillage, and traders, all and everything grew in
 prosperity. Indeed, during the reign of Yudhishthira who was ever devoted
 to truth, there was no extortion, no stringent realisation of arrears of
@@ -1322,7 +1322,7 @@ was possessed of every accomplishment and bore everything with patience.
 And, O king, whatever countries the celebrated and illustrious monarch
 conquered, the people everywhere, from Brahmanas to swains, were all more
 attached to him than to their own fathers and mothers.'
-"|2|Sabha Parva|313
+"|2|Sabha Parva|313|54781019e3f14da6bb35eab3d6529835
 2|SECTION XIII||"Vaisampayana said,--""King Yudhishthira, then, that foremost of speakers,
 summoning together his counsellors and brothers, asked them repeatedly
 about the Rajasuya sacrifice. Those ministers in a body, thus asked by
@@ -1351,7 +1351,7 @@ Bharata, repeatedly thought over the matter. After this the intelligent
 and virtuous Yudhishthira, wise in counsel, again consulted with his
 brothers, with the illustrious Ritwijas about him, with his ministers and
 with Dhaumya and Dwaipayana and others.
-"|3|Sabha Parva|485
+"|3|Sabha Parva|485|0c7f3f73828f455c81c4d08229a3be41
 2|SECTION XIII||"'Yudhishthira said,--""How may this wish that I entertain of performing
 the excellent sacrifice of Rajasuya that is worthy of an emperor, bear
 fruit, in consequence of my faith and speech alone.'""
@@ -1384,7 +1384,7 @@ approached Krishna who was then residing in Dwaravati. And Achyuta
 (Krishna) hearing that the son of Pritha had become desirous of seeing
 him, desired to see his cousin. And quickly passing over many regions,
 being drawn by his own swift horses, Krishna arrived at Indraprastha,
-"|4|Sabha Parva|509
+"|4|Sabha Parva|509|49cb2f736f79454da2c81d18bba03336
 2|SECTION XIII||"approached Yudhisthira without loss of time. And Yudhisthira received
 Krishna with paternal-affection, and Bhima also received him likewise.
 And Janardana then went with a cheerful heart to his father's sister
@@ -1408,10 +1408,10 @@ themselves as worthy of adoption. Men are seen to counsel thus on matters
 awaiting decision. But thou, O Krishna, art above such motives. Thou hast
 conquered both desire and anger. It behoveth thee to tell me what is most
 beneficial to the world.""
-"|5|Sabha Parva|351
+"|5|Sabha Parva|351|cdb4705907d8426793366a0cb2e1deb9
 2|SECTION XIII||"
 
-"|6|Sabha Parva|1
+"|6|Sabha Parva|1|6bb941a692d9465094cf4f7392ecfa2d
 2|SECTION XIV|Rajasuyarambha Parva|"
 
 ""Krishna said,--'O great king, thou art a worthy possessor of all the
@@ -1443,7 +1443,7 @@ hath become the generalissimo of his forces. And, O great king, the
 mighty Vaka, the king of the Karushas, capable of fighting by putting
 forth his powers of illusion, waiteth, upon Jarasandha, as his disciple.
 There are two others, Hansa and Dimvaka, of great energy and great soul,
-"|1|Sabha Parva|504
+"|1|Sabha Parva|504|ae8277e84d2045d29f9fcb99c2c049e3
 2|SECTION XIV|Rajasuyarambha Parva|"also viz., Dantavakra, Karusha, Karava, Meghavahana, that wait upon
 Jarasandha. He also that beareth on his head that gem which is known as
 the most wonderful on earth, that king of the Yavanas, who hath chastised
@@ -1471,7 +1471,7 @@ is agreeable unto him. But although we regard him much, still he
 regardeth us not and is engaged in doing us ill. And, O king, without
 knowing his own strength and the dignity of the race to which he
 belongeth, he hath placed himself under Jarasandha's shelter at sight of
-"|2|Sabha Parva|514
+"|2|Sabha Parva|514|1b3e5b243f834d3ab7524144b3a02d7b
 2|SECTION XIV|Rajasuyarambha Parva|"of the Bhojas, from fear of Jarasandha, have all fled towards the west;
 so also have the Surasenas, the Bhadrakas, the Vodhas, the Salwas, the
 Patachchavas, the Susthalas, the Mukuttas, and the Kulindas, along with
@@ -1500,7 +1500,7 @@ in three hundred years. He hath two friends that are like unto the
 immortals, and in point of strength the foremost of all men endued with
 might. They are called Hansa and Dimvaka who are both incapable of being
 slain by weapons. The mighty Jarasandha, being united with them, becomes
-"|3|Sabha Parva|516
+"|3|Sabha Parva|516|869764a6725a43cebaf77296b7484541
 2|SECTION XIV|Rajasuyarambha Parva|"foremost of all intelligent men, this is not our opinion alone but all
 other kings also are of the same mind. There lived, O monarch, a king of
 the name of Hansa, who was slain by Rama (Valadeva) after a battle of
@@ -1528,7 +1528,7 @@ strong that it has become impregnable even to the Gods. And from within
 it even the women might fight the foe, what to speak of the Yadava heroes
 without fear of any kind? O slayer of all foes, we are now living in that
 city. And, O tiger of the Kuru race, considering the inaccessibility of
-"|4|Sabha Parva|501
+"|4|Sabha Parva|501|5057cb3f2b4c4438a7d3ab06e813e9fa
 2|SECTION XIV|Rajasuyarambha Parva|"crossed the fear of Jarasandha, the descendants of Madhu have become
 exceedingly glad. Thus, O king, though possessed of strength and energy,
 yet from the oppressions of Jarasandha we have been obliged to repair to
@@ -1556,7 +1556,7 @@ liveth. By him have been immured in his hillfort numerous monarchs, like
 a lion that hath deposited the slain bodies of mighty elephants within a
 cave of the king of mountains. O slayer of all enemies, king Jarasandha,
 desirous of offering in sacrifice hundred monarchs, adored for his fierce
-"|5|Sabha Parva|503
+"|5|Sabha Parva|503|51aa4d99ba4d4223b4b29436b2e89695
 2|SECTION XIV|Rajasuyarambha Parva|"this means that the kings of the earth have been vanquished by
 Jarasandha. And, O best of monarchs, he hath by that means been able to
 fulfil the vow he had made relative to his sacrifice. By defeating the
@@ -1575,7 +1575,7 @@ thinkest proper.""
 
 
 
-"|6|Sabha Parva|254
+"|6|Sabha Parva|254|d520f8aa3d4143ddbe18d7291c2b0fbd
 2|SECTION XV||"
 ""Yudhishthira said,--""Intelligent as thou art, thou hast said what none
 else is capable of saying. There is none else on earth who is settler of
@@ -1605,7 +1605,7 @@ race, I am repeatedly depressed by the thought whether Jarasandha is
 capable or not of being slain by thee, by Rama, by Bhimasena, or by
 Arjuna. But what shall I say, O Keshava? Thou art my highest authority on
 everything.'
-"|1|Sabha Parva|474
+"|1|Sabha Parva|474|1481661a525b45bca1f288cd7d93071a
 2|SECTION XV||"""On hearing these words, Bhima well-skilled in speech said,--'That king
 who is without exertion, or who being weak and without resources entereth
 into hostility with one that is strong, perisheth like an ant-hill. It
@@ -1636,7 +1636,7 @@ presents of jewels). But, wicked from his childhood, he is scarcely
 satisfied with such worship. Having become the foremost among all, he
 attacketh yet with violence kings with crowns on their heads. Nor is
 there seen any king from whom he taketh not tribute. Thus hath he brought
-"|2|Sabha Parva|504
+"|2|Sabha Parva|504|84c6310aed364e0e9e96e1b104e6972e
 2|SECTION XV||"monarch approach him with hostile intentions? Confined in the temple of
 Shiva and offered as sacrifice unto him like so many animals, do not
 these monarchs dedicated unto that god feel the most poignant misery, O
@@ -1651,7 +1651,7 @@ Kshatriyas.'""
 
 
 
-"|3|Sabha Parva|169
+"|3|Sabha Parva|169|27efa2b3ba6d439db69c8e98812da06f
 2|SECTION XVI||"
 ""Yudhishthira said,--'Desirous of the imperial dignity but acting from
 selfish motives and relying upon courage alone, how, O Krishna, can I
@@ -1682,7 +1682,7 @@ possessions by the subjugation of his enemies. And he that is possessed
 of valour, though destitute of all (other) merits, will vanquish his
 foes. One, however, that is destitute of valour, though possessed of
 every (other) merit, can scarcely accomplish anything. Every merit exists
-"|1|Sabha Parva|505
+"|1|Sabha Parva|505|301f79636c5b457b9e2703eee284f645
 2|SECTION XVI||"exertion and destiny exist as the three causes of victory. One, however,
 that is possessed of valour doth not yet deserve success if he acts
 carelessly. It is for this that an enemy endued with strength sometimes
@@ -1700,7 +1700,7 @@ dignity will easily be ours. We shall, therefore fight the foe.""
 
 
 
-"|2|Sabha Parva|236
+"|2|Sabha Parva|236|39ca04695a324c34b6927857fa2ff9e2
 2|SECTION XVII||"
 ""Vasudeva said,--'Arjuna hath indicated what the inclination should be of
 one that is born in the Bharata race, especially of one who is the son of
@@ -1729,7 +1729,7 @@ self in the heart of every created being. But I see his destruction
 before me. Desirous of protecting our relatives we will either slay him
 in battle or shall ascend to heaven being ourselves slain in the end by
 him.'
-"|1|Sabha Parva|439
+"|1|Sabha Parva|439|0697aa21c582416b9acd7d89d4a3f6f0
 2|SECTION XVII||"Yudhishthira said--""O Krishna, who is this Jarasandha? What is his energy
 and what is his prowess, that having touched thee he hath not been burnt
 like an insect at the touch of fire?""
@@ -1760,7 +1760,7 @@ obtain a son to perpetuate his race, even by means of various auspicious
 rites, and homas, and sacrifices performed with the desire for having an
 offspring. One day the king heard that the high-souled Chanda-kausika,
 the son of Kakshivat of the illustrious Gautama race, having desisted
-"|2|Sabha Parva|504
+"|2|Sabha Parva|504|a2fec75d361148c18ee5e451993efc9c
 2|SECTION XVII||"and had taken his seat under the shade of a mango tree. The king went
 unto that Muni accompanied by his two wives, and worshipping him with
 jewels and valuable presents gratified him highly. That best of Rishis
@@ -1792,7 +1792,7 @@ his truthfulness, both of them conceived, as an effect of their having
 eaten that fruit. And the king beholding them in that state became filled
 with great joy. Then, O wise monarch, some time after, when the time
 came, each of the queens brought forth a fragmentary body. And each
-"|3|Sabha Parva|509
+"|3|Sabha Parva|509|637db7c501bd48a2afe09092624a413e
 2|SECTION XVII||"half an anus. Beholding the fragmentary bodies, both the mothers trembled
 much. The helpless sisters then anxiously consulted each other, and
 sorrowfully abandoned those fragments endued with life. The two midwives
@@ -1822,7 +1822,7 @@ assuming a human form, told the king these words,--O Vrihadratha, this is
 thy child. Given to thee by me, O, take it. It hath been born of both thy
 wives by virtue of the command of the great Brahmana. Cast away by the
 midwives, it hath been protected by me!
-"|4|Sabha Parva|490
+"|4|Sabha Parva|490|f1b92ec2b7824c28b130e0ff1f7b04e7
 2|SECTION XVII||"""Krishna continued,--O thou foremost of the Bharata race, the handsome
 daughters of the king of Kasi, having obtained the child, soon drenched
 it with their lacteal streams. The king ascertaining everything, was
@@ -1833,7 +1833,7 @@ auspicious one, thou seemest to me as a goddess roaming at thy pleasure!""
 
 
 
-"|5|Sabha Parva|125
+"|5|Sabha Parva|125|284284a67eae4b7498b58956a9904e26
 2|SECTION XVIII||"
 ""Krishna continued,--'hearing these words of the king, the Rakshasa woman
 answered--Blessed be thou, O king of kings. Capable of assuming any form
@@ -1856,7 +1856,7 @@ have been only the instrument, I am capable of swallowing the mountain of
 Meru itself, what shall I say of the child? I have, however, been
 gratified with thee in consequence of the worship I receive in thy house.
 It is, therefore, O king, that I have bestowed this child on thee.
-"|1|Sabha Parva|375
+"|1|Sabha Parva|375|e796270050e741bcaf51f31c7ca8cb97
 2|SECTION XVIII||"""Krishna continued,--Having spoken these words, O king, Jara disappeared
 there and then. The king having obtained the child then entered the
 palace. And the king then caused all the rites of infancy to be performed
@@ -1871,7 +1871,7 @@ the bright fortnight, the child began to enhance the joy of his parents.'""
 
 
 
-"|2|Sabha Parva|192
+"|2|Sabha Parva|192|19425440a2764e63bc59ccd91e1356bc
 2|SECTION XIX||"
 ""Krishna said,--some time after this, the great ascetic, the exalted
 Chandakausika, again came into the country of the Magadhas. Filled with
@@ -1902,7 +1902,7 @@ prosperity of all kings like the ocean receiving the rivers swollen with
 the water of the rainy season. Like the huge earth that bears all kinds
 of produce, supporting things that are both good and evil, this child
 endued with great strength will support all the four orders of men. And
-"|1|Sabha Parva|505
+"|1|Sabha Parva|505|a8b1d39d9e0f4de28f8308aaa3f707ac
 2|SECTION XIX||"child just as every creature endued with body live in dependence upon
 Vayu that is dear as self unto beings. This prince of Magadha--the
 mightiest of all men in the world--will behold with his physical eyes the
@@ -1932,7 +1932,7 @@ mace. The place where the mace fell is adjacent to Mathura and is called
 Gadavasan. Jarasandha had two supporters called Hansa and Dimvaka, both
 of whom were incapable of being slain by weapons. Well-conversant with
 the science of politics and morality, in counsel they were the foremost
-"|2|Sabha Parva|503
+"|2|Sabha Parva|503|2a8d3fb606a748918b2fdc3a41fa6d2f
 2|SECTION XIX||"mighty pair. They two and Jarasandha, I believe, are more than a match
 for three worlds. O brave king, it was for this reason that the powerful
 Kukkura, Andhaka and Vrishni tribes, acting from motives of policy, did
@@ -1940,7 +1940,7 @@ not deem it proper to fight with him.'""
 
 
 
-"|3|Sabha Parva|69
+"|3|Sabha Parva|69|e8c9b571257a4ebca92c217510f5ed7e
 2|SECTION XX|Jarasandhta-badha Parva|"
 
 ""Krishna said,--both Hansa and Dimvaka have fallen; Kansa also with all
@@ -1972,7 +1972,7 @@ of persons, watchfully act thou so that this task may be accomplished.
 Without ye then I dare not live, like a sorrowful man afflicted with
 disease, and bereft of the three attributes of morality, pleasure and
 wealth. Partha cannot live without Sauri (Krishna), nor can Sauri live
-"|1|Sabha Parva|508
+"|1|Sabha Parva|508|903dc95d66c24459aaf4f84db229b83d
 2|SECTION XX|Jarasandhta-badha Parva|"by these two, viz., Krishna and Arjuna. This handsome Bhima also is the
 foremost of all persons endued with might. Of great renown, what can he
 not achieve when with ye two? Troops, when properly led, always do
@@ -2003,7 +2003,7 @@ the van, all ready to achieve the same task, regarded Jarasandha as
 already slain. For the illustrious pair (Krishna and Arjuna) were masters
 that directed every operation (in the universe), as also all acts
 relating to the morality, wealth, and pleasure of every being. Having set
-"|2|Sabha Parva|504
+"|2|Sabha Parva|504|73b4a28e7b734c0d806efd6ac2700014
 2|SECTION XX|Jarasandhta-badha Parva|"arrived at the charming lake of lotuses. Passing over the hills of
 Kalakuta, they then went on crossing the Gandaki, the Sadanira
 (Karatoya), and the Sarkaravarta and the other rivers taking their rise
@@ -2018,7 +2018,7 @@ rendered handsome with the innumerable trees standing there.'""
 
 
 
-"|3|Sabha Parva|191
+"|3|Sabha Parva|191|0a849a463f6a48ed96351f77799c3937
 2|SECTION XXI||"
 ""Vasudeva said,--'behold, O Partha, the great capital of Magadha,
 standing in all its beauty. Filled with flocks and herds and its stock of
@@ -2045,7 +2045,7 @@ drought, and Kaushika and Manimat also have favoured the country. Owning
 such a delightful and impregnable city, Jarasandha is ever bent on
 seeking the fruition of his purposes unlike other monarchs. We shall,
 however, by slaying him to-day humble his pride.""
-"|1|Sabha Parva|459
+"|1|Sabha Parva|459|2dcc14be15384ee690cd395a40ca8132
 2|SECTION XXI||"Vaisampayana said,--Thus saying those brothers of abundant energy, viz.,
 he of the Vrishni race and the two Pandavas entered the city of Magadha.
 They then approached towards the impregnable city of Girivraja that was
@@ -2076,7 +2076,7 @@ with Jarasandha, entered the capital in the guise of Brahmanas. They
 beheld the extraordinary beauty of the shops full of various edibles and
 floral wreaths, and supplied with articles of every variety of various
 qualities that man can desire. Those best of men, Krishna, Bhima, and
-"|2|Sabha Parva|510
+"|2|Sabha Parva|510|4eb6f57e3d4446ea9324aacf7f32433f
 2|SECTION XXI||"public road. And endued with great strength they snatched forcibly from
 the flower-vendors the garlands they had exposed for sale. And attired in
 robes of various colours and decked in garlands and ear-rings the heroes
@@ -2107,7 +2107,7 @@ among men, those slayers of all foes, on the other hand, O thou best of
 the Bharata race, beholding king Jarasandha, said,--'Let salvation be
 attained by thee, O king, without difficulty.' And, O tiger among kings,
 having said this unto the monarch, they stood looking at each other. And,
-"|3|Sabha Parva|507
+"|3|Sabha Parva|507|62c67bbdcf924817b87dd381632ca1f0
 2|SECTION XXI||"the Yadu race, all disguised as Brahmanas--'Take your seats.' And those
 bulls among men sat themselves down, and like the three priests of a
 great sacrifice blazed forth in their beauty. And king Jarasandha, O thou
@@ -2127,7 +2127,7 @@ therefore, the end ye have in view. Arrived here by such an improper way,
 why accept ye not the worship I offer? What is your motive for coming to
 me? Thus addressed by the king, the high-souled Krishna, well-skilled in
 speech, thus replied unto the monarch in a calm and grave voice.
-"|4|Sabha Parva|337
+"|4|Sabha Parva|337|45e25364da2e4e53917529adce64c5fb
 2|SECTION XXI||"""Krishna said,--'O king, know us for Snataka Brahmanas. Brahmanas and
 Kshatriyas and Vaishyas are all, O monarch, competent to observe the vow
 of Snataka. This vow, besides, hath (many) especial and general rules. A
@@ -2146,7 +2146,7 @@ us!""
 
 
 
-"|5|Sabha Parva|259
+"|5|Sabha Parva|259|97eab4bb52584d7189c6559b559dd414
 2|SECTION XXII||"
 ""Jarasandha said,--'I do not recollect if I ever acted injuriously
 towards ye! Even upon a careful mental scrutiny I fail to see the injury
@@ -2178,7 +2178,7 @@ unto the gods is never seen. Why dost thou, therefore, seek to perform a
 sacrifice unto god Sankara by slaughtering human beings? Thou art
 addressing persons belonging to thy own order as animals (fit for
 sacrifice)! Fool as thou art, who else, O Jarasandha, is capable of
-"|1|Sabha Parva|520
+"|1|Sabha Parva|520|cb1ac0065cc64de4986b867279ee37db
 2|SECTION XXII||"one performeth under whatever circumstances. Therefore, desirous as we
 are of helping all distressed people, we have, for the prosperity of our
 race, come hither to slay thee, the slaughterer of our relatives. Thou
@@ -2207,7 +2207,7 @@ thy children and ministers and army, into the regions of Yama.
 Damvodhava, Kartavirya, Uttara, and Vrihadratha, were kings that met with
 destruction, along with all their forces, for having disregarded their
 superiors. Desirous of liberating the captive monarchs from thee, know
-"|2|Sabha Parva|516
+"|2|Sabha Parva|516|fd5f499635644103a8e4cb31fe15518e
 2|SECTION XXII||"Sauri, and these two heroes among men are the sons of Pandu. O king of
 Magadha, we challenge thee. Fight standing before us. Either set free all
 the monarchs, or go thou to the abode of Yama.
@@ -2238,10 +2238,10 @@ to be slain in battle by Bhima and not by the descendant of Madhu
 (Yadavas), desired not to slay himself king Jarasandha, that foremost of
 all men endued with strength, that hero possessed of the prowess of a
 tiger, that warrior of terrible valour.""
-"|3|Sabha Parva|481
+"|3|Sabha Parva|481|ae9d76a458b14e5491c2cc637db52b41
 2|SECTION XXII||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|d2f632231ae44ac9acb2d3d930416af6
 2|SECTION XXIII||"
 Vaisampayana said,--'then that foremost of all speakers, Krishna of the
 Yadava race, addressing king Jarasandha who was resolved upon fighting,
@@ -2273,7 +2273,7 @@ pushing it with violence, and each pressing every limb of his body
 against every limb of the other, they continued, O exalted one, to slap
 their arm-pits (at time). And sometimes stretching their arms and
 sometimes drawing them close, and now raising them up and now dropping
-"|1|Sabha Parva|514
+"|1|Sabha Parva|514|b37087b4b2db468cac9ab367e3dd1e64
 2|SECTION XXIII||"and forehead against forehead, they caused fiery sparks to come out like
 flashes of lightning. And grasping each other in various ways by means of
 their arms, and kicking each other with such violence as to affect the
@@ -2305,7 +2305,7 @@ slapping of their arms, the seizing of each other's necks for bringing
 each other down, and the grasping of each other's legs for dashing each
 other to the ground, became so loud that it resembled the roar of thunder
 or of falling cliffs. Both of them were foremost of mighty men, and both
-"|2|Sabha Parva|503
+"|2|Sabha Parva|503|9fe3aa32fe9743dab75da245ff4ce779
 2|SECTION XXIII||"each was on the alert for taking advantage of the slightest lapse of the
 other. And, O monarch, the mighty Bhima and Jarasandha fought terribly on
 in those lists, driving the crowd at times by the motions of their hands
@@ -2334,10 +2334,10 @@ forthwith resolved upon taking his life. And that foremost of all men
 endued with strength, that prince of the Kuru race, desirous of
 vanquishing the hitherto unvanquished Jarasandha, mustered all his
 strength and courage.""
-"|3|Sabha Parva|469
+"|3|Sabha Parva|469|840e645eca1248cbb0b45b4980ab280a
 2|SECTION XXIII||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|586a05efbac2463fa614fd08215653e2
 2|SECTION XXIV||"
 Vaisampayana said,--""thus addressed, Bhima firmly resolved upon slaying
 Jarasandha, replied unto Krishna of the Yadu race, saying,--O tiger of
@@ -2367,7 +2367,7 @@ released his (imprisoned) relatives. And those kings rescued from
 terrible fate, rich in the possession of jewels, approaching Krishna made
 presents unto him of jewels and gems. And having vanquished his foe,
 Krishna furnished with weapons and unwounded and accompanied by the kings
-"|1|Sabha Parva|503
+"|1|Sabha Parva|503|12f3ef8034094e10a37a01c08e37b51f
 2|SECTION XXIV||"Jarasandha). And he also who could wield the bow with both hands
 (Arjuna), who was incapable of being vanquished by any of the monarchs on
 earth, who was exceedingly handsome in person and well-skilled in the
@@ -2398,7 +2398,7 @@ master, came thither in no time, like a tree of vast proportions standing
 in a village worshipped by all. Garuda of immense weight of body and
 living upon snakes sat upon that excellent car along with the numberless
 open-mouthed and frightfully-roaring creatures on its flag-staff. And
-"|2|Sabha Parva|512
+"|2|Sabha Parva|512|5649ac4246d7483195faf1d04a267c49
 2|SECTION XXIV||"and was as incapable of being looked at by created being as the midday
 sun surrounded by a thousand rays. And, O king, such was that best of
 flag-staffs of celestial make that it never struck against any tree nor
@@ -2426,7 +2426,7 @@ difficult of accomplishment, thy command being made known to us, O lord
 monarchs, the high-souled Hrishikesa gave them every assurance and
 said,--'Yudhishthira is desirous of performing the sacrifice of Rajasuya.
 That monarch, ever guided by virtue, is solicitous of acquiring the
-"|3|Sabha Parva|504
+"|3|Sabha Parva|504|9338d0a78ac443f1afba8c30b0c25060
 2|SECTION XXIV||"endeavours. Then, O king, all those monarchs with joyous hearts accepted
 the words of Krishna, saying,--'So be it! And saying this, those lords of
 earth made presents of jewels unto him of the Dasarha race. And Govinda,
@@ -2456,7 +2456,7 @@ embraced Bhima and Arjuna in joy. And the monarch who had no enemy,
 having obtained victory through the agency of his brothers in consequence
 of the death of Jarasandha, gave himself up to pleasure and merriment
 with all his brothers. And the oldest son of Pandu (Yudhisthira) together
-"|4|Sabha Parva|505
+"|4|Sabha Parva|505|82f35271c2a54143b391b73393f863d1
 2|SECTION XXIV||"entertaining and worshipping them, each according to his age, dismissed
 them all. Commanded by Yudhishthira those kings with joyful hearts, set
 out for their respective countries without loss of time, riding upon
@@ -2482,10 +2482,10 @@ to gladden the heart of Draupadi. And at that time, whatever was proper
 and consistent with virtue, pleasure, and profit, continued to be
 properly executed by king Yudhishthira in the exercise of his duties of
 protecting his subjects.""
-"|5|Sabha Parva|418
+"|5|Sabha Parva|418|433a70cce9e841549c1d41d35d636814
 2|SECTION XXIV||"
 
-"|6|Sabha Parva|1
+"|6|Sabha Parva|1|f568965fc262492a87f57984aa6b026b
 2|SECTION XXV|Digvijaya Parva|"
 
 Vaisampayana said,--Arjuna, having obtained that best of bows and that
@@ -2517,14 +2517,14 @@ the South, and Nakula, O king, acquainted with all the weapons, conquered
 the West. Thus while his brothers were so employed, the exalted king
 Yudishthira the just stayed within Khandavaprastha in the enjoyment of
 great affluence in the midst of friends and relatives.""
-"|1|Sabha Parva|486
+"|1|Sabha Parva|486|ac6544f77fa34b04a12c12adc423bb44
 2|SECTION XXV|Digvijaya Parva|"""Bhagadatta, hearing this, said,--'O thou who hast Kunto for thy mother,
 as thou art to me, so is Yudhishthira also. I shall do all this. Tell me,
 what else I may do for thee.""
 
 
 
-"|2|Sabha Parva|56
+"|2|Sabha Parva|56|a90b5ad7795b4af29dd2311a463dcfbb
 2|SECTION XXVI||"
 Vaisampayana continued,--thus addressed, Dhananjaya replied unto
 Bhagadatta, saying,--'If thou wilt give thy promise to do this, thou hast
@@ -2553,7 +2553,7 @@ Yudhishthira, O monarch, Arjuna, did not move from the city of Senavindu
 but sent his troops only and brought under his sway those five countries
 and peoples. For Arjuna, having arrived at Devaprastha, the city of
 Senavindu, took up his quarters there with his army consisting of four
-"|1|Sabha Parva|506
+"|1|Sabha Parva|506|ea360d3410ae4c76abb53a1943003f89
 2|SECTION XXVI||"subjugated, the hero marched against king Viswagaswa--that bull of Puru's
 race. Having vanquished in battle the brave mountaineers, who were all
 great warriors, the son of Pandu, O king, then occupied with the help of
@@ -2581,7 +2581,7 @@ And the battle with the Rishikas was fierce in the extreme. Indeed, the
 fight that took place between them and the son of Pritha was equal to
 that between the gods and the Asuras in which Taraka (the wife of
 Vrihaspati) had become the cause of so much slaughter. And defeating, O
-"|2|Sabha Parva|510
+"|2|Sabha Parva|510|de7655014b88488a9aadb4ad66300743
 2|SECTION XXVI||"tribute eight horses that were of the colour of the parrot's breast, as
 also other horses of the hues of the peacock, born in northern and other
 climes and endued with high speed. At last having conquered all the
@@ -2590,7 +2590,7 @@ the White mountains, encamped on its breast.""
 
 
 
-"|3|Sabha Parva|79
+"|3|Sabha Parva|79|4d5f4c409b774e658104023dd220c90c
 2|SECTION XXVII||"
 Vaisampayana said,--""that heroic and foremost of the Pandavas endued with
 great energy, crossing the White mountains, subjugated the country of the
@@ -2620,7 +2620,7 @@ bidding. Thus addressed by them, Arjuna smilingly addressing them,
 said,--'I desire the acquisition of the imperial dignity by Yudhishthira
 the just, of great intelligence. If your land is shut against human
 beings, I shall not enter it. Let something be paid unto Yudhishthira by
-"|1|Sabha Parva|509
+"|1|Sabha Parva|509|49d50b7bbbb04179905ca3cb9e0fd6dc
 2|SECTION XXVII||"many cloths and ornaments of celestial make, silks of celestial texture
 and skins of celestial origin.
 
@@ -2639,7 +2639,7 @@ palace for rest.""
 
 
 
-"|2|Sabha Parva|221
+"|2|Sabha Parva|221|ab53cf144c044b548f1a3626c06b1951
 2|SECTION XXVIII||"
 Vaisampayana said,--in the meantime, Bhimasena also endued with great
 energy, having obtained the assent of Yudhishthira the just marched
@@ -2669,7 +2669,7 @@ great energy. The king of Chedi, hearing of the intentions of the son of
 Pandu, came out of his city. And that chastiser of all foes then received
 the son of Pritha with respect. Then, O king, those bulls of the Chedi
 and the Kuru lines, thus met together, enquired after each other's
-"|1|Sabha Parva|502
+"|1|Sabha Parva|502|a24cd08641ca44839b3dc4bed377e5dc
 2|SECTION XXVIII||"Bhima and said smilingly,--'O sinless one, upon what art thou bent?' And
 Bhima thereupon represented unto him the intentions of king Yudhishthira.
 And Bhima dwelt there, O king, for thirty nights, duly entertained by
@@ -2678,7 +2678,7 @@ vehicles.""
 
 
 
-"|2|Sabha Parva|81
+"|2|Sabha Parva|81|abbb52e1fd4349b488e8b4cbd4118d97
 2|SECTION XXIX||"
 Vaisampayana said,--that chastiser of all foes then vanquished king
 Srenimat of the country of Kumara, and then Vrihadvala, the king of
@@ -2708,7 +2708,7 @@ the Bhagauanta mountains. And the hero next vanquished, by policy alone,
 the Sarmakas and the Varmakas. And that tiger among men then defeated
 with comparative ease that lord of earth, Janaka the king of the Videhas.
 And the hero then subjugated strategically the Sakas and the barbarians
-"|1|Sabha Parva|513
+"|1|Sabha Parva|513|0fc34043e6944cbc9f7a2fa68cde6995
 2|SECTION XXIX||"expeditions from Videha, conquered the seven kings of the Kiratas living
 about the Indra mountain. The mighty hero then, endued with abundant
 energy, vanquished in battle the Submas and the Prasuhmas. And winning
@@ -2736,7 +2736,7 @@ various countries, and exacting tributes from them all advanced towards
 Lohity. And the son of Pandu then made all the Mlechchha kings dwelling
 in the marshy regions on the sea-coast, pay tributes and various kinds of
 wealth, and sandal wood and aloes, and clothes and gems, and pearls and
-"|2|Sabha Parva|502
+"|2|Sabha Parva|502|7d6c3107977a47c18cc2dd8d0153c964
 2|SECTION XXIX||"showered upon the illustrious son of Kunti a thick downpour of wealth
 consisting of coins and gems counted by hundreds of millions. Then
 returning to Indraprastha, Bhima of terrible prowess offered the whole of
@@ -2744,7 +2744,7 @@ that wealth unto king Yudhisthira the just.""
 
 
 
-"|3|Sabha Parva|63
+"|3|Sabha Parva|63|23f508210a9d4cad8a02d4b1d1240af2
 2|SECTION XXX||"
 Vaisampayana said,--""thus also Sahadeva, dismissed with affection by king
 Yudhisthira the just, marched towards the southern direction accompanied
@@ -2775,7 +2775,7 @@ encounter took place between him and the king of that city for two whole
 days. But the son of Madri, vanquishing the invincible Bhismaka, then
 defeated in battle the king of Kosala and the ruler of the territories
 lying on the banks of the Venwa, as also the Kantarakas and the kings of
-"|1|Sabha Parva|517
+"|1|Sabha Parva|517|0111804786584426954319052eda8589
 2|SECTION XXX||"Heramvaks in battle, and subjugating the country of Marudha, reduced
 Munjagrama by sheer strength. And the son of Pandu then vanquished the
 mighty monarchs of the Nachinas and the Arvukas and the various forest
@@ -2802,7 +2802,7 @@ coats of mail of Sahadeva's army all appeared to be on fire. And
 beholding this the prince of the Kuru race became exceedingly anxious.
 And, O Janamejaya, at sight of this the hero could not resolve upon what
 he should do.
-"|2|Sabha Parva|445
+"|2|Sabha Parva|445|63011e6b5fa4464e94f0772902a9ffd0
 2|SECTION XXX||"Janamejaya said,--O regenerate one, why was it that the god Agni become
 hostile in battle unto Sahadeva, who was fighting simply for the
 accomplishment of a sacrifice (and therefore, for the gratification of
@@ -2833,7 +2833,7 @@ Hutasana (Agni). And from that time, O perpetuator of the Kuru race, the
 girls of the city of Mahishmati became rather unacceptable to others (as
 wives). And Agni by his boon granted them sexual liberty, so that the
 women of that town always roam about at will, each unbound to a
-"|3|Sabha Parva|515
+"|3|Sabha Parva|515|1a32b141ab6a40a58038eecd5c070ff7
 2|SECTION XXX||"monarchs (of other countries) forsake this city for fear of Agni. And the
 virtuous Sahadeva, beholding his troops afflicted with fear and
 surrounded by flames of fire, himself stood there immovable as a
@@ -2863,7 +2863,7 @@ exhibitest thyself in those sacrifices, purify me. Smoke-bannered as thou
 art and possessed of flames, thou great purifier from all sins born of
 Vayu and ever present as thou art in all creatures, O purify me by the
 rays of thy truth. Having cleansed myself thus cheerfully, O exalted one,
-"|4|Sabha Parva|503
+"|4|Sabha Parva|503|0616ea2d7c7040febc6a9869fc258fd8
 2|SECTION XXX||"knowledge and gladness.
 
 Vaisampayana continued.--'He that will pour clarified butter into Agni
@@ -2895,7 +2895,7 @@ long-armed hero then brought the king of Tripura of immeasurable energy
 under his sway. And next turning his forces against the Paurava kingdom,
 he vanquished and reduced to subjection the monarch thereof. And the
 prince, after this, with great efforts brought Akriti, the king of
-"|5|Sabha Parva|509
+"|5|Sabha Parva|509|2403d0b05744428fb3f8993fbafaba4e
 2|SECTION XXX||"prince, while staying in the kingdom of Saurashtra sent an ambassador
 unto king Rukmin of Bhishmaka within the territories of Bhojakata, who,
 rich in possessions and intelligence, was the friend of Indra himself.
@@ -2924,7 +2924,7 @@ of Madri having arrived at the sea-shore, then despatched with great
 assurance messengers unto the illustrious Vibhishana, the grandson of
 Pulastya. And the monarch willingly accepted the sway of the son of
 Pandu, for that intelligent and exalted king regarded it all as the act
-"|6|Sabha Parva|517
+"|6|Sabha Parva|517|d58491c06e3d4719a7d73c2ce37a3e4a
 2|SECTION XXX||"gems, and sandal and also wood, and many celestial ornaments, and much
 costly apparel, and many valuable pearls. And the intelligent Sahadeva,
 accepting them all, returned to his own kingdom.
@@ -2938,7 +2938,7 @@ live happily.""
 
 
 
-"|7|Sabha Parva|134
+"|7|Sabha Parva|134|7d6773f07db94613aa76c32872169908
 2|SECTION XXXI||"
 Vaisampayana said,--""I shall now recite to you the deeds and triumphs of
 Nakula, and how that exalted one conquered the direction that had once
@@ -2967,7 +2967,7 @@ and the mountains called Amara, and the country called Uttarayotisha and
 the city of Divyakutta and the tribe called Dwarapala. And the son of
 Pandu, by sheer force, reduced to subjection the Ramathas, the Harahunas,
 and various kings of the west. And while staying there Nakula sent. O
-"|1|Sabha Parva|505
+"|1|Sabha Parva|505|d654b7235d9344409be4a9c7d5063236
 2|SECTION XXXI||"accepted his sway. And the mighty hero, proceeding thence to Sakala, the
 city of the Madras, made his uncle Salya accept from affection the sway
 of the Pandavas. And, O monarch, the illustrious prince deserving the
@@ -2987,10 +2987,10 @@ Yudhishthira.
 ""Thus, O king, did Nakula subjugate the countries that lay to the
 west--the direction that is presided over by the god Varuna, and that had
 once before been subjugated by Vasudeva himself!""
-"|2|Sabha Parva|306
+"|2|Sabha Parva|306|be97fd71848c4f0c8881397abaadae22
 2|SECTION XXXI||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|cb3b71fd608442e18aed215b48bd2687
 2|SECTION XXXII|Rajasuyika Parva|"
 
 Vaisampayana said,--""in consequence of the protection afforded by
@@ -3024,7 +3024,7 @@ of the past, the future, and the present Kesava--the slayer of Kesi, and
 the bulwark of all Vrishnis and the dispeller of all fear in times of
 distress and the smiter of all foes, having appointed Vasudeva to the
 command of the (Yadava) army, and bringing with him for the king
-"|1|Sabha Parva|515
+"|1|Sabha Parva|515|ea34501fb0784998a95e81c7271f3633
 2|SECTION XXXII|Rajasuyika Parva|"of cities. Khandava, himself surrounded by a mighty host and filling the
 atmosphere with the rattle of his chariot-wheels. And Madhava, that tiger
 among men enhancing that limitless mass of wealth the Pandavas had by
@@ -3050,7 +3050,7 @@ cleansed of sin. Or, O exalted one, grant permission for myself being
 installed at the sacrifice along with these my younger brothers, for
 permitted by thee, O Krishna. I shall be able to enjoy the fruit of an
 excellent sacrifice.
-"|2|Sabha Parva|424
+"|2|Sabha Parva|424|4b58b002d4154569ac0f3dabe3721b80
 2|SECTION XXXII|Rajasuyika Parva|"Vaisampayana continued,--""Unto Yudhisthira after he had said this,
 Krishna, extolling his virtues, said.--'Thou, O tiger among kings,
 deservest imperial dignity. Let, therefore, the great sacrifice be
@@ -3075,7 +3075,7 @@ Indrasena and Visoka and Puru with Arjuna for his charioteer be engaged
 to collect food if they are to please me. Let these foremost of the Kurus
 also gather every article of agreeable taste and smell that may delight
 and attract the hearts of the Brahmanas.'
-"|3|Sabha Parva|378
+"|3|Sabha Parva|378|23f5da2198af4157a711af046fd39187
 2|SECTION XXXII|Rajasuyika Parva|"""Simultaneously with these words of king Yudhisthira the just, Sahadeva
 that foremost of warriors, having accomplished everything, represented
 the matter to the king. And Dwaipayana, O king, then appointed as
@@ -3098,7 +3098,7 @@ these words of the king, despatched messengers telling them,--'Invite ye
 all the Brahmanas in the kingdom and all the owners of land (Kshatriyas)
 and all the Vaisyas and also all the respectable Sudras, and bring them
 hither!'
-"|4|Sabha Parva|399
+"|4|Sabha Parva|399|98598a11ea124e8da6f4f2f33e5cccdd
 2|SECTION XXXII|Rajasuyika Parva|"Vaisampayana continued,--""Endued with speed, these messengers then, thus
 commanded, invited everybody according to the orders of the Pandava,
 without losing any time, and brought with them many persons, both friends
@@ -3123,7 +3123,7 @@ intermission. 'Give,' and 'Eat' were the words that were heard there
 incessantly and every day. And, O Bharata, king Yudhishthira the just
 gave unto each of those Brahmanas thousands of kine and beds and gold
 coins and damsels.
-"|5|Sabha Parva|397
+"|5|Sabha Parva|397|a3efee88ee994617abf5420d6a81d1ea
 2|SECTION XXXII|Rajasuyika Parva|"Thus commenced on earth the sacrifice of that unrivalled hero, the
 illustrious son of Pandu, like the sacrifice in heaven of Sakra himself.
 Then that bull among men, king Yudhishthira despatched Nakula the son of
@@ -3133,7 +3133,7 @@ towards him.""
 
 
 
-"|6|Sabha Parva|101
+"|6|Sabha Parva|101|df0ae7436af74d12a7e5d5e6aed0aa00
 2|SECTION XXXIII||"
 Vaisampayana said,--""the ever-victorious Nakula, the son of Pandu, having
 reached Hastinapura, formally invited Bhishma and Dhritarashtra. The
@@ -3160,7 +3160,7 @@ Andhrakas; and the Dravidas and the Singhalas and the king of Kashmira,
 and king Kuntibhoja of great energy and king Gauravahana, and all the
 other heroic kings of Valhika; and Virata with his two sons, and Mavella
 endued with great might; and various kings and princes ruling in various
-"|1|Sabha Parva|509
+"|1|Sabha Parva|509|348d04b6bc8c45968a6e867613d8fa24
 2|SECTION XXXIII||"invincible in battle accompanied by his son--all of them came to the
 sacrifice of the son of Pandu. And Rama and Aniruddha and Kanaka and
 Sarana; and Gada, Pradyumna, Shamva, and Charudeshna of great energy; and
@@ -3191,13 +3191,13 @@ performing sacrifices distinguished by large gifts to Brahmanas. That
 sacrificial mansion wherein were present the kings and Brahmanas and
 great Rishis looked, O king, as handsome as heaven itself crowded with
 the gods!""
-"|2|Sabha Parva|482
+"|2|Sabha Parva|482|8d00b57e7cc84e519651821e96f8c618
 2|SECTION XXXIII||"Thus ends the thirty-fourth section in the Rajasuyika Parva of the Sabha
 Parva.
 
 
 
-"|3|Sabha Parva|22
+"|3|Sabha Parva|22|ebd0757ee6974451b4c214882a8ba799
 2|SECTION XXXIV||"
 Vaisampayana said,--""then, O king, Yudhishthira, having approached and
 worshipped his grandfather and his preceptor, addressed Bhishma and Drona
@@ -3223,7 +3223,7 @@ became the receiver of the tributes that were brought by the kings.
 Krishna who was himself the centre of all worlds and round whom moved
 every creature, desirous of acquiring excellent fruits, was engaged at
 his own will in washing the feet of the Brahmanas.
-"|1|Sabha Parva|401
+"|1|Sabha Parva|401|aeeebca09d0842aebe31ad09757f2b2c
 2|SECTION XXXIV||"""And desirous of beholding that sacrificial mansion, as also king
 Yudhishthira the just, none came there with tribute less than a thousand
 (in number, weight or measure). Everyone honoured the king Yudhishthira
@@ -3250,10 +3250,10 @@ butter, Homa and libations poured by the great Rishis versed in mantras
 and pronunciation. Like the gods, the Brahmanas also were gratified with
 the sacrificial gifts and food and great wealth. And all the other orders
 of men also were gratified at that sacrifice and filled with joy.""
-"|2|Sabha Parva|433
+"|2|Sabha Parva|433|467c44639ffd412bb737bd8fcd79cb04
 2|SECTION XXXIV||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|d2352616b75c454486aaeed031241b20
 2|SECTION XXXV|Arghyaharana Parva|"
 
 ""Vaisampayana said,--On the last day of the sacrifice when the king was
@@ -3277,7 +3277,7 @@ O king, that platform crowded with gods, Brahmanas and great Rishis
 looked extremely handsome like the wide expanse of the firmament studded
 with stars. O monarch, there was then no Sudra near that platform of
 Yudhisthira's mansion, nor anybody that was without vows.
-"|1|Sabha Parva|336
+"|1|Sabha Parva|336|db46575e2bb44feca1b5d549d38a638c
 2|SECTION XXXV|Arghyaharana Parva|"""And Narada, beholding the fortunate Yudhisthira's prosperity that was
 born of that sacrifice, became highly gratified. Beholding that vast
 concourse all the Kshatriyas, the Muni Narada, O king of men, became
@@ -3306,7 +3306,7 @@ everybody worshipped with sacrifice. And Narada, gifted with great
 intelligence and the foremost of all persons and conversant with
 morality, thinking of all this, sat at that sacrifice of the wise king
 Yudhisthira the just with feelings of awe.
-"|2|Sabha Parva|493
+"|2|Sabha Parva|493|ff5d5ff21ec74e9c80e1d3616ea2a33c
 2|SECTION XXXV|Arghyaharana Parva|"""Then Bhishma, O king, addressing king Yudhisthira the just, said, ""O
 Bharata, let Arghya (an article of respect) be offered unto the kings as
 each of them deserveth. Listen, O Yudhishthira, the preceptor, the
@@ -3335,10 +3335,10 @@ also accepted it according to the forms of the ordinance. But Sisupala
 could not bear to see that worship offered unto Vasudeva. And this mighty
 king of Chedi, reproving in the midst of that assembly both Bhishma and.
 Yudhishthira, censured Vasudeva thereafter.""
-"|3|Sabha Parva|479
+"|3|Sabha Parva|479|532a0a1619d94b46bc223f79f0ba3cf1
 2|SECTION XXXV|Arghyaharana Parva|"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|4e4bc5924f604f20aefc634598b1fcdc
 2|SECTION XXXVI||"
 ""Sisupala said--'O thou of the Kuru race, this one of the Vrishni race
 doth not deserve royal worship as if he were a king, in the midst of all
@@ -3365,7 +3365,7 @@ worshipped by thee? When the brave Aswatthaman, versed in every branch of
 knowledge is here, why, O king, hath Krishna, O thou of the Kuru race,
 been worshipped by thee? When that King of kings, Duryyodhana, that
 foremost of men, is here, as also Kripa the preceptor of the Bharata
-"|1|Sabha Parva|502
+"|1|Sabha Parva|502|6262297c5491474e9d76a015d87377f7
 2|SECTION XXXVI||"passing over Druma, the preceptor of the Kimpurusas, hast thou worshipped
 Krishna? When the invincible Bhishmaka and king Pandya possessed of every
 auspicious mark, and that foremost of kings--Rukmi and Ekalavya and
@@ -3394,7 +3394,7 @@ born in the race of the Vrishnis unrighteously slew of old the
 illustrious king Jarasandha. Righteousness hath today been abandoned by
 Yudhishthira and meanness only hath been displayed by him in consequence
 of his having offered the Arghya to Krishna. If the helpless sons of
-"|2|Sabha Parva|505
+"|2|Sabha Parva|505|5f9f7d6cbac84762b5c695cd37d67822
 2|SECTION XXXVI||"have enlightened them as to thy claims to the first worship? Why also, O
 Janarddana, didst thou accept the worship of which thou art unworthy,
 although it was offered unto thee by those mean-minded princes? Thou
@@ -3413,7 +3413,7 @@ accompanied by the kings, went out of that assembly.""
 
 
 
-"|3|Sabha Parva|240
+"|3|Sabha Parva|240|50bbbf060b99467bb39e32b3f7e26953
 2|SECTION XXXVII||"
 ""Vaisampayana said,--Then the king Yudhishthira hastily ran after
 Sisupala and spoke unto him sweetly and in a conciliating tone the
@@ -3444,7 +3444,7 @@ have heard from all those wise men, while talking; of the numerous
 much-regarded attributes of the accomplished Sauri. I have also heard
 many times all the acts recited by people that Krishna of great
 intelligence hath performed since his birth. And, O king of Chedi, we do
-"|1|Sabha Parva|502
+"|1|Sabha Parva|502|97e7e1ecf14e49aaa92b13b6f9ac992b
 2|SECTION XXXVII||"may confer on us, worship Janarddana who is worshipped by the good on
 earth and who is the source of the happiness of every creature. We have
 offered unto him the first worship because of his fame, his heroism, his
@@ -3475,7 +3475,7 @@ Therefore doth he of unfading glory deserve highest worship. The
 intellect, the seat of sensibility, the five elements, air, heat, water,
 ether, earth, and the four species of beings (oviparous, viviparous, born
 of filthy damp and vegetal) are all established in Krishna. The sun, the
-"|2|Sabha Parva|514
+"|2|Sabha Parva|514|6e75210d3ec24f3285e7a8ec47de2cb1
 2|SECTION XXXVII||"intermediate directions, are all established in Krishna. As the Agnihotra
 is the foremost among all Vedic sacrifices, as the Gayatri is the
 foremost among metres, as the king is the foremost among men, as the
@@ -3495,7 +3495,7 @@ behoveth him to do what is proper in this matter.'""
 
 
 
-"|3|Sabha Parva|273
+"|3|Sabha Parva|273|db162c4dcff5471fa321804ff87fae35
 2|SECTION XXXVIII||"
 ""Vaisampayana said,--The mighty Bhishma ceased, having said this.
 Sahadeva then answered (Sisupala) in words of grave import, saying,--'If
@@ -3516,7 +3516,7 @@ all the worlds, said in the midst of innumerable creatures, these words
 of the clearest import,--'Those men that will not worship the lotus-eyed
 Krishna should be regarded as dead though moving, and should never be
 talked to on any occasion.'""
-"|1|Sabha Parva|306
+"|1|Sabha Parva|306|e11cf91d07bb44b9b4c2c9a9a0307654
 2|SECTION XXXVIII||"""Vaisampayana continued,--Then that god among men, Sahadeva cognisant of
 the distinction between a Brahmana and a Kshatriya, having worshipped
 those that deserved worship, completed that ceremony. But upon Krishna
@@ -3538,10 +3538,10 @@ their friends sought to appease them, their faces glowed with anger like
 those of roaring lions driven away from their preys. Krishna then
 understood that the vast sea of monarchs with its countless waves of
 troops was preparing for a terrific rush.""
-"|2|Sabha Parva|349
+"|2|Sabha Parva|349|f3e9d063a68f4a3098209e97824286f3
 2|SECTION XXXVIII||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|a3da6551293544e5a63cbb997e3d5bb5
 2|SECTION XXXIX|Sisupala-badha Parva|"
 
 ""Vaisampayana said,--Beholding that vast assembly of kings agitated with
@@ -3573,7 +3573,7 @@ wicked-minded king of the Chedis, as also of all these monarchs, hath
 become perverse. Indeed, the intelligence of all those whom this tiger
 among men desireth to take unto himself, becometh perverse even like that
 of this king of the Chedis. O Yudhishthira, Madhava is the progenitor as
-"|1|Sabha Parva|524
+"|1|Sabha Parva|524|8dcf97defc064abda95875f66bb4755e
 2|SECTION XXXIX|Sisupala-badha Parva|"etc.,) existing in the three worlds.'""
 
 ""Vaisampayana continued--Then the ruler of Chedis, having heard these
@@ -3582,7 +3582,7 @@ stern and rough.""
 
 
 
-"|2|Sabha Parva|52
+"|2|Sabha Parva|52|1980b4d6d1e944bd8799d4c7b1f9bb9b
 2|SECTION XL||"
 'Sisupala said,--'Old and infamous wretch of thy race, art thou not
 ashamed of affrighting all these monarchs with these numerous false
@@ -3612,7 +3612,7 @@ morality. Hast thou not ever heard, from wise men speaking unto thee,
 what I would now tell thee? The virtuous and the wise always instruct the
 honest that weapons must never be made to descend upon women and kine and
 Brahmanas and upon those whose food hath been taken, as also upon those
-"|1|Sabha Parva|504
+"|1|Sabha Parva|504|06d75dadf5ca455f8454936f12a77998
 2|SECTION XL||"teachings hath been thrown away by thee. O infamous one of the Kuru race,
 desiring to praise Kesava, thou describest him before me as great and
 superior in knowledge and in age, as if I knew nothing. If at thy word, O
@@ -3641,7 +3641,7 @@ by thee. Boasting as thou dost of virtue, in thy very sight, upon the
 widow of thy brother were sons begotten by another according to the ways
 of the honest. Where is thy virtue, O Bhishma? This thy celebacy, which
 thou leadest either from ignorance or from impotence, is fruitless. O
-"|2|Sabha Parva|510
+"|2|Sabha Parva|510|be68ea2816d4444db5f93ac210ed5e9a
 2|SECTION XL||"who expoundest morality in this way dost not seem to have ever waited
 upon the old. Worship, gift, study,--sacrifices distinguished by large
 gifts to the Brahmanas,--these all equal not in merit even one-sixteenth
@@ -3668,7 +3668,7 @@ having witnessed the sinful act of the old swan, that bird in great
 sorrow spoke unto all the other birds. Then, O thou best of the Kurus,
 all those birds witnessing with their own eyes the act of the old swan,
 approached that wretch of false conduct and slew him.
-"|3|Sabha Parva|432
+"|3|Sabha Parva|432|e371ecaa34cb4cf8a32fc716ce6ba9b8
 2|SECTION XL||"""Thy behaviour, O Bhishma, is even like that of the old swan. These lords
 of earth might slay thee in anger like those creatures of the feathery
 tribe slaying the old swan. Persons conversant with the Puranas recite a
@@ -3680,7 +3680,7 @@ transgresseth thy speech!""
 
 
 
-"|4|Sabha Parva|141
+"|4|Sabha Parva|141|e7e841f15fcf4d1096e1842ab7eec510
 2|SECTION XLI||"
 ""Sisupala said,--""That mighty king Jarasandha who desired not to fight
 with Krishna, saying 'He is a slave,' was worthy of my greatest esteem.
@@ -3711,7 +3711,7 @@ of the Yuga, prepared to swallow every creature. And as the hero endued
 with great energy of mind was about to leap up impetuously, the
 mighty-armed Bhishma caught him like Mahadeva seizing Mahasena (the
 celestial generalissimo). And, O Bharata, Bhima's wrath was soon appeased
-"|1|Sabha Parva|507
+"|1|Sabha Parva|507|634ab5f472234dd2acadf801a6b5afd0
 2|SECTION XLI||"And Bhima, that chastiser of foes, could not disobey Bhishma's words,
 like the ocean that never transgresseth (even when swollen with the
 waters of the rainy season) its continents. But, O king, even though
@@ -3727,7 +3727,7 @@ Bhima these words.""
 
 
 
-"|2|Sabha Parva|214
+"|2|Sabha Parva|214|4869fc95f81c431e97ee6bea44f26855
 2|SECTION XLII||"
 ""Bhishma said,--This Sisupala was born in the line of the king of Chedi
 with three eyes and four hands. As soon as he was born, he screamed and
@@ -3758,7 +3758,7 @@ had said came not to pass. And having heard of all this at Dwaravati, the
 mighty Yadava heroes Sankarshana and Janarddana also went to the capital
 of the Chedis, to see their father's sister--that daughter of the Yadavas
 (the queen of Chedi) And saluting everybody according to his rank and the
-"|1|Sabha Parva|507
+"|1|Sabha Parva|507|e5bcf42fade24eff9724d17e6e851c58
 2|SECTION XLII||"and Kesava took their seats. And after those heroes had been worshipped,
 the queen with great pleasure herself placed the child on the lap of
 Damodara. As soon as the child was placed on his lap, those superfluous
@@ -3779,10 +3779,10 @@ pardon an hundred offences of his. Grieve thou not.'
 ""Bhishma continued,--'Even thus, O Bhima, is this wretch of a
 king--Sisupala of wicked heart, who, proud of the boon granted by
 Govinda, summons thee to battle!'""
-"|2|Sabha Parva|339
+"|2|Sabha Parva|339|7de5586bad7848f6978de50f561a5d05
 2|SECTION XLII||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|0e22539c1a6a43f0a5721c7b61a79a3d
 2|SECTION XLIII||"
 ""Bhishma said,--The will under which the ruler of Chedi summoneth thee to
 fight though thou art of strength that knoweth no deterioration, is
@@ -3814,7 +3814,7 @@ equal unto Vasava himself, and who tore and mangled that monarch. O
 Bhishma, praise Drona and Aswatthaman, who both father and son, are
 mighty warriors, worthy of praise, and the best of Brahmanas, and either
 of whom, O Bhishma, if enraged could annihilate this earth with its
-"|1|Sabha Parva|505
+"|1|Sabha Parva|505|bf01be5279cd4736b383ded895db3b2a
 2|SECTION XLIII||"the king that is equal in battle unto Drona or Aswatthaman. Why wishest
 thou not to praise them? Passing over Duryyodhana, that mighty-armed king
 of kings, who is unequalled in whole earth girt with her seas and king
@@ -3841,7 +3841,7 @@ ignorance alone, Kesava so unworthy of praise. How dost thou, from thy
 wish alone, establish the whole universe in the servitor and cowherd of
 Bhoja (Kansa)? Perhaps, O Bharata, this thy inclination is not
 conformable to thy true nature, like to what may be in the bird Bhulinga,
-"|2|Sabha Parva|504
+"|2|Sabha Parva|504|d2c3fe57c5794101a853626db674ed4a
 2|SECTION XLIII||"on the other side of the Himavat. O Bhishma, that bird ever uttereth
 words of adverse import. Never do anything rash,--this is what she always
 sayeth, but never understandeth that she herself always acteth very
@@ -3871,13 +3871,13 @@ answered with words. Therefore, ye lords of earth, listen ye all unto
 what I say. Whether I be slain like an animal or burnt in a fire of grass
 and straw, thus do I distinctly place my foot on the heads of ye all.
 Here is Govinda, that knoweth no deterioration. Him have we worshipped.
-"|3|Sabha Parva|505
+"|3|Sabha Parva|505|f025a3e8c8eb45b780bff2ce66244b94
 2|SECTION XLIII||"hue and the wielder of the discus and the mace; and falling enter into
 and mingle with the body of this god!""
 
 
 
-"|4|Sabha Parva|29
+"|4|Sabha Parva|29|a852554bb725410484ae26e210884902
 2|SECTION XLIV||"
 ""Vaisampayana said,--Hearing these words of Bhishma, the ruler of Chedi
 endued with exceeding prowess, desirous of combating with Vasudeva
@@ -3906,7 +3906,7 @@ reluctant wife of the innocent Vabhru (Akrura) on her way from Dwaraka to
 the country of the Sauviras. This injurer of his maternal uncle,
 disguising himself in the attire of the king of Karusha, ravished also
 the innocent Bhadra, the princess of Visala, the intended bride of king
-"|1|Sabha Parva|509
+"|1|Sabha Parva|509|6ac2f3b798ef406197f71b341ea36300
 2|SECTION XLIV||"father's sister. It is, however, very fortunate that all this hath
 occurred today in the presence of all the kings. Behold ye all today the
 hostility this one beareth towards me. And know ye also all that he hath
@@ -3926,7 +3926,7 @@ slayer of Madhu, who else is there than thee, who regarding himself a man
 would say in the midst of respectable men that his wife had been intended
 for some body else? O Krishna, pardon me if thou pleasest, or pardon me
 not. But angry or friendly, what canst thou do unto me?'
-"|2|Sabha Parva|312
+"|2|Sabha Parva|312|ead064a03c6041f3b9ba62b163b809db
 2|SECTION XLIV||"""And while Sisupala was speaking thus, the exalted slayer of Madhu
 thought in his mind of the discus that humbleth the pride of the Asuras.
 And as soon as the discus came into his hands, skilled in speech the
@@ -3955,7 +3955,7 @@ there were that became excited with anger; while others became mediators.
 The great Rishis with pleased hearts praised Kesava and went away. And
 all the high-souled Brahmanas and the mighty kings that were there,
 beholding Krishna's prowess, became glad at heart and praised him.
-"|3|Sabha Parva|491
+"|3|Sabha Parva|491|6687591287d8487a9c13ee5e85c3e616
 2|SECTION XLIV||"""Yudhishthira then commanded his brothers to perform without delay the
 funeral rites of king Sisupala, the brave son of Damaghosha, with proper
 respect. The sons of Pandu obeyed the behest of their brother. And
@@ -3979,7 +3979,7 @@ race. And, O king of kings, by this act of thine, thou hast also acquired
 great religious merit. We have been worshipped by thee to the full extent
 of our desires. We now tell thee that we are desirous of returning to our
 own kingdoms. It behoveth thee to grant us permission.'
-"|4|Sabha Parva|383
+"|4|Sabha Parva|383|a1a00f7b8e554cf39914074d3afc17dc
 2|SECTION XLIV||"""Hearing these words of the monarchs, king Yudhishthira the just,
 worshipping each as he deserved, commanded his brothers, saying, 'These
 monarchs had all come to us at their own pleasure. These chastisers of
@@ -4009,7 +4009,7 @@ delight. How can I, therefore, O hero, give thee, O sinless one, leave to
 go? But thou must have to go to the city of Dwaraka.' The virtuous Hari
 of worldwide fame, thus addressed by Yudhishthira, cheerfully went with
 his cousin to Pritha and said,--'O aunt, thy sons have now obtained the
-"|5|Sabha Parva|513
+"|5|Sabha Parva|513|ddbeaf53357748e0b7ca49094912208f
 2|SECTION XLIV||"with success. Be pleased with all this. Commanded by thee, O aunt, I
 desire to go to Dwaraka.' After this, Kesava bade farewell to Draupadi
 and Subhadra. Coming out then of the inner apartments accompanied by
@@ -4031,10 +4031,10 @@ unto each other took each other's leave and returned to their respective
 homes. And, O king, after the chief of the Satwata race had gone to
 Dwaravati, king Duryodhana alone, with king Suvala's son, Sakuni,--these
 bulls among men,--continued to live in that celestial assembly house.
-"|6|Sabha Parva|382
+"|6|Sabha Parva|382|444bae3541a149e0b622fe1f1bd5d119
 2|SECTION XLIV||"
 
-"|7|Sabha Parva|1
+"|7|Sabha Parva|1|b15eb87993744dfcbb6fc54a1bf286fc
 2|SECTION XLV|Dyuta Parva|"
 
 Vaisampayana said,--""when that foremost of sacrifices, the Rajasuya so
@@ -4058,7 +4058,7 @@ illustrious Rishi Narada said that (as a consequence of the Rajasuya
 sacrifice) three kinds of portents, viz., celestial, atmospherical and
 terrestrial ones happen. O grandsire, have those portents been ended by
 the fall of the kind of the Chedis?''
-"|1|Sabha Parva|379
+"|1|Sabha Parva|379|7eeda5a4350640bf9a728cbc2818ca00
 2|SECTION XLV|Dyuta Parva|"Vaisampayana continued,--""Hearing these words of the king, the exalted
 son of Parasara, the island-born Vyasa of dark hue, spoke these
 words,--'For thirteen years, O king, those portents will bear mighty
@@ -4079,7 +4079,7 @@ wilt dream today, O king of kings. Do not grieve for dreaming such a
 dream. None can rise superior to the influence of Time. Blest be thou! I
 will now proceed towards the Kailasa mountain. Rule thou the earth with
 vigilance and steadiness, patiently bearing every privation!'""
-"|2|Sabha Parva|366
+"|2|Sabha Parva|366|fc9ae7767842491a819ea82c5d2b6a13
 2|SECTION XLV|Dyuta Parva|"Vaisampayana continued,--""Having said this, the illustrious and
 island-born Vyasa of dark hue, accompanied by his disciples ever
 following the dictates of the Vedas, proceeded towards Kailasa. And after
@@ -4109,7 +4109,7 @@ bulls among men. Hearing these words of their eldest brother, the
 Pandavas, always engaged in doing what was agreeable to him, approved of
 them. And Yudhishthira the just, having pledged so, along with his
 brothers in the midst of that assembly, gratified his priests as also the
-"|3|Sabha Parva|508
+"|3|Sabha Parva|508|15ae3688dc1b486f99f604e079bcec20
 2|SECTION XLV|Dyuta Parva|"monarchs had gone away, Yudhishthira along with his brothers, having
 performed the usual auspicious rites, accompanied by his ministers
 entered his own palace. And, O ruler of men, king Duryodhana and Sakuni,
@@ -4117,7 +4117,7 @@ the son of Suvala, continued to dwell in that delightful assembly house.
 
 
 
-"|4|Sabha Parva|69
+"|4|Sabha Parva|69|fb42f3fa2e1843a7bce19150b45dc079
 2|SECTION XLVI||"
 Vaisampayana said,--""That bull among men, Duryodhana, continued to dwell
 in that, assembly house (of the Pandavas). And with Sakuni, the Kuru
@@ -4148,7 +4148,7 @@ monarch, king Duryodhana beholding that vast wealth in the Rajasuya
 sacrifice and having become the victim of those numerous errors within
 the assembly house at last returned, with the leave of the Pandavas, to
 Hastinapore.
-"|1|Sabha Parva|491
+"|1|Sabha Parva|491|0841abc078a34b0e95c8943774de0547
 2|SECTION XLVI||"And the heart of king Duryodhana, afflicted at sight of the prosperity of
 the Pandavas, became inclined to sin, as he proceeded towards his city
 reflecting on all he had seen and suffered. And beholding the Pandavas
@@ -4178,7 +4178,7 @@ monarchs also brought with them various kinds of wealth for king
 Yudhishthira, the son of Kunti, like tribute-paying Vaisyas! Beholding
 Yudhishthira's prosperity of such splendour, my heart burneth, efflicted
 with jealously, although it behoveth me not to be jealous.'
-"|2|Sabha Parva|505
+"|2|Sabha Parva|505|af91b0c4afae4a6cb5211db275799832
 2|SECTION XLVI||"""Having reflected in this way, Duryodhana, as if burnt by fire, addressed
 the king of Gandhara again and said,--'I shall throw myself upon a
 flaming fire or swallow poison or drown myself in water. I cannot live.
@@ -4201,10 +4201,10 @@ by day. Beholding that prosperity of the Pandavas, and that assembly
 house of theirs, and those menials laughing at me, my heart burneth as if
 it were on fire. Therefore, O uncle, know me now as deeply grieved and
 filled with jealousy, and speak of it to Dhritarashtra.
-"|3|Sabha Parva|384
+"|3|Sabha Parva|384|09437160fd4044b0908efdae2910dc4c
 2|SECTION XLVI||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|cc1659a0b2dd486abae025f0e1bf12f9
 2|SECTION XLVII||"
 ""Sakuni said.--'O Duryodhana, thou shouldst not be jealous of
 Yudhishthira. The sons of Pandu are enjoying what they deserve in
@@ -4231,7 +4231,7 @@ Drona of great prowess and wielding the large bow along with his son,
 Radha's son Karna, the great warrior Gautama (Kripa), myself with my
 brothers and king Saumadatti--these are thy allies. Uniting thyself with
 these, conquer thou the whole of the earth.'
-"|1|Sabha Parva|429
+"|1|Sabha Parva|429|2393379877d846a4bac8bfdecd4800c7
 2|SECTION XLVII||"""Duryodhana said,--'O king, with thee, as also with these great warriors,
 I shall subjugate the Pandavas, if it pleases thee. If I can now
 subjugate them, the world will be mine and all the monarchs, and that
@@ -4255,14 +4255,14 @@ him to play at dice. Skilled at dice, I will win his kingdom, and that
 splendid prosperity of his for thee, O bull among men. But, O Duryodhana,
 represent all this unto the king (Dhritarashtra). Commanded by thy father
 I will win without doubt the whole of Yudhishthira's possessions.'
-"|2|Sabha Parva|384
+"|2|Sabha Parva|384|eaca028eeb0c425b9de8fe13261939c4
 2|SECTION XLVII||"""Duryodhana said 'O son of Suvala, thou thyself represent properly all
 this to Dhritarashtra, the chief of the Kurus. I shall not be able to do
 so.
 
 
 
-"|3|Sabha Parva|44
+"|3|Sabha Parva|44|fe5dc006971142b6979b0a999c965325
 2|SECTION XLVIII||"
 Vaisampayana said--""O king, impressed with the great Rajasuya sacrifice
 of king Yudhishthira, Sakuni, the son of Suvala, having learnt before the
@@ -4289,7 +4289,7 @@ damsels, mansions decked with excellent furniture, and sport of the
 delightful kind, without doubt these all wait but at thy command, as in
 the case of the gods themselves Therefore, O proud one, why dost thou
 grieve, O son, as if thou wert destitute.'
-"|1|Sabha Parva|422
+"|1|Sabha Parva|422|89d0dbb6f4034f9692ec326dca9ba086
 2|SECTION XLVIII||"""Duryodhana said,--'I eat and dress myself like a wretch and pass my time
 all the while a prey to fierce jealousy. He indeed is a man, who
 incapable of bearing the pride of the foe, liveth having vanquished that
@@ -4319,7 +4319,7 @@ collection of wealth belonging to the foe, I can not enjoy peace of mind.
 Hundreds of Brahmanas supported by the grants that Yudhishthira hath
 given them and possessing wealth of kine, waited at the palace gate with
 three thousands of millions of tribute but were prevented by the keepers
-"|2|Sabha Parva|509
+"|2|Sabha Parva|509|54907cbc86404017b2400918c1b8753c
 2|SECTION XLVIII||"handsome Kamandalus made of gold, they did not obtain admission into the
 palace, and Ocean himself brought unto him in vessels of white copper the
 nectar that is generated within his waters and which is much superior to
@@ -4346,7 +4346,7 @@ king, the prosperity that I beheld of Yudhishthira was such that neither
 the chief himself of the celestials, nor Yama or Varuna, nor the lord of
 the Guhyakas owneth the same. And beholding that great prosperity of the
 son of Pandu, my heart burneth and I cannot enjoy peace.
-"|3|Sabha Parva|444
+"|3|Sabha Parva|444|29619007cf0a4c4092da27c2ee731bdc
 2|SECTION XLVIII||"""Hearing these words of Duryodhana, Sakuni replied,--'Hear how thou
 mayest obtain this unrivalled prosperity that thou beholdest in the son
 of Pandu, O thou that hast truth for thy prowess. O Bharata, I am an
@@ -4369,7 +4369,7 @@ inform thee what my judgment is in respect of this affair. Endued with
 great foresight, he will, keeping morality before his eyes, tell us what
 is good and what is proper for both parties, and what should be done in
 this matter.'
-"|4|Sabha Parva|351
+"|4|Sabha Parva|351|37144f44a0d04244a16cc47ffc813b24
 2|SECTION XLVIII||"""Duryodhana said,--'If thou consultest with Kshatta he will make thee
 desist. And if thou desist, O king, I will certainly kill myself. And
 when I am dead, O king, thou wilt become happy with Vidura. Thou wilt
@@ -4392,7 +4392,7 @@ knew that the arrival of Kali was at hand. And seeing that the way to
 destruction was about to open, he quickly came to Dhritarashtra. And
 Vidura approaching his illustrious eldest brother and bowing down unto
 his feet, said these words:
-"|5|Sabha Parva|350
+"|5|Sabha Parva|350|edd60e3fdd754662a17cdaf23d5872c2
 2|SECTION XLVIII||"'O exalted king, I do not approve of this resolution that thou hast
 formed. It behave thee, O king, to act in such a way that no dispute may
 arise between thy children on account of this gambling match.'
@@ -4413,7 +4413,7 @@ sorrow went unto Bhishma with great wisdom.""
 
 
 
-"|6|Sabha Parva|279
+"|6|Sabha Parva|279|d99258a703514a55bea18f3bd4dc7a1a
 2|SECTION XLIX||"
 Janamejaya said,--""O thou foremost of all conversant with the Vedas, how
 did that game at dice take place, fraught with such evil to the cousins
@@ -4448,7 +4448,7 @@ Therefore, O son, have nothing to do with dice. It is evident that dice
 soweth dissensions. And dissensions are the ruin of the kingdom.
 Therefore, O son, abandon this idea of gambling. O son, thou hast
 obtained from us what, it hath been ordained, a father and a mother
-"|1|Sabha Parva|504
+"|1|Sabha Parva|504|4368c0080e9d4b0399c65b219924ec49
 2|SECTION XLIX||"art educated and clever in every branch of knowledge, and hast been
 brought up with affection in thy paternal dwelling. Born the eldest among
 all thy brothers, living within thy own kingdom, why regardest thou
@@ -4478,7 +4478,7 @@ receiving the jewels and gems (that were brought as tribute). O Bharata,
 the limit and the like of the excellent and invaluable jewels that were
 brought there have not been seen. And O king, my hands were fatigued in
 receiving that wealth. And when I was tired, they that brought those
-"|2|Sabha Parva|502
+"|2|Sabha Parva|502|446f928ea703460b8e7b80041a6b25f0
 2|SECTION XLIX||"resume my labour. Bringing jewels from the lake Vindu, the Asura
 architect Maya constructed (for the Pandavas) a lake-like surface made of
 crystal. Beholding the (artificial) lotuses with which it was filled, I
@@ -4505,10 +4505,10 @@ this way!' And Bhimasena, laughing aloud, addressed me and said,--'O son
 of Dhritarashtra, this is the door. And, O king I had not even heard of
 the names of those gems that I saw in that mansion. And it is for these
 reasons that my heart so acheth.""
-"|3|Sabha Parva|482
+"|3|Sabha Parva|482|712c5e0efcb74ad8840e462bb0787336
 2|SECTION XLIX||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|1331401b7acc44178977a8e5f12e1c14
 2|SECTION L||"
 Duryodhana said,--'Listen now, O Bharata, about all the most costly
 articles I saw, belonging unto the sons of Pandu, and brought one after
@@ -4539,7 +4539,7 @@ water from the sky or of the river and also they who were born in regions
 on the sea-shore, in woodlands, or countries on the other side of the
 ocean waited at the gate, being refused permission to enter, with goats
 and kine and asses and camels and vegetable, honey and blankets and
-"|1|Sabha Parva|503
+"|1|Sabha Parva|503|4c6c7bd9b3c34a8296749fbd76321f02
 2|SECTION L||"the brave ruler of Pragjyotisha and the mighty sovereign of the
 mlechchas, at the head of a large number of Yavanas waited at the gate
 unable to enter, with a considerable tribute comprising of horses of the
@@ -4569,7 +4569,7 @@ Himavat, and many Nipas and people residing in regions on the sea-coast,
 waiting at the gate being refused permission to enter. And the people of
 Valhika gave unto him as tribute ten thousand asses, of goodly size and
 black necks and daily running two hundred miles, And those asses were of
-"|2|Sabha Parva|503
+"|2|Sabha Parva|503|0f6ab577c3ee4614a1221c8869885b22
 2|SECTION L||"world. And possessed of symmetrical proportion and excellent colour,
 their skins were pleasant to the touch. And the Valhikas also presented
 numerous blankets of woollen texture manufactured in Chin and numerous
@@ -4594,10 +4594,10 @@ skins, and rich and variegated blankets for caprisoning elephants, and
 various kinds of jewels and gems, arrows long and short and various other
 kinds of weapons, obtained permission to enter the sacrificial palace of
 the illustrious Pandava!'""
-"|3|Sabha Parva|365
+"|3|Sabha Parva|365|cc76f6560ab54b58adaafe800c11f751
 2|SECTION L||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|3543187e439c4f2a896d109ee765c1c5
 2|SECTION LI||"
 Duryodhana said,--'O sinless one, listen to me as I describe that large
 mass of wealth consisting of various kinds of tribute presented unto
@@ -4627,7 +4627,7 @@ and birds of remote countries, and much gold of great splendour procured
 from mountains, the Kiratas waited at the gate, being refused permission
 to enter. The Kairatas, the Daradas, the Darvas, the Suras, the
 Vaiamakas, the Audumvaras, the Durvibhagas, the Kumaras, the Paradas
-"|1|Sabha Parva|503
+"|1|Sabha Parva|503|94361d47b26f46bc9c73a8deb60bf499
 2|SECTION LI||"the Sivis, the Trigartas, the Yauddheyas, the ruler of Madras and the
 Kaikeyas, the Amvashtas, the Kaukuras, the Tarkshyas, the Vastrapas along
 with the Palhavas, the Vashatayas, the Mauleyas along with the
@@ -4654,7 +4654,7 @@ hundred horses gifted with the speed of the wind. And the Gandharva
 Tumvuru gladly gave a hundred horses of the colour of mango leaf and
 decked in gold. And, O thou of the Kuru race, the celebrated king of the
 Mlechcha tribe, called the Sukaras, gave many hundreds of excellent
-"|2|Sabha Parva|512
+"|2|Sabha Parva|512|f511b6989e164e7a843bd95fa9de56cf
 2|SECTION LI||"elephants decked in gold. And king Vasudana from the kingdom of Pansu
 presented unto the son of Pandu six and twenty elephants and two thousand
 horses. O king, all decked in gold and endued with speed and strength and
@@ -4683,7 +4683,7 @@ son of Pandu. And even all the Mlechchas, from love and respect, came
 unto Yudhishthira. And all orders of men, good, indifferent and low,
 belonging to numberless races, coming from diverse lands made
 Yudhishthira's habitation the epitome of the world.
-"|3|Sabha Parva|508
+"|3|Sabha Parva|508|13d49846c86c4131baf20ca90816f498
 2|SECTION LI||"""And beholding the kings of the earth to present unto the foes such
 excellent and valuable presents, I wished for death out of grief. And O
 king, I will now tell thee of the servants of the Pandavas, people for
@@ -4705,10 +4705,10 @@ the dwarfs, hath eaten or not. And, O Bharata, only two do not pay
 tribute unto the son of Kunti, viz., the Panchalas in consequence of
 their relationship by marriage, and the Andhakas and Vrishnis in
 consequence of their friendship.
-"|4|Sabha Parva|354
+"|4|Sabha Parva|354|1c8296c92acb4704886d0dfad0813fc0
 2|SECTION LI||"
 
-"|5|Sabha Parva|1
+"|5|Sabha Parva|1|cf12a0c6be974df5be3659129122785b
 2|SECTION LII||"
 Duryodhana said,--""Those king that are revered over all the world, who
 are devoted to truth and who are pledged to the observance of rigid vows,
@@ -4738,7 +4738,7 @@ with Narada and Asita's son Devala, standing before performed the
 ceremony of sprinkling the sacred water over the king. And the great
 Rishis with cheerful hearts sat where the sprinkling ceremony was
 performed. And other illustrious Rishis conversant with the Vedas, with
-"|1|Sabha Parva|511
+"|1|Sabha Parva|511|d84421a8ccdf4693a244d6373dfc86dc
 2|SECTION LII||"sacrificial presents, uttering mantras all the while, like the seven
 Rishis, approaching the great India in heaven. And Satyaki of unbaffled
 prowess held the umbrella (over the king's head). And Dhananjaya and
@@ -4766,7 +4766,7 @@ neither Rantideva nor Nabhaga, nor Jauvanaswa, nor Manu, nor king Prithu
 the son of Vena, nor Bhagiratha, Yayati, nor Nahusha, had obtained its
 like. And beholding, O exalted one, such prosperity, in the son of Pritha
 which is even like that which Harishchandra had, I do not see the least
-"|2|Sabha Parva|512
+"|2|Sabha Parva|512|94a9d98d3697469c9872b9b467ed1de0
 2|SECTION LII||"tied (to the bullock's shoulders) by a blind man becomes loosened. Even
 such is the case with us. The younger ones are growing while the elder
 ones are decaying. And beholding all this, O chief of the Kurus, I cannot
@@ -4775,7 +4775,7 @@ that I am plunged into grief and becoming pale and emaciated.""
 
 
 
-"|3|Sabha Parva|90
+"|3|Sabha Parva|90|3537c8e3b3924c369c1cec477ec08232
 2|SECTION LIII||"
 ""Dhritrashtra said,--Thou art my eldest son and born also of my eldest
 wife. Therefore, O son, be not jealous of the Pandavas. He that is
@@ -4804,10 +4804,10 @@ great sin in quarrelling with friends. They that are thy grandsires are
 theirs also. Give away in charity on occasions of sacrifices, gratify
 every dear object of thy desire, disport in the company of women freely,
 and enjoy thou peace.'""
-"|1|Sabha Parva|472
+"|1|Sabha Parva|472|8b8b2a77f9f04d37ae6c1a5396682c2a
 2|SECTION LIII||"
 
-"|2|Sabha Parva|1
+"|2|Sabha Parva|1|aae86677a5354a349e7c1387db348a48
 2|SECTION LIV||"
 ""Duryodhana said,--'He that is devoid of intellect but hath merely heard
 of many things, can scarcely understand the real import of the
@@ -4839,7 +4839,7 @@ him that is pained. Discontent is the root of prosperity. Therefore, O
 king, I desire to be discontented. He that striveth after the acquisition
 of prosperity is, O king, a truly politic person. Nobody should be
 attached to wealth and affluence, for the wealth that hath been earned
-"|1|Sabha Parva|516
+"|1|Sabha Parva|516|cd4d835e16cb4212be1464a5b611693a
 2|SECTION LIV||"during a period of peace that Sakra cut off the head of Namuchi after
 having given a pledge to the contrary, and it was because he approved of
 this eternal usage towards the enemy that he did so. Like a snake that
@@ -4863,10 +4863,10 @@ obtain that prosperity of theirs, or lie down having perished in battle.
 O king when the state of my mind is such, what do I care now for life,
 for the Pandavas are daily growing while our possessions know no
 increase?'""
-"|2|Sabha Parva|383
+"|2|Sabha Parva|383|b7ea46ba54d44bcbb61d4aa558f55a24
 2|SECTION LIV||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|0149816254304273b825abcc59831ce3
 2|SECTION LV||"
 ""Sakuni said,--O thou foremost of victorious persons, I will snatch (for
 thee) this prosperity of Yudhishthira, the son of Pandu, at the sight of
@@ -4894,7 +4894,7 @@ wasteth himself like an insect in the rainy season. Neither sickness nor
 Yama waiteth till one is in prosperity. So long, therefore, as there is
 life and health, one should (without waiting for prosperity) accomplish
 his purpose.'
-"|1|Sabha Parva|386
+"|1|Sabha Parva|386|d977308f253b4f86936f1f4e58676677
 2|SECTION LV||"""Dhritarashtra said,--'O son, hostility with those that are strong, is
 what never recommendeth itself to me. Hostility bringeth about a change
 of feelings, and that itself is a weapon though not made of steel. Thou
@@ -4918,7 +4918,7 @@ that are fraught with such immorality can never bring prosperity in the
 future. Even this was foreseen by the learned Vidura ever treading the
 path of truth and wisdom. Even the great calamity, destructive of the
 lives of the Kshatriyas, cometh as destined by fate.'""
-"|2|Sabha Parva|360
+"|2|Sabha Parva|360|049beae078924e51ae14a9b8405e7e20
 2|SECTION LV||"Vaisampayana continued--""Having said this, the weak-minded Dhritarashtra
 regarded fate as supreme and unavoidable. And the king deprived of reason
 by Fate, and obedient to the counsels of his son, commanded his men in
@@ -4938,10 +4938,10 @@ Khandavaprastha), bring prince Yudhishthira here without loss of time.
 Let him come hither with his brothers, and behold his handsome assembly
 house of mine, furnished with countless jewels and gems, and costly beds
 and carpets, and let a friendly match at dice commence here.'""
-"|3|Sabha Parva|315
+"|3|Sabha Parva|315|bebf51ed04eb43858900b0bedaf51ff2
 2|SECTION LV||"
 
-"|4|Sabha Parva|1
+"|4|Sabha Parva|1|d518225390ee4ed8afee3697242b4cbc
 2|SECTION LVI||"
 Vaisampayana said,--""King Dhritarashtra, ascertaining the inclinations of
 his son and knowing that Fate is inevitable, did what I have said.
@@ -4959,7 +4959,7 @@ thou soon that invincible son of Kunti.'""
 
 
 
-"|1|Sabha Parva|217
+"|1|Sabha Parva|217|673c18a2353d4f87a586bcc9a731dc57
 2|SECTION LVII||"
 Vaisampayana said,--""Vidura then, thus commanded against his will by king
 Dhritarashtra, set out, with the help of horses of high mettle and endued
@@ -4990,7 +4990,7 @@ at dice. We shall be glad if thou goest, as the Kurus have already
 arrived there. And thou wilt see there those gamblers and cheats that the
 illustrious king Dhritarashtra hath already brought thither. It is for
 this, O king, that I have come hither. Let the king's command be approved
-"|1|Sabha Parva|515
+"|1|Sabha Parva|515|d843b14157de47728b204a98694bc7ef
 2|SECTION LVII||"
 ""Yudhishthira said,--'O Kshatta, if we sit to a match at dice, we may
 quarrel. What man is there, who knowing all this, will consent to gamble?
@@ -5019,7 +5019,7 @@ is proper for us. Unwilling as I am to gamble, I will not do so, if the
 wicked Sakuni doth not summon me to it in the Sabha? If, however, he
 challengeth me, I will never refuse. For that, as settled, is my eternal
 vow.""
-"|2|Sabha Parva|432
+"|2|Sabha Parva|432|41ec5a453f004fba968338ef583e2190
 2|SECTION LVII||"Vaisampayana continued,--""King Yudhishthira the just having said this
 unto Vidura, commanded that preparations for his journey might be made
 without loss of time. And the next day, the king accompanied by his
@@ -5047,7 +5047,7 @@ after another. And the mighty-armed one, then surrounded by all his
 brothers, entered the apartment of the wise king Dhritarashtra. And then
 Yudhishthira beheld the reverend Gandhari, ever obedient to her lord, and
 surrounded by her daughters-in-law like Rohini by the stars. And saluting
-"|3|Sabha Parva|512
+"|3|Sabha Parva|512|d0e82fa3792d424198cd54d2f17b4b09
 2|SECTION LVII||"uncle, that illustrious monarch whose wisdom was his eye. King
 Dhritarashtra then, O monarch, smelt his head as also the heads of those
 four other princes of the Kuru race, viz., the sons of Pandu with
@@ -5073,10 +5073,10 @@ And waked by the bards with sweet music, they rose from their beds, and
 having passed the night thus in happiness, they rose at dawn and having
 gone through the usual rites, they entered into the assembly house and
 were saluted by those that were ready there for gambling.""
-"|4|Sabha Parva|401
+"|4|Sabha Parva|401|4286e2fead37454f9fc813133af56548
 2|SECTION LVII||"
 
-"|5|Sabha Parva|1
+"|5|Sabha Parva|1|95996b9f6afa4ae4ad7d7421ad7fb2f3
 2|SECTION LVIII||"
 Vaisampayana said,--""The sons of Pritha with Yudhishthira at their head,
 having entered that assembly house, approached all the kings that were
@@ -5102,7 +5102,7 @@ O son of Pritha, it is the staking at dice, which may be lost or won that
 may injure us. And it is for that reason that gambling is regarded as a
 fault. Let us, therefore, O king, begin the play. Fear not. Let the
 stakes be fixed. Delay not!'
-"|1|Sabha Parva|385
+"|1|Sabha Parva|385|c32927a937bf45d594df8be62a6d5911
 2|SECTION LVIII||"""Yudhishthira said,--'That best of Munis, Devala, the son of Asita, who
 always instructeth us about all those acts that may lead to heaven, hell,
 or the other regions, hath said, that it is sinful to play deceitfully
@@ -5133,7 +5133,7 @@ weapons approacheth one that is not so skilled; the strong approacheth
 the weak. This is the practice in every contest. The motive is victory, O
 Yudhishthira. If, therefore, thou, in approaching me, regardest me to be
 actuated by motives that are dishonest, if thou art under any fear,
-"|2|Sabha Parva|507
+"|2|Sabha Parva|507|d180bffa2d664e07b8ea12ede9035b0a
 2|SECTION LVIII||"
 ""Yudhishthira said,--'Summoned, I do not withdraw. This is my established
 vow. And, O king, Fate is all powerful. We all are under the control of
@@ -5149,7 +5149,7 @@ admit this. If, however, thou art still bent on it, let the play begin.'""
 
 
 
-"|3|Sabha Parva|180
+"|3|Sabha Parva|180|e0b7ebbdf0e04a4586d6c06a100d1d1e
 2|SECTION LIX||"
 Vaisampayana said,--""When the play commenced, all those kings with
 Dhritarashtra at their head took their seats in that assembly. And, O
@@ -5172,10 +5172,10 @@ of them. Win thou this stake.'
 
 Vaisampayana continued,--""Then Sakuni, well-skilled at dice, took up the
 dice and (casting them) said unto Yudhishthira, 'Lo, I have won!'""
-"|1|Sabha Parva|332
+"|1|Sabha Parva|332|0f0536e2f1ba4e8081694f7f59b7e224
 2|SECTION LIX||"
 
-"|2|Sabha Parva|1
+"|2|Sabha Parva|1|edd1885d4a3e4c4d9e903e4e361177b5
 2|SECTION LX||"
 Yudhishthira said,--""Thou hast won this stake of me by unfair means. But
 be not so proud, O Sakuni. Let us play staking thousands upon thousands.
@@ -5197,7 +5197,7 @@ like the roar of the clouds or of the ocean, and which is drawn by eight
 noble steeds known all over the kingdom and which are white as the
 moon-beam and from whose hoofs no terrestrial creature can escape--this,
 O king, is my wealth with which I will stake with thee!'""
-"|1|Sabha Parva|311
+"|1|Sabha Parva|311|7da6592446ba4690a4a050df924cc845
 2|SECTION LX||"Vaisampayana continued,--""Hearing these words, Sakuni ready with the
 dice, and adopting unfair means, said unto Yudhishthira, 'Lo, I have won!'
 
@@ -5218,7 +5218,7 @@ upon guests, always attired in silken robes, endued with wisdom and
 intelligence, their senses under control though young, and decked with
 ear-rings, and who serve all guests night and day with plates and dishes
 in hand. With this wealth, O king, I will stake with thee!'""
-"|2|Sabha Parva|312
+"|2|Sabha Parva|312|ce00f462c7f045358211d979fa6a42c3
 2|SECTION LX||"Vaisampayana continued,--""Hearing these words, Sakuni, ready with the
 dice, adopting unfair means said unto Yudhishthira, 'Lo, I have won!'
 
@@ -5240,7 +5240,7 @@ golden poles and flag-staffs and well-trained horses and warriors that
 fight wonderfully and each of whom receiveth a thousand coins as his
 monthly pay whether he fighteth or not. With this wealth, O king, I will
 stake with thee!'""
-"|3|Sabha Parva|318
+"|3|Sabha Parva|318|7aeae3cea82a4e188af151ea6f6733ed
 2|SECTION LX||"Vaisampayana continued,--""When these words had been spoken, the wretch
 Sakuni, pledged to enmity, said unto Yudhishthira, 'Lo, I have won it.'
 
@@ -5266,13 +5266,13 @@ Yudhishthira said,--'I have four hundred Nidis (jewels of great value)
 encased in sheets of copper and iron. Each one of them is equal to five
 draunikas of the costliest and purest leaf gold of the Jatarupa kind.
 With this wealth, O king, I will stake with thee.'""
-"|4|Sabha Parva|376
+"|4|Sabha Parva|376|8c50036d6242443780c5aed1c010d65d
 2|SECTION LX||"Vaisampayana continued,--""Hearing this, Sakuni ready at dice, adopting
 foul means, said unto Yudhishthira, 'Lo, I have won it!'""
 
 
 
-"|5|Sabha Parva|44
+"|5|Sabha Parva|44|7cfa069b445944f5a2c21a00bb7a4b75
 2|SECTION LXI||"
 Vaisampayana said,--""During the course of this gambling, certain to bring
 about utter ruin (on Yudhishthira), Vidura, that dispeller of all doubts,
@@ -5302,7 +5302,7 @@ Arjuna slay this Suyodhana. And in consequence of the slaying of this
 wretch, let the Kurus be glad and pass their days in happiness. In
 exchange of a crow, O great king, buy these peacocks--the Pandavas; and
 in exchange of a jackal, buy these tigers. For the sake of a family a
-"|1|Sabha Parva|520
+"|1|Sabha Parva|520|9c631bfb171c4b1d8f1dbdaa072bfde2
 2|SECTION LXI||"sacrificed, for the sake of a province a village may be sacrificed and
 for the sake of one's own soul the whole earth may be sacrificed. Even
 this was what the omniscient Kavya himself, acquainted with the thoughts
@@ -5324,10 +5324,10 @@ region of Yama, with thy sons and troops, for who is there that is
 capable of fighting with the sons of Pritha, together? Not to speak of
 others, is the chief of the celestials at the head of the celestials
 themselves, capable of doing so?""
-"|2|Sabha Parva|360
+"|2|Sabha Parva|360|d75cf12ab18b48f2a914b13ebd508317
 2|SECTION LXI||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|a87d5691bac84c73b5e4de022a4c7253
 2|SECTION LXII||"
 ""Vidura said,--""Gambling is the root of dissensions. It bringeth about
 disunion. Its consequences are frightful. Yet having recourse to this,
@@ -5356,13 +5356,13 @@ thou art thyself a mine of wealth. Thou canst earn (by other means) as
 much wealth as thou seekest to earn by gambling. What dost thou gain by
 winning from the Pandavas their vast wealth? Win the Pandavas themselves,
 who will be to thee more than all the wealth they have. We all know the
-"|1|Sabha Parva|511
+"|1|Sabha Parva|511|429d3cd31780480384de47d9c5b46e56
 2|SECTION LXII||"gambling. Let Sakuni return whence he came. War not, O Bharata, with the
 sons of Pandu!'
 
 
 
-"|2|Sabha Parva|27
+"|2|Sabha Parva|27|211fbd41a15d41289d02f6e226c515d1
 2|SECTION LXIII||"
 Duryodhana said,--'O Kshatta, thou art always boasting of the fame of our
 enemies, deprecating the sons of Dhritarashtra. We know, O Vidura, of
@@ -5392,7 +5392,7 @@ mother's womb. I am controlled by Him. Like water that always floweth in
 a downward course, I am acting precisely in the way in which He is
 directing me. He that breaketh his head against a stone-wall, and he that
 feedeth a serpent, are guided in those acts of theirs by their own
-"|1|Sabha Parva|507
+"|1|Sabha Parva|507|0235a4e1a9334bd18333f36b32ca5306
 2|SECTION LXIII||"intelligence). He becometh a foe who seeketh to control others by force.
 When advice, however, is offered in a friendly spirit, the learned bear
 with it. He again that hath set fire to such a highly inflammable object
@@ -5423,7 +5423,7 @@ is very rare. He indeed, is a king's true ally who disregarding what is
 agreeable or disagreeable to his master beareth himself virtuously and
 uttereth what may be disagreeable but necessary as regimen. O great king,
 drink thou that which the honest drink and the dishonest shun, even
-"|2|Sabha Parva|502
+"|2|Sabha Parva|502|6d8f1aa2f28d4a11a56405695fe98aa8
 2|SECTION LXIII||"unintoxicating, disagreeable, and revolting. And drinking it, O king,
 regain thou thy sobriety. I always wish Dhritarashtra and his sons
 affluence and fame. Happen what may unto thee, here I bow to thee (and
@@ -5433,7 +5433,7 @@ as adders as have venom in their very glances!""
 
 
 
-"|3|Sabha Parva|112
+"|3|Sabha Parva|112|59a8023c7f02433ab8f2ff9a38a38aa6
 2|SECTION LXIV||"
 ""Sakuni said,--'Thou hast, O Yudhishthira, lost much wealth of the
 Pandavas. If thou hast still anything that thou hast not yet lost to us,
@@ -5454,7 +5454,7 @@ unfair means, said unto Yudhishthira, 'Lo, I have won!'
 horses and milch cows with calves and goats and sheep in the country
 extending from the Parnasa to the eastern bank of the Sindu. With this
 wealth, O king, I will play with thee.
-"|1|Sabha Parva|304
+"|1|Sabha Parva|304|12b4cede271c4c4eaf0b21b0fd8606f8
 2|SECTION LXIV||"Vaisampayana said,--""Hearing this Sakuni, ready with the dice, adopting
 unfair means, said unto Yudhishthira, 'Lo, I have won!'
 
@@ -5477,7 +5477,7 @@ foul means, said unto Yudhishthira, 'Lo! I have won them.'
 ""Yudhishthira said,--'This Nakula here, of mighty arms and leonine neck,
 of red eyes and endued with youth, is now my one stake. Know that he is
 my wealth.'
-"|2|Sabha Parva|307
+"|2|Sabha Parva|307|7c660c681f7e480b9ec35507c413f28c
 2|SECTION LXIV||"Sakuni said,--'O king Yudhishthira, prince Nakula is dear to thee. He is
 already under our subjection. With whom (as stake) wilt thou now play?""
 
@@ -5507,7 +5507,7 @@ Bharata race, I (beg my pardon and) bow to thee. Thou knowest, O
 Yudhishthira, that gamesters, while excited with play, utter such ravings
 that they never indulge in the like of them in their waking moments nor
 even in dream.'
-"|3|Sabha Parva|411
+"|3|Sabha Parva|411|19c9f539518e4cb1bc5e405369ca3541
 2|SECTION LXIV||"""Yudhishthira said,--He that taketh us like a boat to the other shore of
 the sea of battle, he that is ever victorious over foes, the prince who
 is endued with great activity, he who is the one hero in this world, (is
@@ -5530,7 +5530,7 @@ with leonine neck and arched eye-brows and eyes looking askance, who is
 incapable of putting up with an insult, who hath no equal in might in the
 world, who is the foremost of all wielders of the mace, and who grindeth
 all foes,'""
-"|4|Sabha Parva|349
+"|4|Sabha Parva|349|9d6b993f74c545879236fedfd0ec3932
 2|SECTION LXIV||"""Vaisampayana said,--""Hearing this, Sakuni, ready with the dice adopting
 foul means, said unto Yudhishthira. 'Lo! I have won.'
 
@@ -5555,7 +5555,7 @@ another, all the Pandavas. The son of Suvala then, addressing
 Yudhishthira said,--'O king, there is still one stake dear to thee that
 is still unwon. Stake thou Krishna, the princess of Panchala. By her, win
 thyself back.'
-"|5|Sabha Parva|330
+"|5|Sabha Parva|330|b3fa85e6480545baaeae398a2e8f3198
 2|SECTION LXIV||"""Yudhishthira said,--'With Draupadi as stake, who is neither short nor
 tall, neither spare nor corpulent, and who is possessed of blue curly
 locks, I will now play with thee. Possessed of eyes like the leaves of
@@ -5584,13 +5584,13 @@ a snake. But Dhritarashtra glad, at heart, asked repeatedly, 'Hath the
 stake been won?' 'Hath the stake been won?' and could not conceal his
 emotions. Karna with Dussassana and others laughed aloud, while tears
 began to flow from the eyes of all other present in the assembly. And the
-"|6|Sabha Parva|505
+"|6|Sabha Parva|505|5a5ec84a83bc48f5b54b8bac39ea08e0
 2|SECTION LXIV||"repeating. Thou hast one stake, dear to thee, etc. said,--'Lo! I have
 won' and took up the dice that had been cast.""
 
 
 
-"|7|Sabha Parva|35
+"|7|Sabha Parva|35|711e45962c464748b99ed2a31767ff27
 2|SECTION LXV||"
 Duryodhana said,--'Come, Kshatta, bring hither Draupadi the dear and
 loved wife of the Pandavas. Let her sweep the chambers, force her
@@ -5621,7 +5621,7 @@ enemies. The sons of Pritha never use words such as these. It is only low
 men that are like dogs who use harsh words towards all classes of people,
 viz., those that have retired to the woods, those leading domestic lives,
 those employed in ascetic devotions and those that are of great learning.
-"|1|Sabha Parva|504
+"|1|Sabha Parva|504|a3b495b63584406db7228ce0796708a7
 2|SECTION LXV||"frightful doors of hell. Alas! many of the Kurus with Dussasana amongst
 them have followed him in the path of dishonesty in the matter of this
 play at dice. Even gourds may sink and stones may float, and boats also
@@ -5635,7 +5635,7 @@ the Kurus.""
 
 
 
-"|2|Sabha Parva|160
+"|2|Sabha Parva|160|705d65a7b4fc46cabb7e4b8e8e836c87
 2|SECTION LXVI||"
 Vaisampayana said,--""Intoxicated with pride, the son of Dhritarashtra
 spake,--'Fie on Kshatta! and casting his eyes upon the Pratikamin in
@@ -5655,7 +5655,7 @@ Yajnaseni, and put thee in some menial work.'
 Draupadi said,--'Why, O Pratikamin, dost thou say so? What prince is
 there who playeth staking his wife? The king was certainly intoxicated
 with dice. Else, could he not find any other object to stake?'
-"|1|Sabha Parva|313
+"|1|Sabha Parva|313|359acfd660e74924a24a0adc0403c8bc
 2|SECTION LXVI||"""The Pratikamin said,--'When he had nothing else to stake, it was then
 that Ajatasatru, the son of Pandu, staked thee. The king had first staked
 his brothers, then himself, and then thee, O princess.'
@@ -5682,7 +5682,7 @@ unto Draupadi,--'O princess, they that are in the assembly are summoning
 thee. It seemeth that the end of the Kauravas is at hand. When
 Duryodhana, O princess, is for taking thee before the assembly, this
 weak-brained king will no longer be able to protect his prosperity.'
-"|2|Sabha Parva|397
+"|2|Sabha Parva|397|808b3e3a1b704c65b8b180c09e313d10
 2|SECTION LXVI||"""Draupadi said,--'The great ordainer of the world hath, indeed, ordained
 so. Happiness and misery pay their court to both the wise and unwise.
 Morality, however, it hath been said, is the one highest object in the
@@ -5712,7 +5712,7 @@ her face. The Suta, then, obedient to his commands, but terrified at the
 (possible) wrath of the daughter of Drupada, disregarding his reputation
 for intelligence, once again said to those that were in the
 assembly,--what shall I say unto Krishna?'
-"|3|Sabha Parva|444
+"|3|Sabha Parva|444|2a15cdaab7c748f0b437141ea617c1c6
 2|SECTION LXVI||"""Duryodhana, hearing this, said,--'O Dussasana, this son of my Suta, of
 little intelligence, feareth Vrikodara. Therefore, go thou thyself and
 forcibly bring hither the daughter of Yajnasena, Our enemies at present
@@ -5740,7 +5740,7 @@ and Vishnu who were Narayana and Nara (on earth), said unto her--'Whether
 thy season hath come or not, whether thou art attired in one piece of
 cloth or entirely naked, when thou hast been won at dice and made our
 slave, thou art to live amongst our serving-women as thou pleasest.""
-"|4|Sabha Parva|492
+"|4|Sabha Parva|492|f3137a8c80274954a81d1e900d63e4e2
 2|SECTION LXVI||"Vaisampayana continued,--""With hair dishevelled and half her attire
 loosened, all the while dragged by Dussasana, the modest Krishna consumed
 with anger, faintly said--""In this assembly are persons conversant with
@@ -5763,7 +5763,7 @@ looked silently on this act that transgresseth the limits of their
 practices. Oh! both Drona and Bhishma have lost their energy, and so also
 hath the high-souled Kshatta, and so also this king. Else, why do these
 foremost of the Kuru elders look silently on this great crime?""
-"|5|Sabha Parva|387
+"|5|Sabha Parva|387|9cbb0c4491b04ab6ae3cf18257c07460
 2|SECTION LXVI||"Vaisampayana continued,--""Thus did Krishna of slender waist cry in
 distress in that assembly. And casting a glance upon her enraged
 lords--the Pandavas--who were filled with terrible wrath, she inflamed
@@ -5788,7 +5788,7 @@ to decide this matter. Sakuni hath not his equal among men at dice-play.
 The son of Kunti still voluntarily staked with him. The illustrious
 Yudhishthira doth not himself regard that Sakuni hath played with him
 deceitfully. Therefore, I can not decide this point.""
-"|6|Sabha Parva|407
+"|6|Sabha Parva|407|8bd27d7ed1e24752bb0c680773279192
 2|SECTION LXVI||"""Draupadi said,--""The king was summoned to this assembly and though
 possessing no skill at dice, he was made to play with skilful, wicked,
 deceitful and desperate gamblers. How can he be said then to have staked
@@ -5818,7 +5818,7 @@ Having obtained the Pandavas as her lords, it is for thee alone that she
 is being thus persecuted by the low, despicable, cruel, and mean-minded
 Kauravas. It is for her sake, O king, that my anger falleth on thee. I
 shall burn those hands of thine. Sahadeva, bring some fire.""
-"|7|Sabha Parva|483
+"|7|Sabha Parva|483|abcb20748f8e46fb9b4cc25013485cc8
 2|SECTION LXVI||"'Arjuna hearing this, said,--'Thou hast never, O Bhimasena, before this
 uttered such words as these. Assuredly thy high morality hath been
 destroyed by these cruel foes. Thou shouldst not fulfil the wishes of the
@@ -5850,7 +5850,7 @@ repeatedly appealed to all the kings began to rub his hands and sigh like
 a snake. And at last the prince said--'Ye kings of the earth, ye
 Kauravas, whether ye answer this question or not, I will say what I
 regard as just and proper. Ye foremost of men, it hath been said that
-"|8|Sabha Parva|514
+"|8|Sabha Parva|514|bb7e3c549445415dbec673f16b6ff5fe
 2|SECTION LXVI||"four vices of kings. The man, that is addicted to these, liveth forsaking
 virtue. And people do not regard the acts done by a person who is thus
 improperly engaged, as of any authority. This son of Pandu, while deeply
@@ -5880,7 +5880,7 @@ possessions? O bull of the Bharata race, Draupadi is included in all the
 possessions (of Yudhishthira). Therefore, why regardest thou Krishna who
 hath been justly won as not won? Draupadi had been mentioned (by Suvala)
 and approved of as a stake by the Pandavas. For what reason then dost
-"|9|Sabha Parva|506
+"|9|Sabha Parva|506|d91f0589de68498da0543d6ab2a3f2c1
 2|SECTION LXVI||"hither attired in a single piece of cloth, is an action of impropriety,
 listen to certain excellent reasons I will give. O son of the Kuru race,
 the gods have ordained only one husband for one woman. This Draupadi,
@@ -5909,7 +5909,7 @@ of the Kurus.' Thus did that afflicted lady resplendent still in her
 beauty, O king covering her face cried aloud, thinking of Krishna, of
 Hari, of the lord of the three worlds. Hearing the words of Draupadi,
 Krishna was deeply moved. And leaving his seat, the benevolent one from
-"|10|Sabha Parva|507
+"|10|Sabha Parva|507|cf3e3063568c4bd0bbfaafe81f0010d1
 2|SECTION LXVI||"to Krishna, also called Vishnu and Hari and Nara for protection, the
 illustrious Dharma, remaining unseen, covered her with excellent clothes
 of many hues. And, O monarch as the attire of Draupadi was being dragged,
@@ -5931,7 +5931,7 @@ the region of my deceased ancestors. Tearing open in battle, by sheer
 force, the breast of this wretch, this wicked-minded scoundrel of the
 Bharata race, if I do not drink his life-blood, let me not obtain the
 region of my ancestors.""
-"|11|Sabha Parva|327
+"|11|Sabha Parva|327|1312a4ab0b7c4d94a1bbad2ef25c0fd3
 2|SECTION LXVI||"Vaisampayana continued,--""Hearing these terrible words of Bhima that made
 the down of the auditors to stand on end, everybody present there
 applauded him and censured the son of Dhritarashtra. And when a mass of
@@ -5961,7 +5961,7 @@ a lie. He, on the other hand, who, knowing the rules of morality and
 having joined an assembly answereth falsely, assuredly incurreth the sin
 of a lie. The learned quote as an example in this connection the old
 history of Prahlada and the son of Angirasa.
-"|12|Sabha Parva|504
+"|12|Sabha Parva|504|3b1ac723de7947a6b5c8be052165b20b
 2|SECTION LXVI||"""There was of old a chief of the Daityas of the name Prahlada. He had a
 son named Virochana. And Virochana, for the sake of obtaining a bride,
 quarrelled with Sudhanwan, the son of Angiras. It hath been heard by us
@@ -5989,7 +5989,7 @@ speaketh carelessly, casteth a thousand nooses of Varuna upon his own
 person. On the completion of one full year, one such noose is loosened.
 Therefore, he that knoweth, should speak the truth without concealment.
 If virtue, pierced by sin, repaireth to an assembly (for aid), it is the
-"|13|Sabha Parva|507
+"|13|Sabha Parva|507|e80bb11e25384c67bf1c68404e82ebd2
 2|SECTION LXVI||"themselves would be pierced with it. In an assembly where a truly
 censurable act is not rebuked, half the demerit of that act attacheth to
 the head of that assembly, a fourth to the person acting censurably and a
@@ -6017,7 +6017,7 @@ superior to thy mother. Therefore, O Virochana, this Sudhanwan is now the
 lord of the life."" At these words of Prahlada, Sudhanwan said, ""Since
 unmoved by affection for thy child, thou hast adhered to virtue, I
 command, let this son of thine live for a hundred years.""
-"|14|Sabha Parva|483
+"|14|Sabha Parva|483|9e5f6ce3e5244ffb8a8a9e9d8630fc0d
 2|SECTION LXVI||"""Vidura continued,--Let all the persons, therefore, present in this
 assembly hearing these high truths of morality, reflect upon what should
 be the answer to the question asked by Draupadi"".
@@ -6031,7 +6031,7 @@ piteously unto the Pandavas her lords.""
 
 
 
-"|15|Sabha Parva|138
+"|15|Sabha Parva|138|0a9333e19cae4be6b35932457a50b503
 2|SECTION LXVIII||"
 Draupadi said,--'Wait a little, thou worst of men, thou wicked-minded
 Dussasana. I have an act to perform--a high duty that hath not been
@@ -6062,7 +6062,7 @@ of the Pandavas, the sister of Prishata's son, the friend of Vasudeva, is
 brought before this assembly? Ye Kauravas, I am the wedded wife of king
 Yudhishthira the just, hailing from the same dynasty to which the King
 belonged. Tell me now if I am a serving-maid or otherwise. I will
-"|1|Sabha Parva|504
+"|1|Sabha Parva|504|ba0c2b1ab6bc44dca75797faab6f6085
 2|SECTION LXVIII||"name of the Kurus, is afflicting me hard. Ye Kauravas, I cannot bear it
 any longer. Ye kings, I desire ye to answer whether ye regard me as won
 or unwon. I will accept your verdict whatever it be.'
@@ -6087,10 +6087,10 @@ of mature years and conversant with morality, sit heads downwards like
 men that are dead, with bodies from which life hath departed. It seemeth
 to me, however, that Yudhishthira is an authority on this question. It
 behoveth him to declare whether thou art won or not won.""
-"|2|Sabha Parva|386
+"|2|Sabha Parva|386|f37a7a8d0d3b49d79e643e95a00ae210
 2|SECTION LXVIII||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|2f84d4e90ba34334bcf65e327296e4e0
 2|SECTION LXIX||"
 Vaisampayana said,--""The kings present in that assembly, from tear of
 Duryodhana, uttered not a word, good or ill, although they beheld
@@ -6109,7 +6109,7 @@ not thy lord. At his words, accept thou the Pandavas or ourselves without
 delay. Indeed, all the Kauravas present in this assembly are floating in
 the ocean of thy distress. Endued with magnanimity, they are unable to
 answer thy question, looking at thy unfortunate husbands.'""
-"|1|Sabha Parva|314
+"|1|Sabha Parva|314|8b3ba0f972b74f08bb13ef340b7d069b
 2|SECTION LXIX||"Vaisampayana continued,--""Hearing these words of the Kuru king, all who
 were present in the assembly loudly applauded them. And shouting
 approvingly, they made signs unto one another by motions of their eyes
@@ -6138,14 +6138,14 @@ silent, I am not doing anything terrible. If however, I am once commanded
 by king Yudhishthira the just, I would slay these wretched sons of
 Dhritarashtra, making slaps do the work of swords, like a lion slaying a
 number of little animals.""
-"|2|Sabha Parva|485
+"|2|Sabha Parva|485|cc7c9ae5477b4cceb5e2d46a1ce3e74a
 2|SECTION LXIX||"Vaisampayana continued,--""Unto Bhima who had spoken these words Bhishma
 and Drona and Vidura said, 'Forbear, O Bhima. Everything is possible with
 thee.'""
 
 
 
-"|3|Sabha Parva|48
+"|3|Sabha Parva|48|4284137413c643bcbadf7762a0f12b25
 2|SECTION LXX||"
 ""Karna said,--'Of all the persons in the assembly, three, viz., Bhishma,
 Vidura, and the preceptor of the Kurus (Drona) appear to be independent;
@@ -6167,7 +6167,7 @@ continue to be thy lords any longer. Alas, doth not the son of Pritha
 regards life, prowess and manhood as of no use that he offereth this
 daughter of Drupada, the king of Panchala, in the presence of all this
 assembly, as a stake at dice?'""
-"|1|Sabha Parva|371
+"|1|Sabha Parva|371|71966fc824df4a368ba2774f589b0e07
 2|SECTION LXX||"Vaisampayana continued,--""Hearing these words, the wrathful Bhima
 breathed hard, a very picture of woe. Obedient to the king and bound by
 the tie of virtue and duty, burning everything with his eyes inflamed by
@@ -6193,7 +6193,7 @@ ancestors, if he doth not break that thigh of thine in the great
 conflict. And sparkles of fire began to be emitted from every organ of
 sense of Bhima filled with wrath, like those that come out of every crack
 and orifice in the body of a blazing tree.
-"|2|Sabha Parva|428
+"|2|Sabha Parva|428|e687303211be42d3b6ca239d031fc069
 2|SECTION LXX||"Vidura then, addressing everybody, said,--'Ye kings of Pratipa's race,
 behold the great danger that ariseth from Bhimasena. Know ye for certain
 that this great calamity that threatens to overtake the Bharatas hath
@@ -6214,7 +6214,7 @@ truth.'
 the words of Bhima, of Arjuna and of the twins. Let them say that
 Yudhishthira is not their master. Yajnaseni will then be freed from her
 state of bondage.""
-"|3|Sabha Parva|322
+"|3|Sabha Parva|322|156164f239684314a93a0e384ea95242
 2|SECTION LXX||"""Arjuna at this, said,--""This illustrious son of Kunti, king Yudhishthira
 the just, was certainly our master before he began to play. But having
 lost himself, let all the Kauravas judge whose master he could be after
@@ -6240,7 +6240,7 @@ relatives and friends from destruction, began to console Krishna, the
 princess of Panchala, and addressing her, the monarch said,--'Ask of me
 any boon, O princess of Panchala, that thou desirest, Chaste and devoted
 to virtue, thou art the first of all my daughters-in-law.
-"|4|Sabha Parva|397
+"|4|Sabha Parva|397|41282fc55221483794accf639800513a
 2|SECTION LXX||"""Draupadi said,--'O bull of the Bharata race, if thou will grant me a
 boon, I ask the handsome Yudhishthira, obedient to every duty, be freed
 from slavery. Let not unthinking children call my child Prativindhya
@@ -6269,10 +6269,10 @@ ask one boon; a Kshatriya lady, two boons; a Kshatriya male, three, and a
 Brahmana, a hundred. O king, these my husbands freed from the wretched
 state of bondage, will be able to achieve prosperity by their own
 virtuous acts!'""
-"|5|Sabha Parva|405
+"|5|Sabha Parva|405|d6050aee92784608913b349e1f28ffce
 2|SECTION LXX||"
 
-"|6|Sabha Parva|1
+"|6|Sabha Parva|1|3afc8e6723b84b20b2ba2cc436ea91cb
 2|SECTION LXXI||"
 ""Karna said,--'We have never heard of such an act (as this one of
 Draupadi), performed by any of the women noted in this world for their
@@ -6298,7 +6298,7 @@ harsh words that may or may not be uttered by inferior men. Persons that
 have earned respect for themselves, even if they are able to retaliate,
 remember not the acts of hostility done by their enemies, but, on the
 other hand, treasure up only their good deeds.'
-"|1|Sabha Parva|374
+"|1|Sabha Parva|374|5ff08f1cfeac42f18a3c069215054808
 2|SECTION LXXI||"'Bhima said,--'Shall I, O king, slay, without loss of time all these foes
 assembled together, even here, or shall I destroy them, O Bharata, by the
 roots, outside this palace? Or, what need is there of words or of
@@ -6316,10 +6316,10 @@ Yudhishthira forbade the mighty hero, embracing him with his arms and
 telling him 'Be not so. Stay in silence and peace.' And having pacified
 the mighty-armed one with eyes red in wrath, the king approached his
 uncle Dhritarashtra, with hands joined in entreaty.""
-"|2|Sabha Parva|302
+"|2|Sabha Parva|302|5986cd0d081347a88217cbbc9316a1c5
 2|SECTION LXXI||"
 
-"|3|Sabha Parva|1
+"|3|Sabha Parva|1|59ff069bd75448738d659b06495264f1
 2|SECTION LXXII||"
 ""Yudhishthira said,--'O king, thou art our master. Command us as to what
 we shall do. O Bharata, we desire to remain always in obedience to thee.
@@ -6351,7 +6351,7 @@ limits of virtue, wealth, pleasure and salvation. O child, remember not
 the harsh words of Duryodhana. Look at thy mother Gandhari and myself
 also, if thou desirest to remember only what is good. O Bharata, look at
 me, who am thy father unto you and am old and blind, and still alive. It
-"|1|Sabha Parva|518
+"|1|Sabha Parva|518|52a92dbc30344e5cbb6af48109934eba
 2|SECTION LXXII||"of my children, that I had, from motives of policy, suffered this match
 at dice to proceed. O king those amongst the Kurus that have thee for
 their ruler, and the intelligent Vidura conversant with every branch of
@@ -6371,7 +6371,7 @@ set out for that best of cities called Indraprastha.""
 
 
 
-"|2|Sabha Parva|253
+"|2|Sabha Parva|253|2037cdeeba46423db67b5462e0b5e970
 2|SECTION LXXIII||"
 Janamejaya said,--""How did the sons of Dhritarashtra feel, when they came
 to know that the Pandavas had, with Dhritarashtra's leave, left
@@ -6403,7 +6403,7 @@ their cars, the angry sons of Pandu like wrathful and venomous snakes
 will assuredly annihilate us, O father. Even now Arjuna proceedeth,
 encased in mail and furnished with his couple of quivers, frequently
 taking up the Gandiva and breathing hard and casting angry glances
-"|1|Sabha Parva|508
+"|1|Sabha Parva|508|6d8ca69577f4433dbdc7fa1621aa5f76
 2|SECTION LXXIII||"his car to be made ready and riding on it, is proceeding along,
 frequently whirling his heavy mace. Nakula also is going along, with the
 sword in his grasp and the semi-circular shield in his hand. And Sahadeva
@@ -6426,7 +6426,7 @@ vow for thirteen years, we shall be in the meantime firmly rooted in the
 kingdom and making alliances, assemble a vast invincible host and keep
 them content, so that we shall, O king, defeat the sons of Pandu if they
 reappear. Let this plan recommend itself to thee, O slayer of foes.
-"|2|Sabha Parva|382
+"|2|Sabha Parva|382|dd8d8c57e0c2408bbaba429829ad6389
 2|SECTION LXXIII||"""Dhritarashtra said,--Bring back the Pandavas then, indeed, even if they
 have gone a great way. Let them come at once again to cast dice.""
 
@@ -6439,7 +6439,7 @@ wise friends and relatives, summoned the sons of Pandu.""
 
 
 
-"|3|Sabha Parva|163
+"|3|Sabha Parva|163|415216fc13934a018333af100fa0af08
 2|SECTION LXXIV||"
 Vaisampayana said,--'O monarch, it was then that the virtuous Gandhari,
 afflicted with grief on account of her affection for her sons, addressed
@@ -6466,7 +6466,7 @@ and true policy, be what it naturally is. That prosperity which is
 acquired by the aid of wicked acts, is soon destroyed; while that which
 is won by mild means taketh root and descendeth from generation to
 generation.""
-"|1|Sabha Parva|437
+"|1|Sabha Parva|437|6217359e882641139af888d02189e4da
 2|SECTION LXXIV||"""The king, thus addressed by Gandhari who pointed out to him in such
 language the path of virtue, replied unto her, saying,--'If the
 destruction of our race is come, let it take place freely. I am ill able
@@ -6475,7 +6475,7 @@ return. And let my sons again gamble with the sons of Pandu.""
 
 
 
-"|2|Sabha Parva|89
+"|2|Sabha Parva|89|c99ea8cb9af84705bbf6fff804623646
 2|SECTION LXXV||"
 Vaisampayana said,--'The royal messenger, agreeably to the commands of
 the intelligent king Dhritarashtra, coming upon Yudhishthira, the son of
@@ -6500,7 +6500,7 @@ with him again. These mighty warriors again entered that assembly,
 afflicting the hearts of all their friends. And compelled by Fate they
 once more sat down at ease for gambling for the destruction of
 themselves.""
-"|1|Sabha Parva|347
+"|1|Sabha Parva|347|73877850deb64413a9b17342e7a3ac1b
 2|SECTION LXXV||"""Sakuni then said,--'The old king hath given ye back all your wealth.
 That is well. But, O bull of the Bharata race, listen to me, there is a
 stake of great value. Either defeated by ye at dice, dressed in deer
@@ -6521,7 +6521,7 @@ these words,--'Alas, fie on the friends of Duryodhana that they do not
 apprise him of his great danger. Whether he, O bull among the Bharatas,
 (Dhritarashtra) understandeth or not, of his own sense, it is thy duty to
 tell him plainly.""
-"|2|Sabha Parva|308
+"|2|Sabha Parva|308|5d351cfc0ae04f5390df8b7967654a76
 2|SECTION LXXV||"""Vaisampayana continued,--King Yudhishthira, even hearing these various
 remarks, from shame and a sense of virtue again sat at dice. And though
 possessed of great intelligence and fully knowing the consequences, he
@@ -6546,7 +6546,7 @@ casting them he said unto Yudhishthira,--'Lo, I have won.""
 
 
 
-"|3|Sabha Parva|299
+"|3|Sabha Parva|299|3c1677d874294a23981a64a9903605d1
 2|SECTION LXXVI||"
 Vaisampayana said,--""Then the vanquished sons of Pritha prepared for
 their exile into the woods. And they, one after another, in due order,
@@ -6578,7 +6578,7 @@ beholding in the woods these thy husbands dressed in skins and
 thread-bare rags, deprived of their wealth and possessions. Elect thou a
 husband, whomsoever thou likest, from among all these present here. These
 Kurus assembled here, are all forbearing and self-controlled, and
-"|1|Sabha Parva|512
+"|1|Sabha Parva|512|676055c12e7d4a32a50fd8a658283fc2
 2|SECTION LXXVI||"that these great calamity may not drag thee to wretchedness. 'The sons of
 Pandu now are even like grains of sesame without the kernel, or like
 show-animals encased in skins, or like grains of rice without the kernel.
@@ -6602,7 +6602,7 @@ Vaisampayana continued,--Unto Bhima dressed in deer-skins and uttering
 these words of wrath without doing any thing, for he could not deviate
 from the path of virtue, Dussasana abandoning all sense of shame, dancing
 around the Kurus, loudly said, 'O cow! O cow!'
-"|2|Sabha Parva|363
+"|2|Sabha Parva|363|3b3e27e409504da988eb654b9572ea1e
 2|SECTION LXXVI||"Bhima at this once more said,--Wretch darest thou, O Dussasana, use harsh
 words as these? Whom doth it behove to boast, thus having won wealth by
 foul means? I tell thee that if Vrikodara, the son of Pritha, drinketh
@@ -6627,7 +6627,7 @@ Kurus, I will slay this wretched Duryodhana in battle with my mace, and
 prostrating him on the ground I will place my foot on his head. And as
 regards this (other) wicked person--Dussasana who is audacious in speech,
 I will drink his blood like a lion.
-"|3|Sabha Parva|427
+"|3|Sabha Parva|427|90e14834e5c84c5580709b83cc160d4e
 2|SECTION LXXVI||"""And Arjuna said,--O Bhima, the resolutions of superior men are not known
 in words only. On the fourteenth year from this day, they shall see what
 happeneth.
@@ -6657,7 +6657,7 @@ thy followers. If therefore thou hast anything to do, do it before that
 day cometh. I shall assuredly slay thee in battle with all thy followers
 soon enough, it thou, O son of Suvala, stayest in the light pursuant to
 the Kshatriya usage.'
-"|4|Sabha Parva|454
+"|4|Sabha Parva|454|d48ed8c730c7430e8a5470e48c0a05e4
 2|SECTION LXXVI||"""'Then, O monarch hearing these words of Sahadeva, Nakula the handsomest
 of men spake these words,--'I shall certainly send unto the abode of Yama
 all those wicked sons of Dhritarashtra, who desirous of death and
@@ -6673,7 +6673,7 @@ king Dhritarashtra.""
 
 
 
-"|5|Sabha Parva|185
+"|5|Sabha Parva|185|6613c2b1d85040188957f7fda8bbe99a
 2|SECTION LXXVII||"
 Yudhishthira said,--'I bid farewell unto all the Bharatas, unto my old
 grand-sire (Bhishma), king Somadatta, the great king Vahlika, Drona,
@@ -6696,7 +6696,7 @@ father. We also are all obedient to thee. Thou art, O learned one, our
 most respected superior. We should always obey what thou choosest to
 command. And, O high-souled one, order thou whatever else there is that
 remaineth to be done.
-"|1|Sabha Parva|338
+"|1|Sabha Parva|338|7e2ca0376ead4fd3ac472002e4455c2a
 2|SECTION LXXVII||"""Vidura replied,--'O Yudhishthira, O bull of the Bharata race, know this
 to be my opinion, that one that is vanquished by sinful means need not be
 pained by such defeat. Thou knowest every rule of morality; Dhananjaya is
@@ -6723,7 +6723,7 @@ victory, which belongeth to Indra; to control thy wrath, which belongeth
 to Yama; to give in charity, which belongeth to Kuvera; and to control
 all passions, which belongeth to Varuna. And, O Bharata, obtain thou the
 power of gladdening from the moon, the power of sustaining all from
-"|2|Sabha Parva|516
+"|2|Sabha Parva|516|b235730b88b3411c97c7a7d17bc79fc8
 2|SECTION LXXVII||"strength from the winds, and affluence from the other elements. Welfare
 and immunity from ailment be thine; I hope to see thee return. And, O
 Yudhishthira, act properly and duly in all seasons,--in those of
@@ -6738,7 +6738,7 @@ bowing low unto Bhishma and Drona, went away.""
 
 
 
-"|3|Sabha Parva|186
+"|3|Sabha Parva|186|f92e0a9ad65b448084f7b9cb3f9bbd21
 2|SECTION LXXVIII||"
 Vaisampayana said,--'Then when Draupadi was about to set out she went
 unto the illustrious Pritha and solicited her leave. And she also asked
@@ -6761,7 +6761,7 @@ suffer their hearts to the unstung at what is inevitable. Protected by
 virtue that is superior to everything, soon shalt thou obtain good
 fortune. While living in the woods, keep thy eye on my child Sahadeva.
 See that his heart sinketh not under this great calamity.'
-"|1|Sabha Parva|334
+"|1|Sabha Parva|334|a4525922780a4502980247da3eea8f51
 2|SECTION LXXVIII||"""Saying 'So be it!' the princess Draupadi bathed in tears, and clad in
 one piece of cloth, stained with blood, and with hair dishevelled left
 her mother-in-law. And as she went away weeping and wailing Pritha
@@ -6792,7 +6792,7 @@ Madri, as I regard her today, who had, it seems, a fore-knowledge of what
 would happen and who on that account, obtained the high path of
 emancipation and every blessing therewith. All, Madri looked upon me as
 her stay, and her mind and her affections were ever fixed on me. Oh, fie
-"|2|Sabha Parva|512
+"|2|Sabha Parva|512|34beeaa6f8f54eec9fc86c4ca9b543b1
 2|SECTION LXXVIII||"are all excellent and dear unto me. I have obtained you alter much
 suffering. I cannot leave you. Even I will go with you. Alas, O Krishna,
 (Draupadi), why dost thou leave me so? Everything endued with life is
@@ -6813,7 +6813,7 @@ dearest child, dearer, O son of Madri, than my body itself. Forsake me
 not. It behoveth thee to have some kindness for me. Bound by the ties of
 virtue, let these thy brothers go. But then, earn thou that virtue which
 springeth from waiting upon me.'""
-"|3|Sabha Parva|370
+"|3|Sabha Parva|370|05f37e210179448b98351c2f6ff4a87a
 2|SECTION LXXVIII||"Vaisampayana continued,--""The Pandavas then consoled their weeping mother
 and with hearts plunged in grief set out for the woods. And Vidura
 himself also much afflicted, consoling the distressed Kunti with reasons,
@@ -6834,7 +6834,7 @@ Pandavas had left Hastinapore.""
 
 
 
-"|4|Sabha Parva|272
+"|4|Sabha Parva|272|740687201f4d4ee39726cf2803a521fe
 2|SECTION LXXIX||"
 Vaisampayana said,--""As soon as Vidura endued with great foresight came
 unto him king Dhritarashtra, the son of Amvika, timidly asked his
@@ -6854,7 +6854,7 @@ face with her dishevelled hair following in the wake of the king, weeping
 and in tears. And O monarch, Dhaumya goeth along the road, with kusa
 grass in hand, and uttering the aweful mantras of Sama Veda that relate
 to Yama.'
-"|1|Sabha Parva|334
+"|1|Sabha Parva|334|4a4709d0cad5403d87d555dfc4bc26b4
 2|SECTION LXXIX||"Dhritarashtra asked,--""Tell me, O Vidura, why is it that the Pandavas are
 leaving Hastinapore in such varied guise.""
 
@@ -6883,7 +6883,7 @@ hair dishevelled, and weeping, signifying--'The wives of those for whom I
 have been reduced to such a plight, shall on the fourteenth year hence be
 deprived of husbands, sons and relatives and dear ones and smeared all
 over with blood, with hair dishevelled and all in their feminine seasons
-"|2|Sabha Parva|503
+"|2|Sabha Parva|503|9b5c257f5f724340ab708c8037a394f8
 2|SECTION LXXIX||"those they will have lost). And O Bharata, the learned Dhaumya with
 passions under full control, holding the kusa grass in his hand and
 pointing the same towards the south-west, walketh before, singing the
@@ -6908,7 +6908,7 @@ gods and the tops of sacred trees and walls and house-tops. And these
 extraordinary calamitous portents, O king, were seen and heard,
 indicating the destruction of the Bharatas as the consequence of thy evil
 counsels.""
-"|3|Sabha Parva|408
+"|3|Sabha Parva|408|93f14532f2364493ad10b962d071edf4
 2|SECTION LXXIX||"Vaisampayana continued,--""And, O monarch, while king Dhritarashtra and
 the wise Vidura were thus talking with each other, there appeared in that
 assembly of the Kauravas and before the eyes of all, the best of the
@@ -6936,7 +6936,7 @@ and Upayaja, Drupada obtained from the (sacrificial) fire a son named
 Dhrishtadyumna and a daughter, viz., the faultless Krishna, both risen
 from the sacrificial platform. That Dhrishtadyumna is the brother-in-law
 of the sons of Pandu by marriage, and dear unto them. It is for him,
-"|4|Sabha Parva|504
+"|4|Sabha Parva|504|a98066eec7c845a2a8b534619159423e
 2|SECTION LXXIX||"the fire, he was born with bow, arrows, and encased in mail. I am a being
 that is mortal. Therefore it is for him that I have great fear. That
 slayer of all foes, the son of Parshatta, hath taken the side of the
@@ -6959,10 +6959,10 @@ said,--'O Kshatta, the preceptor hath uttered what is true. Go thou and
 bring back the Pandavas. If they do not come back, let them go treated
 with respect and affection. Let those my sons go with weapons, and cars,
 and infantry, and enjoying every other good thing.'""
-"|5|Sabha Parva|368
+"|5|Sabha Parva|368|0673a854e3cc4739bc2bff53b04b7133
 2|SECTION LXXIX||"
 
-"|6|Sabha Parva|1
+"|6|Sabha Parva|1|dc2ce16f01174e438d1161d34f67e2a4
 2|SECTION LXXX||"
 Vaisampayana said,--""defeated at dice, after the Pandavas had gone to the
 woods, Dhritarashtra, O king, was overcome with anxiety. And while he was
@@ -6996,7 +6996,7 @@ Who else than Duryodhana--that false player of dice could bring into the
 assembly, with insults, the daughter of Drupada, endued with beauty and
 intelligence, and conversant with every rule of morality and duty, and
 sprung not from any woman's womb but from the sacred fire? The handsome
-"|1|Sabha Parva|507
+"|1|Sabha Parva|507|c971086b83e54bbda225445a94cc81f3
 2|SECTION LXXX||"brought into the court cast her eyes upon the Pandavas. She beheld them,
 however, robbed of their wealth, of their kingdom, of even their attire,
 of their beauty, of every enjoyment, and plunged into a state of bondage.
@@ -7027,7 +7027,7 @@ grant thee boons, O Krishna, indeed, whatever thou wouldst ask? The
 princess of the Panchala there begged of me the liberation of the
 Pandavas. Out of my own motion I then set free the Pandavas, commanding
 them to return (to their capital) on their cars and with their bows and
-"|2|Sabha Parva|513
+"|2|Sabha Parva|513|fabc6257f4714959847063a8e443489e
 2|SECTION LXXX||"destruction of the Bharata race, viz., this dragging of Krishna into the
 court. This daughter of the King of Panchala is the faultless Sree
 herself. Of celestial origin, she is the wedded wife of the Pandavas. The
@@ -7048,9 +7048,9 @@ any kind, unite the two parties, O king. And it thou actest in this way,
 thou art sure to obtain good luck, O king. It was thus, O son of
 Gavalgani, that Vidura addressed me in words of both virtue and profit.
 And I did not accept this counsel, moved by affection for my son.""
-"|3|Sabha Parva|369
+"|3|Sabha Parva|369|ef0a4373f4a346bea45ac07e0df9bb14
 2|SECTION LXXX||"The End of Sabha Parva
 
 FOOTNOTES
 
-1. A word of benediction, similar to 'Amen.'"|4|Sabha Parva|12
+1. A word of benediction, similar to 'Amen.'"|4|Sabha Parva|12|e5f2088554464b02819f969cd29f7bae

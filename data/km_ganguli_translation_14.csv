@@ -1,4 +1,4 @@
-book_number|section|section_name|text|para_number|book_name|num_tokens
+book_number|section|section_name|text|para_number|book_name|num_tokens|chunk_id
 14|NA|NA|"The Mahabharata
 
 of
@@ -25,7 +25,7 @@ THE MAHABHARATA
 
 ASWAMEDHA PARVA
 
-"|1|Ashwamedha Parva|94
+"|1|Ashwamedha Parva|94|de9063838e8743c58a5f26d45abb321b
 14|SECTION I|Aswamedhika Parva|"
 
 OM! HAVING BOWED down unto Narayana, and Nara the foremost of male
@@ -55,7 +55,7 @@ virtuous Vidura, endowed with divine insight, had told me,--'Thy race
 will meet with annihilation owing to the transgressions of Duryodhana. O
 king, if thou wish for the weal of thy line, act up to my advice. Cast
 off this wicked-minded monarch, Suyodhana, and let not either Karna or
-"|1|Ashwamedha Parva|505
+"|1|Ashwamedha Parva|505|a86b36bd1ad1428e983ea6df29062b32
 14|SECTION I|Aswamedhika Parva|"any fuss suppress, and anoint the righteous king Yudhishthira. That one
 of subdued senses will righteously govern the Earth. If thou wouldst not
 have king Yudhishthira, son of Kunti, then, O monarch, do thou,
@@ -71,7 +71,7 @@ grief.""'""
 
 
 
-"|2|Ashwamedha Parva|220
+"|2|Ashwamedha Parva|220|efb00d54d7344b60ab57f2c773683449
 14|SECTION II||"
 ""Vaisampayana said, 'Thus addressed by the intelligent king Dhritarashtra
 Yudhishthira, possessed of understanding, became calm. And then Kesava
@@ -100,7 +100,7 @@ discus, O scion of Yadu's race, O glorious one, if (now) with a pleased
 mind thou dost permit me to go to the ascetic's retreat in the woods,
 then thou wouldst compass what is highly desired by me. Peace find I none
 after having slain my grand-father, and that foremost of men, Karna, who
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|a09d10378f9f4104a75e604ce24a5b74
 14|SECTION II||"I may be freed from this heinous sin and that my mind may be purified."" As
 Pritha's son was speaking thus, the highly-energetic Vyasa, cognisant of
 the duties of life, soothing him, spoke these excellent words, ""My child,
@@ -120,7 +120,7 @@ Agamas, art thou overwhelmed (with grief) as if from ignorance?""'""
 
 
 
-"|2|Ashwamedha Parva|276
+"|2|Ashwamedha Parva|276|582bdb23acef4c8bbc15fadca802a6b1
 14|SECTION III||"
 ""'Vyasa said, ""O Yudhishthira, thy wisdom, I conceive, is not adequate.
 None doth any act by virtue of his own power. It is God, who engageth him
@@ -149,7 +149,7 @@ with their wounds yet green, and undergoing suffering. How, O foremost of
 twice-born ones, having myself destroyed the Earth can I, overcome by
 sorrow, levy dues for celebrating a sacrifice? Through Duryodhana's
 fault, O best of ascetics, the kings of the Earth have met with
-"|1|Ashwamedha Parva|511
+"|1|Ashwamedha Parva|511|aac4f0ad573f42d09765faebe223ab6b
 14|SECTION III||"wasted the Earth; and the treasury of that wicked-minded son of
 Dhritarashtra is empty. (In this sacrifice), the Earth is the Dakshina;
 this is the rule that is prescribed in the first instance. The usual
@@ -169,7 +169,7 @@ possessed of immense wealth reigned.""'""
 
 
 
-"|2|Ashwamedha Parva|298
+"|2|Ashwamedha Parva|298|b11185b8767542aaa0e501973c877772
 14|SECTION IV||"
 ""'Yudhishthira said, ""O righteous one, I am desirous of hearing the
 history of that royal sage Marutta. Do thou, O Dwaipayana, relate this
@@ -201,7 +201,7 @@ his treasury, horses and vehicles were impoverished, the king underwent
 great tribulation along with his retainers and the denizens of his
 capital. Although his power waned greatly, yet the foes could not slay
 the king, for his power, O Yudhishthira, was established in
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|3678689de3bc46c79d9474de1e384268
 14|SECTION IV||"the citizens, he blew his hand (with his mouth), and from that there
 appeared a supply of forces. And then he vanquished all the kings living
 along the borders of his dominions. And from this circumstance O king, he
@@ -228,10 +228,10 @@ goldsmiths made basins and vessels and pans and seats without number. And
 the sacrificial ground was near this place. And that righteous lord of
 Earth, king Marutta, along with other princes, performed a sacrifice
 there.""'""
-"|2|Ashwamedha Parva|430
+"|2|Ashwamedha Parva|430|2e3f7ef99a4d427894a8ef7ddb58928a
 14|SECTION IV||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|0b693f2b7fe5433cb06f912cf0221273
 14|SECTION V||"
 ""'Yudhishthira said, ""O best of speakers, how did that king become so
 powerful? And how, O twice-born one, did he obtain so much gold? And
@@ -262,7 +262,7 @@ a son named Marutta, endowed with energy, and resembling Vasava himself.
 This earth clad in oceans, felt herself drawn towards him. He always[5]
 used to defy the lord of the celestials; and O son of Pandu, Vasava also
 defied Marutta. And Marutta,--master of Earth--was pure and possessed of
-"|1|Ashwamedha Parva|507
+"|1|Ashwamedha Parva|507|84812d8165544fdd9d2eaca753714123
 14|SECTION V||"him. And incapable of controlling him, he riding on the horse, along with
 the celestials summoning Vrihaspati, spoke to him thus, 'O Vrihaspati, if
 thou wishest to do what is agreeable to me, do not perform priestly
@@ -283,14 +283,14 @@ chastiser of Paka, serve a mortal prince? Do thou listen to what I say.
 Even if the god of fire cease to cause heat and warmth, or the earth
 change its nature, or the sun ceases to give light, I shall never deviate
 from the truth (that I have spoken).'""
-"|2|Ashwamedha Parva|385
+"|2|Ashwamedha Parva|385|0ccfcbbca4d04b758cd61d940d4bb85a
 14|SECTION V||"""Vaisampayana continued,--'On hearing this speech from Vrihaspati Indra
 became cured of his envious feelings, and then praising him he repaired
 to his own mansion.'""
 
 
 
-"|3|Ashwamedha Parva|45
+"|3|Ashwamedha Parva|45|7d47b7e76428491797bbd413afbe8ed2
 14|SECTION VI||"
 ""'Vyasa said, ""The ancient legend of Vrihaspati and the wise Marutta is
 cited in this connection. On hearing of the compact made by Angira's son
@@ -313,7 +313,7 @@ sacrifice. I have been appointed as priest by the Lord of the gods
 reason I entertain great regard for thee, and I have acquired the right of
 being assisted at sacrifices by thee, and therefore it is meet that thou
 shouldst officiate as priest at my sacrifice.'
-"|1|Ashwamedha Parva|315
+"|1|Ashwamedha Parva|315|0054b306130141f29411dd4e5b81c54b
 14|SECTION VI||"""'""Vrihaspati said, 'Having, O Marutta, acted as priest to the Immortals,
 how can I act as such to mortal men, and whether thou dost depart hence
 or stay, I tell thee, I have ceased to act as priest to any but the
@@ -335,7 +335,7 @@ may allay the disquietude of thy mind with all my efforts.'""'
 ""Vaisampayana continued, 'Thus addressed by the great Rishi Narada, king
 Marutta informed him of the rebuff he had received from his religious
 preceptor.'
-"|2|Ashwamedha Parva|330
+"|2|Ashwamedha Parva|330|978a1b72708c43f79eb05ccc4997517f
 14|SECTION VI||"""'""Marutta said, 'Seeking for a priest to officiate at my sacrifice, I went
 to that priest of the Immortals, Vrihaspati, the son of Angira, but he
 did not choose to accept my offer. Having met with this rebuff from him,
@@ -356,7 +356,7 @@ O Narada, but O the best of speakers, do thou tell me where I can find
 Samvarta, and how I can remain by his side, and how I am to act so that
 he may not abandon me, for I do not desire to live if I meet with a
 rebuff from him also.'
-"|3|Ashwamedha Parva|308
+"|3|Ashwamedha Parva|308|9615cd2b073c43a4b9d1b26245e07d54
 14|SECTION VI||"""'""Narada said, 'Desirous of seeing Maheswara, O prince, he wanders about
 at his pleasure in the city of Varanasi, in the garb of a mad man. And
 having reached the gate of that city, thou must place a dead body
@@ -385,10 +385,10 @@ oppressed by Samvarta, the king followed that sage with his hands clasped
 together in supplication and trying to appease him. At length overcome
 with fatigue, and reaching the cool shade of a sacred fig tree with many
 branches, Samvarta desisted from his course and sat himself to rest.""'""
-"|4|Ashwamedha Parva|468
+"|4|Ashwamedha Parva|468|04d07b5ad4914212a47722f9f00b8900
 14|SECTION VI||"
 
-"|5|Ashwamedha Parva|1
+"|5|Ashwamedha Parva|1|28511bdcf7814b66b5bfd5b4aa21667f
 14|SECTION VII||"
 ""'""Samvarta said, 'How hast thou come to know me, and who has referred thee
 to me, do thou tell this to me truly, if thou wishest me to do what is
@@ -424,7 +424,7 @@ mine, and, O son of Avikshit, as he is worthy of all respect from me, I
 cannot by any means officiate at thy sacrifice, unless with his
 permission. Thou must therefore go to Vrihaspati first, and taking his
 permission thou canst come back to me, if thou hast any desire to perform
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|735fd800366a4fc9af40e0aaa0d3a027
 14|SECTION VII||"
 ""'""Marutta said, 'Do thou listen to me, O Samvarta, I did go to Vrihaspati
 first, but desiring the patronage of Vasava, he did not wish to have me
@@ -450,7 +450,7 @@ do all they can to injure thee. Therefore, do thou assure me of thy
 steadfastness, so as to ensure my coolness and constancy, as otherwise,
 if I am filled with wrath against thee, I shall reduce (destroy) thee and
 thy kindred to ashes.'
-"|2|Ashwamedha Parva|430
+"|2|Ashwamedha Parva|430|d0154023097a4901bf3578470e8b4358
 14|SECTION VII||"""'""Marutta said, 'If ever I forsake thee, may I never attain the blessed
 regions as long as the mountains shall exist, and the thousand-rayed sun
 continue to emit heat: if I forsake thee, may I never attain true wisdom,
@@ -468,7 +468,7 @@ thee.'""'""
 
 
 
-"|3|Ashwamedha Parva|222
+"|3|Ashwamedha Parva|222|13052a25ec654b4780d30a0b73c06fe1
 14|SECTION VIII||"
 ""'""Samvarta said, 'There is a peak named Munjaban on the summits of the
 Himalaya mountains, where the adorable Lord of Uma (Mahadeva) is
@@ -497,7 +497,7 @@ these mines of gold from intruders, with uplifted arms. Hie thee thither,
 and appease that adorable god who is known by the names of Sarva, Bedha,
 Rudra, Sitikantha, Surapa, Suvarcha, Kapardi, Karala, Haryyaksha, Varada,
 Tryaksha, Pushnodantabhid, Vamana, Siva, Yamya, Avyaktarupa, Sadvritta,
-"|1|Ashwamedha Parva|521
+"|1|Ashwamedha Parva|521|2892250da34c42ad86ad646021e6dc4d
 14|SECTION VIII||"Uttarana, Bhaskara, Sutirtha, Devadeva, Ranha, Ushnishi, Suvaktra,
 Sahasraksha, Midhvan, Girisa, Prasanta, Yata, Chiravasa, Vilwadanda,
 Siddha, Sarvadandadhara, Mriga, Vyadha, Mahan, Dhanesa, Bhava, Vara,
@@ -515,7 +515,7 @@ Mahanja, Sarvabhuta-prabhava, Sarvabhuta-dharana, Dharanidhara, Isana,
 Sankara, Sarva, Siva, Visveswara, Bhava, Umapati, Pasupati, Viswarupa,
 Maheswara, Virupaksha, Dasabhuja, Vrishavadhwaja, Ugra, Sthanu, Siva,
 Rudra, Sarva, Girisa, Iswara, Sitakantha, Aja, Sukra, Prithu, Prithuhara,
-"|2|Ashwamedha Parva|522
+"|2|Ashwamedha Parva|522|273217fdc5054717b5b0fd785483c416
 14|SECTION VIII||"Saranya, Mahadeva, Chaturmukha. There bowing unto that deity, must thou
 crave his protection. And thus, O prince, making thy submission to that
 high-souled Mahadeva of great energy, shalt thou acquire that gold. And
@@ -532,7 +532,7 @@ went to him attended by the Immortals and addressed him thus.""'""
 
 
 
-"|3|Ashwamedha Parva|234
+"|3|Ashwamedha Parva|234|c270c3b3549943eb95f60a2b40db8991
 14|SECTION IX||"
 ""'""Indra said, 'Dost thou, O Vrihaspati, sleep in peace, and are thy
 servants agreeable to thee, dost thou seek the welfare of the gods, and
@@ -557,7 +557,7 @@ that sacrifice.'
 desire when thou hast become the excellent priest of the gods, versed in
 all the sacred hymns, and hast overreached the influence of death and
 dotage, what can Samvarta do to thee now?'
-"|1|Ashwamedha Parva|319
+"|1|Ashwamedha Parva|319|b90e6512e83042cc882829b40785d9b9
 14|SECTION IX||"""'""Vrihaspati said, 'Prosperity of a rival is always painful to one's
 feelings, and for this reason too, thou dost with thy attendant gods
 persecute the Asuras with their kith and kin, and kill the most
@@ -581,7 +581,7 @@ and revolving at random at the end of the winter season.""
 ""'""Marutta said, 'Behold! I find the fire-god come in his own embodiment,
 this day, therefore do thou, O Muni, offer him a seat and water, and a
 cow, and water for washing the feet.'
-"|2|Ashwamedha Parva|339
+"|2|Ashwamedha Parva|339|17b9cff99e2c4bbda642e148843dd19d
 14|SECTION IX||"""'""Agni said, 'I accept thy offerings of water, seat, and water for washing
 the feet, O sinless one, do thou know me as the messenger of Indra, come
 to thee, in accordance with his directions.'
@@ -610,7 +610,7 @@ heavenly region. And, O lord of men, if Vrihaspati act as thy priest,
 thou shalt be able to conquer all the regions inhabited by men, and the
 heavenly regions, and all the highest regions created by Prajapati and
 even the entire kingdom of the gods.'
-"|3|Ashwamedha Parva|414
+"|3|Ashwamedha Parva|414|c954c0e019e04a80a11bfa7ac2f14acd
 14|SECTION IX||"""'""Samvarta said, 'Thou must never come again thus to present Vrihaspati to
 Marutta: for know, O Pavaka, (Agni) if thou dost, I losing my temper,
 will burn thee with my fierce evil eyes.'""
@@ -634,7 +634,7 @@ Indra.'
 ""'""Indra said, 'Do thou go back to that king and meeting him, tell him
 these words of mine, full of significance, and if he obey them not, I shall
 strike him with my thunderbolt.'
-"|4|Ashwamedha Parva|324
+"|4|Ashwamedha Parva|324|7934720904474f8e89277f475108e48b
 14|SECTION IX||"""'""Agni said, 'Let this king of the Gandharvas repair thither as thy
 messenger, O Vasava, for, I am afraid to go thither myself. Know, O
 Sakra, that highly incensed Samvarta, used to ascetic practices, told me
@@ -660,7 +660,7 @@ time. But who among mortals can live in peace by creating feud with me. I
 have banished the Kalakeyas to the earth, and removed the Danavas from
 heaven, and have terminated the existence of Prahlada in heaven. Can
 there be any man who can live in peace by provoking my enmity?'
-"|5|Ashwamedha Parva|390
+"|5|Ashwamedha Parva|390|3d4b1831e4114596a99f3e6a12dc8e31
 14|SECTION IX||"""'""Agni said, 'Dost thou, O Mahendra, remember that in olden times when the
 sage Chyavana officiated at the sacrifice of Saryati with the twin gods
 Aswins and himself appropriated the Soma offering alone, thou wert filled
@@ -683,10 +683,10 @@ protection of the great sage. The might of Brahmanas, O Sakra, is greater
 than that of the Kshatriyas. None are more powerful than Brahmanas and
 knowing duly, as I do, the power of Brahmanas, I do not, O Sakra, desire
 to come in conflict with Samvarta.'""'""
-"|6|Ashwamedha Parva|399
+"|6|Ashwamedha Parva|399|8c2f87a8f57842ce9cf564e3988d1ae9
 14|SECTION IX||"
 
-"|7|Ashwamedha Parva|1
+"|7|Ashwamedha Parva|1|2caa1d3a18a947f5b3fd0dea12aed9ed
 14|SECTION X||"
 ""'""Indra said, 'Even so it is; the might of Brahmanas is great and there
 are none more powerful than Brahmanas, but I can never bear with
@@ -708,7 +708,7 @@ incomprehensible achievements (Indra) only said this much, ""Do thou
 accept Vrihaspati as thy officiating priest for the sacrifice, or if thou
 do not comply with my request, I shall strike thee with my terrific
 thunderbolt.""'
-"|1|Ashwamedha Parva|307
+"|1|Ashwamedha Parva|307|2c8e293fce2b4a5d8a0914d9a6cb4dc9
 14|SECTION X||"""'""Marutta said, 'Thou, O Purandara, the Viswadevas, the Vasus and the
 Aswins ye all know, that in this world there is no escape from the
 consequences of playing false to a friend; it is a great sin like unto
@@ -733,7 +733,7 @@ Indra from my mind. The Wielder of the thunderbolt is coming encompassing
 the ten directions of space with his terrible and superhuman refulgence
 and my assistants at this sacrificial assembly have been overcome with
 fright.'
-"|2|Ashwamedha Parva|369
+"|2|Ashwamedha Parva|369|15519055dc014b9a851db75261602e21
 14|SECTION X||"""'""Samvarta said, 'O lion among kings, thy fear of Sakra will soon be
 dispelled, and I shall soon remove this terrible pain by means of my
 magic lore (incantation); be calm and have no fear of being overpowered
@@ -757,7 +757,7 @@ thunderbolt will leave thee presently. I shall dispel the thunder by the
 aid of the winds, and setting aside all fear from thy mind, do thou
 accept a boon from me according to thy heart's desire, and I shall
 accomplish it for thee.'
-"|3|Ashwamedha Parva|347
+"|3|Ashwamedha Parva|347|a5b1f070c4e04309b8d834a30ff08445
 14|SECTION X||"""'""Marutta said, 'I desire, O Brahmana, that Indra all on a sudden should
 come in person at this sacrifice, and accept the oblation offered to him,
 and that all the other gods also come and take their own shares of the
@@ -783,7 +783,7 @@ Vritra, do thou again quaff this Soma juice produced by me today.'
 Indra, by thy presence, my sacrifice has been perfected, and my life too
 blessed with good results. O Surendra, this excellent Brahmana, the
 younger brother of Vrihaspati is engaged in performing my sacrifices.'
-"|4|Ashwamedha Parva|368
+"|4|Ashwamedha Parva|368|4b883bac4eb34ce4b5c09e3cee046195
 14|SECTION X||"""'""Indra said, 'I know thy priest, this highly energetic ascetic, the
 younger brother of Vrihaspati, at whose invitation I have come to this
 sacrifice. I am, O monarch, well-pleased with thee and my resentment
@@ -815,7 +815,7 @@ and worshipped by the Brahmanas, became an assistant at the sacrifice.
 And then the high-souled Samvarta ascending the altar, and looking
 radiant as the second embodiment of the blazing fire, loudly addressing
 the gods with complaisance, offered oblations of clarified butter to the
-"|5|Ashwamedha Parva|505
+"|5|Ashwamedha Parva|505|d55169e6f4214841a1553838fd8fd503
 14|SECTION X||"first drank the Soma juice, and then the assembly of other gods drank
 Soma. And then in happiness and with the king's permission they returned
 home and well-pleased and delighted. Then that monarch, the slayer of his
@@ -836,7 +836,7 @@ consultations with his ministers.'""
 
 
 
-"|6|Ashwamedha Parva|260
+"|6|Ashwamedha Parva|260|0bea6ee1a6b34bf9842d75c3b110c610
 14|SECTION XI||"
 ""Vaisampayana said, 'When Vyasa of wonderful achievements had concluded
 his speech to the king, the highly-puissant son of Vasudeva (Krishna)
@@ -868,7 +868,7 @@ property. The luminous matter being overwhelmed by Vritra and its
 property, colour and form being thereby lost, the wrathful Indra again
 hurled his thunderbolt at him. And thus wounded again by Indra of
 immeasurable power, Vritra entered all on a sudden into the Vayu (gaseous
-"|1|Ashwamedha Parva|522
+"|1|Ashwamedha Parva|522|51492608acf4489b92cbfe820b8ad2cc
 14|SECTION XI||"matter being overpowered by Vritra and its property, viz., touch being
 lost, Indra became again filled with wrath and flung his thunderbolt at
 him. And wounded therein by the mighty (Indra), he overwhelmed the Akasa
@@ -886,7 +886,7 @@ by Sakra to the great sages, and they in turn told it to me.""'""
 
 
 
-"|2|Ashwamedha Parva|251
+"|2|Ashwamedha Parva|251|6866adec1b16449f94cef515fe6b4692
 14|SECTION XII||"
 ""'Vasudeva said, ""There are two kinds of ailments, physical and mental.
 They are produced by the mutual action of the body and mind on each
@@ -917,7 +917,7 @@ thy robe, and thy wanderings in the great forest, nor shouldst thou
 recall to thy mind the affliction from Jatasura, the fight with
 Chitrasena, and thy troubles from the Saindhavas. Nor is it proper, O son
 of Pritha, and conqueror of thy foes, that thou shouldst recall the
-"|1|Ashwamedha Parva|508
+"|1|Ashwamedha Parva|508|137a3cb3ca924b8d83a80f563bc94e44
 14|SECTION XII||"passed in absolute concealment, nor the incidents of the fight which took
 place between thyself and Drona and Bhishma. The time has now arrived,
 when thou must fight the battle which each must fight single-handed with
@@ -935,7 +935,7 @@ administer thy kingdom.""'""
 
 
 
-"|2|Ashwamedha Parva|227
+"|2|Ashwamedha Parva|227|f7bb5d1c9f2e425e90a67eb6477bc036
 14|SECTION XIII||"
 ""'Vasudeva said, ""O scion of Bharata's race, salvation is not attained by
 foregoing the external things (like kingdom, etc), it is only attained by
@@ -965,7 +965,7 @@ eternal reality is able to overreach the influence of the great fear
 (perdition). Men do not look with approbation upon the conduct of those
 who are engrossed in worldly desires and there is no act without having a
 desire (at its root) and all (Kama) desires are, as it were, the limbs
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|b101227a3f3b44739cbac43c2c77c63d
 14|SECTION XIII||"desires. The Yogi who holds communion with the Supreme Spirit, knows Yoga
 to be the perfect way (to salvation) by reason of the practices of his
 many former births. And remembering that, what the soul desires, is not
@@ -995,7 +995,7 @@ object of attaining salvation desires to destroy me, I frolic and laugh
 in the face of such a man intent on salvation. I am the everlasting one
 without a compeer, whom no creature can kill or destroy. For this reason
 thou too, O prince, divert thy desires (Kama) to Virtue, so that, by this
-"|2|Ashwamedha Parva|503
+"|2|Ashwamedha Parva|503|22f120e53cb14649bda9c6d9716be16a
 14|SECTION XIII||"preparations for the due performance of the horse sacrifice with
 presents, and various other sacrifices of great splendour, and
 accompanied with presents. Let not therefore grief overpower thee again,
@@ -1006,7 +1006,7 @@ fame in this world, and reach the perfect way (hereafter).""'""
 
 
 
-"|3|Ashwamedha Parva|102
+"|3|Ashwamedha Parva|102|dd2db5599b56400693db681a9a0b9a01
 14|SECTION XIV||"
 ""Vaisampayana said, 'With such speeches as these, was the royal saint
 Yudhishthira, bereft of his friends, consoled by those sages of great
@@ -1037,7 +1037,7 @@ approved by all virtuous men."" Thus addressed by the king, those great
 saints, bidding the king and Krishna and Arjuna to repair to the
 Himalayan regions, then and there vanished in the presence of the
 assembled multitude, and the king, the lordly son of Dharma, then seated
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|de3c8434c6a941d0b435e265f0a56e50
 14|SECTION XIV||"death of Bhishma, were engaged in performing his funeral ceremonies. And
 their time, while thus engaged, seemed too long in passing and performing
 the last rites to the mortal remains of Bhishma, Karna and other foremost
@@ -1051,7 +1051,7 @@ continued to administer the earth with his brothers.'""
 
 
 
-"|2|Ashwamedha Parva|162
+"|2|Ashwamedha Parva|162|d06d7e938ecd49d5938cad0a69095c16
 14|SECTION XV||"
 ""Janamejaya said, 'O the best of regenerate beings, when the Pandavas had
 reconquered and pacified their kingdom, what did the two warriors,
@@ -1078,7 +1078,7 @@ knowing the science of all things having duly consoled him, Arjuna rested
 for a while, as if a great burden had been removed from his own person.
 Then Govinda (Krishna) consoling Arjuna with sweet speech addressed these
 well-reasoned words to him.
-"|1|Ashwamedha Parva|409
+"|1|Ashwamedha Parva|409|9a4b43a840454a30b88b2b4c01cf02e5
 14|SECTION XV||"""'Vasudeva said, ""O Arjuna, the terror of thine enemies, this whole earth
 has been conquered by the king, the son of Dharma, relying on the power
 of thy arms. And O the best of men, the virtuous king Yudhishthira now
@@ -1106,7 +1106,7 @@ appropriate legends suited to the occasion with a view of assuaging his
 grief, and the pliant and high-minded Yudhishthira, though our sovereign
 and versed in all lore paid due heed to our words. That son of Dharma
 honours truth, and is grateful and righteous, therefore will his virtue
-"|2|Ashwamedha Parva|508
+"|2|Ashwamedha Parva|508|fec719aa7bc54554b680b36344eb90fd
 14|SECTION XV||"Arjuna, if it pleases thee, do thou go to that high-minded prince and
 tell him of my intention to depart from this place. For, O thou of mighty
 arms, even if death cometh to me, I am unwilling to do anything that may
@@ -1134,10 +1134,10 @@ except for my affection for thee."" And O monarch, when the redoubtable
 Arjuna had been thus accosted by the noble-hearted Janarddana, he,
 showing all the honours due to him, sorrowfully replied by merely saying
 ""be it so.""'""
-"|3|Ashwamedha Parva|487
+"|3|Ashwamedha Parva|487|47790466546a42939a2b7e1171e439cd
 14|SECTION XV||"
 
-"|4|Ashwamedha Parva|1
+"|4|Ashwamedha Parva|1|fd2a61d8e0084fecb3718d54c6b9214c
 14|SECTION XVI|Anugita Parva|"
 
 ""Janamejaya said, 'When the high-souled Kesava and Arjuna after slaying
@@ -1159,7 +1159,7 @@ holy self said unto me at that time, O Kesava, through affection, has all
 been forgotten by me, O chief of men, in consequence of the fickleness of
 my mind. Repeatedly, however, have I been curious on the subject of those
 truths. Thou again, O Madhava, wilt repair to Dwaraka soon.""'
-"|1|Ashwamedha Parva|319
+"|1|Ashwamedha Parva|319|1619d2b7032d46f6a88d0568fa97b409
 14|SECTION XVI|Anugita Parva|"""Vaisampayana continued, 'Thus addressed by him, Krishna of mighty energy,
 that foremost of speakers, embraced Phalguna and replied unto him as
 follows.
@@ -1185,7 +1185,7 @@ the Grandsire. He was duly reverenced by us. Listen, O son of Pritha,
 without yielding to scruples of any kind, to what he, O chief of
 Bharata's race, said, in answer to our enquiries, agreeably to heavenly
 forms.
-"|2|Ashwamedha Parva|400
+"|2|Ashwamedha Parva|400|774e158204aa48f0afdaf6bab9d69421
 14|SECTION XVI|Anugita Parva|"""'""The Brahmana said, 'That which thou askest me, O Krishna, connected with
 the religion of Moksha (Emancipation), led by thy compassion for all
 creatures (and not for thy own good),--that, indeed, which destroys all
@@ -1217,7 +1217,7 @@ at the feet of the sage when he had seen all those wonderful attributes.
 Filled with wonder at the sight of those extraordinary accomplishments,
 Kasyapa began to wait upon that foremost of all Brahmanas, with the
 dutiful reverence of a disciple waiting upon his preceptor and succeeded
-"|3|Ashwamedha Parva|514
+"|3|Ashwamedha Parva|514|a57e47905a0e4b0cb585ac931e9f4a87
 14|SECTION XVI|Anugita Parva|"him the obedience due from a disciple to a preceptor, Kasyapa gratified
 that Brahmana who possessed all these accomplishments and was endued,
 besides, with scriptural learning and excellent conduct. Gratified with
@@ -1250,7 +1250,7 @@ overwhelmed with sorrow, blank despair came upon me. I took refuge in the
 Formless. Afflicted as I was with great distress, I gave up the world
 with all its joys and sorrows.[8] Understanding then this path, I
 exercised myself in it in this world. Afterwards, through tranquillity of
-"|4|Ashwamedha Parva|506
+"|4|Ashwamedha Parva|506|4f7e3290935344329aaff8d3070b45d5
 14|SECTION XVI|Anugita Parva|"come to this world again (after my departure hence). Verily, till I
 attain to absorption into eternal Brahman, till, in fact, the final
 dissolution of the universe, I shall look on those happy ends that will
@@ -1271,10 +1271,10 @@ to thee, agreeably to thy desire. I think thy intelligence is great.
 Indeed, I applaud it much, for it was with the aid of that intelligence
 that thou wert able to recognise me. Surely, O Kasyapa, thou art
 possessed of great intelligence.'""'""
-"|5|Ashwamedha Parva|343
+"|5|Ashwamedha Parva|343|988eb041723a4464bef9282f50c4631d
 14|SECTION XVI|Anugita Parva|"
 
-"|6|Ashwamedha Parva|1
+"|6|Ashwamedha Parva|1|21e294b5f593406bbd89a497b3145277
 14|SECTION XVII||"
 ""'Vasudeva said, ""touching the feet of that sage, the Brahmana asked him
 some questions that were exceedingly difficult to answer. That foremost
@@ -1310,7 +1310,7 @@ another. He eats food that is heavy in excess of the measure that is
 beneficial, or before the food previously taken has been digested. He
 indulges in physical exercise and sexual pleasure in excess of the due
 measure, or through avidity for work, suppresses the urgings of his
-"|1|Ashwamedha Parva|503
+"|1|Ashwamedha Parva|503|ac2932c8adc9473db798936c6568f937
 14|SECTION XVII||"that is very juicy, or indulges in sleep during daytime. Food that is not
 properly digested, of itself excites the faults, when the time comes.[12]
 From such excitement of the faults in his body, he gets disease ending in
@@ -1342,7 +1342,7 @@ heat, of breath, of beauty, and of consciousness. Deserted by Brahman
 (for Jiva is Brahman), the person is said to be dead. By those ducts
 through which he perceives all sensuous objects, the bearer of the body
 no longer perceives them. It is the eternal Jiva who creates in the body
-"|2|Ashwamedha Parva|517
+"|2|Ashwamedha Parva|517|98b0eb00dc2c44449fd2115dc3a11994
 14|SECTION XVII||"elements gathered together become in certain parts firmly united. Know
 that those parts are called the vitals of the body. It is said so in the
 Sastras. When those vital parts are pierced, Jiva, rising up, enters the
@@ -1375,7 +1375,7 @@ they ascend from this world I shall now declare truly. Do thou listen to
 me with attention. By listening to what I say, thou shalt attain to
 firmness of understanding and a clear apprehension of (good and bad)
 acts. Know that even those are the regions of all creatures of righteous
-"|3|Ashwamedha Parva|508
+"|3|Ashwamedha Parva|508|fb7f723a015247c3abe5ded31c514c0a
 14|SECTION XVII||"disc, and the solar disc as well that shines in the universe in its own
 light. Upon the exhaustion, again, of their merits, they fall away from
 those regions repeatedly. There, in Heaven itself, is distinction of
@@ -1388,7 +1388,7 @@ one, as I speak to thee!'""'""
 
 
 
-"|4|Ashwamedha Parva|142
+"|4|Ashwamedha Parva|142|7f24a1195d734a7aa9a4d8c2a578ccc8
 14|SECTION XVIII||"
 ""'""The Brahmana said, 'The acts, good and bad, that a Jiva does are not
 subject to destruction. Upon attainment of body after body, those acts
@@ -1420,7 +1420,7 @@ endurance former acts are exhausted, and other acts, again, accumulate,
 till Jiva succeed in acquiring a knowledge of the duties included in that
 contemplation which leads to Emancipation. Regarding this, I shall tell
 thee those acts by which Jiva, O best of men, while coursing through a
-"|1|Ashwamedha Parva|519
+"|1|Ashwamedha Parva|519|59247bcc91eb4ab0afb28ac173735874
 14|SECTION XVIII||"austerity, Brahmacharyya, bearing Brahman according to the ordinances
 laid down, self-restraint, tranquillity, compassion for all creatures,
 restraint of passions, abstentions from cruelty as also from
@@ -1453,7 +1453,7 @@ Pradhana is the material cause of all embodied creatures, by whom is all
 this covered and whom all came to know as the highest. This that is seen
 is said to be destructible; while the other is immortal and
 indestructible. This that (is seen) is said to be Kshara (the
-"|2|Ashwamedha Parva|518
+"|2|Ashwamedha Parva|518|76c7368b07c2443aa9ac08fc7400ed3e
 14|SECTION XVIII||"(as also) Akshara (the Indestructible). Of each Purusha taken
 distributively, the whole is duality among these three.[22] Seen first
 (to appear in an embodied form) Prajapati (then) created all the primal
@@ -1475,10 +1475,10 @@ Seeking the supreme seat, he then becomes utterly indifferent to all
 agreeably to truth, concerning this. Do thou, O learned Brahmana,
 understand in completeness that which constitutes the excellent
 knowledge, as I declare it, of that indestructible seat.'""'""
-"|3|Ashwamedha Parva|338
+"|3|Ashwamedha Parva|338|213c380dc2dc4c76b0b5288c0ba2cd0f
 14|SECTION XVIII||"
 
-"|4|Ashwamedha Parva|1
+"|4|Ashwamedha Parva|1|9c9e3076696245ef85b4d2a352cdc52e
 14|SECTION XIX||"
 ""'""The Brahmana said, 'He who becomes absorbed in the one receptacle (of
 all things), freeing himself from even the thought of his own identity
@@ -1510,7 +1510,7 @@ taste and touch, of sound, of belongings, of vision, and unknowable,
 becomes emancipated.[26] He who sees his soul devoid of the attributes of
 the five elements to be without form and cause, to be really destitute of
 attributes though enjoying them, becomes emancipated.[27] Abandoning,
-"|1|Ashwamedha Parva|514
+"|1|Ashwamedha Parva|514|46b611b796c54222b04e29ff11f3dc33
 14|SECTION XIX||"mind, one gradually attains to cessation of separate existence, like a
 fire unfed with fuel.[28] One who is freed from all impressions, who
 transcends all pairs of opposites, who is destitute of all belongings,
@@ -1542,7 +1542,7 @@ it from a blade of the Saccharum Munja, even so the Yogin beholds the
 soul, extracting it from the body. The body has been called the Saccharum
 Munja, and the fibrous pith is said to stand for the soul. This is the
 excellent illustration propounded by persons conversant with Yoga. When
-"|2|Ashwamedha Parva|511
+"|2|Ashwamedha Parva|511|7314b9a131b046468276eb8137b82b15
 14|SECTION XIX||"one that is master over him, for he then becomes the lord of the three
 worlds.[34] He succeeds in assuming diverse bodies according as he
 wishes. Turning away decrepitude and death, he neither grieves nor
@@ -1574,7 +1574,7 @@ external to Brahman where the mind may dwell. Restraining all the senses
 in a forest that is free from noise and that is uninhabited, with mind
 fixed thereon, one should meditate on the All (or universal Brahman) both
 outside and inside one's body. One should meditate on the teeth, the
-"|3|Ashwamedha Parva|517
+"|3|Ashwamedha Parva|517|167742c13bfa4b479b6895d62e133424
 14|SECTION XIX||"meditate on the heart and the ligatures of the heart!'[38]
 
 ""'""The Brahmana continued, 'Thus addressed by me, that intelligent
@@ -1604,7 +1604,7 @@ lamp of the mind that great Soul can be seen. He has hands and feet on
 all sides; he has ears on all sides; he dwells, pervading all things in
 the world.[41] Jiva beholds the Soul as extracted from the body (like the
 stalk from a blade of Saccharum Munja, when knowledge comes). Then
-"|4|Ashwamedha Parva|507
+"|4|Ashwamedha Parva|507|04527e66910549a7b3282ff5ae4c66e1
 14|SECTION XIX||"body, he beholds Brahma as freed from all attributes.[42] He sees the
 Soul with his mind, smiling as it were at the time. Depending upon that
 Brahma, he then attains to Emancipation in me.[43] O foremost of
@@ -1634,7 +1634,7 @@ to the deities.[45] That goal, O son of Pritha, is the highest which is
 constituted by eternal Brahman where one, casting off the body, attains
 to immortality and becomes always happy. By adhering to this religion,
 even they who are of sinful birth, such as women and Vaisyas and Sudras,
-"|5|Ashwamedha Parva|509
+"|5|Ashwamedha Parva|509|93eb4e0ffab8402c8d29635f2f8486eb
 14|SECTION XIX||"Brahmanas and Kshatriyas possessed of great learning, always devoted to
 the duties of their own orders and who are intent on (the acquisition of)
 the region of Brahma? This has been laid down with the reasons (on which
@@ -1651,7 +1651,7 @@ constant practice for a period of six months.""'""
 
 
 
-"|6|Ashwamedha Parva|217
+"|6|Ashwamedha Parva|217|4583e2c65eb44e9c8fbfe66515769ddf
 14|SECTION XX||"
 ""'Vasudeva said, ""In this connection is cited the ancient narrative, O son
 of Pritha, of the discourse that took place between a married couple. A
@@ -1682,7 +1682,7 @@ is for that seat that the Grandsire Brahman and others, concentrated in
 Yoga, worship the Indestructible. It is for that seat that men of
 learning and excellent vows, of tranquil souls, and of senses completely
 vanquished, strive.[50] That is not capable of being smelt by the sense
-"|1|Ashwamedha Parva|519
+"|1|Ashwamedha Parva|519|3a8d658a33e44dc786a8dd5dd666630f
 14|SECTION XX||"is by the mind that that is attained. It is incapable of being conquered
 by the eye. It transcends the sense of hearing. It is destitute of scent,
 taste, touch, and form as attributes. It is that from which proceeds the
@@ -1711,7 +1711,7 @@ that which is seen, that which is touched, as also that which is heard,
 that which is thought of, and that which is understood, create them in
 their own wombs.[53] Earth, Wind, Ether, Water, and Light numbering as
 the fifth, Mind, and Understanding--these seven are called wombs (of all
-"|2|Ashwamedha Parva|508
+"|2|Ashwamedha Parva|508|429ebcb57c744f5daa3b669ea6e7f8c0
 14|SECTION XX||"enter into the attribute that is born of the fire, and having dwelt
 within that dwelling became reborn in their respective wombs. Thither
 also, viz., in that which generates all beings, they remain absorbed
@@ -1725,7 +1725,7 @@ full become full with light.'""'""
 
 
 
-"|3|Ashwamedha Parva|152
+"|3|Ashwamedha Parva|152|df76ff2ebb4b418da7e0a076dc6344fb
 14|SECTION XXI||"
 ""'""The Brahmana said, 'In this connection is cited the following ancient
 story. Do thou understand, of what kind the institution is of the ten
@@ -1751,7 +1751,7 @@ fire. Into it is poured the oblation. From that was produced the Veda (or
 Word); (then was born Mind); Mind (desirous of creation) sets itself on
 the Veda (or the Word). Their arises form (or colour) undistinguished by
 particular colours. It runs towards the Mind.'[55]
-"|1|Ashwamedha Parva|438
+"|1|Ashwamedha Parva|438|29912907c0694c46bcb1e733cadc5a8e
 14|SECTION XXI||"""'""The Brahmana's wife said, 'Why did Word first arise and why did Mind
 arise afterwards, seeing that Word starts into existence after having
 been thought upon by Mind? Upon that authority can it be said that Mati
@@ -1772,7 +1772,7 @@ matter,[57] asked him,--""Do thou say who amongst us is superior. Do thou,
 O puissant one, dispel our doubt.""--On that occasion, the holy one made
 this answer.--""The mind undoubtedly (is superior)."" Unto him Word said,--""I
 yield to thee the fruition of all thy desires!""'[58]
-"|2|Ashwamedha Parva|335
+"|2|Ashwamedha Parva|335|4b6bb3186ddf44f0a8712f2d56582260
 14|SECTION XXI||"""'""The Brahmana said, 'Know that I have two minds, immovable and movable.
 That which is immovable is, verily, with me; the movable is in your
 dominion.[59] That mind is verily called movable which, in the form of
@@ -1793,7 +1793,7 @@ meaning. This one always yields the Eternal (viz., Emancipation),
 speaking of Brahman. O thou of beautiful smiles, Word is a cow, in
 consequence of her puissance which is both divine and not divine. Behold
 the distinction of these two subtle forms of Word that flow.'[62]
-"|3|Ashwamedha Parva|356
+"|3|Ashwamedha Parva|356|308eaabfc79c4c7f9adac14d97b3b532
 14|SECTION XXI||"""'""The Brahmana's wife said, 'What did the goddess of Word then say, in
 days of old, when, though impelled by the Wish to speak, Speech could not
 come out?'
@@ -1807,7 +1807,7 @@ Word, in consequence of being movable, is also distinguished.'""'""
 
 
 
-"|4|Ashwamedha Parva|148
+"|4|Ashwamedha Parva|148|2a419682d2094a219e4c63f89337b36c
 14|SECTION XXII||"
 ""'""The Brahmana said, 'In this connection is cited the ancient story, O
 blessed one, of what the institution is of the seven sacrificing priests.
@@ -1841,7 +1841,7 @@ the mind, never succeed in apprehending determination (certainty in
 respect of knowledge). It is the understanding alone that apprehends it.
 In this connection, is cited, O beautiful lady, this ancient narrative of
 a discourse between the senses and the mind.'
-"|1|Ashwamedha Parva|490
+"|1|Ashwamedha Parva|490|846985c24e7a4cccb32c85e6e0160505
 14|SECTION XXII||"""'""'The mind said, ""The nose does not smell without me. (Without me) the
 tongue does not apprehend taste. The eye does not seize colour, the skin
 does not feel touch, the ear does not apprehend sound, when deprived of
@@ -1873,7 +1873,7 @@ shown by us, past or future, in sleep or in wakefulness. Of creatures,
 again, that are of little intelligence, when their mind becomes
 distracted and cheerless, life is seen to be upheld upon our objects
 discharging their functions.[64] It is seen also that a creature, after
-"|2|Ashwamedha Parva|512
+"|2|Ashwamedha Parva|512|9137c664027d4ff38d1a99e8f939fbfa
 14|SECTION XXII||"afflicted by the desire to enjoy, runs to objects of sense at once.[65]
 One entering upon enjoyments depending on mental purposes alone and
 unconnected with actual objects of sense, always meets with death upon
@@ -1885,7 +1885,7 @@ happiness can come to thee.""'""'""
 
 
 
-"|3|Ashwamedha Parva|120
+"|3|Ashwamedha Parva|120|b2cef7f65dfc4d169ffb06af68b591e4
 14|SECTION XXIII||"
 ""'""The Brahmana said, 'In this connection, O blessed lady, is cited the
 ancient story of what kind the institution is of the five sacrificing
@@ -1911,7 +1911,7 @@ move, is verily the foremost (among you). Do ye go where ye like.""
 ""'""'Prana said, ""Upon my extinction all the life-breaths become extinct in
 the bodies of living creatures. Upon my moving they once more move. I am
 (therefore) the foremost. Behold, I go into extinction!""'
-"|1|Ashwamedha Parva|345
+"|1|Ashwamedha Parva|345|55ecf7ec295d4699bb602c43b42be1da
 14|SECTION XXIII||"""'""The Brahmana continued, 'Prana then became extinct and once more moved
 about. Then Samana and Udana also, O blessed one, said these words--""Thou
 dost not dwell here, pervading all this, as we do. Thou art not the
@@ -1941,7 +1941,7 @@ move about. Hence, I am the foremost. Behold, I go into extinction!"" Then
 Samana began to move about. Unto him Udana said, ""I am the foremost of all
 the life-winds. Listen, for what reason. When I become extinct, all the
 life-winds become extinct in the bodies of living creatures. When I move
-"|2|Ashwamedha Parva|503
+"|2|Ashwamedha Parva|503|1d1fcce82b3a4906ba94fca4cfb6fddc
 14|SECTION XXIII||"into extinction!""--Then Udana, after having gone into extinction, began
 once more to move about, Prana and Apana and Samana and Vyana said, unto
 him, O Udana, ""thou art not the foremost one among us, only Vyana is under
@@ -1959,7 +1959,7 @@ another, depart in peace. Blessings to ye, do ye uphold one another!'""'""
 
 
 
-"|3|Ashwamedha Parva|218
+"|3|Ashwamedha Parva|218|7b56a913c0e04d9fb4aa985ccb8faaf7
 14|SECTION XXIV||"
 ""'""The Brahmana said, 'In this connection is cited the ancient story of the
 discourse between Narada and the Rishi Devamata.'
@@ -1993,7 +1993,7 @@ in its ashes. The quality of goodness arises from that portion of the
 fire into which the oblation is poured.[66] They that are conversant with
 sacrifices know that Samana and Vyana are from the attribute of Goodness.
 Prana and Apana are portions of the oblation (of clarified butter).
-"|1|Ashwamedha Parva|508
+"|1|Ashwamedha Parva|508|1fb4f3a2ea634857b672688256234202
 14|SECTION XXIV||"as the Brahmanas know. Listen as I say which is distinct from the pairs.
 Day and Night constitute a pair. Between them is the Fire. That is the
 excellent seat of Udana as the Brahmanas know. The existent and the
@@ -2006,7 +2006,7 @@ of Udana as the Brahmanas know.""'""'""[67]
 
 
 
-"|2|Ashwamedha Parva|161
+"|2|Ashwamedha Parva|161|e93975459cc04d8b89f9d9f7bd3737fd
 14|SECTION XXV||"
 ""'""The Brahmana said, 'In this connection is recited the ancient story of
 what the institution is of the Chaturhotra (sacrifice). The ordinances
@@ -2038,7 +2038,7 @@ for reproducing it. The minutest transgression does not arise in him from
 the food he takes. Whatever is thought of by the mind, whatever is
 uttered by speech, whatever is heard by the ear, whatever is seen by the
 eye, whatever is touched by the (sense of) touch, whatever is smelt by
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|7a9904b2fbfb4239bef799fbc54c1afe
 14|SECTION XXV||"after restraining the senses with the mind numbering the sixth, be poured
 into that fire of high merits which burns within the body, viz., the
 Soul.[70] The sacrifice constituted by Yoga is going on as regards
@@ -2056,7 +2056,7 @@ divine Narayana is the soul of all.'""'""
 
 
 
-"|2|Ashwamedha Parva|250
+"|2|Ashwamedha Parva|250|67ce3503e4a34353b5bfb3c247c330c7
 14|SECTION XXVI||"
 ""'""The Brahmana said, 'There is one Ruler. There is no second beside him.
 He that is Ruler resides in the heart. I shall speak now of him. Impelled
@@ -2086,7 +2086,7 @@ their nature for ostentations, pride arose. The deities betook themselves
 to gifts, and the great Rishis to self-restraint. Having repaired to one
 teacher, and having been instructed (refined) by one word, the snakes,
 the deities, the Rishis, and the Danavas, all betook themselves to
-"|1|Ashwamedha Parva|511
+"|1|Ashwamedha Parva|511|e5072f69f69645f7bafdfa5087a0d03a
 14|SECTION XXVI||"speaking, and apprehends it duly. Once, again, is that heard from him
 when he speaks. There is no second preceptor.[74] It is in obedience to
 his counsels that action afterwards flows. The instructor, the
@@ -2107,7 +2107,7 @@ Kshetrajna!'""'""[75]
 
 
 
-"|2|Ashwamedha Parva|295
+"|2|Ashwamedha Parva|295|400887e2ed0242bcb619df9a7a8ca3aa
 14|SECTION XXVII||"
 ""'""The Brahmana said, 'Having crossed that impassable fastness (the world)
 which has purposes for its gadflies and mosquitoes, grief and joy for its
@@ -2143,7 +2143,7 @@ unmanifest colours. There is one fire here, possessed of a good mind.
 That is connected with Brahmana. The five senses are the fuel here. The
 seven forms of Emancipation flowing from them are the seven forms of
 Initiation. The qualities are the fruits, and the guests eat those
-"|1|Ashwamedha Parva|509
+"|1|Ashwamedha Parva|509|5a9df6789d634bc89c9954e15ae8671d
 14|SECTION XXVII||"When they, having been worshipped, become annihilated, then another
 forest shines forth. In that forest, Intelligence is the tree;
 Emancipation is the fruit; Tranquillity is the shade of which it is
@@ -2169,10 +2169,10 @@ forest in view, they take birth so as not to lose courage. Even such is
 that sacred forest that is understood by Brahmanas, and understanding it,
 they live (in accordance with the ordinance), directed by the
 Kshetrajna.'""'""
-"|2|Ashwamedha Parva|395
+"|2|Ashwamedha Parva|395|5e4c8e1b1c9140f49198c038fcc92b53
 14|SECTION XXVII||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|c99d8f9092a54ff2b673b03036d42fbd
 14|SECTION XXVIII||"
 ""'""The Brahmana said, 'I do not smell scents. I do not perceive tastes. I
 do not see colours. I do not touch. I do not likewise hear the diverse
@@ -2202,7 +2202,7 @@ water, will enter into water. His eye will enter the sun; his ear will
 enter the different points of the horizon; his life-winds will enter the
 sky. I who adhere to the scriptures incur no fault (by assisting at the
 killing of this animal).""
-"|1|Ashwamedha Parva|492
+"|1|Ashwamedha Parva|492|eddd340339c14ad0a417b95cc7f5b8ec
 14|SECTION XXVIII||"""'""'The Yati said, ""If thou beholdest such good to the goat in this
 dissociation with (his) life-winds, then this sacrifice is for the goat.
 What need hast thou for it? Let the brother, father, mother, and friend
@@ -2221,7 +2221,7 @@ viz.,--No slaughter (of living creatures).--If I say anything further,
 being done by thee. Always abstaining from cruelty to all creatures is
 what meets with our approbation. We establish this from what is directly
 perceptible. We do not rely on what is beyond direct perception.""
-"|2|Ashwamedha Parva|305
+"|2|Ashwamedha Parva|305|bc365fd153764ef6846725d9db7e54e8
 14|SECTION XXVIII||"""'""'The Adhwaryu said, ""Thou enjoyest the properties of smell which belong
 to the earth. Thou drinkest the tastes which appertain to water. Thou
 seest colours which belong to lighted bodies. Thou touchest the
@@ -2243,7 +2243,7 @@ not cherish any expectation, that is alike to all creatures, that is
 liberated from the idea of meum, that has subjugated his self, and that
 is released from all his surroundings,--for him no fear exists from any
 source!""[79]
-"|3|Ashwamedha Parva|321
+"|3|Ashwamedha Parva|321|60ece0ea89aa4bb0b07ce549b0e43834
 14|SECTION XXVIII||"""'""'The Adhwaryu said, ""O foremost of intelligent men, one should reside
 with those that are good. Hearing thy opinion my understanding shines
 with light. O illustrious one, I come to thee, believing thee to be a
@@ -2259,7 +2259,7 @@ topics.'""'""
 
 
 
-"|4|Ashwamedha Parva|171
+"|4|Ashwamedha Parva|171|d9eda2a4bd86453faf7f4d98664f44f3
 14|SECTION XXIX||"
 ""'""The Brahmana said, 'In this connection is cited the ancient story, O
 lady, of the discourse between Kartaviryya and the Ocean. There was a
@@ -2290,7 +2290,7 @@ all his kinsmen, uniting together, and taking up their darts, rushed at
 Rama, who was then seated, from all sides. Rama also, taking up his bow
 and quickly ascending on his car, shot showers of arrows and chastised
 the army of the king. Then, some of the Kshatriyas, afflicted with the
-"|1|Ashwamedha Parva|503
+"|1|Ashwamedha Parva|503|12e0f13eae61423d9d25929cde96aa4d
 14|SECTION XXIX||"afflicted by the lion. Of them that were unable, through fear of Rama, to
 discharge the duties ordained for their order, the progeny became
 Vrishalas owing to their inability to find Brahmanas.[81] In this way
@@ -2309,10 +2309,10 @@ forgive the slaughter of his sire, replied unto those Rishis saying, ""It
 behoves you not to forbid me."" The Pitris then said, ""O foremost of all
 victorious men, it behoves thee not to slay these inferior Kshatriyas. It
 is not proper that thyself, being a Brahmana, should slay these kings.""'""'""
-"|2|Ashwamedha Parva|347
+"|2|Ashwamedha Parva|347|80ca328b163f46d7af3155de383f0224
 14|SECTION XXIX||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|6fa793ea14e341f5a8440268aaf1e8ac
 14|SECTION XXX||"
 ""'""'The Pitris said, ""In this connection is cited this old history. Having
 heard it, thou shouldst act according to it, O foremost of all regenerate
@@ -2335,7 +2335,7 @@ very sharp-pointed shafts at the mind.'
 They will pierce only thy own vital parts. Thy vital parts being pierced,
 thou shalt die. Do thou look out for other arrows with which to destroy
 me.' Hearing these words and reflecting upon them, he said as follows.
-"|1|Ashwamedha Parva|307
+"|1|Ashwamedha Parva|307|cb59c19e49f54140ba1fc60c5da9fdb0
 14|SECTION XXX||"""'""'""Alarka said, 'Smelling very many perfumes, the nose hankers after them
 only. Hence I shall shoot whetted arrows at the nose.'
 
@@ -2364,7 +2364,7 @@ They will pierce thy own vital parts only, and thy vital parts being
 pierced, thou shalt die. Do thou look for other arrows with which to
 destroy me.' Hearing these words and reflecting on them, he said as
 follows.
-"|2|Ashwamedha Parva|352
+"|2|Ashwamedha Parva|352|191acb6b9b35465c81afcd59fe6685b1
 14|SECTION XXX||"""'""'""Alarka said, 'Hearing diverse sounds, (the ear) hankers after them
 only. Hence, I shall shoot whetted shafts at the ear.'
 
@@ -2390,7 +2390,7 @@ understanding.'
 through me at all. They will pierce thy vital parts only, and thy vital
 parts being pierced, thou shalt die. Do thou then look for other arrows
 with which to destroy me!'""
-"|3|Ashwamedha Parva|332
+"|3|Ashwamedha Parva|332|d162e8a4aa5f47dfa7e3f3e31dbdd009
 14|SECTION XXX||"""'""The Brahmana continued, '""Then Alarka, employing himself, even there, on
 penances difficult to perform and exceedingly austere, failed to obtain,
 by the high power (of his penances) arrows for casting at these seven.
@@ -2411,10 +2411,10 @@ wilt then attain to what is good.'""--Thus addressed by his grandsires,
 Jamadagni's son practised the austerest penances, and having practised
 them, that highly blessed one attained to that success which is difficult
 to reach.'""'""
-"|4|Ashwamedha Parva|334
+"|4|Ashwamedha Parva|334|9baf83e5922b4dddb7235111bcb45b0b
 14|SECTION XXX||"
 
-"|5|Ashwamedha Parva|1
+"|5|Ashwamedha Parva|1|87274e702ff64353b5e9235cf2828acf
 14|SECTION XXXI||"
 ""'""The Brahmana said, 'There are three foes in the world. They are said to
 be ninefold, agreeably to their qualities. Exultation, satisfaction, and
@@ -2447,13 +2447,13 @@ itself.[87] Hence, duly understanding this, and subduing cupidity by
 intelligence, one should desire for sovereignty in one's soul. This is
 (true) sovereignty. There is no other sovereignty here. The soul,
 properly understood, is the king."" Even these were the verses sung by king
-"|1|Ashwamedha Parva|507
+"|1|Ashwamedha Parva|507|af44efdf290e47f2bfe50d0fdad1f7d9
 14|SECTION XXXI||"before him,--that king who had cut off the one foremost fault viz.,
 cupidity.'""'""
 
 
 
-"|2|Ashwamedha Parva|22
+"|2|Ashwamedha Parva|22|cd42c486a73549f08586e8876c41783e
 14|SECTION XXXII||"
 ""'""The Brahmana said, 'In this connection is cited the old narrative, O
 lady, of the discourse between a Brahmana and (king) Janaka. King Janaka
@@ -2483,7 +2483,7 @@ dominion. Even this body is not mine, or the whole Earth is mine. At the
 same time, O best of regenerate persons, I think that that is as much
 mine as it is of others. Do thou, therefore, dwell (here) as long as thy
 choice leads thee, and do thou enjoy as long as thou pleasest.""'
-"|1|Ashwamedha Parva|462
+"|1|Ashwamedha Parva|462|defd921939384bcab3b3b1d33c850835
 14|SECTION XXXII||"""'""The Brahmana said, '""When there is a large inhabited tract in thy
 ancestral kingdom, tell me, depending upon what understanding, has the
 idea of meum been got rid of by thee. What also is that understanding
@@ -2514,13 +2514,13 @@ by me, is subject to me. All these acts of mine are for the sake of the
 deities, the Pitris, the Bhutas, together with guests.""[91]--The Brahmana
 then, smiling, once more said unto Janaka,--""Know that I am Dharma, who
 have come here today for examining thee. Thou art verily the one person
-"|2|Ashwamedha Parva|514
+"|2|Ashwamedha Parva|514|eace5d1d8a184af1853abdd5f85b5d8a
 14|SECTION XXXII||"Goodness for its circumference, Brahmin for its nave, and the
 understanding for its spokes, and which never turns back!""'""'""[92]
 
 
 
-"|3|Ashwamedha Parva|32
+"|3|Ashwamedha Parva|32|6ee7e4a61ad74b1bb30f14381b386d41
 14|SECTION XXXIII||"
 ""'""The Brahmana said, 'I do not, O timid one, move in this world in that
 manner which thou, according to thy own understanding, censurest. I am a
@@ -2544,10 +2544,10 @@ end, and the body has actions for its bonds.[96] Hence, O blessed lady,
 thou needst have no apprehension in respect of the world hereafter. With
 thy heart intent upon the real entity, it is my soul into which thou wilt
 come.'""'""
-"|1|Ashwamedha Parva|376
+"|1|Ashwamedha Parva|376|a8a27dd3eb0c4da28a2313a37f5861d0
 14|SECTION XXXIII||"
 
-"|2|Ashwamedha Parva|1
+"|2|Ashwamedha Parva|1|35e7ab57904b440593effe128e97c5d1
 14|SECTION XXXIV||"
 ""'""The Brahmana's wife said, 'This is incapable of being understood by a
 person of little intelligence as also by one whose soul has not been
@@ -2581,7 +2581,7 @@ Indeed, one should comprehend diverse objects of diverse import, and all
 objects of direct perception. Then will come, from practice (of
 contemplation and self-restraint, etc.), that above which nothing
 exists.'""[99]
-"|1|Ashwamedha Parva|438
+"|1|Ashwamedha Parva|438|48583b7cd0ec477cbb68812a234e4f95
 14|SECTION XXXIV||"""'The holy one continued, ""Then the mind of that Brahmana's wife, upon the
 destruction of the Kshetrajna, became that which is beyond Kshetrajna, in
 consequence of the knowledge of Kshetra.""[100]
@@ -2596,7 +2596,7 @@ as Kshetrajna is I myself, O Dhananjaya!""'""
 
 
 
-"|2|Ashwamedha Parva|169
+"|2|Ashwamedha Parva|169|7c7b60ff28a5466dac42990e1151c5a6
 14|SECTION XXXV||"
 ""'Arjuna said, ""It behoveth thee to expound Brahma to me,--that which is
 the highest object of knowledge. Through thy favour, my mind is delighted
@@ -2629,7 +2629,7 @@ all persons conversant with duties. My curiosity is great. Thou art
 celebrated in all the worlds as one well skilled in the duties relating
 to Emancipation. There is none else than thou that is competent to remove
 all kinds of doubts. Afraid of worldly life, we have become desirous of
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|f8279e8f3fcd4f1a98207d144d50b934
 14|SECTION XXXV||"
 ""'Vasudeva said, ""Unto that disciple who had humbly sought his instruction
 and put the questions duly, who was devoted to his preceptor and
@@ -2663,7 +2663,7 @@ understanding for its trunk, and high consciousness of self for its
 branches, and the senses for the cells whence its twigs issue, and the
 (five) great elements for its flower-buds, and the gross elements for its
 smaller boughs, which is always endued with leaves, which always puts
-"|2|Ashwamedha Parva|518
+"|2|Ashwamedha Parva|518|21eaf904459546e788787cc8d993f7f3
 14|SECTION XXXV||"Brahman, and which is eternal,--and cutting all topics with the sharp
 sword of knowledge, one attains to immortality and casts off birth and
 death. The conclusions with regard to the past, present, and future, etc,
@@ -2687,7 +2687,7 @@ two paths, northern and southern, obtained? What is destruction? What is
 Emancipation? What is birth and what is death of all existent objects?"" I
 shall tell thee, O disciple, what the Grandsire, thus addressed, said
 unto them, conformably to the scriptures. Do thou listen.
-"|3|Ashwamedha Parva|401
+"|3|Ashwamedha Parva|401|c1263cafd4dd49e98e46839007a1b925
 14|SECTION XXXV||"""'""'Brahma said, ""It is from Truth that all creatures, mobile and immobile,
 have been born. They live by penance (of action). Understand this, O ye
 of excellent vows. In consequence of their own actions they live,
@@ -2718,7 +2718,7 @@ is followed by ascetics residing in the woods and subsisting upon fruits
 and roots and air is laid down for the three regenerate classes. The
 domestic mode of life is ordained for all the orders. They that are
 possessed of wisdom say that Religion or duty has Faith for its (chief)
-"|4|Ashwamedha Parva|514
+"|4|Ashwamedha Parva|514|68b0741b04594fa98330ba7491ef3eec
 14|SECTION XXXV||"They are adopted by those that are good and wise by their acts. Those
 paths are the causeways of piety. That person of rigid vows who adopts
 any one of these modes separately, always succeeds in time to understand
@@ -2737,7 +2737,7 @@ all regions of spotless purity.""'""'""[103]
 
 
 
-"|5|Ashwamedha Parva|230
+"|5|Ashwamedha Parva|230|c26f59d6dc684e85ab03062628845641
 14|SECTION XXXVI||"
 ""'""'Brahma said, ""That which is unmanifest, which is indistinct,
 all-pervading, everlasting, immutable, should be known to become the city
@@ -2770,7 +2770,7 @@ delusion, ignorance, illiberality, indecision in respect of action,
 sleep, haughtiness, fear, cupidity, grief, censure of good acts, loss of
 memory, unripeness of judgment, absence of faith, violation of all rules
 of conduct, want of discrimination, blindness, vileness of behaviour,
-"|1|Ashwamedha Parva|514
+"|1|Ashwamedha Parva|514|878ec24e80374f73a0814908fea8099c
 14|SECTION XXXVI||"presumption of knowledge in ignorance, unfriendliness (or hostility),
 evilness of disposition, absence of faith, stupid reasoning, crookedness,
 incapacity for association, sinful action, senselessness, stolidity,
@@ -2802,7 +2802,7 @@ acts, sink in Darkness. Their course (of migrations) is always downwards.
 Appertaining to the quality of Darkness, they sink in Darkness. I shall,
 after this, declare what the means are of their improvement and ascent;
 indeed, by what means they succeed in attaining to the regions that exist
-"|2|Ashwamedha Parva|517
+"|2|Ashwamedha Parva|517|cd4839368b8748b483c0dc1752f20d95
 14|SECTION XXXVI||"humanity, by growing up in view of the religious ceremonies of Brahmanas
 devoted to the duties of their own order and desirous of doing good to
 all creatures, succeed, through the aid of such purificatory rites, in
@@ -2831,10 +2831,10 @@ been declared to you in various ways. Duly has Darkness, in its higher
 and lower forms, been described to you. That man who always bears in mind
 the qualities mentioned here, will surely succeed in becoming freed from
 all characteristics that appertain to Darkness.""'''""
-"|3|Ashwamedha Parva|465
+"|3|Ashwamedha Parva|465|e5491f57e6f44a869d86626009a03d55
 14|SECTION XXXVI||"
 
-"|4|Ashwamedha Parva|1
+"|4|Ashwamedha Parva|1|127313297cb64f0fbd49d7631b9b99e2
 14|SECTION XXXVII||"
 ""'""'Brahma said, ""Ye best of beings, I shall now declare to you accurately
 what (the quality of) Passion is. Ye highly blessed ones, do you
@@ -2865,7 +2865,7 @@ treachery, deception, disrespect and respect, theft, killing, desire of
 concealment, vexation, wakefulness, ostentation, haughtiness, attachment,
 devotion, contentment, exultation, gambling, indulgence in scandal, all
 relations arising out of women, attachment to dancing, instrumental music
-"|1|Ashwamedha Parva|504
+"|1|Ashwamedha Parva|504|bcff66c6936a4a21a0cf46c2aea1c5ec
 14|SECTION XXXVII||"belong to Passion. Those men on Earth who meditate on the past, present,
 and the future, who are devoted to the aggregate of three, viz.,
 Religion, Wealth, and Pleasure, who acting from impulse of desire, exult
@@ -2882,7 +2882,7 @@ of them which appertain to Passion.""'""'""
 
 
 
-"|2|Ashwamedha Parva|211
+"|2|Ashwamedha Parva|211|c309a491a10743af93b179522fd0c20c
 14|SECTION XXXVIII||"
 ""'""'Brahma said, ""I shall, after this discourse to you on that excellent
 quality which is the third (in the order of our enumeration). It is
@@ -2915,7 +2915,7 @@ freed from grief, those men possessed of wisdom attain to Heaven and
 create diverse bodies (for themselves). Attaining the power of governing
 everything, self-restraint, minuteness, these high-souled ones make by
 operations of their own mind, like the gods themselves dwelling in
-"|1|Ashwamedha Parva|505
+"|1|Ashwamedha Parva|505|b5eeb965e7b24a74a4fb3d1a5c15436a
 14|SECTION XXXVIII||"are veritable gods capable of modifying all things. Attaining to Heaven,
 they modify all things by their very nature. They get whatever objects
 they desire and enjoy them.[109] Thus have I, ye foremost of regenerate
@@ -2929,7 +2929,7 @@ them.""'""'""
 
 
 
-"|2|Ashwamedha Parva|131
+"|2|Ashwamedha Parva|131|b4cc400915484459ab916390934a5831
 14|SECTION XXXIX||"
 ""'""'Brahma said, ""The qualities are incapable of being declared as
 completely separate from one another. Passion and Goodness and Darkness
@@ -2962,7 +2962,7 @@ state of union and more collectively. They are never seen in a state of
 separation.[110] Beholding the sun rising, men of evil deeds become
 inspired with fear. Travellers on their way become afflicted with heat,
 and suffer distress. The Sun is Goodness developed, men of evil deeds
-"|1|Ashwamedha Parva|502
+"|1|Ashwamedha Parva|502|a24a11d0aca547439d96583e57b3646a
 14|SECTION XXXIX||"to be a quality of Passion. The sun representing light is Goodness; the
 heat is the quality of Passion; the shading (or eclipse) of the sun on
 Parvana days should be known to represent Darkness. Even thus, the three
@@ -2992,10 +2992,10 @@ of the unmanifest, and the qualities, as also the pure operations (of the
 qualities), is well conversant with the truth about all distinctions and
 freed from the body, becomes liberated from all the qualities and enjoys
 absolute happiness.""'""'""
-"|2|Ashwamedha Parva|467
+"|2|Ashwamedha Parva|467|0bed6d1688ab4a37a00ef2e1efcd4a91
 14|SECTION XXXIX||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|9eecae4b2ac045a1b20f51d532053a75
 14|SECTION XL||"
 ""'""'Brahma said, ""From the unmanifest first sprang Mahat (the Great Soul)
 endued with great intelligence, the source of all the qualities. That is
@@ -3022,10 +3022,10 @@ knows the Lord lying in the cave, the Supreme, Ancient Being, of
 universal form, the golden one, the highest goal of all persons endued
 with understanding,--that intelligent man lives, transcending the
 understanding.""'""'""
-"|1|Ashwamedha Parva|418
+"|1|Ashwamedha Parva|418|54dc93bde0864e4390f2c3d292e368c3
 14|SECTION XL||"
 
-"|2|Ashwamedha Parva|1
+"|2|Ashwamedha Parva|1|86a927a10b1d4a05b105b01e7ae51fed
 14|SECTION XLI||"
 ""'""'Brahma said, ""That Mahat who was first produced is called Egoism. When
 it sprang up as I, it came to be called as the second creation. That
@@ -3044,7 +3044,7 @@ universe likewise.""'""'""
 
 
 
-"|1|Ashwamedha Parva|243
+"|1|Ashwamedha Parva|243|ab937e0392d64e348218a2921cfb638b
 14|SECTION XLII||"
 ""'""'Brahma said, ""From Egoism were verily born the five great elements.
 They are earth, air, ether, water, and light numbering the fifth. In
@@ -3077,7 +3077,7 @@ generation, the two hands, and speech forming the tenth. These constitute
 the group of organs, with mind numbering as the eleventh. One should
 first subdue this group. Then will Brahman shine forth (in him). Five
 amongst these are called organs of knowledge, and five, organs of action.
-"|1|Ashwamedha Parva|513
+"|1|Ashwamedha Parva|513|d4e1e4100df74501b00ed405f981ad4d
 14|SECTION XLII||"knowledge. The rest, however, that are connected with action, are without
 distinction. The mind should be regarded as belonging to both. The
 understanding is the twelfth in the top. Thus have been enumerated the
@@ -3108,7 +3108,7 @@ producer of all beings. As connected with objects, it is the vital seed;
 and the presiding deity is Prajapati. The two hands are mentioned as
 connected with the soul by persons conversant with the relations of the
 soul. As connected with objects, it is actions; and the presiding deity
-"|2|Ashwamedha Parva|507
+"|2|Ashwamedha Parva|507|d9884474e06d45bd844d41475fcf4057
 14|SECTION XLII||"all the gods. As connected with objects, it is what is spoken. The
 presiding deity there is Agni. As connected with the soul, the mind is
 mentioned, which moves within the soul of the five elements.[113] As
@@ -3139,7 +3139,7 @@ be understood to be of various kinds, such as sacrifice, gifts made at
 sacrifices, and the meritorious duty of study for every one that is born;
 such is the teaching of the ancients. He who duly understands this, comes
 to be regarded as possessed of Yoga, ye chief of regenerate persons. Know
-"|3|Ashwamedha Parva|516
+"|3|Ashwamedha Parva|516|64306c33a22a4813b3caddd58ebdd884
 14|SECTION XLII||"declared to you duly the doctrine of Adhyatma.[115] Ye Rishis conversant
 with all duties, a knowledge of this is acquired by those who are
 regarded as persons of knowledge. Uniting all these together, viz., the
@@ -3171,7 +3171,7 @@ excellence. It is settled that the body has fire for colour, water for
 blood and other liquids, wind for sense of touch, earth for the hideous
 holder of mind (viz., flesh and bones, etc.), space (or ether) for sound;
 that it is pervaded by disease and sorrow; that it is overwhelmed by five
-"|4|Ashwamedha Parva|504
+"|4|Ashwamedha Parva|504|aaba5e57ec264b5e9f11435ae3615285
 14|SECTION XLII||"and two deities;[119] that it is full of passion; that it is unfit to be
 seen (owing to its unholy character); that it is made up of three
 qualities; that it has three constituent elements, (viz., wind, bile and
@@ -3201,10 +3201,10 @@ heart of all creatures, the great soul, becomes resplendent. Him all
 conclaves of learned Brahmanas, deities and Asuras, and Yakshas, and
 Pisachas, the Pitris, and birds, and bands of Rakshasas, and bands of
 ghostly beings, and all the great Rishis, praise.""'""'""
-"|5|Ashwamedha Parva|516
+"|5|Ashwamedha Parva|516|4ed4113d4e2544168b441420bcbb8468
 14|SECTION XLII||"
 
-"|6|Ashwamedha Parva|1
+"|6|Ashwamedha Parva|1|ab98b8cfd6e24075aee53c1427fee680
 14|SECTION XLIII||"
 ""'""Brahma said, ""Among men, the royal Kshatriya is (endued with) the
 middle quality. Among vehicles, the elephant (is so); and among denizens
@@ -3230,7 +3230,7 @@ learned Brahmanas. Kuvera is the lord of all precious gems, and Purandara
 of all the deities. Such is the highest creation among all entities.
 Prajapati is the lord of all creatures. Of all entities whatever, I, who
 am full of Brahman, am the foremost. There is no entity that is higher
-"|1|Ashwamedha Parva|506
+"|1|Ashwamedha Parva|506|f43d405d79964b41a02156c514a695c1
 14|SECTION XLIII||"king of kings over all. Know him to be the ruler, the creator, the
 uncreated Hari. He is the ruler of men and Kinnaras and Yakshas and
 Gandharvas, and Snakes and Rakshasas, and deities and Danavas and Nagas.
@@ -3262,7 +3262,7 @@ all things. The characteristic of mind is meditation. The characteristic
 of the good man is to live unperceived.[128] Devotion has acts for its
 characteristic. Knowledge is the characteristic of renunciation.
 Therefore keeping knowledge before his view, the man of understanding
-"|2|Ashwamedha Parva|503
+"|2|Ashwamedha Parva|503|5909006671ed42f1970e02d93ffca1ee
 14|SECTION XLIII||"renunciation and who is possessed of knowledge, who transcends all pairs
 of opposites, as also darkness, death, and decrepitude, attains to the
 highest goal. I have thus declared to you duly what the indications are
@@ -3292,7 +3292,7 @@ that in which the qualities are produced and absorbed. I always see,
 know, and hear it (though) it is hidden. Purusha knows it: therefore is
 he called Kshetrajna. The Kshetrajna perceives also the operations of the
 qualities and absence of their operations. The qualities, which are
-"|3|Ashwamedha Parva|506
+"|3|Ashwamedha Parva|506|9270d541953947ac9b9dc5a21ed7e22e
 14|SECTION XLIII||"entities to be created and endued with a beginning, middle, and end. No
 one else attains, only the Kshetrajna attains, to that which is the
 highest and great and which transcend the qualities and those entities
@@ -3305,7 +3305,7 @@ the Kshetrajna. He is the Supreme Lord.""'""'""
 
 
 
-"|4|Ashwamedha Parva|149
+"|4|Ashwamedha Parva|149|a68b6c2d005249888656ea4ef05b71ba
 14|SECTION XLIV||"
 ""'""'Brahma said, ""I shall now tell you truly about all that which has a
 beginning, middle, and end, and which is endued with name and
@@ -3335,7 +3335,7 @@ water is the foremost. Of all immobile entities without distinction,
 Plaksha is said to be the first, that ever holy field of Brahman. Of all
 the Prajapatis I am the first. There is no doubt in this. Of
 inconceivable soul, the self-existent Vishnu is said to be my
-"|1|Ashwamedha Parva|506
+"|1|Ashwamedha Parva|506|5fff5271020c4bad9a2045c85a54d5cb
 14|SECTION XLIV||"first-born. Of all the cardinal and subsidiary points of the horizon, the
 eastern is said to be the foremost and first-born. Ganga of three courses
 is said to be the firstborn of all rivers. Likewise, of all wells and
@@ -3358,10 +3358,10 @@ these have destruction for their end. Of Knowledge, there is no end.
 Hence, one that is possessed of a tranquil soul, that has subjugated his
 senses, that is freed from the sense of meum, that is devoid of egoism,
 is released from all sins by pure knowledge.""'""'""
-"|2|Ashwamedha Parva|388
+"|2|Ashwamedha Parva|388|9e05e99959924e02bfe538beed2f2170
 14|SECTION XLIV||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|93dae5995a3f409bbcda1a25f7aae820
 14|SECTION XLV||"
 ""'""'Brahma said, ""The wheel of life moves on. It has the understanding for
 its strength; the mind for the pole (on which it rests); the group of
@@ -3392,7 +3392,7 @@ ceaselessly. Its speed is like that of the mind, and it has the mind for
 its boundary.[133] This wheel of life that is associated with pairs of
 opposites and devoid of consciousness, the universe with the very
 immortals should cast away, abridge, and check. That man who always
-"|1|Ashwamedha Parva|501
+"|1|Ashwamedha Parva|501|230de3584876495a96614a68b18b4ab6
 14|SECTION XLV||"never seen to be deluded, among all creatures. Freed from all
 impressions, divested of all pairs of opposites, released from all sins,
 he attains to the highest goal. The householder, the Brahmacharin, the
@@ -3424,7 +3424,7 @@ that three of these acts should constitute the livelihood of the
 Brahmanas, viz., teaching (pupils), officiating at the sacrifices of
 others, and the acceptance of gifts from a person that is pure. As to the
 other duties that remain, numbering three, viz., making of gifts, study,
-"|2|Ashwamedha Parva|505
+"|2|Ashwamedha Parva|505|1dcd961991774f54af28f6c3c1ac172f
 14|SECTION XLV||"penances, self-restrained, practising universal compassion and
 forgiveness, and looking upon all creatures with an equal eye, the man
 that is conversant with duties should never be heedless with regard to
@@ -3435,7 +3435,7 @@ Heaven.""'""'""
 
 
 
-"|3|Ashwamedha Parva|98
+"|3|Ashwamedha Parva|98|c97f1f0e072b4e278b70d30f0beeb6d1
 14|SECTION XLVI||"
 ""'""'Brahma said, ""Duly studying thus to the best of his power, in the way
 described above, and likewise living as a Brahmacharin, one that is
@@ -3466,7 +3466,7 @@ should never return to an inhabited place. Honouring guests when they
 come, he should give them shelter, and himself subsist upon fruits and
 leaves and common roots, and Syamaka. He should, without being slothful
 subsist on such water as he gets, and air, and all forest products. He
-"|1|Ashwamedha Parva|505
+"|1|Ashwamedha Parva|505|a4114f8b5a174fb492a183cca6437116
 14|SECTION XLVI||"initiation.[138] He should honour the guest that comes to him with alms
 of fruits and roots. He should then, without sloth, always give whatever
 other food he may have. Restraining speech the while, he should eat after
@@ -3499,7 +3499,7 @@ others, nor eat when honoured. The man who leads the life of mendicancy
 should conceal himself for avoiding gifts with honour. While eating, he
 should not eat such food as forms the remains of another's dish, nor such
 as is bitter, or astringent, or pungent. He should not also eat such
-"|2|Ashwamedha Parva|519
+"|2|Ashwamedha Parva|519|62b2e161f32d46449bed1fe495382072
 14|SECTION XLVI||"needed to keep him alive. The person conversant with Emancipation should
 obtain his subsistence without obstructing any creature. In his rounds of
 mendicancy he should never follow another (bent on the same purpose). He
@@ -3531,7 +3531,7 @@ not appropriate what belongs to others, nor should he take anything
 without being asked. He should not, having enjoyed anything become so
 attached to it as to desire to have it once more. One should take only
 earth and water and pebbles and leaves and flowers and fruits, that are
-"|3|Ashwamedha Parva|515
+"|3|Ashwamedha Parva|515|04c8bf197a534623a9ccba19291f1a0a
 14|SECTION XLVI||"should not live by the occupation of an artisan, nor should one covet
 gold. One should not hate, nor teach (one that does not seek to be
 taught); nor should one have any belongings. One should eat only what is
@@ -3564,7 +3564,7 @@ hands and feet and back, which is without head and without stomach, which
 is free from the operation of all qualities, which is absolute,
 untainted, and stable, which is without smell, without taste, and touch,
 without colour, and without sound, which is to be comprehended (by close
-"|4|Ashwamedha Parva|502
+"|4|Ashwamedha Parva|502|7d022548272d4d1b940d6dc0f84bfd0e
 14|SECTION XLVI||"anxiety, unfading, and divine, and, lastly, which though dwelling in a
 house resides in all creatures, succeed in escaping death. There the
 understanding reaches not, nor the senses, nor the deities, nor the
@@ -3588,10 +3588,10 @@ should meditate, exclusively resting on one point. Then, depending on
 none, one attains to Emancipation. Freed from all attachments, like the
 wind in space, with his accumulations exhausted, without distress of any
 kind, he attains to his highest goal.""'""'""
-"|5|Ashwamedha Parva|374
+"|5|Ashwamedha Parva|374|7eb95ed1acba4dd7a7025499818aed2f
 14|SECTION XLVI||"
 
-"|6|Ashwamedha Parva|1
+"|6|Ashwamedha Parva|1|55ef77dca1ac41c7ab50835222f62500
 14|SECTION XLVII||"
 ""'""'Brahma said, ""The ancients who were utterers of certain truth, say
 that Renunciation is penance. Brahmanas, dwelling in that which has
@@ -3623,7 +3623,7 @@ attaining to that which is free from pairs of opposites, which is
 eternal, and which is divested of qualities. Abandoning all action, good
 or bad, developed from qualities, and casting off both truth and
 falsehood, a creature, without doubt, becomes emancipated. Having the
-"|1|Ashwamedha Parva|514
+"|1|Ashwamedha Parva|514|e6b10b039d2f4f36b5d8fff1ea12c391
 14|SECTION XLVII||"trunk, with the great principle of egoism for its assemblage of boughs,
 with the senses for the cavities of its little sprouts, with the (five)
 great elements for its large branches, the objects of the senses for its
@@ -3645,7 +3645,7 @@ sins.""'""'""
 
 
 
-"|2|Ashwamedha Parva|273
+"|2|Ashwamedha Parva|273|ca938ab015b0472fbc52f5572198f537
 14|SECTION XLVIII||"
 ""'""'Brahma said, ""Some regard Brahman as a tree. Some regard Brahman as a
 great forest. Some regard Brahman as unmanifest. Some regard it as
@@ -3677,7 +3677,7 @@ and association should be known (as applying to Purusha and Nature).
 Unity and diversity are likewise laid down. That is the doctrine of the
 learned. In the Gnat and Udumbara both unity and diversity are seen. As a
 fish in water is different from it, such is the relation of the two
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|17a927f79ea64b2baff84d533d4cfb60
 14|SECTION XLVIII||"drops on the leaf of the lotus.""'
 
 ""'""The preceptor continued, 'Thus addressed, those learned Brahmanas, who
@@ -3686,7 +3686,7 @@ questioned the Grandsire (of all creatures).'""'""[145]
 
 
 
-"|2|Ashwamedha Parva|63
+"|2|Ashwamedha Parva|63|c5c100a439204fe3a760e3c9f0689ed8
 14|SECTION XLIX||"
 ""'""'The Rishis said,--""Which among the duties is deemed to be the most
 worthy of being performed? The diverse modes of duty, we see, are
@@ -3718,7 +3718,7 @@ followed). Others who ponder on the elements say that it is Nature. Some
 extol everything; others, nothing. O foremost one of the deities, duty
 being thus confused and full of contradictions of various kinds, we are
 deluded and unable to come to any conclusion. People stand up for acting,
-"|1|Ashwamedha Parva|516
+"|1|Ashwamedha Parva|516|b646579a468b4acbb22b731a6c1c90d9
 14|SECTION XLIX||"duty applauds that duty as the best. For this reason our understanding
 breaks down and our mind is distracted. We therefore, wish, O best of all
 beings, to know what is good. It behoves thee to declare to us, after
@@ -3730,7 +3730,7 @@ accurately what they asked.'""'""
 
 
 
-"|2|Ashwamedha Parva|127
+"|2|Ashwamedha Parva|127|60dc7cabc4964811b6c8e072397c2f48
 14|SECTION L||"
 ""'""'Brahma said, ""Well then, I shall declare to you what you ask. Learn
 what was told by a preceptor to a disciple that came unto him. Hearing it
@@ -3762,7 +3762,7 @@ essence, from qualities. He resides in everything alike, and walks with
 knowledge. He always enjoys Nature, as a lotus leaf (enjoys) water.
 Possessed of knowledge, he is never tainted even if brought into contact
 with all the qualities. Without doubt, Purusha is unattached like the
-"|1|Ashwamedha Parva|516
+"|1|Ashwamedha Parva|516|4013c4b57aaf4b3da4a584ed06a3d5fb
 14|SECTION L||"(of the scriptures) that Nature is the property of Purusha. The relation
 between these two (viz., Purusha and Nature) is like that existing
 between matter and its maker. As one goes into a dark place taking a
@@ -3794,7 +3794,7 @@ afflicted and rendered insensible by pain, the man of intelligence
 journeys on a car as long as there is a car path.[152] The man of
 learning, when he sees the car path end, abandons his car for going on.
 Even thus proceeds the man of intelligence who is conversant with the
-"|2|Ashwamedha Parva|514
+"|2|Ashwamedha Parva|514|d86e4a92b6814862a4ea916e390414b2
 14|SECTION L||"Conversant with the qualities, such a man proceeds, comprehending what is
 next and next.[153] As one that plunges, without a boat, into the
 terrible ocean, with only one's two arms, through delusion, undoubtedly
@@ -3825,7 +3825,7 @@ of the five great elements are endued with the nature of seed, and yield
 products. These have Chitta for their property. Among them, space has one
 quality; wind is said to have two. Light, it is said, is endued with
 three qualities; and water as possessed of four qualities. Earth, teeming
-"|3|Ashwamedha Parva|515
+"|3|Ashwamedha Parva|515|89581f5a56774bdca754820d0449363a
 14|SECTION L||"qualities. She is a goddess that is the source of all entities and
 abounds with examples of the agreeable and the disagreeable. Sound,
 likewise touch, colour, taste, and smell numbering the fifth,--these are
@@ -3855,7 +3855,7 @@ shall speak at length of the numerous qualities of sound. Shadaja,
 Rishabha, together with Gandhara, Madhyama, and likewise Panchama; after
 this should be known Nishada, and then Dhaivata.[155] Besides these,
 there are agreeable sounds and disagreeable sounds, compact, and of many
-"|4|Ashwamedha Parva|512
+"|4|Ashwamedha Parva|512|aac1ed8d19a54750a573de4353be06a0
 14|SECTION L||"ten kinds. Space is the highest of the (five) elements. Egoism is above
 it. Above egoism is understanding. Above understanding is the soul. Above
 the soul is the Unmanifest. Above the Unmanifest is Purusha. One who
@@ -3866,7 +3866,7 @@ Soul.""'""'""
 
 
 
-"|5|Ashwamedha Parva|109
+"|5|Ashwamedha Parva|109|c733579f13924ad79021631aa9ede480
 14|SECTION LI||"
 ""'""'Brahma said, ""Since the mind is the ruler of these five elements, in
 the matter of controlling and bringing them forth, the mind, therefore,
@@ -3898,7 +3898,7 @@ of the universe, are born here again and again. All that springs from
 them dissolves, when the time comes, in those very five great elements
 like billows in the ocean. All the great elements are beyond those
 elements that compose the universe. He that is released from those five
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|75e50d47078a4d809d208541c0878794
 14|SECTION LI||"this by the mind only. After the same manner Rishis attained to the
 status of deities by the aid of penance. After the same manner, those who
 have achieved perfection, who were capable of the concentration of Yoga,
@@ -3930,7 +3930,7 @@ Passion, and adhering to only the quality of Goodness, one becomes
 released from every sin and creates all things.[157] Such a one should be
 known to be Kshetrajna in perfection. He that knows him, knows the
 Veda.[158] Attaining to pure knowledge from (restraining) the mind, the
-"|2|Ashwamedha Parva|514
+"|2|Ashwamedha Parva|514|50c2c6b0cf424d80a8e1fb22ad5b4efc
 14|SECTION LI||"one's mind is set. This is an eternal mystery. That which has the
 unmanifest for its beginning and gross qualities for its end, has been
 said to have Nescience for its indication. But do you understand that
@@ -3962,7 +3962,7 @@ acquisition of men of knowledge. This is the uncensured mode of conduct.
 This goal is capable of being attained by one that is alike to all
 creatures, that is without attachment, that is without expectations, and
 that looks equally on all things. I have now declared everything to you,
-"|3|Ashwamedha Parva|505
+"|3|Ashwamedha Parva|505|bfc2b75e1ed6421ab566ee49b40c404a
 14|SECTION LI||"will then acquire success.""
 
 ""'""The preceptor continued, 'Thus addressed by the preceptor Brahma, those
@@ -3993,7 +3993,7 @@ O thou of mighty arms, was declared by me (to thee)! Do thou, therefore,
 set thy mind on it. And now, O chief of Bharata's race, it is long since
 that I saw the lord my sire. I wish to see him again, with thy leave, O
 Phalguna!""'
-"|4|Ashwamedha Parva|433
+"|4|Ashwamedha Parva|433|0e1a54f56cc1411c8c82aabeac4eded7
 14|SECTION LI||"""Vaisampayana continued, 'Unto Krishna who had said so, Dhananjaya said
 in reply,--""We shall go to-day from this town to the city called after the
 elephant. Meeting king Yudhishthira of virtuous soul there, and informing
@@ -4001,7 +4001,7 @@ him (of thy intention) thou shalt then repair to thy own city!""'""
 
 
 
-"|5|Ashwamedha Parva|80
+"|5|Ashwamedha Parva|80|6a6499e75d024cfe9a686f6193dd35f8
 14|SECTION LII||"
 ""Vaisampayana said, 'After this, Krishna ordered Daruka, saying--""Let my
 car be yoked.""--Within a very short space of time Daruka informed (his
@@ -4031,7 +4031,7 @@ createst the Earth, the Welkin, and Heaven, O slayer of Madhu. The
 stainless lunar light is thy smile. The seasons are thy senses. The
 ever-moving wind is thy breath, and death, existing eternally, is thy
 wrath. In thy grace is the goddess of prosperity. Verily, Sree is always
-"|1|Ashwamedha Parva|517
+"|1|Ashwamedha Parva|517|a5a798496d9247bd9c33e483b070acfe
 14|SECTION LII||"sport (in which creatures engage); thou art their contentment; thou their
 intelligence, thou their forgiveness, thou their inclinations, thou their
 beauty. Thou art the universe with its mobile and immobile objects. At
@@ -4060,7 +4060,7 @@ meets with my approbation. Thou shalt soon see my maternal uncle, O
 Janarddana. Thou shalt also see the irresistible Valadeva and other
 chiefs of the Vrishni race.""--Thus conversing with each other, the two
 reached the city named after the elephant. They then, with cheerful
-"|2|Ashwamedha Parva|502
+"|2|Ashwamedha Parva|502|c3b8354a1f614134849130044a4949f9
 14|SECTION LII||"which resembled the mansion of Sakra. They then saw, O monarch, king
 Dhritarashtra, and Vidura of great intelligence, and king Yudhishthira
 and the irresistible Bhimasena, and the two sons of Madri by Pandu; and
@@ -4090,7 +4090,7 @@ also that foremost hero of Kuru's race, obtaining the permission of
 Yudhishthira who was highly pleased with them, sat themselves down. Then
 the king, gifted with great intelligence, seeing those two friends,
 became desirous of addressing them. Soon that best of monarchs, that
-"|3|Ashwamedha Parva|515
+"|3|Ashwamedha Parva|515|9e794f0b3ebb45aea8ca86bfdda5cc8d
 14|SECTION LII||"
 ""'Yudhishthira said, ""Ye heroes, ye foremost ones of Yadu's and Kuru's
 race, it seems that ye two are desirous of saying something to me. Do ye
@@ -4118,7 +4118,7 @@ wealth. Do thou, O hero of the Satwata race, also take with thee whatever
 else thou likest. It is through thy grace, O Kesava, that the whole
 Earth, O hero, has come under our dominion and all our foes have been
 slain.""
-"|4|Ashwamedha Parva|463
+"|4|Ashwamedha Parva|463|739e82b977c54336a06c5867e1ef799a
 14|SECTION LII||"""'When king Yudhishthira the just of Kuru's race said so, Vasudeva, that
 foremost of men, said these words (in reply).
 
@@ -4145,10 +4145,10 @@ prowess, accompanied by Satyaki, the foremost one of Sini's race,
 proceeded to the city of the Anarttas, after having slain all his foes,
 like He of a hundred sacrifices proceeding to Heaven (after slaughtering
 all his foes).'""
-"|5|Ashwamedha Parva|462
+"|5|Ashwamedha Parva|462|c3650f0aff4b4d9b9f393038b3fbdd46
 14|SECTION LII||"
 
-"|6|Ashwamedha Parva|1
+"|6|Ashwamedha Parva|1|c8a0a96c0d0541fab88491995180289c
 14|SECTION LIII||"
 ""Vaisampayana said, 'As he of Vrishni's race was proceeding to Dwaraka,
 those foremost princes of Bharata's race, those chastisers of foes
@@ -4178,7 +4178,7 @@ the world in joy with thee? Will all the kings enjoy happiness in their
 respective kingdoms, in consequence of the pacification of the Kauravas
 brought about by thee? Has that trust, O son, which I had always reposed
 on thee, borne fruit with regard to the Kauravas?""
-"|1|Ashwamedha Parva|496
+"|1|Ashwamedha Parva|496|b27f7ac8962d4484b82c5b3e1b99df22
 14|SECTION LIII||"""'The blessed and holy one said, ""I strove my best at first, for bringing
 about a good understanding, in regard to the Kauravas. When I could not
 by any means succeed in establishing them on peace, it happened that all
@@ -4202,7 +4202,7 @@ I shall, filled with wrath, denounce a curse on thee. It seems, O
 Madhava, that though fully able (to save them), thou wert indifferent to
 these foremost of Kurus who, overwhelmed by insincerity and hypocrisy
 have all met with destruction.""
-"|2|Ashwamedha Parva|366
+"|2|Ashwamedha Parva|366|5b95f233a87048ac93adbd424e557fab
 14|SECTION LIII||"""'Vasudeva said, ""O scion of Bhrigu's race, listen to what I say in
 detail. Do thou accept my apologies also. O thou of Bhrigu's race, thou
 art an ascetic. After having heard my words relating to the soul, thou
@@ -4216,7 +4216,7 @@ of thy penances achieved with so much pain.""'""
 
 
 
-"|3|Ashwamedha Parva|186
+"|3|Ashwamedha Parva|186|fb3ba4d283cd4673acea482e840cf14e
 14|SECTION LIV||"
 ""'Utanka said, ""Do thou, O Kesava, tell me that faultless Adhyatma. Having
 heard thy discourse I shall ordain what is for thy good or denounce a
@@ -4246,7 +4246,7 @@ gratifying the deities; I am even the pourer of the sacrificial libation:
 and I am the Havi or libation that is poured. I am the Adharyu. I am the
 Kalpaka; and I am the highly sanctified sacrificial Havi. It is me whom
 the Udgatri, in the great sacrifice, hymns by the sound of his songs. In
-"|1|Ashwamedha Parva|503
+"|1|Ashwamedha Parva|503|d0ca7fa104294467928522539480c50f
 14|SECTION LIV||"and benedictions fraught with peace hymn my praises who am the artificer,
 O foremost of regenerate ones, of the universe. Know, O best of
 regenerate person, that Dharma is my eldest-born offspring, sprung from
@@ -4274,13 +4274,13 @@ them, filled with wrath, referring to some great fear (as the consequence
 of their slighting my message). But once more I showed themselves my
 usual (human) form. Possessed as they were of unrighteousness, and
 assailed by the virtue of Time, all of them have been righteously slain
-"|2|Ashwamedha Parva|502
+"|2|Ashwamedha Parva|502|98dd1e2efc73484dbb4bf50fe869d255
 14|SECTION LIV||"best of Brahmanas, have acquired great fame. I have thus told thee all
 that thou hadst asked me.""'""
 
 
 
-"|3|Ashwamedha Parva|27
+"|3|Ashwamedha Parva|27|e417dce9753644c6932c3e2ed5a1b92f
 14|SECTION LV||"
 ""'Utanka said, ""I know thee, O Janarddana, to be the creator of the
 universe. Without doubt, this knowledge that I have is the result of thy
@@ -4307,7 +4307,7 @@ thy stomach. All the points of the compass are covered by thy arms. O
 thou of unfading glory, thou art all this. Do thou withdraw this
 excellent and indestructible form of thine. I wish to behold thee now in
 thy own (human) form which too is eternal!""'
-"|1|Ashwamedha Parva|399
+"|1|Ashwamedha Parva|399|87f38e4160bf441d9aae13d9bb2b8c4b
 14|SECTION LV||"""Vaisampayana continued, 'Unto him, O Janamejaya, Govinda of gratified
 soul said these words,--""Do thou ask for some boon."" Unto him Utanka,
 however, said--""Even this is a sufficient boon from thee for the present,
@@ -4338,7 +4338,7 @@ addressed the Rishi, saying,--""Drink!"" The ascetic refused to drink the
 water thus offered. On the other hand, with heart afflicted by hunger and
 thirst, he even gave way to wrath. Disregarded by the high-souled Rishi
 through that conviction, the hunter, O king, with his pack of dogs,
-"|2|Ashwamedha Parva|508
+"|2|Ashwamedha Parva|508|f3ddbcd0ed9e407d8f42a9616753ced9
 14|SECTION LV||"Utanka became filled with shame. He even thought that Krishna, that
 slayer of foes, had beguiled him (in the matter of the boon he had
 granted). Soon after, the holder of the conch and discus and mace, endued
@@ -4367,7 +4367,7 @@ appeared before thee, in that disguise, for giving thee nectar. Thou,
 however, didst disregard him and send him away, seeing that the
 illustrious one had put on the guise of a Chandala. Thy fault has been
 great. Once more, with regard to thy desire, I am prepared to do what is
-"|3|Ashwamedha Parva|518
+"|3|Ashwamedha Parva|518|db4826e9cb6e4aa180c4bdb5f716ae6b
 14|SECTION LV||"be slaked. On those days, O regenerate one, in which thou wilt feel a
 desire for water, clouds well-charged with water will rise over this
 desert. Those clouds, O son of Bhrigu's race, will give thee savoury
@@ -4378,7 +4378,7 @@ rain on any deserts.'""
 
 
 
-"|4|Ashwamedha Parva|120
+"|4|Ashwamedha Parva|120|f8926200c82748dcbcc87d19e4172b6f
 14|SECTION LVI||"
 ""Janamejaya said, 'With what penances was the high-souled Utanka endued
 so that he entertained the wish to denounce a curse on Vishnu himself,
@@ -4410,7 +4410,7 @@ beholding that sign of old age, began to indulge in loud lamentations
 from excess of sorrow. Conversant with every duty, the daughter of his
 preceptor, who was possessed of eyes that resembled the petals of the
 lotus, and of hips that were full and round, at the command of her sire,
-"|1|Ashwamedha Parva|507
+"|1|Ashwamedha Parva|507|fb91770a22404b3f9e0ddffd6cf91905
 14|SECTION LVI||"hands seemed to burn with those tear-drops that she held. Unable,
 accordingly, to hold them longer, she was obliged to throw them down on
 the Earth. The Earth herself was unable to hold those tear-drops of
@@ -4434,7 +4434,7 @@ consequence of thy dutiful services to me, a long time has elapsed
 without my knowing it, O foremost of Brahmanas. If, however, O thou of
 Bhrigu's race, the desire is entertained by thee of leaving this place,
 do thou go without delay, receiving my permission.""
-"|2|Ashwamedha Parva|356
+"|2|Ashwamedha Parva|356|08417a526180426baab61c6edfcd95cb
 14|SECTION LVI||"""'Utanka said, ""What shall I present to my preceptor? Tell me this, O best
 of regenerate persons. Having brought it, I shall go hence, O lord, with
 thy permission.""
@@ -4457,7 +4457,7 @@ bring for thee with the aid of my penances. I have no doubt in this.""
 ""'Ahalya said, ""I am highly gratified with thee, O learned Brahmana, with
 thy unintermitting devotion, O sinless one. This is enough. Blessed be
 thou, go whithersoever thou likest.""'
-"|3|Ashwamedha Parva|343
+"|3|Ashwamedha Parva|343|e7ee6998d9564f0887b63f882c7d3501
 14|SECTION LVI||"""Vaisampayana continued, 'Utanka, however, O monarch, once more, said
 these words,--""Do thou command me, O mother. It is meet that I should do
 something that is agreeable to thee.""
@@ -4479,10 +4479,10 @@ king (who has been transformed into a man-eater) will verily slay Utanka.""
 this task. He shall not, however, incur any danger through thy grace.""
 Thus addressed by her, Gautama said,--""Let it be so!"" Meanwhile, Utanka
 met king Saudasa in a deserted forest.'""
-"|4|Ashwamedha Parva|352
+"|4|Ashwamedha Parva|352|29e24334b8cd4d9ba2f21a9c23e19d6d
 14|SECTION LVI||"
 
-"|5|Ashwamedha Parva|1
+"|5|Ashwamedha Parva|1|349bec6686b443fb90963d12766f3be0
 14|SECTION LVII||"
 ""Vaisampayana said, 'Beholding the king, who had become so, of frightful
 mien, wearing a long beard smeared with the blood of human beings, the
@@ -4515,7 +4515,7 @@ come back to thee and place myself under thy power. I assure thee truly
 of this. There is no falsehood in this. Never before have I spoken
 anything untrue, no, not even in jest. What shall I say then of other
 occasions?""
-"|1|Ashwamedha Parva|458
+"|1|Ashwamedha Parva|458|a48e03af5cc6413199fe1a0bd055604c
 14|SECTION LVII||"""'Saudasa said, ""If the object thou seekest for thy preceptor is capable
 of being placed in thy hands by me, if I be regarded as one from whom a
 gift may be accepted, do thou then say what that object is.""
@@ -4538,7 +4538,7 @@ Utanka and said unto him, ""Do thou, at my word, go to my venerable queen,
 O best of men, and ask her, saying,--Give!--She of pure vows, thus
 solicited by thee, will certainly, at my command, give thee, O foremost
 of regenerate persons, those jewelled ear-rings of hers without doubt.""
-"|2|Ashwamedha Parva|316
+"|2|Ashwamedha Parva|316|6e13a64832fc4af3af65c40b4b1e569c
 14|SECTION LVII||"""'Utanka said, ""Whither, O ruler of men, shall I be able to meet thy
 queen? Why dost thou not thyself go to her?""
 
@@ -4569,11 +4569,11 @@ poison and fire and every kind of danger. If worn by one of short
 stature, these become short. If worn by one of tall stature, these grow
 in size. Even of such virtues are these ear-rings of mine. They are
 praised and honoured everywhere. Indeed, they are known over the three
-"|3|Ashwamedha Parva|503
+"|3|Ashwamedha Parva|503|b5897520d0854857964dc6206c4f8596
 14|SECTION LVII||"
 
 
-"|4|Ashwamedha Parva|1
+"|4|Ashwamedha Parva|1|6c8ab2f65bc64847b71e3d96513e828c
 14|SECTION LVIII||"
 ""Vaisampayana said, 'Utanka, coming back to king Saudasa who was always
 well-disposed towards all his friends, solicited him for some sign (to
@@ -4601,7 +4601,7 @@ that is hostile to Brahmanas to continue living in this world or in
 attaining to happiness in the next. Hence have I given thee these my
 jewelled ear-rings which were coveted by thee.[173] Do thou now keep the
 compact which thou hast made with me today.""
-"|1|Ashwamedha Parva|420
+"|1|Ashwamedha Parva|420|83e5a6f2add14b998a662c2d4affc788
 14|SECTION LVIII||"""'Utanka said, ""O king, I shall certainly act according to my promise. I
 shall truly come back and place myself under thy power. There is,
 however, a question, O scorcher of foes, which I wish to ask thee.""
@@ -4624,7 +4624,7 @@ ones, tell thee that thou shouldst never come back to me. O perpetuator
 of Bhrigu's race, by acting even thus, thou wilt attain to what is
 beneficial to thee. If thou comest back, O learned Brahmana, thou wilt
 surely meet with death.""'
-"|2|Ashwamedha Parva|328
+"|2|Ashwamedha Parva|328|b9b3bfbb51a24bcc987ca93884a2dbc6
 14|SECTION LVIII||"""Vaisampayana continued, 'Thus addressed by the intelligent king in
 respect of what was beneficial for him, Utanka took leave of the monarch
 and set out for the presence of Ahalya. Desirous of doing what was
@@ -4654,7 +4654,7 @@ with body torn therewith, became exceedingly anxious. Unto that
 regenerate Rishi then, who continued to dig the Earth from desire of
 making a path to the nether regions inhabited by the Nagas, the chief of
 the celestials, armed with the thunder, came there, on his car drawn by
-"|3|Ashwamedha Parva|509
+"|3|Ashwamedha Parva|509|333f787d7f96498b8d5c84f81e8288ee
 14|SECTION LVIII||"Brahmanas, as he sat there engaged in his task.'
 
 ""Vaisampayana continued, 'Assuming the garb of a Brahmana afflicted with
@@ -4686,7 +4686,7 @@ coppery hue, O thou of Kuru's race, and he seemed to blaze forth with
 energy. Addressing Utanka, he said, ""Do thou blow into the Apana duct of
 my body. Thou wilt then, O learned Brahmana, get back thy ear-rings which
 have been taken away by a descendant of Airavata's race! Do not loathe to
-"|4|Ashwamedha Parva|503
+"|4|Ashwamedha Parva|503|0d63d3d77ae945748a02e7be6970f363
 14|SECTION LVIII||"former days.""
 
 ""'Utanka said, ""How did I know thee in the retreat of my preceptor?
@@ -4719,7 +4719,7 @@ their hands addressed him, saying, ""Be gratified with us, O holy one!""
 Having gratified that Brahmana and offered him water to wash his feet and
 the ingredients of the Arghya (for honouring him), the Nagas gave him
 those celestial and highly-adored ear-rings. Thus honoured by them,
-"|5|Ashwamedha Parva|515
+"|5|Ashwamedha Parva|515|e6b754b17618494e94ac517875828ba5
 14|SECTION LVIII||"the retreat of his preceptor. Indeed, repairing quickly to Gautama's
 asylum, O king, he presented those ear-rings unto the wife of his
 preceptor, O sinless one. That best of Brahmanas also told his preceptor
@@ -4732,7 +4732,7 @@ have thus told thee what thou hadst asked me.'""
 
 
 
-"|6|Ashwamedha Parva|160
+"|6|Ashwamedha Parva|160|6a65a975f2ee47e69bdbdcde6d975e44
 14|SECTION LIX||"
 ""Janamejaya said, 'After having conferred that boon on Utanka, O foremost
 of regenerate persons, what did the mighty-armed Govinda of great
@@ -4766,7 +4766,7 @@ Food mixed with wines of diverse kinds was stored here and there. Gifts
 were being ceaselessly made to those that were distressed, or blind, or
 helpless. In consequence of all this, the festival of that mountain
 became highly auspicious. There were many sacred abodes built on the
-"|1|Ashwamedha Parva|510
+"|1|Ashwamedha Parva|510|1d7f986982f048a0900069508ac48bf9
 14|SECTION LIX||"righteous deeds. Even thus did the heroes of Vrishni's race sport in that
 festival of Raivataka. Equipt with those mansions, that mountain shone
 like a second Heaven. At the arrival of Krishna, O chief of Bharata's
@@ -4785,10 +4785,10 @@ seat with all the Vrishnis sitting around him. Having washed his feet and
 dispelled his fatigue, Krishna of mighty energy, as he sat there, then
 recounted the chief incidents of the great battle in answer to the
 questions put to him by his sire.'""
-"|2|Ashwamedha Parva|301
+"|2|Ashwamedha Parva|301|8ae950f0be1d445fb8def1b68aec1c51
 14|SECTION LIX||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|efafa22d79fa428db19158c2bf6424c5
 14|SECTION LX||"
 ""'Vasudeva said, ""O thou of Vrishni's race, I have repeatedly heard men
 speaking of the wonderful battle (between the Kurus and the Pandavas).
@@ -4820,7 +4820,7 @@ aided by the wielder of Gandiva, slew, with innumerable arrows, the son
 of Ganga fighting bravely. Lying on a bed of arrows, Bhishma waited like
 an ascetic till the sun leaving his southward path entered on his
 northerly course when that hero gave up his life-breaths. Then Drona,
-"|1|Ashwamedha Parva|503
+"|1|Ashwamedha Parva|503|b52a410bec7647929e2f535d979c7fae
 14|SECTION LX||"under Duryodhana, like Kavya himself of the lord of the Daityas, became
 generalissimo.[177] That foremost of regenerate persons, ever boasting of
 his prowess in battle, was supported by the remnant of the Kaurava force
@@ -4848,7 +4848,7 @@ horsemen, the remnant of the Pandava army, numbering one Akshauhini and
 penetrated with cheerlessness, supported Yudhishthira (as their leader).
 The king Yudhishthira, in the battle that ensued, achieved the most
 difficult feats and slew, before half the day was over, the king of the
-"|2|Ashwamedha Parva|510
+"|2|Ashwamedha Parva|510|ae4120f4b9974b9b802477e45e443ac6
 14|SECTION LX||"prowess slew Sakuni, the man who had brought about the quarrel (between
 the Pandavas and the Kurus). After the fall of Sakuni, the royal son of
 Dhritarashtra, whose army had suffered an extensive carnage and who on
@@ -4874,13 +4874,13 @@ and allies, Vidura and Sanjaya have come to the presence of king
 Yudhishthira the just. Even thus did that battle occur, O lord, for eight
 and ten days. Many kings of Earth, slain therein, have ascended to
 Heaven.""'
-"|3|Ashwamedha Parva|456
+"|3|Ashwamedha Parva|456|58e464d75ae94edd9dc58c4e747a63bb
 14|SECTION LX||"""Vaisampayana continued, 'The Vrishnis, as they heard, O king, that
 dreadful account became filled with grief and sorrow and pain.'""
 
 
 
-"|4|Ashwamedha Parva|37
+"|4|Ashwamedha Parva|37|6e12ba2031f14409a7fc5d23202a496c
 14|SECTION LXI||"
 ""Vaisampayana said, 'After the high-souled Vasudeva of great prowess had
 finished his narration of the great battle of the Bharatas before his
@@ -4910,7 +4910,7 @@ hope, O Govinda, that, his face did not become cheerless while fighting?
 He was possessed, O Krishna, of mighty energy. From a spirit of
 boyishness, that puissant hero, boasting (of his prowess) in my presence,
 used to speak of his skill (in battle). I hope that boy does not lie on
-"|1|Ashwamedha Parva|511
+"|1|Ashwamedha Parva|511|32f72c3ae5ab449c98eb7260122b2e8e
 14|SECTION LXI||"thou tell me this. That son of my daughter always used to challenge
 Bhishma and that foremost of all mighty warriors, viz., Karna, in
 battle."" Unto his sire who, from excess of grief, indulged in such
@@ -4939,7 +4939,7 @@ lamentations, when she saw Kunti, like a female osprey. When she met
 Draupadi, she asked her in grief,--'O reverend lady, where are all our
 sons? I desire to behold them.' Hearing her lamentations, all the Kaurava
 ladies embraced her and wept sitting around her. Beholding (her
-"|2|Ashwamedha Parva|507
+"|2|Ashwamedha Parva|507|62648fb9831440ce85e368a81d93b52f
 14|SECTION LXI||"husband gone? When he comes back, do thou, without losing a moment,
 apprise me of it. Alas, O daughter of Virata, as soon he heard my voice,
 he used to come out of his chamber without the loss of a moment. Why does
@@ -4966,7 +4966,7 @@ who in prowess resembled Yama himself. She also made many presents unto
 the Brahmanas, and bestowed upon them many kine, O perpetuator of Yadu's
 race. Then the Vrishni dame (Kunti), comforted a little, addressed the
 daughter of Virata, saying,--'O faultless daughter of Virata, thou
-"|3|Ashwamedha Parva|505
+"|3|Ashwamedha Parva|505|a0abb517f81b46edba9979d4320fd9f6
 14|SECTION LXI||"rotund hips, protect the child in thy womb.'--Having said these words, O
 thou of great splendour, Kunti ceased. With her permission I have brought
 Subhadra here. It was even thus, O giver of honours, that thy daughter's
@@ -4975,7 +4975,7 @@ Indeed, do not set thy heart on sorrow.""'""
 
 
 
-"|4|Ashwamedha Parva|88
+"|4|Ashwamedha Parva|88|8d7fd3f37c7448d39160b6b7a7b370af
 14|SECTION LXII||"
 ""Vaisampayana said, 'Having heard these words of his son Vasudeva, that
 descendant of Sura, of righteous soul, casting off his grief, made
@@ -5005,7 +5005,7 @@ at my word. That son will rule the Earth after the Pandavas (have
 departed from it)."" Beholding Dhananjaya, he said unto him, in the
 hearing of king Yudhishthira the just, and gladdening him with his words,
 ""O Bharata, thy grandson, O highly blessed one, will become a
-"|1|Ashwamedha Parva|514
+"|1|Ashwamedha Parva|514|3807fa6cc9d44d849b428a5da2a6e83c
 14|SECTION LXII||"of the sea. Therefore, O foremost one of Kuru's race, cast off this
 grief, O mower of foes. Do not doubt this. This will truly happen. That
 which was uttered by the Vrishni hero on a former occasion, will, without
@@ -5023,7 +5023,7 @@ journey for bringing wealth (for the sacrifice).'""
 
 
 
-"|2|Ashwamedha Parva|253
+"|2|Ashwamedha Parva|253|33325702ba2d4f6ab175d04792f4b802
 14|SECTION LXIII||"
 ""Janamejaya said, 'Having heard these words, O regenerate one, that were
 spoken by the high-souled Vyasa in respect of the horse-sacrifice, what
@@ -5055,7 +5055,7 @@ hands, said these words in reply,--""The words thou hast said, O thou of
 mighty-arms, on the subject of bringing the wealth indicated by Vyasa,
 are approved by me. If, O puissant one, we succeed in getting the wealth
 kept there by the son of Avikshita, then this sacrifice, O king, purposed
-"|1|Ashwamedha Parva|520
+"|1|Ashwamedha Parva|520|05d010aa87884866b1647c7d5f2ecf0d
 14|SECTION LXIII||"therefore, bowing our heads unto the high-souled Girisa, and offering due
 worship unto that deity, bring that wealth. Blessed be thou. Gratifying
 that god of gods, as also his companions and followers, in words,
@@ -5081,10 +5081,10 @@ afflicted with grief on account of the death of his sons, his queen
 Yuyutsu, the son of Dhritarashtra, in the capital, they set out,
 worshipped by the citizens and by many Brahmanas possessed of great
 wisdom.'""
-"|2|Ashwamedha Parva|429
+"|2|Ashwamedha Parva|429|f2bba2f7a62f46c18f8e2df4a3746587
 14|SECTION LXIII||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|26fc3d5ede67417e860b4ebe86ed35b1
 14|SECTION LXIV||"
 ""Vaisampayana said, 'They then set out, with cheerful hearts, and
 accompanied by men and animals all of whom and which were equally
@@ -5115,7 +5115,7 @@ divisions.[181] King Yudhishthira caused a separate encampment to be duly
 made for the infuriate elephants that accompanied his force. When
 everything was complete, he addressed the Brahmanas, saying, ""Ye foremost
 of Brahmanas, let that be done which you think should be done in view of
-"|1|Ashwamedha Parva|502
+"|1|Ashwamedha Parva|502|bb6b053fd94b4001a8615292269a2ae7
 14|SECTION LXIV||"fixed for it. Let not a long time pass away over our heads as we wait in
 suspense here. Ye foremost of learned Brahmanas, having formed this
 resolution, let that be done which should be done after this."" Hearing
@@ -5135,7 +5135,7 @@ son of Dharma (saying as follows).'""
 
 
 
-"|2|Ashwamedha Parva|267
+"|2|Ashwamedha Parva|267|598ff04589264044846713a1b388093d
 14|SECTION LXV||"
 ""'The Brahmanas said, ""Let offerings be made unto the high-souled
 Mahadeva of three eyes. Having duly dedicated those offerings, O king, we
@@ -5166,7 +5166,7 @@ bowing unto him with reverence and saluting him properly, with diverse
 kinds of flowers and cakes and Krisara, having worshipped those foremost
 of gems, viz., Sankha and Nidhi, and those Yakshas who are the lords of
 gems, and having worshipped many foremost of Brahmanas and caused them to
-"|1|Ashwamedha Parva|517
+"|1|Ashwamedha Parva|517|7d4ba30bfac7427ca8ceac675ae9bcfa
 14|SECTION LXV||"the energy and the auspicious benedictions of those Brahmanas, caused
 that spot to be excavated. Then numerous vessels of diverse and
 delightful forms, and Bhringaras and Katahas and Kalasas and
@@ -5192,10 +5192,10 @@ viz., the royal son of Pandu, made short marches every day, measured by a
 Goyuta (4 miles). That mighty host, O king, afflicted with the weight
 they bore, returned, bearing that wealth, towards the capital, gladdening
 the hearts of all those perpetuators of the Kuru race.'""
-"|2|Ashwamedha Parva|442
+"|2|Ashwamedha Parva|442|6724ed0bab834eb49428bdff1b2b0956
 14|SECTION LXV||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|e88b729e98994c4daffc78927774d563
 14|SECTION LXVI||"
 ""Vaisampayana said, 'Meanwhile, Vasudeva of great energy accompanied by
 the Vrishnis, came to the city called after the elephant. While leaving
@@ -5224,7 +5224,7 @@ noise ceased. With great haste Krishna, his senses and mind considerably
 affected, with Yuyudhana in his company, entered the inner apartments of
 the palace. He beheld his own paternal aunt (Kunti) coming, loudly
 weeping and calling upon him repeatedly. Behind her were Draupadi and the
-"|1|Ashwamedha Parva|506
+"|1|Ashwamedha Parva|506|6793e29e9aa7446ba98b5165652f8c51
 14|SECTION LXVI||"weeping piteously. Meeting Krishna, Kunti, that daughter of the Bhoja
 race, said unto him, O foremost of monarchs, these words in a voice
 chocked with tears, ""O Vasudeva, O mighty-armed hero, Devaki by having
@@ -5250,7 +5250,7 @@ O Krishna, those words were highly agreeable to her. O thou of the
 Dasarha race, Arjuna's son said unto this daughter of Virata,--'Thy son, O
 blessed girl, will go to my maternal uncles. Taking up his residence with
 the Vrishnis and Andhakas, he will obtain from them the science of arms,
-"|2|Ashwamedha Parva|512
+"|2|Ashwamedha Parva|512|206bff02320c4bc2bf2dcc4e560a3967
 14|SECTION LXVI||"politics and morality.' Even these were the words, O son, that that slayer
 of hostile heroes, viz., the son of Subhadra, that irresistible hero,
 said unto Uttara, from his affection for her. O slayer of Madhu, bowing
@@ -5266,7 +5266,7 @@ the Earth, comforted her as follows.'""
 
 
 
-"|3|Ashwamedha Parva|210
+"|3|Ashwamedha Parva|210|077e391cd3ac4a03af56043eb89de25a
 14|SECTION LXVII||"
 ""Vaisampayana said, 'After Kunti had sat up, Subhadra, beholding her
 brother, began to weep aloud, and afflicted with excessive grief,
@@ -5293,7 +5293,7 @@ time, O grinder of foes, thou saidst in wrath unto Drona's son (ever
 these words), 'O wretch of a Brahmana, O vilest of men, I shall
 disappoint thy wish. I shall revive the son of Kiritin's son.' Hearing
 these words of thine and well knowing thy puissance, I seek to gratify
-"|1|Ashwamedha Parva|504
+"|1|Ashwamedha Parva|504|cbed1543c7394cc298750da47bb3c12f
 14|SECTION LXVII||"pledged thyself previously thou dost not accomplish thy auspicious vow,
 do thou then know for certain, O chief of the Vrishni race, that I shall
 cast off my life. If, O hero, this son of Abhimanyu doth not revive when
@@ -5310,10 +5310,10 @@ Therefore, do I solicit thee. Do thou show this great favour to the sons
 of Pandu. It behoveth thee, O mighty-armed one, to show compassion to
 this Uttara or to me, thinking that I am thy sister or even a mother that
 hath lost her son, and one that hath thrown herself upon thy protection.""'""
-"|2|Ashwamedha Parva|304
+"|2|Ashwamedha Parva|304|51dddad1153f4ca09ae7e9fafb3ed3e7
 14|SECTION LXVII||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|697f989e4b5c4d5695650192a8862df9
 14|SECTION LXVIII||"
 ""Vaisampayana said, 'Thus addressed, O king, (by his sister and others),
 the slayer of Kesin, exceedingly afflicted by grief, answered,--""So be
@@ -5345,7 +5345,7 @@ agitated by grief, beholding Govinda coming, indulged in these
 lamentations, ""O lotus-eyed one, behold us two deprived of our child. O
 Janarddana, both Abhimanyu and myself have been equally slain. O thou of
 Vrishni's race, O slayer of Madhu, I seek to gratify thee by bending my
-"|1|Ashwamedha Parva|521
+"|1|Ashwamedha Parva|521|8a6c81d54ccb45d5926aa771c7a5c2ee
 14|SECTION LXVIII||"consumed by the weapon of Drona's son. If king Yudhishthira the just, or
 Bhimasena, or thyself, O lotus-eyed one, had, on that occasion, said,
 'Let the blade of grass (inspired by Aswatthaman into a Brahma-weapon)
@@ -5370,10 +5370,10 @@ Yama's abode. I had, before this, vowed, O Kesava, that if Abhimanyu fell
 on the field of battle, O hero, I would follow him without any loss of
 time. I did not, however, keep my vow, cruel that I am and fond of life.
 If I repair to him now, what, indeed, will Phalguna's son say?""'""
-"|2|Ashwamedha Parva|480
+"|2|Ashwamedha Parva|480|8499bcdc8aa7492e988924144095562b
 14|SECTION LXVIII||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|2457dcf3d6ea43d9adb53e0fe2267a56
 14|SECTION LXIX||"
 ""Vaisampayana said, 'The helpless Uttara, desirous of getting back her
 child, having indulged in these piteous lamentations, fell down in
@@ -5404,7 +5404,7 @@ reverend princess of Panchala, and the helpless princess of the Satwata
 race. Behold myself, exceedingly afflicted with grief, and resembling a
 deer pierced by a hunter. Rise, O child, and behold the face of this lord
 of the worlds, that is endued with great wisdom, and possessed of eyes
-"|1|Ashwamedha Parva|506
+"|1|Ashwamedha Parva|506|ba3fb541e1974134ad54de963370449c
 14|SECTION LXIX||"Uttara, who indulged in these lamentations, fallen on the earth, all
 those ladies, raising her, caused her to sit up. Having sat up, the
 daughter of the king of the Matsyas, summoning her patience, joined her
@@ -5427,10 +5427,10 @@ Abhimanyu revive (by the merit of these)! As Kansa and Kesi have been
 righteously slain by me, let this child revive today by that truth!""
 After these words were uttered by Vasudeva, that child, O foremost one of
 Bharata's race, became animate and began gradually to move, O monarch.'""
-"|2|Ashwamedha Parva|393
+"|2|Ashwamedha Parva|393|df71068ca08c487b8b9e59ee46cf6add
 14|SECTION LXIX||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|7c08a17cef454b8f814c3bd75c678c77
 14|SECTION LXX||"
 ""Vaisampayana said, 'When the Brahma-weapon was withdrawn by Krishna, at
 that time, the laying-in room was illumined by thy father with his
@@ -5459,7 +5459,7 @@ been born at a time when this race has become nearly extinct, let his
 name be Parikshit!"" Even this is what he said. Then thy father, O king,
 began to grow, and gladden all the people, O Bharata. When thy father was
 a month old, O hero, the Pandavas came back to their capital, bringing
-"|1|Ashwamedha Parva|501
+"|1|Ashwamedha Parva|501|4de10a49e5314c13b533b59c12d8de5e
 14|SECTION LXX||"those foremost ones of the Vrishni race went out. The citizens decked the
 city called after the elephant with garlands of flowers in profusions,
 with beautiful pennons and standards of diverse kinds. The citizens also,
@@ -5481,7 +5481,7 @@ profusion of gems and other valuables.'""[187]
 
 
 
-"|2|Ashwamedha Parva|288
+"|2|Ashwamedha Parva|288|389912c2894e4062ad19a51e2f206d43
 14|SECTION LXXI||"
 ""Vaisampayana said, 'Hearing that the Pandavas were near, that crusher of
 foes, viz., Vasudeva, accompanied by his ministers, went out for seeing
@@ -5513,7 +5513,7 @@ Yudhishthira addressed Vyasa and said, ""This treasure, O holy one, which
 has been brought through thy grace I wish to devote to that great
 sacrifice known by the name of the horse-sacrifice. O best of ascetics, I
 desire to have thy permission. We are all, O Rishi, at thy disposal, and
-"|1|Ashwamedha Parva|515
+"|1|Ashwamedha Parva|515|265cf76ae7dd4234b337df1a762d5412
 14|SECTION LXXI||"
 ""'Vyasa said, ""I give thee permission, O king. Do what should be done
 after this. Do thou worship the deities duly by performing the
@@ -5537,7 +5537,7 @@ the sacrifice, O thou of the Dasarha race, I shall be cleansed from every
 sin. Thou art Sacrifice. Thou art the Indestructible. Thou art this All.
 Thou art Righteousness. Thou art Prajapati. Thou art the goal of all
 creatures. Even this is my certain conclusion.""
-"|2|Ashwamedha Parva|367
+"|2|Ashwamedha Parva|367|8f2f6b3a40df415aa24d79eb6852c1c7
 14|SECTION LXXI||"""'Vasudeva said, ""O mighty-armed one, it becomes thee to say so, O
 chastiser of foes. Thou art the goal of all creatures. Even this is my
 certain conclusion. Amongst the heroes of the Kuru race, in consequence
@@ -5552,7 +5552,7 @@ when thou, O king, sacrificest.""'""[188]
 
 
 
-"|3|Ashwamedha Parva|196
+"|3|Ashwamedha Parva|196|348c74a7ccb24b95b357249f4a514770
 14|SECTION LXXII||"
 ""Vaisampayana said, 'Thus addressed by Krishna, Yudhishthira, the son of
 Dharma, endued with great intelligence, saluted Vyasa and said these
@@ -5584,7 +5584,7 @@ Kuru's race, may be needed for thy sacrifice, be made of gold.[189] Let
 the horse also be loosened today, for roaming on the Earth, agreeably to
 the ordinances of the scriptures. Let the animal, duly protected, wander
 over the Earth.""
-"|1|Ashwamedha Parva|482
+"|1|Ashwamedha Parva|482|818b5a09d6a145bd8061d3a4a86d34bc
 14|SECTION LXXII||"""'Yudhishthira said, ""Let arrangements be made by thee, O regenerate one,
 about loosening this horse for enabling it to wander over the Earth at
 its will. It behoveth thee, O ascetic, to say who will protect this steed
@@ -5610,7 +5610,7 @@ race, duly attend to all the relatives that have been invited to thy
 capital."" Thus addressed by the Rishi, that perpetuator of Kuru's race,
 viz., Yudhishthira, accomplished every injunction duly and appointed
 Phalguna to attend to the horse.
-"|2|Ashwamedha Parva|423
+"|2|Ashwamedha Parva|423|066ef7fcb4e0457682c3d1c2f145a156
 14|SECTION LXXII||"""'Yudhishthira said, ""Come, O Arjuna, let the horse, O hero, be protected
 by thee. Thou alone art competent to protect it, and none else. Those
 kings, O mighty-armed hero, who will come forward to encounter thee, try,
@@ -5627,7 +5627,7 @@ invited guests.'""
 
 
 
-"|3|Ashwamedha Parva|201
+"|3|Ashwamedha Parva|201|f0927cbe95eb47dab0344c55f48f8c04
 14|SECTION LXXIII||"
 ""Vaisampayana said, 'When the hour for initiation came, all those great
 Ritwijas duly initiated the king in view of the horse-sacrifice. Having
@@ -5656,7 +5656,7 @@ consequence of the pressure of bodies, it seemed a fire was created. Loud
 was the noise that arose from that crowd of men who assembled together
 for beholding Dhananjaya the son of Kunti, and it seemed to fill all the
 points of the compass and the entire welkin. And they said,--""There goes
-"|1|Ashwamedha Parva|508
+"|1|Ashwamedha Parva|508|a02fefdc48704719931740769d4204f3
 14|SECTION LXXIII||"mighty-armed hero follows the horse, having armed himself with his
 excellent bow.""--Even these were the words which Jishnu of noble
 intelligence heard. The citizens also blessed him, saying,--""Let
@@ -5684,7 +5684,7 @@ white steeds. Countless, O monarch, was the fete of Kshatriyas,--of kings
 in myriads--who fought with Arjuna on that occasion, for having lost
 their kinsmen on the field of Kurukshetra. Innumerable Kiratas also, O
 king, and Yavanas, all excellent bowmen, and diverse tribes of Mlechcchas
-"|2|Ashwamedha Parva|503
+"|2|Ashwamedha Parva|503|efe7cb96d4c14813bf78a734457bef3a
 14|SECTION LXXIII||"Kurukshetra), and many Aryan kings, possessed of soldiers and animals
 endued with great alacrity, and all irresistible in fight encountered the
 son of Pandu in battle. Thus occurred innumerable battles in diverse
@@ -5695,7 +5695,7 @@ ones among all he fought.'""
 
 
 
-"|3|Ashwamedha Parva|109
+"|3|Ashwamedha Parva|109|bda515c110684548afbe0e039812318c
 14|SECTION LXXIV||"
 ""Vaisampayana said. 'A battle took place between the diadem-decked
 (Arjuna) and the sons and grandsons of the Trigartas whose hostility the
@@ -5724,7 +5724,7 @@ Suryavarman, displaying his great lightness of hand, pierced Dhananjaya
 with hundreds of straight arrows, O monarch. The other great bowmen who
 followed the king and who were all desirous of compassing the destruction
 of Dhananjaya, shot showers of arrows on him. With countless shafts shot
-"|1|Ashwamedha Parva|506
+"|1|Ashwamedha Parva|506|f647a6de5d9f4c05b9a6bf7c23a962ec
 14|SECTION LXXIV||"of arrows; upon which they fell down. Endued with great energy,
 Ketuvarman, the younger brother of Suryavarman, and possessed of youthful
 vigour, fought, for the sake of his brother, against Pandu's son
@@ -5753,7 +5753,7 @@ with rage, wiped the blood from his hand and once more taking up his bow,
 showered a perfect downpour of arrows. Then a loud and confused noise
 arose, filling the welkin and touching the very heavens as it were, from
 diverse creatures who applauded that feat of Dhananjaya. Beholding Jishnu
-"|2|Ashwamedha Parva|507
+"|2|Ashwamedha Parva|507|07bf7543882445bcaa9c0527851e6c39
 14|SECTION LXXIV||"of the Yuga, the Trigarta warriors hastily surrounded him, rushing from
 their posts and desirous of rescuing Dhritavarman. Seeing himself
 surrounded by his foes, Arjuna became more angry than before. He then
@@ -5773,7 +5773,7 @@ them, ""Do ye, O kings, save your lives, and accept my dominion.""'""
 
 
 
-"|3|Ashwamedha Parva|290
+"|3|Ashwamedha Parva|290|73a4aebabce6462a97013fade77b9241
 14|SECTION LXXV||"
 ""Vaisampayana said, 'That foremost of steeds then proceeded to the realm
 of Pragjyotisha and began to wander there. At this, Bhagadatta's son, who
@@ -5803,7 +5803,7 @@ then seemed (as it advanced) as if it would cut through the welkin (like
 a flying hill). Beholding it advance towards him, O king, Dhananjaya,
 filled with rage and standing on the earth, O Bharata, encountered the
 prince on its back. Filled with wrath, Vajradatta quickly sped at Arjuna
-"|1|Ashwamedha Parva|508
+"|1|Ashwamedha Parva|508|a1df789a21ed4b769172220075ae66b5
 14|SECTION LXXV||"resembling (as they coursed through the air) a cloud of speedily-moving
 locusts. Arjuna, however, with shafts sped from Gandiva, cut off those
 arrows, some into two and some into three pieces. He cut them off in the
@@ -5822,10 +5822,10 @@ looked like blazing flames of fire and that seemed to be so many snakes
 of virulent poison. Pierced therewith, the mighty elephant, emitting a
 large quantity of blood, looked like a mountain of many springs
 discharging rills of water coloured with red chalk.'""
-"|2|Ashwamedha Parva|313
+"|2|Ashwamedha Parva|313|abfa862fc1d44642b3e67cde7eab82a1
 14|SECTION LXXV||"
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|c54af553013447ec9b9d7957870f1d21
 14|SECTION LXXVI||"
 ""Vaisampayana said, 'Thus waged that battle, O chief of the Bharatas, for
 three days between Arjuna and that prince like the encounter between him
@@ -5855,7 +5855,7 @@ exceedingly inflamed with wrath against the king. Filled with rage,
 Dhananjaya impeded the course of that beast with a shower of arrows like
 the shore resisting the surging sea. That prince of elephants possessed
 of beauty (of form), thus impeded by Arjuna, stopped in its course, with
-"|1|Ashwamedha Parva|514
+"|1|Ashwamedha Parva|514|6af2d8f6068c466bbf24347b1613af32
 14|SECTION LXXVI||"Seeing his elephant impeded in its course, the royal son of Bhagadatta,
 deprived of sense by rage, shot many whetted arrows at Arjuna. The
 mighty-armed Arjuna baffled all those arrows with many foe-slaying shafts
@@ -5883,11 +5883,11 @@ return to thy city safe and sound, O lord of Earth. When the day of full
 moon in the month of Chaitra comes, thou shalt, O great king, repair to
 that sacrifice of king Yudhishthira the just, for it takes place on that
 day."" Thus addressed by Arjuna, the royal son of Bhagadatta, defeated by
-"|2|Ashwamedha Parva|516
+"|2|Ashwamedha Parva|516|86565866884f407f827cac9cf01c6d11
 14|SECTION LXXVI||"
 
 
-"|3|Ashwamedha Parva|1
+"|3|Ashwamedha Parva|1|713eb56b17374fdc8c282abb57c63ca6
 14|SECTION LXXVII||"
 ""Vaisampayana said, 'There occurred a great battle between the
 diadem-decked Arjuna and the hundreds of Saindhavas who still lived after
@@ -5918,7 +5918,7 @@ That foremost son of Pandu, in the midst of that cloud of arrows,
 resembled a bird in the midst of an iron cage, O Bharata. Seeing the son
 of Kunti thus afflicted with shafts, cries of Oh and Alas were uttered by
 the three worlds and the Sun himself became shorn of his splendour. Then,
-"|1|Ashwamedha Parva|513
+"|1|Ashwamedha Parva|513|c0c170bb8d224e29838935ab6ee83edd
 14|SECTION LXXVII||"and the Moon at the same time. Many meteors struck the solar disc and
 then shot in different directions. The prince of mountains, viz.,
 Kailasa, began to tremble. The seven (celestial) Rishis, as also the
@@ -5948,7 +5948,7 @@ drew his celestial bow. And as he repeatedly stretched the bowstring, the
 twang that followed resembled the loud sound of some mighty machine. Like
 Purandara pouring rain, the puissant Arjuna then, with that bow of his,
 poured incessant showers of shafts on his foes. Pierced by those shafts
-"|2|Ashwamedha Parva|505
+"|2|Ashwamedha Parva|505|fb073259fc61416db2f7d6d0a78e6f2b
 14|SECTION LXXVII||"covered with locusts. They were frightened at the very sound of Gandiva,
 and afflicted by fear they fled away. In grief of heart they shed tears
 and uttered loud lamentations. The mighty warrior moved amidst that host
@@ -5962,7 +5962,7 @@ Sun when he disperses the clouds with his powerful rays.'""
 
 
 
-"|3|Ashwamedha Parva|166
+"|3|Ashwamedha Parva|166|f6f4799120e24ac3a588e453a401b2d2
 14|SECTION LXXVIII||"
 ""Vaisampayana said, 'The irresistible wielder of Gandiva, addresst for
 battle, stood immovable on the field like Himavat himself. The Saindhava
@@ -5991,7 +5991,7 @@ act towards me in that way which may best conduce to your benefit. By
 acting in a different way you will place yourselves in a situation of
 great fear and danger."" Having said these words unto those heroic
 warriors the chief of the Kurus began to fight them. Arjuna was inflamed
-"|1|Ashwamedha Parva|509
+"|1|Ashwamedha Parva|509|d39dfdc5d48f4d7fb19584060875c941
 14|SECTION LXXVIII||"Saindhavas then, O king, shot hundreds and thousands of straight arrows
 at the wielder of Gandiva. Dhananjaya, with his own whetted shafts, cut
 off those arrows of sharp and terrible points, resembling snakes of
@@ -6020,7 +6020,7 @@ sorrow. The puissant Dhananjaya, seeing her, cast off his bow. Abandoning
 his bow, Partha duly received his sister and enquired of her as to what
 he could do for her. The queen replied unto him, saying,--""O chief of the
 Bharatas, this child is the son of thy sister's son. He salutes thee, O
-"|2|Ashwamedha Parva|518
+"|2|Ashwamedha Parva|518|a05b6d604fae40d8b70466df622007d7
 14|SECTION LXXVIII||"enquired after his son (Suratha), saying--""Where is he?"" Dussala then
 answered him, saying,--""Burning with grief on account of the slaughter of
 his sire, the heroic father of this child died in great affliction of
@@ -6048,7 +6048,7 @@ thee, O mighty-armed hero. It behoveth thee, therefore to show mercy to
 this infant. O chastiser of foes, this infant seeks to gratify thee by
 bending his head. He solicits thee for peace. O mighty-armed hero, be
 inclined to make peace. O thou that art conversant with every duty, be
-"|3|Ashwamedha Parva|502
+"|3|Ashwamedha Parva|502|86bf248ea105470db1ffc902340a4e35
 14|SECTION LXXVIII||"slain and who himself knows nothing of what has happened. Do not yield to
 wrath. Forgetting his disreputable and cruel grandfather, who offended
 against thee so highly, it behoveth thee to show thy grace towards this
@@ -6070,10 +6070,10 @@ will, wandered through various realms one after another, enhancing the
 feats of Arjuna. In course of time, O chief of men, the horse wandering
 at its pleasure, at last arrived within the dominions of the ruler of
 Manipura, followed by the son of Pandu.'""
-"|4|Ashwamedha Parva|380
+"|4|Ashwamedha Parva|380|648028ad25634a859ea6f8c9dc69547e
 14|SECTION LXXVIII||"
 
-"|5|Ashwamedha Parva|1
+"|5|Ashwamedha Parva|1|c7943dfa06494b09ba8efddda2f49e62
 14|SECTION LXXIX||"
 ""Vaisampayana said, 'The ruler of Manipura, Vabhruvahana, hearing that
 his sire Arjuna had arrived within his dominions, went out with humility,
@@ -6103,7 +6103,7 @@ my behest, O son, for thou wouldst then attain to great merit. Fight thy
 father, this foremost one of Kuru's race, this hero that is irresistible
 in battle. Without doubt, he will then be gratified with thee."" In this
 way was king Vabhruvahana incited against his sire by his (step) mother.
-"|1|Ashwamedha Parva|507
+"|1|Ashwamedha Parva|507|13e1162b9c624d6fb320aaf00fbf5d69
 14|SECTION LXXIX||"of the Bharatas, to fight Dhananjaya. Putting on his armour of bright
 gold and his effulgent head-gear, he ascended an excellent car which had
 hundreds of quivers ready on it. That car was equipt with necessaries for
@@ -6133,7 +6133,7 @@ praised his son highly. Possessed of great splendour, the son of Sakra
 said, ""Excellent, Excellent, O mighty-armed one, O son of Chitrangada! O
 son, beholding this feat, so worthy of thee, I am highly gratified with
 thee. I shall now shoot these arrows at thee, O son. Stand for fight
-"|2|Ashwamedha Parva|503
+"|2|Ashwamedha Parva|503|c4f6adb185b047068fccf5913988e390
 14|SECTION LXXIX||"shot a shower of arrows on the prince. King Vabhruvahana, however, with
 his own broad-headed shafts, cut all those arrows which were shot from
 Gandiva and which resembled the thunder-bolt of Indra in splendour, some
@@ -6161,10 +6161,10 @@ that her son had fallen down on the Earth, Chitrangada, in great
 agitation of mind, repaired to the field of battle. Her heart burning
 with sorrow, weeping piteously the while, and trembling all over, the
 mother of the ruler of Manipura saw her slain husband.""'
-"|3|Ashwamedha Parva|487
+"|3|Ashwamedha Parva|487|8f08ad0283de453bb02635a0051e724b
 14|SECTION LXXIX||"
 
-"|4|Ashwamedha Parva|1
+"|4|Ashwamedha Parva|1|b8963c7e36b64ac99f7ddc43f4b369ba
 14|SECTION LXXX||"
 ""Vaisampayana said, 'That lady of eyes like lotus petals, having indulged
 in copious lamentations, and burning with grief, at last lost her senses
@@ -6193,7 +6193,7 @@ who is the giver of other people's life-breaths casts off his own
 life-breaths today? Behold, O Ulupi, this goodly sight of thy husband
 lying prostrate on the ground. How is it that thou dost not grieve,
 having caused him to be slain through my son when thou didst excite with
-"|1|Ashwamedha Parva|501
+"|1|Ashwamedha Parva|501|8b5a4b18424840d48e5aaf65cebaf48c
 14|SECTION LXXX||"and lie thus on the ground beside his own sire. Oh, let Vijaya, let him
 that is called Gudakesa, let this hero with reddish eyes, come back to
 life. O blessed lady, polygamy is not fault with men. Women only incur
@@ -6224,7 +6224,7 @@ lying dead on the ground. It is evident that one does not die till one's
 hour comes, since neither myself, nor my mother is deprived of life (at
 even such a sight). Alas, alas, the golden coat of mail of this foremost
 hero of Kuru's race, slain by me, his son, knowingly, is lying on the
-"|2|Ashwamedha Parva|521
+"|2|Ashwamedha Parva|521|4c7b5d83227c479f88b3ae04560fb655
 14|SECTION LXXX||"lying prostrate on the Earth, on a hero's bed, slain by his son. What
 benefit is done to this hero, slain by me in battle, by those Brahmanas
 who were commissioned to attend upon this foremost one of Kuru's race
@@ -6253,7 +6253,7 @@ by making a gift of a hundred kine. By slaying my sire, however, so dire
 has been my sin that any rescue is impossible. This Dhananjaya, the son
 of Pandu, was the one hero endued with mighty energy. Possessed of
 righteous soul, he was the author of my being. How can I be rescued after
-"|3|Ashwamedha Parva|513
+"|3|Ashwamedha Parva|513|96cfd333a0d944ddbc680cc06cbcf6af
 14|SECTION LXXX||"of Dhananjaya, king Vabhruvahana, touched water and became silent, vowing
 to starve himself to death.'
 
@@ -6283,7 +6283,7 @@ immeasurable energy. After the gem had been placed on his breast, the
 heroic and puissant Jishnu became revived. Opening his red eyes he rose
 up like one who had slept long. Beholding his sire, the high-souled hero
 of great energy, restored to consciousness and quite at his ease,
-"|4|Ashwamedha Parva|512
+"|4|Ashwamedha Parva|512|ab57505d135f4e4da6cf8bde51485d61
 14|SECTION LXXX||"puissant one, awoke from the slumber of death with every auspicious sign
 of life, the chastiser of Paka rained down celestial flowers.
 Kettle-drums struck by nobody, produced their music deep as the roar of
@@ -6303,7 +6303,7 @@ bending his head in reverence, and then said,--""Let Ulupi be questioned.""'""
 
 
 
-"|5|Ashwamedha Parva|298
+"|5|Ashwamedha Parva|298|d544a9e51f344f32bffe3a55cc573cfb
 14|SECTION LXXXI||"
 ""'Arjuna said, ""What business brought thee here, O daughter (-in-law) of
 Kuru's race, and what also is the cause of the arrival on the field of
@@ -6332,7 +6332,7 @@ Earth, I heard this said by the Vasus while they were in the company of
 Ganga, O thou of great intelligence. After the fall of Santanu's son,
 those deities, viz., the Vasus, coming to the banks of Ganga, bathed in
 her waters, and calling the goddess of that stream, they uttered these
-"|1|Ashwamedha Parva|514
+"|1|Ashwamedha Parva|514|1c45f463f9494ef78e1b15f185c9bdd0
 14|SECTION LXXXI||"viz.,--'Santanu's son Bhishma has been slain by Dhananjaya. Verily, O
 goddess, Bhishma then was engaged with another, and had ceased to fight.
 For this fault we shall today denounce a curse on Dhananjaya.'--To this,
@@ -6360,7 +6360,7 @@ place on the day of full moon in the coming month of Chaitra. Come there,
 O king, with thy mother and thy counsellors and officers."" Thus addressed
 by Partha, king Vabhruvahana of great intelligence, with tearful eyes,
 said these words to his sire, ""O thou that art conversant with every
-"|2|Ashwamedha Parva|516
+"|2|Ashwamedha Parva|516|84dc9a0022654ccc9fe86a180974b1d6
 14|SECTION LXXXI||"Horse-sacrifice, and take upon myself the task of distributing food among
 the regenerate ones. For, however, showing thy grace towards me, thou
 enter thy own city with thy two wives. Let no scruple be thine as
@@ -6378,7 +6378,7 @@ permission of his two wives, left the spot and proceeded on his way.'""
 
 
 
-"|3|Ashwamedha Parva|250
+"|3|Ashwamedha Parva|250|69027d95b1f8409ca7b794da946404c1
 14|SECTION LXXXII||"
 ""Vaisampayana said, 'The (sacrificial) steed, having wandered over the
 whole Earth bounded by the ocean, then ceased and turned his face towards
@@ -6408,7 +6408,7 @@ hero sped a number of blazing arrows at his foe that resembled snakes
 with fiery mouths. These arrows he shot at his flag and flag-staff and
 car and poles and yoke and the horses, sparing the body of his foe and
 his car-driver. Though Partha who was capable of shooting the bow with
-"|1|Ashwamedha Parva|514
+"|1|Ashwamedha Parva|514|e27ed9576ec041f7a8d2939cec1f5bdd
 14|SECTION LXXXII||"of Magadha, yet the latter thinking that his body was protected by his
 own prowess, shot many arrows at Partha. The wielder of Gandiva, deeply
 struck by the prince of Magadha, shone like a flowering Palasa (Butea
@@ -6437,7 +6437,7 @@ from Yudhishthira was that kings who oppose me should not be slain. It is
 for this thou livest yet, O monarch, although thou hast offended me in
 battle."" Thus addressed, the ruler of Magadha considered himself
 vanquished and spared. Thinking then that it was his duty to do so, he
-"|2|Ashwamedha Parva|507
+"|2|Ashwamedha Parva|507|be685db730d04565a37b92952a6cba83
 14|SECTION LXXXII||"he said, ""Vanquished have I been by thee. Blessed be thou, I do not
 venture to continue the battle. Tell me what I am to do now for thee.
 Regard thy behest as already accomplished."" Comforting him again, Arjuna
@@ -6453,7 +6453,7 @@ another.'""
 
 
 
-"|3|Ashwamedha Parva|216
+"|3|Ashwamedha Parva|216|971cc4637e684e088a79263897de1b2b
 14|SECTION LXXXIII||"
 ""Vaisampayana said, 'Worshipped by the ruler of Magadha, Pandu's son
 having white steeds yoked unto his car, proceeded along the south,
@@ -6482,7 +6482,7 @@ those tribes without having to accomplish any fierce feats, Arjuna
 proceeded to the country of the Surashtras, his footsteps guided by the
 horse. Arrived at Gokarna, he repaired thence to Prabhasa. Next he
 proceeded to the beautiful city of Dwaravati protected by the heroes of
-"|1|Ashwamedha Parva|517
+"|1|Ashwamedha Parva|517|66555bf1add74c819431b3b02858a18d
 14|SECTION LXXXIII||"reached Dwaravati, the Yadava youths, used force against that foremost of
 steeds. King Ugrasena, however, soon went out and forbade those youths
 from doing what they meditated. Then the ruler of the Vrishnis and the
@@ -6501,7 +6501,7 @@ Pandavas.'""
 
 
 
-"|2|Ashwamedha Parva|262
+"|2|Ashwamedha Parva|262|940f496b261241528a4728de243beb6d
 14|SECTION LXXXIV||"
 ""Vaisampayana said, 'The heroic son of Sakuni, who was a mighty
 car-warrior among the Gandharas, accompanied by a large force, proceeded
@@ -6531,7 +6531,7 @@ stupefied by folly, disregarded that advice and covered with many swift
 arrows the Kuru hero who resembled Sakra himself in the feats he
 accomplished in battle. Then Partha, with a crescent-shaped arrow, cut
 off the head-gear of his foe. Of immeasurable soul, he also caused that
-"|1|Ashwamedha Parva|505
+"|1|Ashwamedha Parva|505|ea21eb6de30d49528f6706c80f06c7e7
 14|SECTION LXXXIV||"(after he had cut it off in the battle of Kurukshetra). Beholding this
 feat, all the Gandhara warriors became filled with wonder. That Arjuna
 voluntarily spared their king was well understood by them. The prince of
@@ -6561,13 +6561,13 @@ sinless one.[201] Recollecting my mother Gandhari, and for the sake of
 Dhritarashtra also, I have not taken thy life. It is for this, O king,
 that thou livest still. Many of thy followers, however, have been slain
 by me. Let not such a thing happen again. Let hostilities cease. Let not
-"|2|Ashwamedha Parva|519
+"|2|Ashwamedha Parva|519|1950f4ff05464f1b875a29d02a73fa39
 14|SECTION LXXXIV||"Horse-sacrifice of our king which comes off on the day of full moon of
 the month of Chaitra.""'""
 
 
 
-"|3|Ashwamedha Parva|28
+"|3|Ashwamedha Parva|28|5cacee4d5b6846c0a8bfbcea44cce15c
 14|SECTION LXXXV||"
 ""Vaisampayana said, 'Having said these words, Partha set out, following
 the horse which wandered at its will. The sacrificial steed then turned
@@ -6598,7 +6598,7 @@ sacrifices. Bhima selected a beautiful spot and caused it to be duly
 measured out for laying the sacrificial compound. Numerous houses and
 mansions were constructed on it and high and broad roads also were laid
 out. Soon enough the Kaurava hero caused that ground to teem with
-"|1|Ashwamedha Parva|517
+"|1|Ashwamedha Parva|517|73637314d2fc4b86b487d4e262bae332
 14|SECTION LXXXV||"with jewels and gems, and adorned with diverse structures made of gold.
 Columns were raised, ornamented with bright gold, and high and wide
 triumphal arches also were constructed on that sacrificial compound. All
@@ -6629,7 +6629,7 @@ all his guests to the pavilions that had been assigned for their
 residence. Then all the mechanics and engineers, having completed the
 arrangements of the sacrifice informed king Yudhishthira of it. Hearing
 that everything was ready, king Yudhishthira the just, full of alertness
-"|2|Ashwamedha Parva|506
+"|2|Ashwamedha Parva|506|6c2fc48bfe4e49d5b21b23c9ff0e2968
 14|SECTION LXXXV||"honoured him duly.'
 
 ""Vaisampayana continued, 'When the great sacrifice of Yudhishthira
@@ -6662,7 +6662,7 @@ of great intelligence. Many hills of food, O king, were dedicated on the
 occasion. Many large tanks were seen of curds and many lakes of ghee. In
 that great sacrifice, O monarch, was seen the entire population of
 Jamvudwipa, with all its realms and provinces, collected together.
-"|3|Ashwamedha Parva|509
+"|3|Ashwamedha Parva|509|8c68cf26f066412990f73202a6779d1b
 14|SECTION LXXXV||"of Bharata's race, adorned with garlands and wearing bright ear-rings
 made of gold, taking innumerable vessels in their hands, distributed the
 food unto the regenerate classes by hundreds and thousands. The
@@ -6672,7 +6672,7 @@ eaten and drunk by kings themselves.'""
 
 
 
-"|4|Ashwamedha Parva|89
+"|4|Ashwamedha Parva|89|3de9ab6300614c59b02ee37114704cfc
 14|SECTION LXXXVI||"
 ""Vaisampayana said, 'Beholding those kings--lords of Earth--all
 conversant with the Vedas, arrive, king Yudhishthira, addressing
@@ -6700,7 +6700,7 @@ luck, O Madhava, Arjuna comes back safely. I desire to ascertain from
 thee, O delighter of the Yadavas, what has been said in this matter by
 that mightiest of heroes among the sons of Pandu."" Thus addressed by king
 Yudhishthira the just, the lord of the Vrishnis and the Andhakas, that
-"|1|Ashwamedha Parva|515
+"|1|Ashwamedha Parva|515|c4e4e5c8485c4f8e8aa7f05a2da250b4
 14|SECTION LXXXVI||"soul,--""My agent, recollecting the words of Partha, reported them thus to
 me, O great king,--'Yudhishthira, O Krishna, should be told these words of
 mine when the time comes. O chief of the Kauravas, many kings will come
@@ -6719,7 +6719,7 @@ approved of them and said as follows.'""
 
 
 
-"|2|Ashwamedha Parva|286
+"|2|Ashwamedha Parva|286|78de739b899e4ff5a75396da279c4a8a
 14|SECTION LXXXVII||"
 ""'Yudhishthira said, ""I have heard, O Krishna, thy agreeable words. They
 are such as deserve to be spoken by thee. Gladsome and sweet as nectar
@@ -6749,7 +6749,7 @@ any fault to Arjuna). The slayer of Kesi, viz., Hrishikesa, approved of
 that indication of love (for his friend) which the princess of Panchala,
 who also was his friend, displayed.[204] Bhimasena and the other Kurus,
 including the sacrificial priests, who heard of the agreeable triumphs of
-"|1|Ashwamedha Parva|516
+"|1|Ashwamedha Parva|516|28aa3b0fbbf84b6fa83ddb4e3fa25b04
 14|SECTION LXXXVII||"While they were still engaged in discoursing on Arjuna, an envoy came
 from that high-souled hero bearing a message from him. Repairing to the
 presence of the Kuru king, the intelligent envoy bowed his head in
@@ -6778,7 +6778,7 @@ and others, he embraced Kesava. Worshipped by them all and worshipping
 them in return according to due rites, the mighty-armed hero, accompanied
 by those princes, took rest like a ship-wrecked man tossed on the waves
 resting on reaching the shore. Meanwhile king Vabhruvahan of great
-"|2|Ashwamedha Parva|507
+"|2|Ashwamedha Parva|507|38c5e3094e914e0cad9cfb28b6c70c3d
 14|SECTION LXXXVII||"Kuru capital. The mighty-armed prince duly saluted all his seniors of
 Kuru's race and the other kings present there, and was honoured by them
 all in return. He then entered the excellent abode of his grand-mother
@@ -6786,7 +6786,7 @@ Kunti.'""
 
 
 
-"|3|Ashwamedha Parva|56
+"|3|Ashwamedha Parva|56|286ab7a52825471a88268be08e745e6b
 14|SECTION LXXXVIII||"
 ""Vaisampayana said, 'Entering the palace of the Pandavas the mighty-armed
 prince saluted his grand-mother in soothing and sweet accents. Then queen
@@ -6816,7 +6816,7 @@ priests are urging thee. Let the sacrifice be performed in such a way
 that no limb may become defective. In consequence of the very large
 quantity of gold that is required for this sacrifice, it has come to be
 called the sacrifice of profuse gold. Do thou also, O great king, make
-"|1|Ashwamedha Parva|517
+"|1|Ashwamedha Parva|517|3ec2f135887e4db7addde615a20eda1d
 14|SECTION LXXXVIII||"merit of thy sacrifice increase threefold. The Brahmanas are competent
 for the purpose.[205] Attaining to the merits then of three
 Horse-sacrifices, each with profuse presents, thou shalt be freed, O
@@ -6848,7 +6848,7 @@ scriptures, priests, well-versed in sacrificial rites of every kind,
 performed every day all the acts necessary to complete the great
 sacrifice. Amongst the Sadasayas of king Yudhishthira of great
 intelligence there was none who was not well conversant with the six
-"|2|Ashwamedha Parva|513
+"|2|Ashwamedha Parva|513|ee4cb62ab9d445a6ae7a1639df7693fa
 14|SECTION LXXXVIII||"observer of vows, none that was not an Upadhyaya, none that was not well
 versed in dialectical disputations. When the time came for erecting the
 sacrificial stake, O chief of Bharata's race, six stakes were set up that
@@ -6879,7 +6879,7 @@ was adorned with Kinnaras. All around it were abodes of Brahmanas crowned
 with ascetic success. There were daily seen the disciples of Vyasa, those
 foremost of regenerate ones, who are compilers of all branches of
 learning, and well conversant with sacrificial rites. There was Narada,
-"|3|Ashwamedha Parva|516
+"|3|Ashwamedha Parva|516|3788ba4933d649c38aa18ea2da3f4c25
 14|SECTION LXXXVIII||"Chitrasena and others, all of whom were proficient in music. At intervals
 of the sacrificial rites, those Gandharvas, skilled in music and well
 versed in dancing, used to gladden the Brahmanas who were engaged in the
@@ -6887,7 +6887,7 @@ sacrifice.'""
 
 
 
-"|4|Ashwamedha Parva|58
+"|4|Ashwamedha Parva|58|ba3bc194fbec45c1abd7054d20f91499
 14|SECTION LXXXIX||"
 ""Vaisampayana said, 'Having cooked, according to due rites, the other
 excellent animals that were sacrificed, the priests then sacrificed,
@@ -6918,7 +6918,7 @@ given away unto the sacrificial priests the Earth conquered by Arjuna. Ye
 foremost of Brahmanas, I shall enter the woods. Do ye divide the Earth
 among yourselves. Indeed, do you divide the Earth into four parts
 according to what is done in the Chaturhotra sacrifice. Ye best of
-"|1|Ashwamedha Parva|511
+"|1|Ashwamedha Parva|511|7b02e9b2208b4e7ba1763ac730a654cd
 14|SECTION LXXXIX||"Brahmanas. Even this, ye learned Brahmanas, has been the intention always
 cherished by myself and my brothers."" When the king said these words, his
 brothers and Draupadi also said, ""Yes, it is even so."" Great was the
@@ -6947,7 +6947,7 @@ sacrificial compound, including the triumphal arches, the stakes, the
 jars, and diverse kinds of vessels. After the Brahmanas had taken as much
 as they desired, the wealth that remained was taken away by Kshatriyas
 and Vaisyas and Sudras and diverse tribes of Mlechcchas. Thus gratified
-"|2|Ashwamedha Parva|503
+"|2|Ashwamedha Parva|503|3717c46d95464a4690e66dbbf1507b54
 14|SECTION LXXXIX||"filled with joy, returned to their respective abodes. The holy and
 illustrious Vyasa respectfully presented his own share, which was very
 large, of that gold unto Kunti. Receiving that gift of affection from her
@@ -6977,7 +6977,7 @@ abundance of food and wealth and jewels and gems, and oceans of wines of
 different kinds. There were lakes whose mire consisted of ghee, and
 mountains of food. There were also, O chief of Bharata's race, miry
 rivers made of drinks having the six kinds of taste. Of men employed in
-"|3|Ashwamedha Parva|515
+"|3|Ashwamedha Parva|515|beb8e3ca3fb5475eb346c81cfc27e375
 14|SECTION LXXXIX||"slain for food, there was no end.[213] The vast space abounded with men
 inebriated with wine, and with young ladies filled with joy. The
 extensive grounds constantly echoed with the sounds of drums and the
@@ -6993,7 +6993,7 @@ entered his capital.'""
 
 
 
-"|4|Ashwamedha Parva|188
+"|4|Ashwamedha Parva|188|0f4c6c523b614f108c25db86f90a4101
 14|SECTION XC||"
 ""Janamejaya said, 'It behoveth thee to tell me of any wonderful incident
 that occurred in the sacrifice of my grandsires.'
@@ -7026,7 +7026,7 @@ sacred fire with the aid of proper mantras. That which should be given
 has been given away without pride. The regenerate class have been
 gratified with gifts of diverse kinds. The Kshatriyas have been gratified
 with battles fought according to just methods. The grandsires have been
-"|1|Ashwamedha Parva|502
+"|1|Ashwamedha Parva|502|83ead2389fcf482a90a59a53ca6cd747
 14|SECTION XC||"protection offered to them, and many foremost of women have been
 gratified by accomplishing their desires. The Sudras have been gratified
 by kind speeches, and others with the remnants of the profuse wealth
@@ -7053,7 +7053,7 @@ of the Unccha vow. In consequence of that incident he attained to Heaven,
 ye regenerate ones, along with his wife and son and daughter-in-law. And
 in consequence of what then happened half my body became transformed into
 gold.""
-"|2|Ashwamedha Parva|415
+"|2|Ashwamedha Parva|415|ec41de9537a94b429d21727add4182f4
 14|SECTION XC||"""'The Mongoose continued, ""Ye regenerate ones, I shall presently tell you
 what the excellent fruit was of the gift, made by a Brahmana, of a very
 little measure (of powdered barley) obtained by lawful means. On that
@@ -7084,7 +7084,7 @@ reduced by those ascetics to powder for making what is called Saktu of
 it. Having finished their silent recitations and other daily rites, and
 having duly poured libations on the sacred fire, those ascetics divided
 that little measure of powdered barley amongst themselves so that the
-"|3|Ashwamedha Parva|509
+"|3|Ashwamedha Parva|509|604b987719254e428a4ce8eee6cb4ec0
 14|SECTION XC||"to sit down for eating, there came unto their abode a guest. Beholding
 the person who came as a guest, all of them became exceedingly glad.
 Indeed, seeing him, they saluted him and made the usual enquiries of
@@ -7115,7 +7115,7 @@ own state that his aged, toil-worn, cheerless, and helpless wife was
 herself afflicted by hunger and seeing that lady who had been emaciated
 into mere skin and bone was quivering with weakness, addressed her and
 said, 'O beautiful one, with even animals, with even worms and insects,
-"|4|Ashwamedha Parva|515
+"|4|Ashwamedha Parva|515|5168e712f9a146798b060e610054daa8
 14|SECTION XC||"The wife treats her lord with kindness and feeds and protects him.
 Everything appertaining to religion, pleasure, and wealth, careful
 nursing, offspring for perpetuating the race, are all dependent on the
@@ -7146,7 +7146,7 @@ accept this measure of powdered barley as well.' The Brahmana, having
 accepted that quantity, immediately ate it up, but his hunger was not yet
 appeased. Beholding him ungratified, the Brahmana in the observance of
 the Unccha vow became thoughtful. His son then said unto him, 'O best of
-"|5|Ashwamedha Parva|511
+"|5|Ashwamedha Parva|511|456af966b7d844918924c2bbc1f3ecd7
 14|SECTION XC||"this act of mine as one of great merit. Therefore, do it. Thou shouldst
 be always maintained by me with great care. Maintenance of the father is
 a duty which the good always covet. The maintenance of the father in his
@@ -7168,7 +7168,7 @@ practised penances. I have no fear of death.'
 offspring is called putra because one is rescued by him. One's own self,
 again, takes birth as one's son. Do thou, therefore, rescue thyself by
 thy own self (in the form of thy son).'
-"|6|Ashwamedha Parva|336
+"|6|Ashwamedha Parva|336|d932541dbf8d41589968fd6dfd8a5b46
 14|SECTION XC||"""'""The father said, 'In form thou art like me. In conduct and in
 self-restraint also thou art my like. Thou hast been examined on various
 occasions by me. I shall, therefore, accept thy share of the barley, O
@@ -7189,7 +7189,7 @@ aggregate of everlasting Heavens, depending upon the son, the grandson,
 and the great-grandson. The son is called Putra because he frees his
 sires from debt. Through sons and grandsons one always enjoys the
 happiness of those regions which are reserved for the pious and the good.'
-"|7|Ashwamedha Parva|329
+"|7|Ashwamedha Parva|329|973823e527f44b81a733431944597780
 14|SECTION XC||"""'""The father-in-law said, 'O thou of excellent vows and conduct, beholding
 thee wasted by wind and sun, deprived of thy very complexion, emaciated
 and almost destitute of consciousness through hunger, how can I be such a
@@ -7213,7 +7213,7 @@ regions of happiness hereafter. I deserve to be looked after by thee.
 Know, O regenerate one, that I am wholly devoted to thee. Cherishing also
 this thought, viz., that my happiness is thy concern, it behoveth thee to
 take this my share of the barley.'
-"|8|Ashwamedha Parva|374
+"|8|Ashwamedha Parva|374|ff62e21e287c4ab58980437e1f7ca059
 14|SECTION XC||"""'""The father-in-law said, 'O chaste lady, in consequence of such conduct
 of thine thou wilt for ever shine in glory, for endued with vows and
 steadiness in religious rites, thy eyes are directed to that conduct
@@ -7243,7 +7243,7 @@ Yugas. For thy Brahmacharyya, thy gifts, thy sacrifices, thy penances,
 and thy acts of piety done with a pure heart, go thou to Heaven. O thou
 of excellent vows, thou practisest penances with great devotion. Thy
 gifts have, therefore, gratified the deities highly, O best of regenerate
-"|9|Ashwamedha Parva|504
+"|9|Ashwamedha Parva|504|1ccf1ddbc2e44696b37166b2681e533e
 14|SECTION XC||"with a pure heart, thou hast, by this act of thine, conquered Heaven.
 Hunger destroys one's wisdom and drives off one's righteous
 understanding. One whose intelligence is overwhelmed by hunger casts off
@@ -7274,7 +7274,7 @@ thousands of kine unto the regenerate class. By giving away only one cow
 that did not belong to him, he fell into Hell. Usinara's son Sivi of
 excellent vows, by giving away the flesh of his own body, is rejoicing in
 Heaven, having attained to the regions of the righteous. Mere wealth is
-"|10|Ashwamedha Parva|502
+"|10|Ashwamedha Parva|502|6b1ebcdf06da4a77a0ce570b30dd3d67
 14|SECTION XC||"and with the aid of pious meals. One does not acquire such merit by means
 of even diverse sacrifices as with even a little wealth that has been
 earned lawfully. Through wrath, the fruits of gifts are destroyed.
@@ -7304,7 +7304,7 @@ that Brahmana who was firm in truth, and his penances, half of this my
 ample body has become golden. Ye regenerate ones, for converting the rest
 of my body into gold I repeatedly repair, with a cheerful heart, to the
 retreats of ascetics and the sacrifices performed by kings. Hearing of
-"|11|Ashwamedha Parva|506
+"|11|Ashwamedha Parva|506|e2ca140dbb9440a6b2362ae20ac6581d
 14|SECTION XC||"with high hopes. I have not, however, been made gold. Ye foremost of
 Brahmanas, it was for this that I uttered those words, viz., that this
 sacrifice can by no means compare with (the gift of) that prastha of
@@ -7324,7 +7324,7 @@ each equal in point of merit to sacrifice.'""
 
 
 
-"|12|Ashwamedha Parva|253
+"|12|Ashwamedha Parva|253|9625fe55d0ff4411963b65198b57fb85
 14|SECTION XCI||"
 ""Janamejaya said, 'O puissant Rishi, kings are attached to sacrifices.
 The great Rishis are attached to penances. Learned Brahmanas are
@@ -7357,7 +7357,7 @@ accents. The time came for slaughtering the animals. When the animals
 selected for sacrifice were seized, the great Rishis, O king, felt
 compassion for them. Beholding that the animals had all become cheerless,
 those Rishis, endued with wealth of penances, approached Sakra and said
-"|1|Ashwamedha Parva|513
+"|1|Ashwamedha Parva|513|3f99e32ad303463e9d7d2b1db3759358
 14|SECTION XCI||"acquiring great merit as thou art, this is verily an indication of thy
 unacquaintance with sacrifice. O Purandara, animals have not been
 ordained to be slaughtered in sacrifices. O puissant one, these
@@ -7390,7 +7390,7 @@ unless he be the puissant and self-born Lord himself of creatures. Gifts
 made by a sinner with an impure understanding, even when they are very
 large, become lost. Such gifts go for nothing. By the gifts made by a
 person of unrighteous conduct,--one, that is, who is of sinful soul and
-"|2|Ashwamedha Parva|520
+"|2|Ashwamedha Parva|520|1c9f6d813f58499292bcdcedbab9f0ef
 14|SECTION XCI||"That person of little intelligence who, from desire of acquiring merit,
 performs sacrifices with wealth acquired by unrighteous means, never
 succeeds in earning merit. That low wretch of sinful soul, who
@@ -7418,10 +7418,10 @@ articles acquired lawfully, have attained to high success. Those amongst
 Brahmanas and Kshatriyas and Vaisyas and Sudras who betake themselves to
 penances, O Bharata, and who purify themselves by gifts and other acts of
 righteousness, proceed to Heaven.'""
-"|3|Ashwamedha Parva|442
+"|3|Ashwamedha Parva|442|d66594e425124f8b940b79d0952f4aee
 14|SECTION XCI||"
 
-"|4|Ashwamedha Parva|1
+"|4|Ashwamedha Parva|1|8e8ffd4ea628484398f9ae25d4bf0b3a
 14|SECTION XCII||"
 ""Janamejaya said, 'If, O illustrious one, Heaven is the fruit of wealth
 acquired by lawful means, do thou discourse to me fully on it. Thou art
@@ -7454,7 +7454,7 @@ of injuring others. They were always observant of a pure conduct and were
 never obstructed (in the prosecution of their purposes) by their senses.
 Those great Rishis attended that sacrifice and accomplished its various
 rites. The illustrious Rishi (Agastya) acquired the food that was
-"|1|Ashwamedha Parva|504
+"|1|Ashwamedha Parva|504|4e283ab426654647939e67bab177312a
 14|SECTION XCII||"lawful means according to the best of his power. Numerous other ascetics
 at that time performed large sacrifices. As Agastya, however, was engaged
 in that sacrifice of his, the thousand-eyed Indra, O best of the
@@ -7484,7 +7484,7 @@ his own will, show any regard for me, I shall, in that case, transform
 myself into Indra and keep all creatures alive. Every creature, on
 whatever food he has been nourished, will continue to be nourished on it
 as before. I can even repeatedly create a different order of things. Let
-"|2|Ashwamedha Parva|503
+"|2|Ashwamedha Parva|503|1b5dd2865dbb41fe8472ad8d586d4e50
 14|SECTION XCII||"all the wealth that occurs in the three worlds come here today of its own
 accord. Let all the tribes of celestial Apsaras, all the Gandharvas along
 with the Kinnaras, and Viswavasu, and others there are (of that order),
@@ -7516,7 +7516,7 @@ thee, we shall then, leaving this place, go away."" As they were saying
 these words, Purandara, the chief of the deities, endued with great
 energy, beholding the power of Agastya's penances, poured rain. Indeed, O
 Janamejaya, till the completion of the sacrifice of that Rishi of
-"|3|Ashwamedha Parva|504
+"|3|Ashwamedha Parva|504|b8183a56ed924de6ba41a8b43069bc5f
 14|SECTION XCII||"of men in respect of both quantity and time. Placing Vrihaspati before
 him, the chief of the deities came there, O royal sage, and gratified the
 Rishi Agastya. On the completion of that sacrifice, Agastya, filled with
@@ -7543,7 +7543,7 @@ I now find that that saying is false, since I have been subdued by thee.
 Thou art possessed of a mighty soul. Thou art endued with forgiveness. I
 stand here today, owning thy sway. I fear thy penances, O righteous one.
 Do thou, O puissant Rishi, show me favour.""
-"|4|Ashwamedha Parva|449
+"|4|Ashwamedha Parva|449|ae74f900045a4dd8b38bebfc48ab7996
 14|SECTION XCII||"""'Jamadagni said, ""I have seen thee, O Anger, in thy embodied form. Go
 thou whithersoever thou likest, without any anxiety. Thou hast not done
 me any injury today. I have no grudge against thee. Those for whom I had
@@ -7563,7 +7563,7 @@ sacrifice of that high-souled king. Mongoose disappeared there in our
 very sight.'""[222]
 
 The end of Aswamedha Parva
-"|5|Ashwamedha Parva|308
+"|5|Ashwamedha Parva|308|9f3878751ff242679b20cb96cf7de273
 14|SECTION XCII||"FOOTNOTES
 
 1. Mahavahu occurs twice in this passage. One of the epithets is left out
@@ -7595,7 +7595,7 @@ one of perfect unconsciousness.
 9. The dissolution here spoken of is the Mahapralaya and not the Khanda
 or Avantara Pralayas. Till then, the sage will look upon all beings,
 i.e., their repeated migrations.
-"|6|Ashwamedha Parva|317
+"|6|Ashwamedha Parva|317|0a6c8803a8f04fa6948da8609b8891df
 14|SECTION XCII||"10. The commentator explains that altogether seven questions are asked.
 The first is about the dissolution of the body. The second relates to the
 manner of re-acquiring a body. The third has reference to the manner in
@@ -7623,7 +7623,7 @@ their liability to be excited and produce disease. Telang, not
 suspecting that the whole passage is a reproduction of a passage in the
 ancient work edited by Charaka, misunderstands some expressions and
 wrongly renders doshan into 'disorders.'
-"|7|Ashwamedha Parva|401
+"|7|Ashwamedha Parva|401|4d8c850683b7426f9c8e1e7055224577
 14|SECTION XCII||"13. Jivitam in the second line seems to be an objective of sariram in the
 first.
 
@@ -7646,7 +7646,7 @@ does not become attached to anything. For this reason, one possessed of a
 knowledge of Brahman, having become cognisant of Brahman and attained the
 great object of his desire, succeeds in becoming so (i.e., dissociated
 from all things).' This interpretation seems to be a little far-fetched.
-"|8|Ashwamedha Parva|308
+"|8|Ashwamedha Parva|308|e30258e328994555a26f3e913a6d0b4f
 14|SECTION XCII||"18. Chetasa indicates upadhibhutena, for previously, Jiva was without
 upadhi. Pranasthaneshu implies Indriyagolokeshu or those vital parts
 which constitute the seats of the senses. Chetana does not, I think, mean
@@ -7673,7 +7673,7 @@ is stated in this verse is that every Purusha is a duality, made up of
 Kshara and Akshara. Telang gives a different version of the verse. He
 ignores the word trayanam totally, and takes Mithunam as implying a
 couple (male and female). All the texts I have seen contain trayanam.
-"|9|Ashwamedha Parva|408
+"|9|Ashwamedha Parva|408|a9b53c494340452eb318e699fbebfd6b
 14|SECTION XCII||"23. Atra purvajamnani (vishaye) yatha kaschit Medhavi etc., (vadet),
 seems to be the correct order of the words. Telang translates the first
 line differently.
@@ -7697,7 +7697,7 @@ ignorance.
 27. Formlessness implies subtlety. 'Without cause' implies increate or as
 identical with eternal Brahman. Dissociation from attributes while
 enjoying them implies an emancipate condition.
-"|10|Ashwamedha Parva|305
+"|10|Ashwamedha Parva|305|af98a0076eba46a5a003868dd0035482
 14|SECTION XCII||"28. Nirvana, according to orthodox commentators, implies the annihilation
 or cessation of separate or individual existence by absorption into
 universal and eternal Brahman.
@@ -7726,7 +7726,7 @@ the Lord of the universe.'
 35. The first line seems to be doubtful. The sense, as I understand it,
 is,--such a person becomes the god of the very gods. The causal verb
 karayate may be taken as equivalent to karoti.
-"|11|Ashwamedha Parva|306
+"|11|Ashwamedha Parva|306|225890d04265428b94df38cef4d10c64
 14|SECTION XCII||"36. I follow Nilakantha in rendering the second line. The sense is clear,
 viz., that one should not fall away from the practice of Yoga, tempted by
 the puissance that Yoga brings. Telang renders the line 'one practising
@@ -7757,7 +7757,7 @@ kayamabhi and antaram, i.e., both within and without the body. The
 several parts of the body named, beginning with teeth, etc, refer to
 eating and other operations, all of which influence the mind and dispose
 it for purity and otherwise.
-"|12|Ashwamedha Parva|468
+"|12|Ashwamedha Parva|468|5dbd55296f5141edb97d01d472f3be9b
 14|SECTION XCII||"39. i.e., that from which the entire universe has been created.
 
 40. Probably, 'by any of the senses'. The plural form occurs in the
@@ -7788,7 +7788,7 @@ themselves to the path of knowledge, become emancipated. The deities
 derive their sustenance from the former and become even jealous of the
 latter, for the emancipate state is higher than that of the deities
 themselves.
-"|13|Ashwamedha Parva|355
+"|13|Ashwamedha Parva|355|0f156de7b0b84b1f8e5b3a6f44f8bff8
 14|SECTION XCII||"46. Avichakshanam is undiscerning, in the sense of the husband's not
 knowing that the interrogatrix as wife, has no other refuge than her lord
 with all his defects.
@@ -7812,7 +7812,7 @@ Vayu which urges the understanding and upholds all living creatures.
 yatah or for which.
 
 51. Tasmin is taken, by Nilakantha as Apana sahite Prane.
-"|14|Ashwamedha Parva|318
+"|14|Ashwamedha Parva|318|d36b23d39bcb4fe68b229351a122f9d6
 14|SECTION XCII||"52. Utkarshena anayati, hence Udana, says Nilakantha. The sense of the
 whole passage seems to be this. Worldly life is regulated by the
 life-breaths. These are attached to the Soul and lead to its individual
@@ -7843,7 +7843,7 @@ poured into the mouth develops into speech or word. Vachaspati implies
 the Veda or word. First arises the word, the mind sets itself upon it,
 desirous of creation. This corresponds with the Mosaic Genesis.--'God
 said, let there be light, and there was light.' The word was first.
-"|15|Ashwamedha Parva|484
+"|15|Ashwamedha Parva|484|437e1d362b7e4ca4aeb9616b14cd0704
 14|SECTION XCII||"56. The last question seems to be this: in dreamless slumber, the mind
 disappears totally. If it is the mind upon which Prana rests, why does
 not Prana also disappear? It is seen to separate itself from mind, for it
@@ -7869,7 +7869,7 @@ etc. The external world being only a manifestation of the mind, it is
 spoken of here as identical with it. So, the ideas in the mind which are
 not due to the senses, are only the mind. This is the movable mind. That
 mind depends on word or the scriptures.
-"|16|Ashwamedha Parva|356
+"|16|Ashwamedha Parva|356|3d92597b212341cdba9eb46197506ed0
 14|SECTION XCII||"60. Telang gives a different version of this verse. I offer a verbal
 rendering, without attempting to explain it.
 
@@ -7902,7 +7902,7 @@ bring out the sense as explained by the commentators. The printed texts
 are not correct. The text adopted by Nilakantha differs from that of
 Arjuna Misra. The very order of the verses is not uniform in all the
 texts.
-"|17|Ashwamedha Parva|355
+"|17|Ashwamedha Parva|355|483ad6542b344cc49a0ae07d23a9a3f1
 14|SECTION XCII||"68. 'These' refers to action, agent and instrument. The qualities of
 which they are possessed are goodness, passion, and darkness.
 
@@ -7931,7 +7931,7 @@ stated here is plain, viz., that it is He who is the preceptor and the
 disciple. Ayam srinoti,--'prochyamanam grihnati,--tat prichcchatah ato
 bhuyas anye srinanti' is the grammar of the construction. The conclusion
 then comes--'gururanyo na vidyate'.
-"|18|Ashwamedha Parva|372
+"|18|Ashwamedha Parva|372|920a4db5ea2d4cb7b389e05c311640c8
 14|SECTION XCII||"75. One who understands the truth.
 
 76. The seven large trees are the five senses, the mind, and the
@@ -7960,7 +7960,7 @@ rites with the aid of Mantras I have done that which has been approved
 from ages past by those who have always been regarded wise. My eyes,
 however, have now been opened by thee. I should not be held responsible
 for what I did while I was ignorant.
-"|19|Ashwamedha Parva|354
+"|19|Ashwamedha Parva|354|5cd988cef18e42fe8a167b391210d559
 14|SECTION XCII||"81. Kshatriyas always require Brahmanas for assisting them in their acts.
 These particular Kshatriyas, through fear of Rama, fled to the forests
 and mountains. They could not, accordingly, find Brahmanas for assisting
@@ -7984,7 +7984,7 @@ destruction of the person practising it.
 joy that is felt at the certainty of attaining what is desired. Priti is
 that satisfaction which is felt when the object desired is attained.
 Ananda is what arises while enjoying the attained object.
-"|20|Ashwamedha Parva|332
+"|20|Ashwamedha Parva|332|9749047483c34238830e7fbe54aaea3c
 14|SECTION XCII||"85. The sense seems to be this. Having first conquered the internal foes
 mentioned, the man of intelligence, bent on effecting his deliverance,
 should then seek to vanquish all external foes standing in his way.
@@ -8015,7 +8015,7 @@ not I to the earth. I have transcended my sensations, and, therefore, the
 objects to which they inhere. The whole world represents only the objects
 of the sensations. The latter being mastered, the whole world has been
 mastered by me.
-"|21|Ashwamedha Parva|387
+"|21|Ashwamedha Parva|387|c3fa77720adf4fc5902b19f4c8397b72
 14|SECTION XCII||"91. i.e., I live and act for these and not my own self.
 
 92. Nilakantha's reading is erroneous, Brahma-labhasya should be
@@ -8047,7 +8047,7 @@ with the symbols of knowledge. Karmabudhhi never means 'action and
 knowledge' as rendered by Telang. Abudhitwatt means 'through ignorance.'
 This ignorance is of those persons whose understandings have not been
 cleansed by action.
-"|22|Ashwamedha Parva|370
+"|22|Ashwamedha Parva|370|f17d6014b414489ba4d447166d0102c1
 14|SECTION XCII||"98. What is stated here is this. In the matter of achieving Emancipation,
 no ordinances have been laid down, positive or negative, like those in
 respect of other things. If one wishes to attain to Heaven, he should do
@@ -8071,7 +8071,7 @@ due to the knowledge of Kshetra as something separate from Kshetrajna.
 101. Their origin is Brahman or Truth. They live, dissociated from their
 origin, in consequence of their acts. When their acts cease, they return
 to and become merged in Brahman.
-"|23|Ashwamedha Parva|321
+"|23|Ashwamedha Parva|321|22bb903705564078b5c391dfebb132a0
 14|SECTION XCII||"102. i.e., that course of life which has for its object the acquisition
 of knowledge relating to the soul. This, of course, includes the
 knowledge that is needed for achieving identification with the Supreme
@@ -8103,7 +8103,7 @@ tearing open their veils or covers.
 
 109. Vibhajanti implies enjoyments in this connection. Telang starts a
 needless objection to this word.
-"|24|Ashwamedha Parva|317
+"|24|Ashwamedha Parva|317|a43516f03b4c479fa838f122e961c7dd
 14|SECTION XCII||"110. 'From even a distance' implies that upon even a cursory view;
 without even being examined minutely.
 
@@ -8130,7 +8130,7 @@ birth as a Brahmana.
 
 115. A repetition occurs here of about 5 verses. The passage is evidently
 an interpolation originally caused by carelessness.
-"|25|Ashwamedha Parva|318
+"|25|Ashwamedha Parva|318|b9e1664189324dfcb13658ec2ea23755
 14|SECTION XCII||"116. Nilakantha explains that this implies that one should regard these
 as really undistinguished from the mind. Indeed, created by the mind
 itself, these should always be taken as having no real existence beyond
@@ -8157,7 +8157,7 @@ sense of the second line seems to be that this body is ceaselessly
 revolving, for Emancipation is difficult to achieve. Hence this body is,
 as it were, the wheel of Time. Nilakantha's explanation does not seem to
 be satisfactory.
-"|26|Ashwamedha Parva|315
+"|26|Ashwamedha Parva|315|c8677bef528d429883f3c95f93f912c0
 14|SECTION XCII||"122. I do not think that Telang is correct in his version of this verse.
 What is said here seems to be this. The body is, as it were the wheel of
 Time; the body is the ocean of delusion; the body is the creator,
@@ -8183,7 +8183,7 @@ evidently implies the Nimba or Melia Azadirachta, Linn.
 127. Nilakantha is for taking the second line as consisting of two
 propositions. It would be better to take satinam as referring to strinam,
 and vasumatyah, as an adjective of Apsarasah.
-"|27|Ashwamedha Parva|336
+"|27|Ashwamedha Parva|336|89a372c4f23f4a5c88ab33c0fdadacd2
 14|SECTION XCII||"128. The sense seems to be that good men never allow others to know what
 their acts are. They are strangers to ostentation.
 
@@ -8207,7 +8207,7 @@ Pariskandha is Samuha or the materials that together compose an object.
 Here it may be taken for the nave or centre. Home is called the
 circumference, because, as the circumference limits the wheel, even so
 home (wife and children) limits the affections and acts of life.
-"|28|Ashwamedha Parva|316
+"|28|Ashwamedha Parva|316|baa469282a184b30ba7367d45172cb02
 14|SECTION XCII||"133. The words Kalachakram pravartate have been rendered in the first
 verse of this lesson. In verse 9, the words asaktaprabhavapavyam are
 explained by Nilakantha differently. Manas-krantam, I take, is equivalent
@@ -8233,7 +8233,7 @@ Roxburgh.
 138. At first he should live on fruits and roots and leaves, etc. Next on
 water, and then on air. There are different sects of forests recluses.
 The course of life is settled at the time of the initiatory rites.
-"|29|Ashwamedha Parva|310
+"|29|Ashwamedha Parva|310|3df284dc2d56422b9d220a54729b5976
 14|SECTION XCII||"139. What is stated here is this. The Sannyasin should not ask for alms:
 or, if he ever seeks for alms, he should seek them in a village or house
 where the cooking has been already done and where every one has already
@@ -8261,7 +8261,7 @@ twelve or two and twenty be taken, then that number would be made up by
 the five modes of Yama, the five of Niyama, the remaining six of Yoga
 (beginning with Asana and ending with Samadhi), the four beginning with
 Maitri, and the two, viz., Tarka and Vairagya.
-"|30|Ashwamedha Parva|389
+"|30|Ashwamedha Parva|389|b03a82d0dbc64781a0e3bc969bba08bc
 14|SECTION XCII||"145. What is said in this Lesson seems to be this: the Unmanifest or
 Prakriti is that condition in which all the three qualities of Goodness,
 Passion, and Darkness exist in a state of combination. The unmanifest is
@@ -8284,7 +8284,7 @@ W. Hamilton's philosophy. I follow Telang in adopting them.
 explains, knowledge, which is a manifestation of Nature. Arjuna Misra's
 interpretation seems to be better. He says that knowledge,--that is,
 knowledge of truth,--is acquired by the self through Nature.
-"|31|Ashwamedha Parva|307
+"|31|Ashwamedha Parva|307|6263633cd7d24137986b7143cb2acabe
 14|SECTION XCII||"149. The sense seems to be this: one who proceeds, on a journey must
 provide oneself with the necessary means, otherwise one is sure to feel
 discomfort or meet with even destruction. So, in the journey of life, one
@@ -8311,7 +8311,7 @@ first, then Yoga, then the state of Hansa or Paramahansa.
 to chillies.
 
 155. These are the notes of the Hindu Gamut.
-"|32|Ashwamedha Parva|307
+"|32|Ashwamedha Parva|307|773dc3d438a24749b61d313163383f42
 14|SECTION XCII||"156. The understanding operates on what is placed before it by the mind.
 The understanding, therefore, is, as it were, the lord exercising power
 or sovereignty, being served by the mind.
@@ -8342,7 +8342,7 @@ universe and thereby assimilates himself to Brahman. By eaters of Amrita
 are meant they who never take any food without offering portions thereof
 to the deities, Pitris, and guests. Of course, Yogins of piety are
 implied by it.
-"|33|Ashwamedha Parva|366
+"|33|Ashwamedha Parva|366|ba520e1617814458a2e2da71827b08ac
 14|SECTION XCII||"162. Purusha here implies Jiva divested of consciousness of body.
 
 163. The meaning is this: in a dream what is seen is all unreal. So, when
@@ -8367,7 +8367,7 @@ Krishna to bear to them a message of respect and love from him.
 167. The city of Hastinapura is sometimes called Nagapura, both Hasti and
 Naga being words expressive of the elephant. 'The city called after the
 elephant' is the usual description of the Kuru capital.
-"|34|Ashwamedha Parva|306
+"|34|Ashwamedha Parva|306|86c428f754f64781943bf7db655380ef
 14|SECTION XCII||"168. Mahyam is equal to 'mam uddisya' i.e., referring to my divine nature.
 
 169. An ascetic loses his penances by cursing another rightly or wrongly.
@@ -8391,7 +8391,7 @@ if solicited by pupils in search of the final Dakshina. What Gautama says
 here is that the object of the final present is to gratify the preceptor.
 He (Gautama), however, had already been gratified with the dutiful
 conduct of Utanka. There was no need, therefore, of any present.
-"|35|Ashwamedha Parva|320
+"|35|Ashwamedha Parva|320|b8f18f52a7074393aa9f39bdd8ef9ae1
 14|SECTION XCII||"172. These words of the king are intended to be reported to his queen who
 would understand the allusion. The sense is this: cursed by Vasishtha, I
 have become a cannibal. My condition is intolerable. By this gift of the
@@ -8416,7 +8416,7 @@ out his intention of eating him up.
 it stands for an Akshauhini.
 
 177. Kavi or Kavya is another name of Sukra, the preceptor of the Daityas.
-"|36|Ashwamedha Parva|303
+"|36|Ashwamedha Parva|303|3d3615950732473795af7fd860d78ac8
 14|SECTION XCII||"178. Krishna implies Vyasa here. The great Rishi was called 'the
 island-born Krishna'.
 
@@ -8448,7 +8448,7 @@ it are touched the lips, the nostrils, the ears, and the eyes.
 186. The abode of Vaisravana is called Alaka. Vaisravana is, of course,
 Kuvera, the lord of treasures, friend of Mahadeva, and chief of the
 Yakshas.
-"|37|Ashwamedha Parva|333
+"|37|Ashwamedha Parva|333|89addc028b20437b8763fdf13bb6e934
 14|SECTION XCII||"187. The last line is slightly expanded.
 
 188. The sense is this: thou art the eldest brother of the Pandavas; if
@@ -8478,7 +8478,7 @@ intended as a present or offering of respect.
 
 195. Ulupi was one of the wives of Arjuna. She was, therefore, the
 step-mother of Vabhruvahana.
-"|38|Ashwamedha Parva|329
+"|38|Ashwamedha Parva|329|688370d74574493483bd31240762559d
 14|SECTION XCII||"196. Yahubharyyata, meaning polygamy in the first line, should, as the
 noun of reference for Eshah be taken as vahunam bharyyata, i.e.,
 polyandry, in the second line.
@@ -8507,7 +8507,7 @@ times.
 
 203. Hetuvadins are dialecticians or philosophers who dispute on the
 reasons of things.
-"|39|Ashwamedha Parva|317
+"|39|Ashwamedha Parva|317|d32469dea3cb42afa4824c9bdc3cac4b
 14|SECTION XCII||"204. It is worthy of note that Draupadi was always styled by Krishna as
 his sakhi or 'friend'. Krishna was highly chivalrous to the other sex at
 an age when women were universally regarded as the inferiors of men.
@@ -8533,7 +8533,7 @@ consistent with inferences.
 208. Pravargya is a special preliminary rite performed in a sacrifice.
 'Abhishva' is the extraction of the juice of the Soma plant after its
 consecration with Mantras.
-"|40|Ashwamedha Parva|326
+"|40|Ashwamedha Parva|326|ac3f028993e64ae68223ed04878d1c2e
 14|SECTION XCII||"209. Vitwa is the Aegle marmelos, Linn. Khadira is Acacia catechu, Linn,
 or Mimosa catechu; Saravarnin is otherwise called, as explained by
 Nilakantha, Palasa. It is the Butea frondosa of Roxburgh. Devadaru is
@@ -8560,7 +8560,7 @@ bazars of Indian towns.
 214. The unccha vow consists of subsisting upon grains of corn picked up
 after the manner of the pigeon from the field after the crops have been
 cut and removed by the owners.
-"|41|Ashwamedha Parva|324
+"|41|Ashwamedha Parva|324|f8d48c56876f4d078d7db65ad800e6ac
 14|SECTION XCII||"215. The day of 12 hours is divided into 8 divisions.
 
 216. A prastha is made up of four Kudavas. A Kudava is equal to about
@@ -8589,7 +8589,7 @@ observer is said to undergo the period of Diksha.
 runs,--'steadfastly observing my vow, I shall make arrangements for many
 sacrifices, creating the articles I want by thought alone (or fiats of my
 will).'
-"|42|Ashwamedha Parva|350
+"|42|Ashwamedha Parva|350|04367c9db89b4846996d8c510c0de13a
 14|SECTION XCII||"221. Probably, the sense is this: If a Brahmana produced extraordinary
 results by his penances, a portion of his penances was supposed to be
 destroyed. The Rishis did not like that any portion of Agastya's penances
@@ -8603,4 +8603,4 @@ transformation of the mongoose. Truly speaking, the doctrine is noble of
 the gift of a small quantity of barley made under the circumstances being
 superior in point of merit to even a Horse-sacrifice performed by a king
 with gifts in profusion made to the Brahmanas.
-"|43|Ashwamedha Parva|176
+"|43|Ashwamedha Parva|176|c5147b4afb90438fbf40de135155a9ef

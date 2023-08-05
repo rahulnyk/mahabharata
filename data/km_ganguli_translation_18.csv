@@ -1,4 +1,4 @@
-book_number|section|section_name|text|para_number|book_name|num_tokens
+book_number|section|section_name|text|para_number|book_name|num_tokens|chunk_id
 18|NA|NA|"The Mahabharata
 
 of
@@ -24,7 +24,7 @@ formatting at sacred-texts.com, by J. B. Hare, October 2003.
 
 
 
-"|1|Svargarohana Parva|96
+"|1|Svargarohana Parva|96|36f4d490497548539176b8546cbd6696
 18|1||"
 Om! Having bowed down into Narayana, and to Nara, the foremost of men, as
 also to the goddess Sarasvati, should the word ""Jaya"" be uttered.
@@ -53,7 +53,7 @@ in the deep forest. It was for him that the virtuous princess of Panchala,
 Draupadi of faultless features, our wife, was dragged into the midst of
 the assembly before all our seniors. Ye gods, I have no desire to even
 behold Suyodhana. I wish to go there where my brothers are.""
-"|1|Svargarohana Parva|411
+"|1|Svargarohana Parva|411|078caa9e5b01477eb3a736cc52213c72
 18|1||"""'Narada, smiling, told him, ""It should not be so, O king of kings. While
 residing in Heaven, all enmities cease. O mighty-armed Yudhishthira, do
 not say so about king Duryodhana. Hear my words. Here is king Duryodhana.
@@ -73,7 +73,7 @@ which were yours in consequence of the acts of your kinsmen, the woes,
 viz., that were due to battle or to other situations. Do thou meet
 Duryodhana now according to the ordinances of polite intercourse. This is
 Heaven, O lord of men. There can be no enmities here.""
-"|2|Svargarohana Parva|307
+"|2|Svargarohana Parva|307|af28d7b9613743b99852815f17a4c670
 18|1||"""'Though thus addressed by Narada, the Kuru king Yudhishthira, endued with
 great intelligence, enquired about his brothers and said, ""If these
 eternal regions reserved for heroes be Duryodhana's, that unrighteous and
@@ -91,10 +91,10 @@ O Brahmana? I do not see them here, O Narada. I desire to see, O Narada,
 Virata and Drupada and the other great Kshatriyas headed by Dhrishtaketu,
 as also Shikhandi, the Panchala prince, the sons of Draupadi, and
 Abhimanyu, irresistible in battle.""'""
-"|3|Svargarohana Parva|317
+"|3|Svargarohana Parva|317|ac29dc36ff1544c4894b2273509d50ae
 18|1||"
 
-"|4|Svargarohana Parva|1
+"|4|Svargarohana Parva|1|12d5b6d493cb4c97b8160137e0883250
 18|2||"
 ""'Yudhishthira said, ""Ye deities, I do not see here Radha's son of
 immeasurable prowess, as also my high-souled brothers, and Yudhamanyu and
@@ -123,7 +123,7 @@ Panchala, whose conduct was always righteous. I wish not to stay here. I
 tell you the truth. Ye foremost ones among the deities, what is Heaven to
 me if I am dissociated from my brothers? That is Heaven where those
 brothers of mine are. This, in my opinion, is not Heaven.""
-"|1|Svargarohana Parva|484
+"|1|Svargarohana Parva|484|502d3fd7df7a4a97befadee0ed13c59b
 18|2||"""'The gods said, ""If thou longest to be there, go then, O son, without
 delay. At the command of the chief of the deities, we are ready to do
 what is agreeable to thee.""'
@@ -147,7 +147,7 @@ needles. And it abounded with inaccessible fastnesses like the Vindhya
 mountains. Human corpses were scattered over it, smeared with fat and
 blood, with arms and thighs cut off, or with entrails torn out and legs
 severed.
-"|2|Svargarohana Parva|377
+"|2|Svargarohana Parva|377|e146dd6f27c64e698f89d320a965d35d
 18|2||"""'Along that path so disagreeable with the stench of corpses and awful
 with other incidents, the righteous-souled king proceeded, filled with
 diverse thoughts. He beheld a river full of boiling water and, therefore,
@@ -168,7 +168,7 @@ this of the gods?""
 messenger stopped in his course and replied, saying, ""Thus far is your
 way. The denizens of Heaven commanded me that having come thus far, I am
 to stop. If thou art tired, O king of kings, thou mayst return with me.""
-"|3|Svargarohana Parva|301
+"|3|Svargarohana Parva|301|fdfaf80522c546c08d115f40abebfc19
 18|2||"""'Yudhishthira, however, was exceedingly disconsolate and stupefied by the
 foul odour. Resolved to return, O Bharata, he retraced his steps.
 Afflicted by sorrow and grief, the righteous-souled monarch turned back.
@@ -189,7 +189,7 @@ heart exclaimed aloud, ""Alas, how painful!"" And the king stood still. The
 speeches of those woe-begone and afflicted persons seemed to the son of
 Pandu to be uttered in voices that he had heard before although he could
 not recognise them on that occasion.
-"|4|Svargarohana Parva|346
+"|4|Svargarohana Parva|346|6fdd4a7d44ab4c469f5a1144561d46db
 18|2||"""'Unable to recognise voices, Dharma's son, Yudhishthira, enquired, saying,
 ""Who are you? Why also do you stay here?""
 
@@ -215,7 +215,7 @@ Vedas; were observant of Kshatriya practices; were righteous in their
 acts; were performers of sacrifices; and givers of large presents unto
 brahmanas. Am I asleep or awake? Am I conscious or unconscious? Or, is
 all this a mental delusion due to disorders of the brain?""
-"|5|Svargarohana Parva|415
+"|5|Svargarohana Parva|415|928c5ff7932a403faecfc7599969f1c4
 18|2||"""'Overwhelmed by sorrow and grief, and with his senses agitated by
 anxiety, king Yudhishthira indulged in such reflections for a long time.
 The royal son of Dharma then gave way to great wrath. Indeed,
@@ -232,7 +232,7 @@ Dharma's son had said.'""
 
 
 
-"|6|Svargarohana Parva|220
+"|6|Svargarohana Parva|220|4a22b04fc0e34a6581e20ca768644ddd
 18|3||"
 ""Vaishampayana said, 'King Yudhishthira the just, the son of Pritha, had
 not stayed there for more than a moment when, O thou of Kuru's race, all
@@ -251,7 +251,7 @@ of the presence of the gods. The Maruts, with Indra, the Vasus with the
 twin Ashvinis, the Sadhyas, the Rudras, the Adityas, and the other
 denizens of Heaven, as also the Siddhas and the great Rishis, all came
 there where Dharma's royal son of great energy was.
-"|1|Svargarohana Parva|312
+"|1|Svargarohana Parva|312|b3f3e1b8ade64c9c994e1d44101af0b4
 18|3||"""'Then Shakra, the lord of the deities, endued with blazing prosperity,
 addressed Yudhishthira and comforting him, said, ""O Yudhishthira of mighty
 arms, come, come, O chief of men. These illusions have ended, O puissant
@@ -271,7 +271,7 @@ sinners by an act of deception. Come, O chief of men, all of them have
 been cleansed of their sins. All those kings who had aided thee and who
 have been slain in battle, have all attained to Heaven. Come and behold
 them, O foremost one of Bharata's race.
-"|2|Svargarohana Parva|351
+"|2|Svargarohana Parva|351|5dbceccf28b641d6885d5e1622f663fa
 18|3||"""'""Karna, the mighty bowman, that foremost of all wielders of weapons for
 whom thou art grieving, has also attained to high success. Behold, O
 puissant one, that foremost of men, viz., the son of Surya. He is in that
@@ -298,7 +298,7 @@ sanctifying the three worlds. It is called Heavenly Ganga. Plunging into
 it, thou wilt go to thy own regions. Having bathed in this stream, thou
 wilt be divested of thy human nature. Indeed, thy grief dispelled, thy
 ailments conquered, thou wilt be freed from all enmities.""
-"|3|Svargarohana Parva|479
+"|3|Svargarohana Parva|479|843a49be32c9462287dc119bd5a17fe3
 18|3||"""'While, O Kuru king, the chief of the gods was saying so unto
 Yudhishthira, the deity of Righteousness, in his embodied form, then
 addressed his own son and said, ""O king, I am greatly pleased, O thou of
@@ -324,7 +324,7 @@ deserving of Hell for a long time. The princess Krishna too, O
 Yudhishthira, could not be deserving of that place of sinners. Come,
 come, O foremost one of the Bharatas, behold Ganga who spreads her
 current over the three worlds.""
-"|4|Svargarohana Parva|422
+"|4|Svargarohana Parva|422|4720fbd689e64034bfc28314bea38e4f
 18|3||"""'Thus addressed, that royal sage, viz., thy grandsire, proceeded with
 Dharma and all the other gods. Having bathed in the celestial river
 Ganga, sacred and sanctifying and ever adored by the Rishis, he cast off
@@ -338,7 +338,7 @@ freed from (human) wrath, were enjoying each his respective status.'""
 
 
 
-"|5|Svargarohana Parva|184
+"|5|Svargarohana Parva|184|dff50253669b40b88a2e4f60f30ee49f
 18|4||"
 ""Vaishampayana said, 'King Yudhishthira, thus praised by the gods, the
 Maruts and the Rishis, proceeded to that place where those foremost ones
@@ -361,7 +361,7 @@ he was then in a celestial form endued with great beauty, and had
 attained to the highest success. In the place belonging to the Ashvinis,
 the delighter of the Kurus beheld Nakula and Sahadeva, each blazing with
 his own effulgence.
-"|1|Svargarohana Parva|347
+"|1|Svargarohana Parva|347|10005b206e39460f986a6361b67c3728
 18|4||"""'He also beheld the princess of Panchala, decked in garlands of lotuses.
 Having attained to Heaven, she was sitting there, endued with a form
 possessed of solar splendour. King Yudhishthira suddenly wished to
@@ -389,7 +389,7 @@ is the mighty bowman Abhimanyu, now endued with the gentle effulgence of
 the great luminary of the night. Here is the mighty bowman Pandu, now
 united with Kunti and Madri. Thy sire frequently comes to me on his
 excellent car. Behold the royal Bhishma, the son of Santanu, now in the
-"|2|Svargarohana Parva|503
+"|2|Svargarohana Parva|503|0a60cd86ec9d461d88ed90d081b2aafa
 18|4||"preceptor Drona. These and other kings, O son of Pandu, who had warred on
 thy side now walk with the Gandharvas or Yakshas or other sacred beings.
 Some have attained to the status of Guhyakas, O king. Having cast off
@@ -398,7 +398,7 @@ through word, thought and deed.""'""
 
 
 
-"|3|Svargarohana Parva|83
+"|3|Svargarohana Parva|83|f00bd7d046aa472b820ae3e3fde6d044
 18|5||"
 ""Janamejaya said, 'Bhishma and Drona, those two high-souled persons, king
 Dhritarashtra, and Virata and Drupada, and Sankha and Uttara,
@@ -424,7 +424,7 @@ explained (to us) by Vyasa of mighty energy, celestial vision and great
 prowess, that ancient ascetic, O Kauravya, who is the son of Parasara and
 who always observes high vows, who is of immeasurable understanding, who
 is omniscient, and who, therefore knows the end attached to all acts.
-"|1|Svargarohana Parva|391
+"|1|Svargarohana Parva|391|ad1c05b6410342838ef4a8bd632ec06d
 18|5||"""'Bhishma of mighty energy and great effulgence attained to the status of
 the Vasus. Eight Vasus, O chief of Bharata's race, are now seen. Drona
 entered into Brihaspati, that foremost one of Angirasa's descendants.
@@ -451,7 +451,7 @@ illustrious Ananta (who had taken birth as Balarama) proceeded to the
 region below the Earth. Through the command of the Grandsire, he, aided
 by his Yoga power, supported the Earth. Vasudeva was a portion of that
 eternal god of gods called Narayana. Accordingly, he entered into
-"|2|Svargarohana Parva|513
+"|2|Svargarohana Parva|513|0a0350a91fe6415e8f998da7d4230a06
 18|5||"the time came, O Janamejaya, they plunged into the Sarasvati. Casting
 off their (human) bodies there, they re-ascended to Heaven. Transformed
 into Apsaras, they approached the presence of Vasudeva. Those heroic and
@@ -472,7 +472,7 @@ became filled with joy. King Janamejaya then gratified all the Brahmanas
 with copious presents. Thus worshipped by the king, they returned to
 their respective abodes. Having dismissed those learned Brahmanas, king
 Janamejaya came back from Takshasila to the city named after the elephant.
-"|3|Svargarohana Parva|345
+"|3|Svargarohana Parva|345|499642ca1a9a4d69af75095de7f1f632
 18|5||"""I have now told everything that Vaishampayana narrated, at the command of
 Vyasa, unto the king at his snake sacrifice. Called a history, it is
 sacred, sanctifying and excellent. It has been composed by the ascetic
@@ -498,7 +498,7 @@ one's senses or the mind are all washed off before evening by reciting a
 portion of the Mahabharata. Whatever sins a Brahmana may commit at night
 in the midst of women are all washed off before dawn by reciting a
 portion of the Mahabharata.
-"|4|Svargarohana Parva|402
+"|4|Svargarohana Parva|402|1fc9d18adf454b10b3d06c679bcf5e94
 18|5||"""The high race of the Bharatas is its topic. Hence it is called Bharata.
 And because of its grave import, as also of the Bharatas being its topic,
 it is called Mahabharata. He who is versed in interpretations of this
@@ -520,7 +520,7 @@ were placed in the region of the deities. In the region of the Pitris
 fifteen lakhs, it should be known, are current; while in that of the
 Yakshas fourteen lakhs are in vogue. One lakh is current among human
 beings.
-"|5|Svargarohana Parva|327
+"|5|Svargarohana Parva|327|e6e8b4536f3b4b8291f8085ce92d10ac
 18|5||"""Narada recited the Mahabharata to the gods; Asita-Devala to the Pitris;
 Suka to the Rakshasas and the Yakshas; and Vaishampayana to human beings.
 This history is sacred, and of high import, and regarded as equal to the
@@ -545,7 +545,7 @@ of cupidity should any one cast off Righteousness. Indeed, for the sake
 of even life one should not cast off Righteousness. Righteousness is
 eternal. Pleasure and Pain are not eternal. Jiva is eternal. The cause,
 however, of Jiva's being invested with a body is not so.
-"|6|Svargarohana Parva|393
+"|6|Svargarohana Parva|393|a6ca03edcc7749ac8fc4a9912e235bba
 18|5||"""That man who, waking up at dawn, reads this Savittri of the Bharata,
 acquires all the rewards attached to a recitation of this history and
 ultimately attains to the highest Brahma. As the sacred Ocean, as the
@@ -561,7 +561,7 @@ immeasurable, sacred, sanctifying, sin-cleansing, and auspicious.""
 
 
 
-"|7|Svargarohana Parva|217
+"|7|Svargarohana Parva|217|c68d260cc92f40b282a4696457e1295f
 18|6||"
 ""Janamejaya said, 'O holy one, according to what rites should the learned
 listen to the Bharata? What are the fruits (acquirable by hearing it)?
@@ -586,7 +586,7 @@ ascetics; the Hills and Mountains, Oceans and Seas and Rivers, the
 diverse tribes of Apsaras; the Planets, the Years, the Half-years, and
 the Seasons; and the whole universe of mobile and immobile entities, with
 all the gods and Asuras.
-"|1|Svargarohana Parva|415
+"|1|Svargarohana Parva|415|dbb2376f01c54d05b4531647d575e7ee
 18|6||"""'Hearing their celebrity, and in consequence of a recitation of their
 names and achievements, a man that has committed even terrible sins, will
 be cleansed. Having, with a concentrated soul and cleansed body, heard
@@ -609,7 +609,7 @@ children.
 heart, with cheerfulness and joy; and as he proceeds listening to its
 recitation, he should according to the extent of his power, make gifts
 with great devotion.
-"|2|Svargarohana Parva|331
+"|2|Svargarohana Parva|331|7224fa0f98174d62bf8018d6e1ef69f5
 18|6||"""'Hear how a person that is devoted to truth and sincerity, that is
 self-restrained, pure (in mind), and observant of those acts which lead
 to purity of body, that is endued with faith, and that has subjugated
@@ -632,7 +632,7 @@ sense giving full utterance to the three and sixty letters of the
 alphabet from the eight places of their formation. Bowing unto Narayana,
 and to Nara, that foremost of men, as also to the goddess Sarasvati,
 should the word Jaya be uttered.
-"|3|Svargarohana Parva|342
+"|3|Svargarohana Parva|342|0dfcb59e63504a878c53f225028f73e3
 18|6||"""'Listening to the Bharata, O king, when recited, O thou of Bharata's race,
 by a reader of this kind, the listener, observant of vows all the while
 and cleansed by purificatory rites, acquires valuable fruits. When the
@@ -659,7 +659,7 @@ god.
 resembles the rising sun or a blazing fire, and with the deities for his
 companions, he goes to Heaven and sports in felicity for myriads of years
 in the abode of Indra.
-"|4|Svargarohana Parva|351
+"|4|Svargarohana Parva|351|2c5ef099666141f0856b37ecc51ad401
 18|6||"""'At the sixth Parana, twice, and at the seventh, thrice those fruits
 become his. Ascending a celestial car that resembles the summit of the
 Kailasa mountains (in beauty), that is equipt with an altar made of
@@ -687,7 +687,7 @@ other celestials, he blazes forth in splendour. Wearing celestial
 garlands and robes, and decked with celestial unguents, he sports in
 bliss, with deities for his companions, in Heaven, like a second deity
 himself.
-"|5|Svargarohana Parva|399
+"|5|Svargarohana Parva|399|15f35590081f48e382374f37b1c51dcb
 18|6||"""'Reaching the tenth Parana and gratifying Brahmanas, he acquires a car
 which tinkles with innumerable bells, which is decked with flags and
 banners, which is equipt with a seat made of precious gems, which has
@@ -714,7 +714,7 @@ Elephants and steeds and cars and conveyances, especially animals and the
 vehicles they draw, a bracelet of gold, a pair of ear-rings, sacred
 threads, beautiful robes, and perfumes in especial (should be given). By
 worshipping him as a deity one attains to the regions of Vishnu.
-"|6|Svargarohana Parva|436
+"|6|Svargarohana Parva|436|e8088c08b0e74387a51d46432d10c522
 18|6||"""'After this I shall declare what should be given away, as each parva is
 reached of the Bharata in course of its recitation, unto brahmanas, after
 ascertaining their birth, country, truthfulness, and greatness, O chief
@@ -740,7 +740,7 @@ fed with fruits and roots.
 given away. Many superior kinds of delicious food, also rice and fruits
 and roots, and food possessed of every agreeable attribute, should be
 presented unto the brahmanas.
-"|7|Svargarohana Parva|347
+"|7|Svargarohana Parva|347|05e9a398b99044d9b5a56b4e83937e13
 18|6||"""'During the recitation of the Virata-parva diverse kinds of robes should
 be given away; and during that of the Udyoga-parva, O chief of the
 Bharatas, the twice-born ones, after being decked with perfumes and
@@ -770,7 +770,7 @@ entertained with gems and precious stones; and during the recitation of
 the Aishika-parva, rice boiled in ghee should first be given, and then
 food pure and well-cooked, and possessed of every desirable quality,
 should be presented.
-"|8|Svargarohana Parva|357
+"|8|Svargarohana Parva|357|7fa23bc4fa6e42249cd40ac69ad1c017
 18|6||"""'During the recitation of the Shanti-parva, the brahmanas should be fed
 with havisya.
 
@@ -809,7 +809,7 @@ adorning the persons of some foremost of Brahmanas with scents and
 garlands, they should be gratified with diverse kinds of gifts of
 enjoyable and very superior or costly articles. By doing this, one
 attains to the merits of the Atiratra sacrifice. Indeed, at each
-"|9|Svargarohana Parva|510
+"|9|Svargarohana Parva|510|0ba9da00699e403498deace96d008d6c
 18|6||"of a sacrifice. The reciter, O chief of the Bharatas, should be possessed
 of learning and endued with a good voice and a clear utterance respecting
 both letters and words. Even such a man should, O chief of the Bharatas,
@@ -838,7 +838,7 @@ that I tell thee is certain truth. One that proclaims the merits of this
 history called the Mahabharata, of the Earth, of the cow, of Sarasvati
 (the goddess of speech), of Brahmanas, and of Keshava, has never to
 languish.
-"|10|Svargarohana Parva|445
+"|10|Svargarohana Parva|445|f9814e50c8c04b068ac61eaf42eca76d
 18|6||"""'In the Vedas, in the Ramayana, and in the sacred Bharata, O chief of
 Bharata's race, Hari is sung in the beginning, the middle, and at the end.
 That in which occur excellent statements relating to Vishnu, and the
@@ -866,7 +866,7 @@ attains at last to the status of Vishnu. Such a man rescues his ancestors
 to the eleventh degree, as also himself with his wives and sons, O chief
 of Bharata's race. After concluding a recitation of the Bharata, one
 should, O king, perform a Homa with all its ten parts.
-"|11|Svargarohana Parva|494
+"|11|Svargarohana Parva|494|4f94efeb59884caf8c5bac07cee5014b
 18|6||"""'I have thus, O chief of men, told everything in thy presence. He that
 listens with devotion to this Bharata from the beginning becomes cleansed
 of every sin even if he be guilty of Brahmanicide or the violation of his
@@ -877,4 +877,4 @@ man, without doubt, sports in felicity in the region of Vishnu like
 Vishnu himself.'""
 
 The End of the Svargarohanika-parva
-"|12|Svargarohana Parva|128
+"|12|Svargarohana Parva|128|4a6f7fa07d864f41b0e949d6f5cd5189

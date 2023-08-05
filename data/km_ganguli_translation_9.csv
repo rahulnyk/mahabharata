@@ -1,4 +1,4 @@
-book_number|section|section_name|text|para_number|book_name|num_tokens
+book_number|section|section_name|text|para_number|book_name|num_tokens|chunk_id
 9|NA|NA|"The Mahabharata
 
 of
@@ -24,7 +24,7 @@ formatting at sacred-texts.com, by J. B. Hare, October 2003.
 
 
 
-"|1|Shalya Parva|94
+"|1|Shalya Parva|94|1bd9607caa9a4b76b2431c2fa3f810e5
 9|1||"
 Om! Having bowed down unto Narayana and Nara, the most exalted of male
 beings, and the goddess Sarasvati, must the word Jaya be uttered.
@@ -56,7 +56,7 @@ by Yudhishthira at midday. Then king Duryodhana, having lost all his
 friends and kinsmen, fled away from the field of battle and penetrated
 into the depths of a terrible lake from fear of his enemies. On the
 afternoon of that day, Bhimasena, causing the lake to be encompassed by
-"|1|Shalya Parva|505
+"|1|Shalya Parva|505|e8bf1d73062b4b958d43f2728f26466a
 9|1||"come out, slew him speedily, putting forth his strength. After
 Duryodhana's slaughter, the three car-warriors (of the Kuru side) that
 were still unslain (Ashvatthama and Kripa and Kritavarma), filled with
@@ -84,7 +84,7 @@ that were always his well-wishers, and engaged in thinking on that very
 subject--the death of Karna--the Suta Sanjaya, with heart filled with
 grief, O Janamejaya, weepingly and in a voice choked with tears, said
 unto him, 'I am Sanjaya, O tiger among men. I bow to thee, O bull of
-"|2|Shalya Parva|516
+"|2|Shalya Parva|516|cc2dc1a132b842dc9ccda4584beeb01b
 9|1||"Similarly, Subala's son Shakuni, and Uluka, O tiger among men, that
 valiant son of the gamester (Shakuni), have been slain. All the
 Samsaptakas, the Kambojas together with the Sakas, the Mlecchas, the
@@ -110,7 +110,7 @@ Kripa, Kritavarma, and Drona's son, that foremost of victors. These three
 car-warriors, O monarch, are all that survive, O best of kings, of all
 the Akshauhinis mustered on thy side, O ruler of men. These are the
 survivors, O monarch, the rest have perished. Making Duryodhana and his
-"|3|Shalya Parva|509
+"|3|Shalya Parva|509|625239253d8e4c31b33633c863213d18
 9|1||"been destroyed, O bull of Bharata's race, by Time.'""
 
 Vaishampayana continued, ""Hearing these cruel words, Dhritarashtra, that
@@ -140,7 +140,7 @@ all the ladies retire, as also Gandhari of great fame, and all these
 friends. My mind hath become greatly unsettled.' Thus addressed, Vidura,
 repeatedly trembling, slowly dismissed the ladies, O bull of Bharata's
 race. All those ladies retired, O chief of the Bharatas, as also all
-"|4|Shalya Parva|503
+"|4|Shalya Parva|503|38518a5ba2334aa38dee4b1a6ec968ed
 9|1||"cheerlessly looked at the king, O scorcher of foes, who, having recovered
 his senses, was weeping in great affliction. With joined hands, Vidura
 then, in sweet words, comforted that ruler of men who was sighing
@@ -148,7 +148,7 @@ incessantly.'""
 
 
 
-"|5|Shalya Parva|58
+"|5|Shalya Parva|58|7ff8290b4b484ddd83aae0ba04ae2260
 9|2||"
 Vaishampayana said, ""After the ladies had been dismissed, Dhritarashtra,
 the son of Ambika, plunged into grief greater than that which had
@@ -180,7 +180,7 @@ love, and that respectfulness? Invincible as thou wert in battle, how,
 alas, hast thou been slain by the Parthas? Who will now, after I will
 have waked from sleep at the proper hour, repeatedly address me in such
 endearing and respectful words as, ""O father, O father,"" ""O great king,""
-"|1|Shalya Parva|502
+"|1|Shalya Parva|502|33407ef440ce45cb8bc0b2ca9594fd67
 9|2||"eyes, will seek my orders, saying, ""Command me, O thou of Kuru's race.""
 Address me, O son, in that sweet language once more. O dear child, I
 heard even these words from thy lips, ""This wide earth is as much ours as
@@ -206,7 +206,7 @@ united together? All these, O monarch, will fight with the followers of
 the Pandavas and will slay them in battle. Karna alone, with myself, will
 slay the Pandavas. All the heroic kings will then live under my sway. He,
 who is their leader, the mighty Vasudeva, will not, he has told me, put
-"|2|Shalya Parva|513
+"|2|Shalya Parva|513|19c60d32ce044a3b89e996df91f8a6d6
 9|2||"use to speak to me. Hearing what he said, I believed that the Pandavas
 would be slain in battle. When, however, my sons stationed in the midst
 of those heroes and exerting themselves vigorously in battle have all
@@ -233,7 +233,7 @@ invincible in battle, and many thousands of Mlecchas, what can it be but
 destiny? When Shakuni, the son of Subala, and the mighty Uluka, called
 the gamester's son, that hero at the head of his forces, have been slain,
 what can it be but destiny? When innumerable high-souled heroes,
-"|3|Shalya Parva|516
+"|3|Shalya Parva|516|0da2d7c10a7943ebb9a2e08cbd1dd43d
 9|2||"with prowess equal to that of Shakra himself, have been slain, O Suta,
 when Kshatriyas hailing from diverse realms, O Sanjaya, have all been
 slain in battle, what can it be but destiny? Endued with great might, my
@@ -252,7 +252,7 @@ shall I be able to bear the roars of that Bhimasena who hath alone slain
 a hundred sons of mine in battle? He will frequently speak of the
 slaughter of Duryodhana in my hearing. Burning with grief and sorrow, I
 shall not be able to bear his cruel words.'""
-"|4|Shalya Parva|328
+"|4|Shalya Parva|328|9369a8b64b37495bbb0b1438cbe3e3f1
 9|2||"Vaishampayana continued, ""Even thus that king, burning with grief and
 deprived of relatives and kinsmen, repeatedly swooned, overwhelmed with
 sorrow on account of the death of his sons. Having wept for a long while,
@@ -282,7 +282,7 @@ car-warrior who proceeded against Arjuna and Vasudeva? Who were they that
 protected the right wheel of the ruler of the Madras in battle? Who
 protected the left wheel of that hero when he went to battle? Who also
 guarded his rear? How, when all of you were together, could the mighty
-"|5|Shalya Parva|502
+"|5|Shalya Parva|502|a89b0cfc186940ed8351ba1e77e6eabf
 9|2||"Tell me the details of the great destruction of the Bharatas. Tell me how
 my son Duryodhana fell in battle. Tell me how all the Pancalas with their
 followers, and Dhrishtadyumna and Shikhandi and the five sons of
@@ -294,7 +294,7 @@ Sanjaya, in narration. Tell me everything.'""
 
 
 
-"|6|Shalya Parva|153
+"|6|Shalya Parva|153|f3dcdb920f9e445e83e46c55bedd4ace
 9|3||"
 ""Sanjaya said, 'Hear, O king, with attention, how that great carnage of
 the Kurus and the Pandavas occurred when they encountered each other.
@@ -325,7 +325,7 @@ car-warriors fled away from fear, abandoning the foot-soldiers. Cars were
 broken by elephants, horsemen were crushed by great car-warriors, and
 bands of foot-soldiers were smashed and slain by bodies of horses as
 these fled away from the field. After the fall of the Suta's son, thy
-"|1|Shalya Parva|510
+"|1|Shalya Parva|510|074405b624fd4f64aeba121b5376385b
 9|3||"robbers and beasts of prey. Some elephants whose riders had been slain,
 and others whose trunks had been cut off, afflicted with fear, beheld the
 whole world to be full of Partha. Beholding his troops flying away
@@ -354,7 +354,7 @@ ground. Armed then with that heavy mace of his that was made entirely of
 iron and adorned with gold and equipped with a sling, and that resembled
 the Destroyer himself as he becomes at the end of Yuga, Bhima slew them
 all like Yama slaughtering creatures with his club. Those foot-soldiers,
-"|2|Shalya Parva|510
+"|2|Shalya Parva|510|7e6d10373e9d481d941480673df783ac
 9|3||"prepared to throw away their lives, and rushed in that battle towards
 Bhima like insects towards a blazing fire. Indeed, those warriors, filled
 with rage and invincible in battle, approaching Bhimasena, suddenly
@@ -383,7 +383,7 @@ unto whose car were yoked steeds white as pigeons and whose standard was
 made of a lofty Kovidara, the troops fled away in fear. The celebrated
 sons of Madri, with Satyaki among them, engaged in the pursuit of the
 Gandhara king who was quick in the use of weapons, speedily appeared to
-"|3|Shalya Parva|506
+"|3|Shalya Parva|506|3f60e7e973f748998e46e7971cdcb8c1
 9|3||"a large number of thy troops, blew their conchs. Beholding all the troops
 flying away with their faces from the field, those (Pandava) heroes
 pursued and smote them like bulls pursuing vanquished bulls. Then the
@@ -412,7 +412,7 @@ remnant. The two Krishnas have been exceedingly mangled. If all of us
 make a stand here, we are certain to have victory. If, however, you fly
 away, breaking your array, the Pandavas, pursuing your sinful selves,
 will slay all of you. Death in battle, therefore, is for our good. Death
-"|4|Shalya Parva|509
+"|4|Shalya Parva|509|1ee9b62d7d1249bb9054f6ba84463a04
 9|3||"practices is pleasant. Such death produces no kind of grief. By
 encountering such a death, a person enjoys eternal happiness in the other
 world. Let all the Kshatriyas assembled here listen to me. It were better
@@ -432,7 +432,7 @@ by Yudhishthira.'""
 
 
 
-"|5|Shalya Parva|264
+"|5|Shalya Parva|264|5cf7dc8d1da6421289435e3c77c1ea9e
 9|4||"
 ""Sanjaya said, 'Beholding the fallen boxes of cars, as also the cars of
 high-souled warriors, and the elephants and foot-soldiers, O sire, slain
@@ -462,7 +462,7 @@ the mighty car-warrior Karna, after the slaughter of Jayadratha and thy
 brothers, O sinless one, and thy son Lakshmana, what is there now for us
 to do? They upon whom we had rested all burdens of sovereignty we had
 been enjoying, have all gone to regions of blessedness attainable by
-"|1|Shalya Parva|509
+"|1|Shalya Parva|509|3223f81f8cf74b80b19c843a464e56b6
 9|4||"ourselves, deprived of those great car-warriors possessed of numerous
 accomplishments, we shall have to pass our time in grief, having caused
 numerous kings to perish. When all those heroes were alive, even then
@@ -492,7 +492,7 @@ to resemble a lion inspiring smaller animals with dread. Those two
 foremost of bowmen in all the worlds, those two bulls among all persons
 armed with the bow, the two Krishnas, clad in mail, are looking
 exceedingly beautiful. Today is the seventeenth day of this awful battle,
-"|2|Shalya Parva|516
+"|2|Shalya Parva|516|7446c072d9f5417bad14990b8006d667
 9|4||"fight. The diverse divisions of thy army are broken and dispersed like
 autumnal clouds dispersed by the wind. Savyasaci, O monarch, caused thy
 army to tremble and reel like a tempest-tossed boat exposed on the bosom
@@ -521,7 +521,7 @@ foul wrongs, without any cause, unto the righteous Pandavas. The fruits
 of those acts have now come. For the sake of thy own objects thou hadst,
 with great care, mustered together a large force. That vast force, as
 also thyself, O bull of Bharata's race, have fallen into great danger.
-"|3|Shalya Parva|506
+"|3|Shalya Parva|506|a81f8eb780824573a927e3bd14fc0010
 9|4||"refuge is broken, O sire, everything inhering thereto is scattered on
 every side. He that is being weakened should seek peace by conciliation.
 He that is growing should make war. This is the policy taught by
@@ -545,10 +545,10 @@ Thou wilt recollect these words when thou wilt be on the point of death
 (if thou neglectest them now)."" Advanced in years, Kripa the son of
 Saradwat said these words weepingly. Breathing long and hot breaths, he
 then gave way to sorrow and almost lost his senses.'""
-"|4|Shalya Parva|422
+"|4|Shalya Parva|422|8a1e647f24f8463485ddae188282edb2
 9|4||"
 
-"|5|Shalya Parva|1
+"|5|Shalya Parva|1|c3d22ea38e294553adb45f9695cfa076
 9|5||"
 ""Sanjaya said, 'Thus addressed by the celebrated grandson of Gotama, the
 king (Duryodhana), breathing long and hot breaths, remained silent, O
@@ -578,7 +578,7 @@ eyes. Having heard of the slaughter of his sister's son, Keshava passeth
 his nights in sorrow. We have offended him highly. Why will he forgive us
 then? Arjuna also, in consequence of Abhimanyu's death, hath become very
 miserable. Even if solicited, why will he strike for my good? The second
-"|1|Shalya Parva|517
+"|1|Shalya Parva|517|7f087445d714469c920042353887c77e
 9|5||"terrible vow. He will break but not bend. The heroic twins, breathing
 animosity against us, when clad in mail and armed with their swords,
 resemble a pair of Yamas. Dhrishtadyumna and Shikhandi have drawn their
@@ -609,7 +609,7 @@ scorcher of foes, what I regard to be good policy. This is not the time
 for acting like a eunuch. On the other hand, that is time for the battle.
 I have performed many sacrifices. I have given away Dakshinas to
 Brahmanas, I have obtained the attainment of all my wishes. I have
-"|2|Shalya Parva|506
+"|2|Shalya Parva|506|b8d5e16dd0994e89baa76b49335806eb
 9|5||"My servants have all been well cherished by me. I have relieved people in
 distress. I dare not, O foremost of regenerate ones, address such humble
 words to the Pandavas. I have conquered foreign kingdoms. I have properly
@@ -640,7 +640,7 @@ brave kings, who had exerted themselves vigorously for my sake in this
 battle, have been slain. Mangled with arrows and their limbs bathed in
 blood, they lie now on the bare Earth. Possessed of great courage and
 conversant with excellent weapons, those kings, who had, again, performed
-"|3|Shalya Parva|511
+"|3|Shalya Parva|511|78ea45343cb140289f6693d4e0649743
 9|5||"breaths in the discharge of their duties, have now become the denizens of
 Indra's abode. They have paved the way (to that blessed region). That
 road will once more be difficult in consequence of the crowds of heroes
@@ -665,10 +665,10 @@ that water and quenched their thirst with it. Their spirits raised by thy
 son, they continued to wait (on their resting ground). Once more rallying
 their own selves as well as one another, all those Kshatriyas, O king,
 urged by fate, waited (in their encampment).'""
-"|4|Shalya Parva|415
+"|4|Shalya Parva|415|a8fbdf5d1ec44dcf955d2bfee239fccb
 9|5||"
 
-"|5|Shalya Parva|1
+"|5|Shalya Parva|1|dc1e3598ce1144f99025f4047c0db6a0
 9|6||"
 ""Sanjaya said, 'On that table land at the foot of Himavat, those
 warriors, O monarch, delighting at the prospect of battle and assembled
@@ -699,7 +699,7 @@ number of golden lotuses, with well-made joints, of well-formed thighs
 and waist and hips, of beautiful fingers, and beautiful nails, he seemed
 to have been made by the Creator with care after collecting one after
 another all the beautiful and good attributes of creation. Possessed of
-"|1|Shalya Parva|514
+"|1|Shalya Parva|514|5591ad1cc11c4e94ad54bf2042b3b050
 9|6||"learning. Ever vanquishing his foes with great speed, he was incapable of
 being forcibly vanquished by foes. He knew, in all its details, the
 science of weapons consisting of four padas and ten angas. He knew also
@@ -729,7 +729,7 @@ Duryodhana, alighting from his car, joined his hands and addressing
 Shalya, that rival of Drona and Bhishma in battle, who was on his car,
 said these words, ""O thou that art devoted to friends, that time has now
 come for thy friends when intelligent men examine persons in the guise of
-"|2|Shalya Parva|505
+"|2|Shalya Parva|505|145114c550d24498af71348805985803
 9|6||"art, be thou our generalissimo at the van of our army. When thou wilt
 proceed to battle, the Pandavas, with their friends, will become
 cheerless, and the Pancalas will be depressed.""
@@ -747,7 +747,7 @@ our foes in battle like Indra slaying the Danavas.""'""
 
 
 
-"|3|Shalya Parva|210
+"|3|Shalya Parva|210|d77044ab06ba4e7abcc7783ebef08fe1
 9|7||"
 ""Sanjaya said, 'Hearing these words of the (Kuru) king, the valiant
 monarch (Shalya), O king, said these words unto Duryodhana in reply, ""O
@@ -776,7 +776,7 @@ consisting of the gods, the Asuras, what need be said of the Somakas and
 the Srinjayas that are mortal?"" Thus praised, the mighty king of the
 Madrakas obtained great joy that is unattainable by persons of unrefined
 souls.
-"|1|Shalya Parva|499
+"|1|Shalya Parva|499|843dcb7d0aee40308ec45fcceac74e40
 9|7||"""'Shalya said, ""Today, O king, I will either slay all the Pancalas with
 the Pandavas in battle, or, slain by them, proceed to heaven. Let the
 world behold me today careering (on the field of battle) fearlessly.
@@ -804,7 +804,7 @@ the Kshatriyas, ""The ruler of the Madras, Shalya, that great bowman who
 is highly regarded by all the warriors hath, O Madhava, been made the
 leader of his forces by Dhritarashtra's son. Knowing this that has
 happened, do, O Madhava, that which is beneficial. Thou art our leader
-"|2|Shalya Parva|511
+"|2|Shalya Parva|511|e2e3a9ada2034d558a4ad4cda09b1976
 9|7||"monarch, said unto that king, ""I know Artayani, O Bharata, truly. Endued
 with prowess and great energy, he is highly illustrious. He is
 accomplished, conversant with all the modes of warfare, and possessed of
@@ -832,7 +832,7 @@ Vasava slaying the Asura Namuchi. There is no need of showing any
 compassion here, thinking that this one is thy maternal uncle. Keeping
 the duties of a Kshatriya before thee, slay the ruler of the Madras.
 Having crossed the fathomless oceans represented by Bhishma and Drona and
-"|3|Shalya Parva|504
+"|3|Shalya Parva|504|fac48b3c4dd046a6bf3e47afc64ec965
 9|7||"represented by Shalya. Display in battle the whole of thy ascetic power
 and thy Kshatriya energy. Slay that car-warrior."" Having said these
 words, Keshava, that slayer of hostile heroes, proceeded to his tent in
@@ -848,7 +848,7 @@ had won by the slaughter of Karna.'""
 
 
 
-"|4|Shalya Parva|209
+"|4|Shalya Parva|209|341b53641fc347688dd82efa1f62cbaf
 9|8||"
 ""Sanjaya said, 'After that night had passed away, king Duryodhana then,
 addressing all thy soldiers, said, ""Arm, you mighty car-warriors!""
@@ -877,7 +877,7 @@ fighting with them on every side. Soon, O chief of the Bharatas, that
 host, whose noise resembled that of the agitated ocean, and which seemed
 to be wonderful in consequence of its cars and elephants, presented the
 aspect of the vast deep swelling with its surges.'
-"|1|Shalya Parva|470
+"|1|Shalya Parva|470|f4eb139f505e420c86e0dad6d2d50201
 9|8||"""Dhritarashtra said, 'I have heard of the fall of Drona, of Bhishma and
 of the son of Radha. Tell me now of the fall of Shalya and of my son.
 How, indeed, O Sanjaya, was Shalya slain by king Yudhishthira the just?
@@ -905,7 +905,7 @@ resplendent. Protected by that car, that hero, that brave crusher of foes
 the Madras, clad in mail, proceeded at the head of the array, accompanied
 by the brave Madrakas and the invincible sons of Karna. On the left was
 Kritavarma, surrounded by the Trigartas. On the right was Gautama (Kripa)
-"|2|Shalya Parva|503
+"|2|Shalya Parva|503|d6cff8454f3349feaceac37e98850c34
 9|8||"the Kambojas. In the centre was Duryodhana, protected by the foremost of
 the Kuru warriors. Surrounded by a large force of cavalry and other
 troops, Subala's son Shakuni, as also the mighty car-warrior Uluka,
@@ -923,7 +923,7 @@ Madri, accompanied by their troops, proceeded against Shakuni and the
 great car-warrior Uluka at the head of their forces. Similarly, thousands
 upon thousands of warriors of thy army, armed with diverse weapons and
 filled with rage, proceeded against the Pandavas in that battle.'
-"|3|Shalya Parva|307
+"|3|Shalya Parva|307|596cae34c4434c5d903c8ccd285f9089
 9|8||"""Dhritarashtra said, 'After the fall of the mighty bowmen Bhishma and
 Drona and the great car-warrior Karna, and after both the Kurus and the
 Pandavas had been reduced in numbers, and when, indeed, the Parthas,
@@ -947,10 +947,10 @@ desirous of slaughtering their foes, encountered one another at dawn of
 day, O lord. Then commenced a fierce and terrible battle between thy
 troops and the enemy, the combatants being all engaged in striking and
 slaughtering one another.'""
-"|4|Shalya Parva|385
+"|4|Shalya Parva|385|efcac8f69db5416c91740f0fcb5af612
 9|8||"
 
-"|5|Shalya Parva|1
+"|5|Shalya Parva|1|aae6bc9f8d5846e1af55e3113cd183da
 9|9||"
 ""Sanjaya said, 'Then commenced the battle between the Kurus and the
 Srinjayas, O monarch, that was as fierce and awful as the battle between
@@ -982,7 +982,7 @@ They rushed with such speed that they seemed ready to devour the very
 Earth. The field, O monarch, indented with the hoofs of those steeds,
 looked beautiful like a beautiful woman bearing the marks of (her
 lover's) nails on her person. With the noise made by the tread of heroes,
-"|1|Shalya Parva|503
+"|1|Shalya Parva|503|007c7ae7a55d46a097b9dc49d9cd5843
 9|9||"the peal of drums and other musical instruments, and the blare of conchs,
 the Earth began to resound as if with deafening peals of thunder. In
 consequence of twanging bows and flashing sabres and the glaring armour
@@ -1013,7 +1013,7 @@ riven with thunder, O lord, on the occasion of the dissolution of the
 world at the end of the Yuga. Heaps upon heaps, looking like mountains,
 were seen, lying on the ground, of fallen steeds with their riders. A
 river appeared on the field of battle, flowing towards the other world.
-"|2|Shalya Parva|503
+"|2|Shalya Parva|503|03d8a0fa168644fb81ea279bbe2af249
 9|9||"and bones its pebbles. The arms (of combatants) were its alligators, bows
 its current, elephants its large rocks, and steeds its smaller ones. Fat
 and marrow formed its mire, umbrellas its swans, and maces its rafts.
@@ -1043,7 +1043,7 @@ The two sons of Madri, endued with great activity, accomplished in
 weapons, and invincible in battle, proceeded with great speed against thy
 host, inspired with desire of victory. Then thy army, O bull of Bharata's
 race, mangled in diverse ways with shafts by the Pandavas eager for
-"|3|Shalya Parva|517
+"|3|Shalya Parva|517|94bc22d2be804013a7ef6ca4b5bb5e86
 9|9||"broken by firm bowmen, O monarch, fled away on all sides in the very
 sight of thy sons. Loud cries of ""Oh!"" and ""Alas!"" O Bharata, arose from
 among thy warriors, while some illustrious Kshatriyas among the routed
@@ -1056,7 +1056,7 @@ bull of Bharata's race, bent only upon their own safety.'""
 
 
 
-"|4|Shalya Parva|164
+"|4|Shalya Parva|164|0ec41ef6558241829331a1d98301e2a5
 9|10||"
 ""Sanjaya said, 'Beholding the army broken, the valiant king of the
 Madras, addressed his driver, saying, ""Quickly urge these steeds endued
@@ -1088,7 +1088,7 @@ forehead with three shafts equipped with wings of gold and whetted on
 stone. With a few other keen arrows he then despatched Nakula's steeds to
 Yama's abode. Next, he felled both the standard and the driver of his
 antagonist, each with three arrows. With those three arrows sped from the
-"|1|Shalya Parva|514
+"|1|Shalya Parva|514|7262fae35e734d6d95e2141876ae646e
 9|10||"beautiful like a mountain with three crests. Deprived of his bow and his
 cars, the brave Nakula, taking up a sword, jumped down from his vehicle
 like a lion from a mountain-summit. As, however, he rushed on foot, his
@@ -1117,7 +1117,7 @@ into fragments. Then Nakula, laughing, smote the four steeds of Satyasena
 with four whetted and keen shafts in that encounter. Aiming a long shaft
 equipped with wings of gold, the son of Pandu then cut off, O monarch,
 the bow of Satyasena. At this, the latter, mounting on another car and
-"|2|Shalya Parva|513
+"|2|Shalya Parva|513|5196de01f2f14dd69f81fb49c52c310f
 9|10||"son of Pandu. The valiant son of Madri fearlessly pierced each of them, O
 monarch, with couple of shafts at the van of battle. Then the mighty
 car-warrior Sushena, filled with wrath, cut off in that battle, laughing
@@ -1146,7 +1146,7 @@ made Nakula carless in that battle. Without losing a moment, he poured
 his arrows over the son of Pandu fighting on foot. Seeing Nakula carless,
 the mighty car-warrior Sutasoma, the son of Draupadi, rushed to that spot
 for rescuing his sire in battle. Mounting then upon the car of Sutasoma,
-"|3|Shalya Parva|516
+"|3|Shalya Parva|516|85e4496fc05549d790718f759b903d5c
 9|10||"mountain. Then taking up another bow, he fought with Sushena. Those two
 great car-warriors, approaching each other, and shooting showers of
 arrows, endeavoured to encompass each other's destruction. Then Sushena,
@@ -1175,7 +1175,7 @@ foes and abode of modesty, Yudhishthira, at their head, and surrounding
 him on all sides in that battle, uttered leonine roars. And those heroes
 also caused a loud whizz with the arrows they shot and frequently
 indulged in diverse kinds of shouts. Smilingly, all thy warriors, filled
-"|4|Shalya Parva|504
+"|4|Shalya Parva|504|1c56cdd9fd9e4b8eaac35752a4399c7d
 9|10||"desire of battle. Then commenced a battle, inspiring the timid with fear,
 between thy soldiers and the enemy, both of whom made death their goal.
 That battle between fearless combatants, enhancing the population of
@@ -1196,10 +1196,10 @@ armies, exceedingly excited, were thus slaughtering each other, they
 became much agitated like two streams in the season of rains. During the
 progress of that dreadful battle, O monarch, a great fear entered the
 hearts of thy warriors as also those of the Pandavas.'""
-"|5|Shalya Parva|345
+"|5|Shalya Parva|345|9a0e5c42fa9642118cbd9e9938561ebb
 9|10||"
 
-"|6|Shalya Parva|1
+"|6|Shalya Parva|1|e0e33c2ee21c41b48a500180141b526a
 9|11||"
 ""Sanjaya said, 'When the troops, slaughtered by one another, were thus
 agitated, when many of the warriors fled away and the elephants began to
@@ -1224,7 +1224,7 @@ Kuru army, O thou of the race of Kuru, encountering the proud Pandavas
 endued with great strength, skilled in smiting, and possessed of sureness
 of aim, became weakened and agitated like a herd of she-deer frightened
 at a forest conflagration.
-"|1|Shalya Parva|348
+"|1|Shalya Parva|348|f61445f1e3ee40cf96a99d6be97f14d3
 9|11||"""'Beholding that army weakened and helpless like a cow sunk in mire,
 Shalya, desirous of rescuing it, proceeded against the Pandava army.
 Filled with rage, the ruler of the Madras, taking up an excellent bow,
@@ -1255,7 +1255,7 @@ and the grandson of Sini, and Shikhandi also, each with ten arrows
 equipped with wings of gold and whetted on stone. Indeed, he began to
 pour his arrows like Maghavat (Indra) pouring rain at the close of the
 summer season. Then the Prabhadrakas, O king, and the Somakas, were seen
-"|2|Shalya Parva|523
+"|2|Shalya Parva|523|1a63fd6eb10346a0a7a4ec9f66137301
 9|11||"Multitudinous as swarms of bees or flights of locusts, the shafts of
 Shalya were seen to fall like thunderbolts from the clouds. Elephants and
 steeds and foot-soldiers and car-warriors, afflicted with Shalya's
@@ -1283,7 +1283,7 @@ Ashvatthama with smiles on his lips, and all thy sons protected Shalya by
 every means in that battle. Piercing Bhimasena with three arrows,
 Kritavarma, shooting a dense shower of shafts, checked that warrior who
 then seemed to be the embodiment of wrath. Excited with rage, Kripa
-"|3|Shalya Parva|515
+"|3|Shalya Parva|515|1019192b8aac4954b9fdca86d2010a6d
 9|11||"sons of Draupadi, and Ashvatthama against the twins. That foremost of
 warriors, Duryodhana, possessed of fierce energy, proceeded, in that
 battle, against Keshava and Arjuna, and endued with might, he struck them
@@ -1311,7 +1311,7 @@ bludgeon of Yama, impending (upon the head of the foe) like kala-ratri
 (Death Night), exceedingly destructive of the lives of elephants and
 steeds and human beings, twined round with cloth of gold, looking like a
 blazing meteor, equipped with a sling, fierce as a she-snake, hard as
-"|4|Shalya Parva|518
+"|4|Shalya Parva|518|012a6790976d44c19703e2aa9d04965e
 9|11||"unguents like a desirable lady, smutted with marrow and fat and blood,
 resembling the very tongue of Yama, producing shrill sounds in
 consequence of the bells attached to it, like unto the thunder of Indra,
@@ -1340,10 +1340,10 @@ Shalya became filled with wonder. Of tranquil soul, the ruler of the
 Madras took up his mace and began to cast his glances upon his foe.
 Beholding that terrible feat of his in battle, the Parthas, with cheerful
 hearts, worshipped Bhima who was incapable of being tired with exertion.'""
-"|5|Shalya Parva|494
+"|5|Shalya Parva|494|71a88a46839f48b48b52e92c1692f2f5
 9|11||"
 
-"|6|Shalya Parva|1
+"|6|Shalya Parva|1|a3540ea6bf304411b5e1578f67f7e4af
 9|12||"
 ""Sanjaya said, 'Seeing his driver fallen, Shalya, O king, quickly took up
 his mace made wholly of iron and stood immovable as a bull. Bhima,
@@ -1374,7 +1374,7 @@ with his mace, the mace of Shalya produced a shower of blazing coals
 which seemed exceedingly wonderful. Like two gigantic elephants striking
 each other with their tusks, or two huge bulls striking each other with
 their horns, those two heroes began to strike each other with their
-"|1|Shalya Parva|511
+"|1|Shalya Parva|511|fd241d895c454d0a94494237cacf903c
 9|12||"iron bound clubs. Their limbs being struck with each other's mace, they
 soon became bathed in blood and looked handsomer in consequence like two
 flowering Kinsukas. Struck by the ruler of the Madras on both his left
@@ -1405,7 +1405,7 @@ Madras. Then the heroic warriors of thy army, armed with diverse weapons,
 fought with the Pandavas, causing diverse musical instruments to be blown
 and beat. With uplifted arms and weapons and making a loud noise, O
 monarch, thy warriors headed by Duryodhana rushed against the Pandavas.
-"|2|Shalya Parva|512
+"|2|Shalya Parva|512|db562469ecde45bf920b0db862f795dc
 9|12||"against those warriors headed by Duryodhana. Then thy son, O bull of
 Bharata's race, singling out Chekitana amongst those rushing heroes,
 pierced him deeply with a lance in the chest. Thus assailed by thy son,
@@ -1434,7 +1434,7 @@ combatants that fought with one another fearlessly. That dust, however, O
 tiger among men, was soon dispelled by the blood that was shed, and all
 the points of the compass became once more clear when that dusty darkness
 was driven away. Indeed, during the progress of that terrible and awful
-"|3|Shalya Parva|501
+"|3|Shalya Parva|501|fa0ed8a5947d4db59f6f9536cbf5b7b6
 9|12||"back. Desirous of attaining to the regions of Brahman and longing for
 victory by fair fight, the combatants displayed their prowess, inspired
 with the hope of heaven. For paying off the debt they owed to their
@@ -1463,7 +1463,7 @@ were (thus) slain by the high-souled son of Pandu, Shalya, O king, slew
 five and twenty warriors among the Cedis. And he pierced Satyaki with
 five and twenty keen arrows, and Bhimasena with seven, and the two sons
 of Madri with a hundred, in that battle. While Shalya was thus careering
-"|4|Shalya Parva|501
+"|4|Shalya Parva|501|ef005f16a2f44c37b448332597e41c3e
 9|12||"shafts that resembled snakes of virulent poison. With a broad-headed
 arrow, Yudhishthira the son of Kunti then cut off from his car the
 standard top of his adversary as the latter stood in his front. We saw
@@ -1481,10 +1481,10 @@ car-warrior Shalya, in that battle, filled with rage, shrouded
 Yudhishthira with straight shafts. At this, king Yudhishthira afflicted
 with those showers of shafts, felt himself deprived of his prowess, even
 as the Asura Jambha had become before the slayer of Vritra.'""
-"|5|Shalya Parva|311
+"|5|Shalya Parva|311|d16224abc97944959e5a62cb1e395593
 9|12||"
 
-"|6|Shalya Parva|1
+"|6|Shalya Parva|1|771cec9abfa249679b6b66b073d49990
 9|13||"
 ""Sanjaya said, 'When king Yudhishthira the just was thus afflicted by the
 ruler of Madras, Satyaki and Bhimasena and the two sons of Madri by
@@ -1515,7 +1515,7 @@ Bhimasena pierced the ruler of the Madras with seventy arrows, and
 Satyaki pierced him with nine, and king Yudhishthira with sixty. Thus
 pierced, O monarch, by those mighty car-warriors, blood began to flow
 from Shalya's body, like crimson streams, running down the breast of a
-"|1|Shalya Parva|509
+"|1|Shalya Parva|509|067de4f2c00a47cf889ac4e0cc6f260f
 9|13||"those great bowmen with five arrows, O king, which feat seemed
 exceedingly wonderful. With another broad-headed arrow, that mighty
 car-warrior then, O sire, cut off the stringed bow of Dharma's son in
@@ -1544,7 +1544,7 @@ other arrows, O Bharata, he cut off the Sataghni sped at him by the king,
 in the very sight of the sons of Pandu, and uttered a loud leonine roar.
 The grandson of Sini, however, could not endure the defeat of his weapon
 in that battle. Insensate with rage, Satyaki took up another bow and
-"|2|Shalya Parva|519
+"|2|Shalya Parva|519|fde6e57f804b4cc79789002a86730186
 9|13||"three. At this, Shalya, O monarch, excited with rage, deeply pierced all
 of them with ten arrows, like persons piercing mighty elephants with
 sharp-pointed lances. Thus checked in that battle by the ruler of the
@@ -1573,7 +1573,7 @@ battle, dispersed that risen shower of arrows and diverse other kinds of
 weapons in profusion. We then beheld the downpour of gold-winged arrows
 shot by Shalya coursing through the welkin like a flight of locusts.
 Indeed, those arrows shot by the ruler of the Madras from the van of
-"|3|Shalya Parva|510
+"|3|Shalya Parva|510|6d6ae1f7d00c4fc1b9c8c2c3a40a34e8
 9|13||"shafts that issued from the bow of the Madra king, the welkin, O monarch,
 became so filled that there was not an inch of empty space. When a thick
 gloom appeared, caused by the arrows shot by the mighty ruler of the
@@ -1591,7 +1591,7 @@ Shalya.'""
 
 
 
-"|4|Shalya Parva|241
+"|4|Shalya Parva|241|57061c18bb4543cb928289da272142fe
 9|14||"
 ""Sanjaya said, 'Meanwhile Arjuna, in that battle, pierced with many
 arrows by the son of Drona as also by the latter's followers, the heroic
@@ -1622,7 +1622,7 @@ loud twang of Gandiva for the wind that fanned it, began to consume the
 fuel constituted by thy troops. Then, O Bharata, heaps of fallen wheels
 and yokes, of quivers, of banners and standards, with the vehicles
 themselves that bore them, of shafts and Anukarshas and Trivenus, of
-"|1|Shalya Parva|512
+"|1|Shalya Parva|512|c5c840159e1a4e4289261e00b52f03fc
 9|14||"headgears, of arms, O monarch, and thighs in thousands, of umbrellas along
 with fans, and of diadems and crowns, were seen along the tracks of
 Partha's car. Indeed, along the track of the angry Partha's car, O
@@ -1651,7 +1651,7 @@ smiling the while, stretched his bow Gandiva with force. Soon, however,
 the mighty car-warrior Savyasaci (Arjuna) made his adversary steedless
 and driverless and carless, and without putting forth much strength
 pierced him with three arrows. Staying on that steedless car, Drona's
-"|2|Shalya Parva|506
+"|2|Shalya Parva|506|729850d987244c33afbe6cb779c6274b
 9|14||"looked like a dreadful mace with iron spikes. Beholding that weapon,
 which was decked with cloth of gold, coursing towards him, the heroic
 Partha, that slayer of foes, cut it off into seven fragments. Seeing his
@@ -1680,7 +1680,7 @@ Suratha in rage and then rubbed his bow-string and sped a keen cloth-yard
 shaft that resembled the fatal rod of Death. Endued with great speed,
 that shaft pierced the heart of Suratha and passing out entered the
 Earth, riving her through, like the thunderbolt of Shakra hurled from the
-"|3|Shalya Parva|502
+"|3|Shalya Parva|502|341393b24de44128bb475a6e81585b6f
 9|14||"mountain summit riven with thunder. After the fall of that hero, the
 valiant son of Drona, that foremost of car-warriors speedily mounted upon
 the vehicle of his slain foe. Then, O monarch, that warrior, invincible
@@ -1696,7 +1696,7 @@ host of the Asuras.'""
 
 
 
-"|4|Shalya Parva|200
+"|4|Shalya Parva|200|bab480bb4bf946cb9293d0837dbff3aa
 9|15||"
 ""Sanjaya said, 'Duryodhana, O king, and Dhrishtadyumna, the son of
 Prishata, fought a fierce battle, using arrows and darts in profusion.
@@ -1725,7 +1725,7 @@ speed against his maternal uncle. Shrouding Shalya in that battle (with
 many arrows), Nakula, that slayer of hostile heroes, smiling the while,
 pierced him in the centre of the chest with ten arrows, made entirely of
 iron, polished by the hands of the smith, equipped with wings of gold,
-"|1|Shalya Parva|510
+"|1|Shalya Parva|510|7595c366eace465c9d405e743c874db0
 9|15||"by his illustrious nephew, Shalya afflicted his nephew in return with
 many straight arrows. Then king Yudhishthira, and Bhimasena, and Satyaki,
 and Sahadeva, the son of Madri, all rushed against the ruler of the
@@ -1753,7 +1753,7 @@ pierced two angry sons of Madri, and Bhimasena the son of Pandu, and
 Yudhishthira, O thou of Kuru's race, with ten arrows each. The prowess
 that we then beheld of the ruler of the Madras was exceedingly wonderful,
 since the Parthas, even unitedly, could not approach him in that battle.
-"|2|Shalya Parva|507
+"|2|Shalya Parva|507|fbef89c39cd6444fb4d00fd182b2f7ac
 9|15||"being baffled, beholding the Pandavas afflicted and succumbing to the
 ruler of the Madras, rushed with speed against him. That ornament of
 assemblies, Shalya, on his car, rushed against the car of Satyaki, like
@@ -1784,13 +1784,13 @@ the most wonderful feat, since that hero alone, and unsupported,
 contended with many heroes in that battle. The Earth became shrouded with
 the fierce shafts, equipped with feathers of Kankas and peacocks, that
 fell, sped from the arms of the ruler of the Madras. Then, O king, we
-"|3|Shalya Parva|509
+"|3|Shalya Parva|509|bac513eeba4a43969bb489f60ab84727
 9|15||"of Shakra in days of yore on the occasion of the destruction of the
 Asuras.'""
 
 
 
-"|4|Shalya Parva|21
+"|4|Shalya Parva|21|bce884d4f7e345bd89fa06d9ed4bc2a0
 9|16||"
 ""Sanjaya said, 'Then, O lord, thy troops, with Shalya at their head, once
 more rushed against the Parthas in that battle with great impetuosity.
@@ -1819,7 +1819,7 @@ highly. Afflicted by Shalya the Pandavas, exceedingly mangled, fled away,
 leaving the battle, and disregarding the cries of Yudhishthira commanding
 them to stop. While his troops were thus being slaughtered by the ruler
 of the Madras, Pandu's son, king Yudhishthira the just, became filled
-"|1|Shalya Parva|503
+"|1|Shalya Parva|503|73ab05180675492993029cf5bfe0c332
 9|16||"afflict the ruler of the Madras, resolved to either win the battle or
 meet with death. Summoning all his brothers and also Krishna of Madhu's
 race, he said unto them, ""Bhishma, and Drona, and Karna, and the other
@@ -1848,7 +1848,7 @@ addressed by the king, all his well-wishers did as they were requested.
 Then the Pandava troops once more became filled with joy, especially the
 Pancalas, the Somakas and the Matsyas. Having made that vow, the king
 proceeded against the ruler of the Madras. The Pancalas then blew and
-"|2|Shalya Parva|501
+"|2|Shalya Parva|501|fbc90fe30abd4776bf44a559b8e41175
 9|16||"great activity and filled with rage, they rushed, with loud shouts of
 joy, against the ruler of the Madras, that bull among the Kurus. And they
 caused the Earth to resound with the noise of the elephants' bells, and
@@ -1877,7 +1877,7 @@ Bhima then, putting forth his prowess pierced the chest of thy son with a
 dart. At this, thy son sat down on the terrace of his car. When
 Duryodhana swooned away, Vrikodara once more, with razor-faced shaft, cut
 off the head of his driver from his trunk. The steeds of Duryodhana's
-"|3|Shalya Parva|518
+"|3|Shalya Parva|518|6d411a4482ff47a29c41e888b4b20380
 9|16||"dragging the car after them, at which loud wails arose (in the Kuru
 army). Then the mighty car-warrior Ashvatthama, and Kripa and Kritavarma,
 followed that car, desirous of rescuing thy son. The (Kaurava) troops (at
@@ -1906,7 +1906,7 @@ Returning and challenging each other, each then encountered the other.
 Then Shalya covered Yudhishthira with showers of arrows. Similarly, the
 son of Kunti covered the ruler of the Madras with showers of arrows. Then
 those two heroes, the ruler of the Madras and Yudhishthira, mangled in
-"|4|Shalya Parva|505
+"|4|Shalya Parva|505|b8ca5ef140b44bc2a7297b7ec426cc55
 9|16||"Salmali and a Kinsuka tree decked with flowers. Both possessed of
 splendour and both invincible in battle, those two illustrious warriors
 uttered loud roars. Beholding them both, the soldiers could not conclude
@@ -1931,10 +1931,10 @@ aloud. Stopping, the ruler of the Madras then ascended another car that
 had been equipped duly. That best of cars had a rattle deep as the roar
 of the clouds. Well furnished with weapons and instruments and all kinds
 of utensils, that vehicle made the hair of foes stand on end.'""
-"|5|Shalya Parva|439
+"|5|Shalya Parva|439|340781f1e4bc42d298e0485b86eca8bb
 9|16||"
 
-"|6|Shalya Parva|1
+"|6|Shalya Parva|1|25737c215ece4778b401d1ac13ee8a12
 9|17||"
 ""Sanjaya said, 'Taking up another bow that was very strong and much
 tougher, the ruler of the Madras pierced Yudhishthira and roared like a
@@ -1965,7 +1965,7 @@ mail and equipped with weapons, beholding the ruler of the Madras
 exceedingly afflicted with arrows in that battle, surrounded him on all
 sides, at the command of Duryodhana. The ruler of the Madras at this time
 quickly pierced Yudhishthira with seven arrows in that battle. The
-"|1|Shalya Parva|518
+"|1|Shalya Parva|518|a44410d4c7714884b3553d88ece7a60c
 9|17||"arrows in that dreadful encounter. Those two great car-warriors, the
 ruler of the Madras and Yudhishthira, began to cover each other with
 arrows, washed in oil and shot from their bowstrings stretched to their
@@ -1994,7 +1994,7 @@ then, drawing his bow and having shot many arrows, at last cut off, with
 a pair of razor-faced shafts, the bow of his royal foe, that bull of
 Kuru's race. The illustrious Yudhishthira then, taking a new and more
 formidable bow in that battle, pierced Shalya with many arrows of keen
-"|2|Shalya Parva|506
+"|2|Shalya Parva|506|961d36f117b945a9b8a5f17ced900d3b
 9|17||"illustrious Shalya then, cutting off the golden coats of mail of both
 Bhima and king Yudhishthira with nine arrows, pierced the arms of both of
 them. With another razor-faced arrow endued with the splendour of fire or
@@ -2021,7 +2021,7 @@ car, Shalya of terrible strength rushed towards Yudhishthira. Beholding
 Shalya rushing impetuously towards the king, even like the Destroyer
 himself rushing in rage, Dhristadyumna and Shikhandi and the (five) sons
 of Draupadi and the grandson of Sini suddenly advanced towards him. Then
-"|3|Shalya Parva|504
+"|3|Shalya Parva|504|02015e50ffc14c62a184abac2fee7860
 9|17||"the advancing hero. With another broad-headed arrow he cut off the sword
 also of that warrior at the hilt. Filled with joy at this, he roared
 aloud in the midst of the troops. Beholding that feat of Bhima, all the
@@ -2051,7 +2051,7 @@ reduced to ashes. This appeared to us to be exceedingly wonderful, O
 monarch. The illustrious chief of the Kurus then hurled with great force
 at the king of the Madras that blazing dart of beautiful and fierce
 handle and effulgent with gems and corals. All the Kauravas beheld that
-"|4|Shalya Parva|513
+"|4|Shalya Parva|513|58135c9aab4a4d62822514951631f729
 9|17||"after having been hurled with great force, even like a large meteor
 falling from the skies at the end of the Yuga. King Yudhishthira the
 just, in that battle, carefully hurled that dart which resembled
@@ -2077,7 +2077,7 @@ destruction of the ruler of the Madras. Saying in a loud voice the words,
 days of yore, shot his shaft for the destruction of the asura Andhaka,
 stretching forth his strong (right) arm graced with a beautiful hand, and
 apparently dancing in wrath.
-"|5|Shalya Parva|436
+"|5|Shalya Parva|436|354aae79065f4c169464ac5707b4a136
 9|17||"""'Shalya, however, roared aloud and endeavoured to catch that excellent
 dart of irresistible energy hurled by Yudhishthira with all his might,
 even as a fire leaps forth for catching a jet of clarified butter poured
@@ -2107,7 +2107,7 @@ resembled that of Indra's bow, began to destroy his foes in that battle
 like the prince of birds destroying snakes. With the greatest speed he
 began to cut off the bodies of his enemies with his keen shafts. With the
 showers of shafts that the son of Pritha then shot, thy troops became
-"|6|Shalya Parva|504
+"|6|Shalya Parva|504|07dcf786e65143a78c227887420eaf5c
 9|17||"strike one another (so stupefied were they then). With blood issuing from
 their bodies, they became deprived of their weapons of attack and defence
 and divested of their life-breaths. Upon the fall of Shalya, the youthful
@@ -2137,7 +2137,7 @@ Vrishni's race, Hridika's son and Satyaki, encountered each other like
 two furious lions. Both resembling the sun in effulgence, they covered
 each other with arrows of blazing splendour that resembled the rays of
 the sun. The arrows of those two lions of Vrishni's race, shot forcibly
-"|7|Shalya Parva|502
+"|7|Shalya Parva|502|ddd2644669cb4cb9854d7706a34f7384
 9|17||"welkin. Piercing Satyaki with ten arrows and his steeds with three, the
 son of Hridika cut off his bow with a straight shaft. Laying aside his
 best of bows which was thus cut off, that bull of Sini's race, quickly
@@ -2166,7 +2166,7 @@ another car, advanced to that spot. The mighty car-warrior Yudhishthira
 then quickly slew the four steeds of Kritavarma with four shafts, and
 pierced the son of Gotama with six broad-headed arrows of great force.
 Then Ashvatthama, taking up on his car the son of Hridika who had been
-"|8|Shalya Parva|509
+"|8|Shalya Parva|509|7bc9f6e794a04802be8b11f0eab4abbc
 9|17||"Yudhishthira's presence. The son of Saradwat pierced Yudhishthira in
 return with eight arrows and his steeds also with eight keen shafts.
 Thus, O monarch, the embers of that battle began to glow here and there,
@@ -2181,7 +2181,7 @@ resound on every side with that noise.'""
 
 
 
-"|9|Shalya Parva|198
+"|9|Shalya Parva|198|b02d9584e33a4d66888244b0b403a5f5
 9|18||"
 ""Sanjaya said, 'After the slaughter of Shalya, O king, the followers of
 the Madra king, numbering seventeen hundred heroic car-warriors,
@@ -2209,7 +2209,7 @@ tremble, the illustrious and mighty car-warriors (the Madrakas), all
 shouted loudly, saying, ""Where is that king Yudhishthira? Why are not his
 brave brothers, the Pandavas, to be seen here? What has become of the
 Pancalas of great energy as also of the mighty car-warrior Shikhandi?
-"|1|Shalya Parva|502
+"|1|Shalya Parva|502|6d5602f5c6554addb674cecde814bc62
 9|18||"car-warriors, the (five) sons of Draupadi?"" At this, those mighty
 warriors, the sons of Draupadi, began to slaughter the followers of the
 Madra king who were uttering those words and battling vigorously. In that
@@ -2240,7 +2240,7 @@ maternal uncle) proceeded, encompassed by a large force, against the foe,
 uttering leonine shouts and causing the Earth to resound with that noise.
 ""Slay, pierce, seize, strike, cut off!"" These were the loud sounds that
 were heard then, O Bharata, among those troops. Meanwhile the Pandavas,
-"|2|Shalya Parva|506
+"|2|Shalya Parva|506|28c291c315e04feab0f7a21dd662319a
 9|18||"unitedly, proceeded against them, arraying themselves in the form called
 Madhyama. Fighting hand to hand, O monarch, for a short while those
 heroic warriors, the followers of the Madra king, were seen to perish.
@@ -2268,10 +2268,10 @@ also their heroic king slain in battle, the entire army of Duryodhana
 once more turned away from the field. Struck, O monarch, by those firm
 bowmen, the Pandavas, the Kuru army fled away on all sides, inspired with
 fear.'""
-"|3|Shalya Parva|454
+"|3|Shalya Parva|454|ef3187611e1c4331ab5f64485d47b94e
 9|18||"
 
-"|4|Shalya Parva|1
+"|4|Shalya Parva|1|7b7eabb95e444bee957e8056aae09006
 9|19||"
 ""Sanjaya said, 'Upon the fall of that great king and mighty car-warrior,
 that invincible hero (Shalya) in battle, thy troops as also thy sons
@@ -2300,7 +2300,7 @@ dejection, the Pancalas and the Pandavas, inspired with desire of
 victory, pursued then hotly. The whiz of arrows and other noises, the
 loud leonine roars, and the blare of conchs of heroic warriors, became
 tremendous. Beholding the Kaurava host agitated with fear and flying
-"|1|Shalya Parva|506
+"|1|Shalya Parva|506|2d4034f0598347c98da78a82e52bb74e
 9|19||"king Yudhishthira, firm in truth, hath vanquished his enemies. Today
 Duryodhana hath been divested of his splendour and kingly prosperity.
 Today, hearing of his sons' death, let Dhritarashtra, that king of men,
@@ -2328,7 +2328,7 @@ the mighty bowman Shikhandi, and king Yudhishthira? Why will not victory
 be theirs that have for their protector Krishna, otherwise called
 Janardana, that protector of the universe? Why will not victory be theirs
 that have righteousness for their refuge? Who else than Yudhishthira the
-"|2|Shalya Parva|503
+"|2|Shalya Parva|503|9a4cbc3c11ad4f6c8562fc1014633bef
 9|19||"for his protector, is competent to vanquish in battle Bhishma and Drona
 and Karna and the ruler of the Madras and the other kings by hundreds and
 thousands?"" Saying these words and filled with joy, the Srinjayas pursued
@@ -2357,7 +2357,7 @@ became loud and exceedingly terrible. Then Bhimasena, O king, and
 Dhrishtadyumna the son of Prishata resisted them with four kinds of
 forces. Other foot-soldiers proceeded against Bhima, uttering loud shouts
 and slapping their armpits, all actuated by the desire of going to
-"|3|Shalya Parva|501
+"|3|Shalya Parva|501|3890819465c64dd0ba00a3b62669e3cf
 9|19||"in battle, having approached Bhimasena, uttered furious shouts. They then
 spoke not to one another. Encompassing Bhima in that battle, they began
 to strike him from all sides. Surrounded by that large body of warriors
@@ -2387,7 +2387,7 @@ transgress him even as the ocean cannot transgress its continents. The
 prowess that we then beheld of thy son was exceedingly wonderful, since
 all the Parthas, united together, could not transgress his single self.
 Then Duryodhana, addressing his own army which had not fled far but
-"|4|Shalya Parva|501
+"|4|Shalya Parva|501|d09aeb76870b4c268a908f2790b7fdd3
 9|19||"words, ""I do not see the spot on plain or mountain, whither, if ye fly,
 the Pandavas will not pursue and slay ye! What is the use then of flight?
 The army of the Pandavas hath been reduced in numbers. The two Krishnas
@@ -2411,10 +2411,10 @@ against them. The valiant Dhananjaya, stretching his bow Gandiva
 celebrated over the three worlds, proceeded on his car against the foe.
 The two sons of Madri, and Satyaki, rushed against Shakuni, and the other
 (Pandava) heroes, smiling, rushed impetuously against thy forces.'""
-"|5|Shalya Parva|416
+"|5|Shalya Parva|416|77892f5a709c467e9c8b98793967aa40
 9|19||"
 
-"|6|Shalya Parva|1
+"|6|Shalya Parva|1|110fa0da2d344a0f805d434865ca616c
 9|20||"
 ""Sanjaya said, 'After the (Kuru) army had been rallied, Shalva, the ruler
 of the Mlecchas, filled with rage, rushed against the large force of the
@@ -2444,7 +2444,7 @@ Pandava host broken and flying away in speed, all the foremost of
 warriors of thy army worshipped king Salwa and blew their conchs white as
 the moon. Hearing the shouts of the Kauravas uttered in joy and the blare
 of their conchs, the commander of the Pandava and the Srinjaya forces,
-"|1|Shalya Parva|517
+"|1|Shalya Parva|517|c2ac6cc3305f4fd1b6886e2782076a44
 9|20||"illustrious Dhrishtadyumna then, with great speed, proceeded for
 vanquishing the elephant, even as the Asura Jambha had proceeded against
 Airavata, the prince of elephants that Indra rode in the course of his
@@ -2474,7 +2474,7 @@ in battle, the elephant began to waver. Meanwhile, king Salwa began to
 shoot his shafts like the sun shedding his rays on all sides. Struck with
 those shafts, the (Pandava) car-warriors began to fly away. Beholding
 that feat of Salwa, the Pancalas, the Srinjayas, and the Matsyas, O king,
-"|2|Shalya Parva|512
+"|2|Shalya Parva|512|54825bb50281407db508d1e734adfc19
 9|20||"foremost of men, however, encompassed the animal on all sides. The brave
 Pancala king then, taking up his mace which resembled the lofty crest of
 a mountain, appeared there. Fearlessly, O king, that hero, that smiter of
@@ -2494,7 +2494,7 @@ thunderbolt hurled by the chief of the celestials.'""
 
 
 
-"|3|Shalya Parva|271
+"|3|Shalya Parva|271|34abd83fb2814016bce7e2c094bd85ec
 9|21||"
 ""Sanjaya said, 'After the heroic Salwa, that ornament of assemblies, had
 been slain, thy army speedily broke like a mighty tree broken by the
@@ -2525,7 +2525,7 @@ the son of Hridika and that bull of Sini's race soon afflicted each other
 with showers of arrows. The shafts sped with great force from the bows of
 the two Vrishni lions were seen by us in the welkin to resemble flights
 of swiftly coursing insects. Then the son of Hridika, approaching Satyaki
-"|1|Shalya Parva|513
+"|1|Shalya Parva|513|febb2b7df1bf4c7395d003089cd00236
 9|21||"shafts. The long-armed Satyaki, enraged at this, like an elephant struck
 with a lance, pierced Kritavarma with eight foremost of arrows. Then
 Kritavarma pierced Satyaki with three arrows whetted on stone and sped
@@ -2553,7 +2553,7 @@ of thy sons, when Kritavarma was thus made steedless and driverless and
 carless. Beholding that chastiser of foes made steedless and driverless,
 Kripa, O king, rushed at that bull of Sini's race, desirous of
 despatching him to Yama's abode. Taking Kritavarma upon his car in the
-"|2|Shalya Parva|507
+"|2|Shalya Parva|507|35b54c9039f74a459ddb37f0880cb746
 9|21||"the press of battle. After Kritavarma had been made carless and the
 grandson of Sini had become powerful on the field, the whole army of
 Duryodhana once more turned away from the fight. The enemy, however, did
@@ -2573,7 +2573,7 @@ the son of Hridika came there, riding on another car.'""
 
 
 
-"|3|Shalya Parva|289
+"|3|Shalya Parva|289|89ebdfc91c6b45e28654df3e1aba8621
 9|22||"
 ""Sanjaya said, 'That foremost of car-warriors, O monarch, thy son, riding
 on his car and filled with the courage of despair, looked resplendent in
@@ -2603,7 +2603,7 @@ valiant son of Madri, took up another formidable bow, and rushing against
 king Duryodhana, pierced him with ten shafts in that battle. The great
 bowman Nakula, possessed of courage, then pierced the king with nine
 terrible arrows and uttered a loud roar. Satyaki struck the king with a
-"|1|Shalya Parva|511
+"|1|Shalya Parva|511|22a6c30d2fcd449ba41c72f2167e48ac
 9|22||"seventy and king Yudhishthira struck him with five. And Bhimasena
 afflicted the king with eighty shafts. Though pierced thus from every
 side with numerous arrows by these illustrious warriors, Duryodhana
@@ -2634,7 +2634,7 @@ having pierced Shakuni at first with nine arrows, once more pierced him
 with five. And that foremost of all bowmen then uttered a loud roar. That
 battle, O sire, awful as it was, became wonderful to behold. It filled
 the spectators with delight and was applauded by the Siddhas and the
-"|2|Shalya Parva|514
+"|2|Shalya Parva|514|0e5d62a75a7e44c7a8ed8f28647f3eb9
 9|22||"Nakula, in that battle, shooting showers of arrows from every side. The
 heroic Nakula, however, in that battle, resisted the son of Shakuni with
 a thick shower of arrows from every side. Both those heroes were
@@ -2665,7 +2665,7 @@ fierce, O lord! Many and awful, O monarch, were the encounters that took
 place in course of that battle. Those chastisers of foes (belonging to
 both armies), encountering one another, pierced and slew one another in
 that dreadful engagement. A dense cloud of dust was then seen there,
-"|3|Shalya Parva|511
+"|3|Shalya Parva|511|bb39d9f7c498479482ab22a7b3260d7e
 9|22||"king, was the dust raised by the running steeds, a dust that was carried
 from one place to another by the wind. Raised by the wheels of cars and
 the breaths of the elephants, the dust, thick as an evening cloud, rose
@@ -2683,7 +2683,7 @@ by a vast forest of bamboo while burning on every side.'""
 
 
 
-"|4|Shalya Parva|235
+"|4|Shalya Parva|235|19c6782244174b928c160aa847de4ca3
 9|23||"
 ""Sanjaya said, 'During the progress of that terrible and awful battle,
 the army of thy son was broken by the Pandavas. Rallying their great
@@ -2713,7 +2713,7 @@ Yudhishthira, the son of Kunti, they came to that spot upon their cars
 possessed of great speed and adorned with rows of bells. Then commenced
 an awful battle, in which blood flowed as water, between the Pandavas and
 the Kurus, that increased the population of Yama's domains. Slaying those
-"|1|Shalya Parva|505
+"|1|Shalya Parva|505|6cd1277ee69e4fb09ca114bc944306ef
 9|23||"Pancalas once more resisted (the whole Kuru army). There a fierce battle
 was fought between thy son and the Pandavas. We had never before seen or
 heard of its like. During the progress of that battle in which no
@@ -2744,7 +2744,7 @@ uttered diverse sounds of delight. Others too did the same. The
 invincible Pandavas, however, possessed of sureness of aim, once more
 coming against us, shook their bows and covered us with showers of
 arrows. The forces of the Madrakas then were slain by the foe. Beholding
-"|2|Shalya Parva|501
+"|2|Shalya Parva|501|f6b5e250b092486593dfb8a62203751b
 9|23||"mighty king of the Gandharas, however, once more said these words,
 ""Stop, ye sinful ones! Fight (with the foe)! What use is there of
 flight?"" At that time, O bull of Bharata's race, the king of the
@@ -2772,7 +2772,7 @@ the latter's car-warriors. Those heroic horsemen, staying in the midst of
 their own elephants, covered the large host of Subala's son with showers
 of shafts. In consequence of thy evil counsels, O king, dreadful was the
 battle that then ensued in which maces and lances were used and in which
-"|3|Shalya Parva|508
+"|3|Shalya Parva|508|6f6601673b33436ea0985cb1763ba448
 9|23||"for all the car-warriors stood as spectators of that fight. At that time
 no difference could be seen between the contending parties. Both the
 Kurus and the Pandavas, O bull of Bharata's race, beheld the darts hurled
@@ -2803,7 +2803,7 @@ sought to slay one another with diverse kinds of terrible weapons, all
 lying closely huddled together in that battle fraught with fearful
 carnage, no warrior could proceed far on his horse. Having fought for a
 little while, Shakuni, the son of Subala, O monarch, went away from that
-"|4|Shalya Parva|503
+"|4|Shalya Parva|503|1652060476c1470fb43c2e07e4adff6e
 9|23||"Pandava force, covered with blood, and its animals fatigued, moved away
 from that spot with its remnant consisting of 6,000 horses. The
 blood-stained horsemen of the Pandava army then, with hearts intent on
@@ -2834,7 +2834,7 @@ struck one another in that battle. Hundreds and thousands of combatants,
 killed by the weight of slain horsemen while falling down from their
 steeds, fell down on the field. Loud became the noise of neighing steeds
 of great fleetness, and of shouting men clad in mail, and of the falling
-"|5|Shalya Parva|513
+"|5|Shalya Parva|513|c4d9680df7fd4bd4b8ab66477e2c658d
 9|23||"of one another in consequence, O monarch, of thy evil policy. At that
 time, thy soldiers, overcome with toil, spent with rage, their animals
 fatigued, themselves parched with thirst mangled with keen weapons, began
@@ -2864,7 +2864,7 @@ Shakuni on all sides, and began to strike him with diverse kinds of
 weapons. Beholding those troops of thine assailed from every side, the
 Kauravas, with horsemen, foot-soldiers, elephants, and cars, rushed
 towards the Pandavas. Some foot-soldiers of great courage, destitute of
-"|6|Shalya Parva|511
+"|6|Shalya Parva|511|16c73129e23a4364ad720210a61ae906
 9|23||"brought them down. Car-warriors fell down from cars, and elephant-men
 from elephants, like meritorious persons falling down from their
 celestial vehicles upon the exhaustion of their merits. Thus the
@@ -2876,7 +2876,7 @@ exceedingly terrible to behold.'""
 
 
 
-"|7|Shalya Parva|117
+"|7|Shalya Parva|117|2d1d4d2cb5674736ab56e75608d1b6c0
 9|24||"
 ""Sanjaya said, 'When the loud noise of battle had somewhat subsided and
 the Pandavas had slain large numbers of their foes, Subala's son (once
@@ -2907,7 +2907,7 @@ rushed towards the Pandava army. With quivers on their backs and bows in
 their hands, all of them shook their bows and uttered leonine roars. Once
 more, O king, the fierce twang of bows and the slapping of palms and the
 whiz of arrows shot with force was heard. Beholding those Kuru combatants
-"|1|Shalya Parva|517
+"|1|Shalya Parva|517|4683f246bd8d4392b11bfc4ddf199315
 9|24||"unto the son of Devaki these words, ""Urge the steeds fearlessly and
 penetrate this sea of troops! With my keen shafts I shall today reach the
 end of these hostilities! Today is the eighteenth day, O Janardana, of
@@ -2934,7 +2934,7 @@ Srutayudha, the carnage did not still cease! After the fall of
 Bhurishrava, of Shalya, O Janardana, and of the Avanti heroes, the
 carnage did not still cease! After the fall of Jayadratha, of the
 Rakshasa Alayudha, of Bahlika, and of Somadatta, the carnage did not
-"|2|Shalya Parva|503
+"|2|Shalya Parva|503|2fe7e6cd2951472ebad454b3ea99a8a5
 9|24||"Sadakshina, and of Duhshasana, the carnage did not still cease! Beholding
 even diverse heroic and mighty kings, each owning extensive territories,
 slain in battle, the carnage, O Krishna, did not still cease! Beholding
@@ -2962,7 +2962,7 @@ Vidura further told me, 'As long also as Dhritarashtra will live, O giver
 of honours, even that sinful wight will act sinfully towards you! Ye will
 never succeed in vanquishing Duryodhana without battle!' Even thus, O
 Madhava, did Vidura of true foresight often speak to me! All the acts of
-"|3|Shalya Parva|505
+"|3|Shalya Parva|505|54170f9a16e741efb58a854c2dc8a4e5
 9|24||"Vidura had said! That person of wicked understanding who, having listened
 to the beneficial and proper words of Jamadagni's son, disregarded them,
 should certainly be held as standing in the face of destruction. Many
@@ -2981,7 +2981,7 @@ Penetrate the Bharata army, O hero, for I shall slay the wicked-souled
 Duryodhana and his army today with my keen shafts! Slaying this weak army
 in the very sight of Dhritarashtra's son, I shall today do what is for
 Yudhishthira's good!""'
-"|4|Shalya Parva|325
+"|4|Shalya Parva|325|2f354890e3104df5a81fec9383202dc7
 9|24||"""Sanjaya continued, 'Thus addressed by Savyasaci, he of Dasarha's race,
 reins in hand, fearlessly penetrated that vast hostile force for battle.
 That was a terrible forest of bows (which the two heroes entered). Darts
@@ -3011,7 +3011,7 @@ dry grass. As a roaring fire of blazing flames and great energy (arising
 from embers) cast away on the confines of a forest by its denizens, fire
 consumes those woods abounding with trees and heaps of dry creepers, even
 so that hero possessed of great activity and fierce energy and endued
-"|5|Shalya Parva|509
+"|5|Shalya Parva|509|9a89de477e884a6f998da4daf1298e75
 9|24||"all the troops of thy son from wrath. His gold-winged arrows, endued with
 fatal force and shot with care, could not be baffled by any armour. He
 had not to shoot a second arrow at man, steed, or elephant of gigantic
@@ -3021,7 +3021,7 @@ shafts of diverse forms.'""
 
 
 
-"|6|Shalya Parva|97
+"|6|Shalya Parva|97|2b154d9363de46ec865f91fc821b71ca
 9|25||"
 ""Sanjaya said, 'Dhananjaya, with his Gandiva, frustrated the purpose of
 those unreturning heroes struggling in battle and striking their foes.
@@ -3053,7 +3053,7 @@ heroes (on their cars) covered with rows of bells, looked resplendent
 like Daityas and Danavas intent on the conquest of the three worlds.
 Some, advancing with precipitancy on their vehicles decked with gold,
 fought with Dhrishtadyumna amid the Pandava divisions. The Pancala prince
-"|1|Shalya Parva|516
+"|1|Shalya Parva|516|622d0b140ed5411cb72b564fdcfdfa5f
 9|25||"son of Nakula, fought with the car-force of the enemy. The Pancala
 prince, then, filled with rage and supported by a large army, rushed
 against thy angry troops from desire of slaying them. Then thy son, O
@@ -3083,7 +3083,7 @@ his club. Seeing that great car-warrior of the Pandavas with uplifted
 mace, thy soldiers became filled with fright and passed urine and
 excreta. The whole army became agitated upon beholding Bhimasena armed
 with mace. We then beheld those elephants, huge as hills, running hither
-"|2|Shalya Parva|511
+"|2|Shalya Parva|511|221193c964eb456b86268cfacb532a82
 9|25||"and all their limbs bathed in blood. Struck with Bhima's mace, those
 elephants, running off from him, fell down with cries of pain, like
 wingless mountains. Beholding those elephants, many in number, with their
@@ -3112,7 +3112,7 @@ encompassed! Behold, the Pandavas are coming hither, after having slain
 the elephants!"" Hearing these words of theirs, the mighty Ashvatthama,
 piercing through that irresistible force of the Pancala king, proceeded
 with Kripa and Kritavarma to the spot where Subala's son was. Indeed,
-"|3|Shalya Parva|521
+"|3|Shalya Parva|521|306648731a33423894225b272c5cf02a
 9|25||"search of Duryodhana). After they had gone away, the Pandavas, headed by
 Dhrishtadyumna, advanced, O king, and began to slay their enemies.
 Beholding those valiant and heroic and mighty car-warriors cheerfully
@@ -3142,10 +3142,10 @@ Kritavarma of the Satwata race, not seeing that chastiser of foes,
 Duryodhana, amid the car-division, sought for thy royal son. Abandoning
 the prince of the Pancalas, they proceeded to the spot where Subala's son
 was anxious to have a sight of the king during that terrible carnage.'""
-"|4|Shalya Parva|509
+"|4|Shalya Parva|509|5dfe614cfe95470b82ac6292e467a131
 9|25||"
 
-"|5|Shalya Parva|1
+"|5|Shalya Parva|1|813aa942c0ed4718aeb6dd66ce62bcd1
 9|26||"
 ""Sanjaya said, 'After that elephant-division had been destroyed, O
 Bharata, by the son of Pandu, and while thy army was being thus
@@ -3174,7 +3174,7 @@ pierced Bhima with a hundred straight arrows winged with vulturine
 feathers. Then Bhima, inflamed with rage, pierced Jaitra and Ravi and
 Bhurivala, those three, with three shafts resembling poison or fire.
 Those mighty car-warriors, thus struck, fell down from their cars, like
-"|1|Shalya Parva|511
+"|1|Shalya Parva|511|63c32de7aa464dad995f8fb7c06835b6
 9|26||"axe-man). Then that scorcher of foes, with another broad-headed arrow of
 great keenness, struck Durvimochana and despatched him to Yama's abode.
 Thus struck, that foremost of car-warriors fell down on the ground from
@@ -3203,7 +3203,7 @@ monarch, by thy son armed with the bow, Bhima became exceedingly agitated
 like the ocean at the full or the new moon. Filled with wrath, Bhima
 then, O sire, despatched with his arrows the driver and the four steeds
 of thy son to Yama's abode. Beholding him carless, Pandu's son of
-"|2|Shalya Parva|510
+"|2|Shalya Parva|510|0fc51bc671ed4c9980c72854b609b737
 9|26||"with winged arrows. The carless Srutarvan then, O king, took up a sword
 and shield. As the prince, however, careered with his sword and bright
 shield decked with a hundred moons, the son of Pandu struck off his head
@@ -3229,10 +3229,10 @@ Bhima then slapped his armpits, terrifying the huge elephants with the
 noise he produced. Then thy army, O monarch, which had lost a very large
 number of men, and which then consisted of a very few soldiers, became
 exceedingly cheerless, O king!'""
-"|3|Shalya Parva|434
+"|3|Shalya Parva|434|9e064870e7e24d068a675dc8e0bd1a55
 9|26||"
 
-"|4|Shalya Parva|1
+"|4|Shalya Parva|1|c473560393ea4707a657c2b6d3027585
 9|27||"
 ""Sanjaya said, 'Duryodhana, O king, and thy son Sudarsa, the only two of
 thy children yet unslain, were at that time in the midst of the (Kaurava)
@@ -3260,7 +3260,7 @@ Dhritarashtra wears a proud aspect as if he believes that the Pandavas
 have been vanquished! Beholding his own troops afflicted and slain by the
 Pandavas, the Kuru king will certainly come to battle for his own
 destruction!"" Thus addressed by Krishna, Phalguna replied unto him,
-"|1|Shalya Parva|507
+"|1|Shalya Parva|507|db0cbfb5632e469e9e699c3134db4e38
 9|27||"been slain by Bhima! Only these two are yet alive! They, however, O
 Krishna, shall also meet with destruction today! Bhishma hath been slain,
 Drona hath been slain, Karna, otherwise called Vaikartana, hath been
@@ -3288,7 +3288,7 @@ Today, O Krishna, our task will be ended! Today Duryodhana shall abandon
 all his blazing prosperity, as also his life-breath. Thou mayest take the
 foolish son of Dhritarashtra to be dead, O thou of Vrishni's race, if, O
 Krishna, he does not today fly away from the battle to be waged by me!
-"|2|Shalya Parva|509
+"|2|Shalya Parva|509|7e425917a7ea4c438d7ece6f20724b1a
 9|27||"of my palms! Proceed thither, O Krishna, for I will slay them!"" Thus
 addressed by Pandu's son of great force of mind, he of Dasarha's race
 urged his steeds, O king, towards the division of Duryodhana. Beholding
@@ -3316,7 +3316,7 @@ razor-headed arrow, O lord, whetted on stone, that celebrated hero,
 smiling the while, cut off his antagonist's head adorned with bright
 gold. He next attacked Satyeshu in the sight of all the warriors, like a
 hungry lion, O king, in the forest, attacking a deer. Having slain him,
-"|3|Shalya Parva|503
+"|3|Shalya Parva|503|8c213f3cd8904a71be73b43dd1d7be23
 9|27||"car-warriors adorned with ornaments of gold. He then proceeded against
 Susarman the ruler of Prashthala with great speed, vomiting the virulent
 poison of his wrath cherished for many long years. Covering him first, O
@@ -3344,14 +3344,14 @@ leaders of great might, O Bharata, approached Bhima and began to fight
 with him. The son of Pandu, O king, covered all of them with his arrows.
 Similarly, thy warriors, O monarch, covered the great car-warriors of the
 Pandavas with dense showers of arrows from every side. All the warriors
-"|4|Shalya Parva|504
+"|4|Shalya Parva|504|97f5d0eabf814808b3321fe8eecab95a
 9|27||"exceedingly agitated. Struck by one another, the combatants of both
 armies, O king, began to fall down, wailing aloud for their (deceased)
 kinsmen.'""
 
 
 
-"|5|Shalya Parva|42
+"|5|Shalya Parva|42|5dd4afa6d4f143d0813760c15afe44b6
 9|28||"
 ""Sanjaya said, 'During the progress of that battle which was so
 destructive of men and steeds and elephants, Subala's son, Shakuni, O
@@ -3382,7 +3382,7 @@ lotus, adorned with earrings and graced with faces set with eyes upturned
 in wrath and lips bit in rage. Covered also, O monarch, with the severed
 arms of warriors that resembled the trunks of huge elephants, that were
 adorned with Angadas and cased in leathern fences, and that still held
-"|1|Shalya Parva|508
+"|1|Shalya Parva|508|f0280086122d487d951071766584a886
 9|28||"their feet and bleeding and dancing on the field, and swarming with
 carnivorous creatures of diverse kinds, the Earth, O lord, presented a
 frightful aspect! After the Bharata army had been reduced to a small
@@ -3411,7 +3411,7 @@ with ten arrows and his steeds with three. With the greatest ease he then
 cut off the bow of Subala's son with a number of other arrows. Invincible
 in battle, Shakuni, however, took up another bow and pierced Nakula with
 sixty arrows and then Bhimasena with seven. Uluka also, O king, desirous
-"|2|Shalya Parva|506
+"|2|Shalya Parva|506|5b4ea5a58e6541d1a4a5f963db82194a
 9|28||"and Sahadeva with seventy. Bhimasena in that encounter pierced Uluka with
 many keen arrows and Shakuni with four and sixty, and each of the other
 warriors who fought around them, with three arrows. Struck by Bhimasena
@@ -3439,7 +3439,7 @@ greatest ease Sahadeva, in that encounter, cut off, with his gold-decked
 shafts, into three fragments, that dart as it coursed swiftly towards
 him. Cut off into fragments, that dart adorned with gold fell down on the
 earth like a blazing thunderbolt from the firmament, diverging into many
-"|3|Shalya Parva|505
+"|3|Shalya Parva|505|27223c2000404116b6d222ba839e9d3e
 9|28||"fear, all thy troops fled away in fright. Subala's son himself joined
 them. The Pandavas then, eager for victory, uttered loud shouts. As
 regards the Dhartarashtras, almost all of them turned away from the
@@ -3468,7 +3468,7 @@ rage, rushed impetuously against Shakuni. Approaching his enemy, the
 invincible Sahadeva, that foremost of warriors, forcibly drawing his bow
 and as if burning his foe with wrath, pierced Shakuni with ten arrows and
 his steeds with four. Then cutting off his umbrella and standard and bow,
-"|4|Shalya Parva|501
+"|4|Shalya Parva|501|ceaa6bb556a34f07b68c73c8d67e7a41
 9|28||"Sahadeva, Subala's son was pierced with many arrows in all his vital
 limbs. Once again, O monarch, the valiant Sahadeva sped at Shakuni an
 irresistible shower of arrows. Filled with rage, the son of Subala then,
@@ -3496,10 +3496,10 @@ with Keshava among them, they blew their conchs in that battle,
 gladdening their troops. All of them, with glad hearts, worshipped
 Sahadeva, and said, ""By good luck, O hero, Shakuni of wicked soul, that
 man of evil course, hath, with his son, been slain by thee!""'""
-"|5|Shalya Parva|482
+"|5|Shalya Parva|482|fd557c1486104a20b98d598605c92146
 9|28||"
 
-"|6|Shalya Parva|1
+"|6|Shalya Parva|1|0c4e512cebc54059908e0795db736bd0
 9|29|Hrada-pravesa Parva|"
 
 ""Sanjaya said, 'After this, the followers of Subala's son, O monarch,
@@ -3531,7 +3531,7 @@ protector. In consequence of the (Kaurava) steeds running hither and
 thither that were all covered with the dust raised by the army, the
 cardinal and the subsidiary points of the compass could not be
 distinguished. Many warriors, issuing out of the Pandava array, O
-"|1|Shalya Parva|503
+"|1|Shalya Parva|503|9fe7184d65984c74a265e7a09b1258b6
 9|29|Hrada-pravesa Parva|"O Bharata, of troops had been assembled for thy son! All those, O lord,
 were slain by the Pandus and the Srinjayas! Amongst those thousands upon
 thousands of high-souled kings on thy side, only Duryodhana now, O
@@ -3562,7 +3562,7 @@ without a companion, abandoned his slain steed, and fled from the field
 with face turned eastwards. That lord of eleven Akshauhinis, thy son
 Duryodhana, of great energy, taking up his mace, fled on foot towards a
 lake. Before he had proceeded far on foot, the king recalled the words of
-"|2|Shalya Parva|503
+"|2|Shalya Parva|503|92cd1b8b6207404a9affd708c89c7362
 9|29|Hrada-pravesa Parva|"foreseen by Vidura of great wisdom, this great carnage of Kshatriyas and
 of ourselves in battle. Reflecting on this, the king, with heart burning
 in grief at having witnessed the extermination of his army, desired to
@@ -3590,7 +3590,7 @@ and then, setting me free said unto me, ""Peace to thee, O Sanjaya, thou
 mayest go hence!"" Permitted by him, I myself then, putting off my armour
 and making over my weapons, set out on the evening on the road leading to
 the city, my limbs bathed in blood. After I had come about two miles, O
-"|3|Shalya Parva|512
+"|3|Shalya Parva|512|eb6dde0334074514a47692cab784dbc7
 9|29|Hrada-pravesa Parva|"exceedingly mangled. His eyes were full of tears and therefore he could
 not see me. I stood cheerlessly before him. He looked accordingly at me
 without recognising me. Beholding him standing alone on the field and
@@ -3620,7 +3620,7 @@ for him within them. After he had entered that lake, I myself, without
 anybody on my side, saw those three car-warriors (of our army) coming
 together to that spot with their tired animals. They were Kripa, the son
 of Saradwat, and the heroic Ashvatthama, that foremost of car-warriors,
-"|4|Shalya Parva|505
+"|4|Shalya Parva|505|dc8e424ca19343ca98d6d9390e84f2a9
 9|29|Hrada-pravesa Parva|"together to that spot. Beholding me, they all urged their steeds to
 greater speed and coming up to me, said, ""By good luck, O Sanjaya, thou
 livest yet!"" All of them then enquired after thy son, that ruler of men,
@@ -3649,7 +3649,7 @@ uttered loud shrieks, O monarch! Then the friends of Duryodhana, deeply
 afflicted and made voiceless by their tears, set out for the city, taking
 the ladies of the royal household with them. The camp-guards quickly fled
 towards the city, taking with them many white beds overlaid with costly
-"|5|Shalya Parva|514
+"|5|Shalya Parva|514|6aa38543b12749f3911cbfafdd6c13f5
 9|29|Hrada-pravesa Parva|"towards the city. Those ladies, O monarch, who, while in their houses
 could not be seen by the very sun, were now, as they proceeded towards
 the city, exposed to the gaze of the common people. Those women, O chief
@@ -3679,7 +3679,7 @@ always compassionate, became highly pleased with him. The mighty-armed
 Pandava embraced that child of a Vaisya mother and dismissed him
 affectionately. Riding upon his own car, he urged his steeds to great
 speed. He then supervised the removal of the ladies of the royal
-"|6|Shalya Parva|510
+"|6|Shalya Parva|510|4b1dc11780704d3b8465cc98f2553127
 9|29|Hrada-pravesa Parva|"entered the city of Hastinapura, with tearful eyes and with voice choked
 in grief. He then saw Vidura of great wisdom, sitting with tearful eyes.
 He had come away from Dhritarashtra, his heart having been afflicted with
@@ -3708,7 +3708,7 @@ blind monarch, bereft of foresight, afflicted with calamity, struck by
 Destiny, and who, though repeatedly dissuaded, could not abstain from
 pursuing his evil policy. Take rest here for this day! Tomorrow thou
 mayst return to Yudhishthira!"" Having said these words, Vidura, with
-"|7|Shalya Parva|512
+"|7|Shalya Parva|512|17314364f341440e911e58a653dc252d
 9|29|Hrada-pravesa Parva|"which resounded with cries of ""Oh!"" and ""Alas!"" uttered by citizens and
 villagers afflicted with woe. The cheerless mansion seemed to have lost
 all its beauty; comfort and happiness seemed to have deserted it. It was
@@ -3722,7 +3722,7 @@ one another's hands.'""
 
 
 
-"|8|Shalya Parva|168
+"|8|Shalya Parva|168|4c117de1a83f431b9d86f93c11a7d81a
 9|30||"
 ""Dhritarashtra said, 'After all the Kaurava troops had been slain by the
 sons of Pandu on the field of battle, what did those survivors of my
@@ -3753,7 +3753,7 @@ slain, proceed to heaven! The forces of the Pandavas also, O Duryodhana,
 have all been slain by thee! Those amongst them that are yet alive have
 been exceedingly mangled! They will not be able, O monarch, to bear thy
 impetuosity, especially when thou shalt be protected by us! Arise,
-"|1|Shalya Parva|509
+"|1|Shalya Parva|509|bb83aee72d384f54a23da00d0911d95e
 9|30||"
 ""'Duryodhana said, ""By good luck, I see you, ye bulls among men, come
 back with life from this destructive battle between the Pandavas and the
@@ -3784,7 +3784,7 @@ every word of that conversation between Duryodhana and those warriors.
 Finding the Kuru king unwilling to fight, those great bowmen, themselves
 desirous of battle, began to urge him greatly to adopt their counsels.
 Seeing those car-warriors of the Kaurava army, and understanding that the
-"|2|Shalya Parva|512
+"|2|Shalya Parva|512|eea3c40d861b4a298bd8b4bdee7d7b6d
 9|30||"conversation between those heroes and their master staying within the
 depths of the lake, indeed, O monarch, the huntsmen, clearly perceiving
 that it was Duryodhana who was staying within the lake, formed a
@@ -3814,7 +3814,7 @@ returned messengers, O bull of Bharata's race, king Yudhishthira became
 filled with great anxiety and began to breathe heavily. While the
 Pandavas, O bull of Bharata's race, were staying in such cheerlessness,
 those huntsmen, O lord, having come with great speed from the banks of
-"|3|Shalya Parva|512
+"|3|Shalya Parva|512|1968b88c35054bd5b72f90770b38cb29
 9|30||"Duryodhana. Though forbidden, they still entered the camp, in the very
 sight of Bhimasena. Having approached that mighty son of Pandu,
 Bhimasena, they represented everything unto him about what they had seen
@@ -3842,7 +3842,7 @@ unvanquished Shikhandi, and Uttamaujas, and Yudhamanyu, and the mighty
 car-warrior Satyaki, and the (five) sons of Draupadi, and those amongst
 the Pancalas, O king, that were yet alive, and all the Pandavas, and all
 their elephants, and foot-soldiers by hundreds upon hundreds, all
-"|4|Shalya Parva|512
+"|4|Shalya Parva|512|5837d4339b18449aa705dcd20c54377a
 9|30||"the just, O monarch, arrived at the lake known by the name of Dvaipayana
 within which Duryodhana then was. Wide as the ocean itself, its aspect
 was agreeable and its waters were cool and transparent. Solidifying the
@@ -3870,12 +3870,12 @@ the king and indulging in such thoughts as these, ""The mighty son of
 Dhritarashtra, having solidified the waters of the lake, lay stretched at
 the bottom. The Pandavas have reached that spot, from desire of battle.
 How will the battle take place? What will become of the king?"" Thinking
-"|5|Shalya Parva|501
+"|5|Shalya Parva|501|d0440ff7072645c2b60228938c7ed42a
 9|30||"their horses from their cars and prepared to rest there for some time.'""
 
 
 
-"|6|Shalya Parva|15
+"|6|Shalya Parva|15|1ec5dd9a3cfd4b6fa1618957315fc2ca
 9|31||"
 ""Sanjaya said, 'After those three car-warriors had left that spot, the
 Pandavas arrived at that lake within which Duryodhana was resting
@@ -3905,7 +3905,7 @@ with his relatives and followers, slain by Rama! Relying upon acts and
 contrivances, do thou also display thy powers! Those two ancient Daityas,
 Taraka and Viprachitti of great energy, were in ancient times, O king,
 slain by the aid of acts and means! Similarly, Vatapi and Ilwala, and
-"|1|Shalya Parva|509
+"|1|Shalya Parva|509|28be67e6091d4bd9ae92c580e84717d3
 9|31||"the aid of means! Indra himself enjoys heaven by the aid of acts and
 means! Acts are very efficacious, O king, and nothing else so, O
 Yudhishthira! Daityas and Danavas and Rakshasas and kings had been slain
@@ -3935,7 +3935,7 @@ and witnessed the slaughter of thy sons and brothers and sires and
 relatives and friends and maternal uncles and kinsmen? Ever boastful of
 thy courage, thou art, however, not a hero! Falsely dost thou describe
 thyself, O Bharata, when thou sayst in the hearing of all men that thou
-"|2|Shalya Parva|520
+"|2|Shalya Parva|520|1a2fa9aa166c44dd98b9a99c3e89dd7b
 9|31||"fly away at sight of foes! Or, tell us, O hero, about (the nature of)
 that courage in consequence of which thou hast fled from battle! Arise, O
 prince, and fight, casting off thy fears! Having caused all thy troops
@@ -3956,7 +3956,7 @@ after vanquishing us, or sleep, O Bharata, on the bare ground, slain by
 us! Even this is thy highest duty, as laid down by the illustrious
 Creator himself! Act as it has been laid down truly in the scriptures,
 and be a king, O great car-warrior!""'
-"|3|Shalya Parva|364
+"|3|Shalya Parva|364|1cc729cd8644438ca7e4880a42ad8eb9
 9|31||"""Sanjaya continued, 'Thus addressed, O monarch, by the intelligent son of
 Dharma, thy son answered him from within the waters in these words.
 
@@ -3977,7 +3977,7 @@ while we were engaged in a search after thee! Rise then, even now, O
 Suyodhana, and give us battle! Either slaying the Parthas in battle make
 this kingdom that swelleth with prosperity thy own, or slain by us in
 battle, proceed to those regions that are reserved for heroes!""
-"|4|Shalya Parva|315
+"|4|Shalya Parva|315|bfc5dc689b854ab3a3fbc3fc5a9c9479
 9|31||"""'Duryodhana said, ""They amongst the Kurus, O son of Kurus' race, for
 whose sake I desired sovereignty, that is, those brothers of mine, O
 king, all lie dead on the field! I do not, again, like to enjoy any
@@ -3999,7 +3999,7 @@ clad in deerskins, I shall go to the woods! Friendless as I am, I have no
 desire, O lord, for even life! Go, O monarch, and rule the earth
 destitute of lords, without warriors, reft of wealth, and without
 citadels, as thou choosest!""'
-"|5|Shalya Parva|396
+"|5|Shalya Parva|396|3acff488e2c64559a398c718364b5c81
 9|31||"""Sanjaya continued, 'Hearing these words of poignant grief the
 illustrious Yudhishthira addressed thy son Duryodhana who was still
 within those waters, saying, ""Do not utter such ravings of sorrow, O
@@ -4028,7 +4028,7 @@ point of a needle would cover, now wishest to abandon the whole earth?
 What fool is there that would, after having obtained such prosperity and
 ruled the entire earth, think of making a gift of that earth to his
 enemies? Stupefied by folly, thou seest not the impropriety of this!
-"|6|Shalya Parva|516
+"|6|Shalya Parva|516|5537b5acb3cd4a3c957c5b77083a15d9
 9|31||"me with life! Either rule the earth after having vanquished us, or go to
 regions of blessedness after being slain by us! If both of us, that is,
 thyself and myself, be alive, then all creatures will remain in doubt
@@ -4048,7 +4048,7 @@ Duryodhana).'""
 
 
 
-"|7|Shalya Parva|248
+"|7|Shalya Parva|248|732459f841a24d168b2e6e4cb09d29bd
 9|32|Gada-yuddha Parva|"
 
 ""Dhritarashtra said, 'Thus admonished (by his foes), how, indeed, did
@@ -4072,7 +4072,7 @@ heard those bitter words and became very miserable. Breathing hot and
 long sighs repeatedly, the king waved his arms again and again, and
 setting his heart on battle, thus answered, from within the waters, the
 royal son of Pandu.
-"|1|Shalya Parva|341
+"|1|Shalya Parva|341|ea487444d5be4da58f6ad8acdd3a4811
 9|32|Gada-yuddha Parva|"""'Duryodhana said, ""Ye Parthas, all of you are possessed of friends, of
 cars, and of animals! I, however, am alone, cheerless, without a car, and
 without an animal! Being alone and destitute of weapons, how can I
@@ -4099,7 +4099,7 @@ Bhurishrava, to my sons, O chief of Bharata's race, and Shakuni the son
 of Subala, to all my friends and well-wishers and kinsmen! Today I shall
 free myself from that debt by slaying thee with thy brothers!"" With these
 words, the (Kuru) king ceased speaking.
-"|2|Shalya Parva|501
+"|2|Shalya Parva|501|20daf5b8212f4d62b533fe3a020bad87
 9|32|Gada-yuddha Parva|"""'Yudhishthira said, ""By good luck, O Suyodhana, thou knowest the duties
 of a Kshatriya! By good luck, O thou of mighty arms, thy heart inclineth
 to battle! By good luck, thou art a hero, O thou of Kuru's race, and, by
@@ -4120,7 +4120,7 @@ permission! O thou of mighty arms, I shall, with my mace, vanquish thee
 today with all thy younger brothers, as also all the Pancalas and the
 Srinjayas and all the other troops thou still hast! I do not cherish the
 least fear, O Yudhishthira, of even Shakra himself!""
-"|3|Shalya Parva|371
+"|3|Shalya Parva|371|f35c60fe78b34a9da2947fe346ee126a
 9|32|Gada-yuddha Parva|"""'Yudhishthira said, ""Rise, rise, O son of Gandhari, and fight me,
 Suyodhana! Alone as thou art, fight us, encountering one at a time, thou
 of great might, armed with thy mace! Be a man, O son of Gandhari, and
@@ -4151,7 +4151,7 @@ rise from within the waters, all the Pancalas and the Pandavas began to
 rejoice and seize each other's hands. Thy son Duryodhana regarded that
 action of the spectators to be an insult directed towards him. Rolling
 his eyes in wrath, and as if burning the Pandavas with his glances, and
-"|4|Shalya Parva|505
+"|4|Shalya Parva|505|f062c47b2221469ebd15bcf5f0b773c1
 9|32|Gada-yuddha Parva|"lip, he addressed the Pandavas with Keshava in their midst, saying, ""You
 Pandavas, you shall have to bear the fruit of these taunts! Slain by me
 today, you shall, with the Pancalas, have to repair to the abode of
@@ -4175,7 +4175,7 @@ fight single-handed destitute of all equipment and deprived of even
 armour and weapons! I shall certainly fight all of you! Thou shalt be
 judge, as thou hast the necessary qualifications, of the propriety and
 impropriety of everything!""
-"|5|Shalya Parva|352
+"|5|Shalya Parva|352|d810c8d3217a438492b557afb8922f85
 9|32|Gada-yuddha Parva|"""'Yudhishthira said, ""How is it, O Duryodhana, that thou hadst not this
 knowledge when many great car-warriors, uniting together, slew Abhimanyu
 in battle? Kshatriya duties are exceedingly cruel, unmindful of all
@@ -4194,7 +4194,7 @@ addition, that if thou canst slay him amongst the five Pandavas with whom
 thou wishest an encounter, thou shalt then be king! Otherwise, slain (by
 him), thou shalt proceed to heaven! Except thy life, O hero, tell us what
 boon we may grant thee.""
-"|6|Shalya Parva|316
+"|6|Shalya Parva|316|4bd2334fa89e4da1920e3fc34eba619c
 9|32|Gada-yuddha Parva|"""Sanjaya continued, 'Then thy son, O king, cased his body with armour
 made of gold, and put on a beautiful head-gear adorned with pure gold.
 Clad in bright armour of gold, he put on that head-gear. Indeed, O king,
@@ -4215,10 +4215,10 @@ respect to my own self! I shall, however, make these words of mine true
 in your presence! Within this very hour, these words will become either
 true or false! Let him amongst you take up the mace that will fight with
 me!""'""
-"|7|Shalya Parva|363
+"|7|Shalya Parva|363|2fa26a99e8c24419929901b4d0ed551e
 9|32|Gada-yuddha Parva|"
 
-"|8|Shalya Parva|1
+"|8|Shalya Parva|1|820f454b17524c89a034fea4c18afd01
 9|33||"
 ""Sanjaya said, 'Whilst Duryodhana, O king, was repeatedly roaring in this
 strain, Vasudeva, filled with wrath, said these words unto Yudhishthira,
@@ -4246,7 +4246,7 @@ who is competent to vanquish the mace-armed Duryodhana in battle! Neither
 thou nor Bhima, nor Nakula nor Sahadeva, nor Phalguna, is capable of
 vanquishing Duryodhana in fair fight! King Duryodhana is possessed of
 great skill! How then, O Bharata, canst thou say unto such a foe words
-"|1|Shalya Parva|508
+"|1|Shalya Parva|508|eca24bb2f408429ab349e270e78d0846
 9|33||"canst slay one amongst us, thou shalt then be king?' If Duryodhana
 encounters Vrikodara amongst us wishing to fight fairly with him, even
 then our victory would be doubtful. Duryodhana is possessed of great
@@ -4265,7 +4265,7 @@ selecting the mace as the weapon! Let all of you, O Janardana, stand as
 spectators of the encounter! What do you say of Suyodhana, I would fight
 with the three worlds including the very gods, even if they be armed with
 every kind of weapon!""'
-"|2|Shalya Parva|311
+"|2|Shalya Parva|311|4b37097a8cfb40e8a7b6508d8283fe24
 9|33||"""Sanjaya continued, 'After Vrikodara had said these words, Vasudeva,
 filled with joy, applauded him highly and said unto him, ""Relying on
 thee, O thou of mighty arms, king Yudhishthira the just will, without
@@ -4292,7 +4292,7 @@ bosom upon Suyodhana, the son of Dhritarashtra, like Arjuna throwing fire
 on the forest of Khandava! I shall today pluck out the dart, O son of
 Pandu, that lay so long sticking to thy heart! Be happy, O king, after I
 shall have laid low this wretch with my mace! Today I shall recover, O
-"|3|Shalya Parva|512
+"|3|Shalya Parva|512|6395575167634e2391db6afa4cc08bd9
 9|33||"breath, his prosperity, and his kingdom! Today king Dhritarashtra also,
 hearing of his son's slaughter, will remember all those wrongs (that he
 did unto us) arising from the suggestions of Shakuni!"" Having said these
@@ -4321,7 +4321,7 @@ slain in battle! Thy heroic brothers, as also thy sons, with all thy
 troops, have been slain! Other kings also, possessed of heroism, and
 never retreating from battle, have been slain. These and many other bulls
 among Kshatriyas, as also the Pratikamin, that wretch who had seized the
-"|4|Shalya Parva|516
+"|4|Shalya Parva|516|d387b71c0d48453099d9ae2be19c6daa
 9|33||"exterminator of thy race, thou wretch among men! Thee also I shall today
 slay with my mace! Of this there is no doubt! Today, O king, I shall, in
 battle, quell all thy pride! I shall destroy also thy hope of
@@ -4350,12 +4350,12 @@ of victory, applauded them highly. Like men exciting an infuriated
 elephant with clapping of hands, all of them then gladdened king
 Duryodhana (with those praises and cheers). The elephants that were there
 began to grunt and the steeds to neigh repeatedly. The weapons of the
-"|5|Shalya Parva|504
+"|5|Shalya Parva|504|62e7c6ed1068464c8195475e23b013d8
 9|33||"own accord.'""
 
 
 
-"|6|Shalya Parva|4
+"|6|Shalya Parva|4|1368130bb6cc46d3bd488e0e3f2456b8
 9|34||"
 ""Sanjaya said, 'When that fierce battle, O monarch, was about to
 commence, and when all the high-souled Pandavas had taken their seats,
@@ -4384,7 +4384,7 @@ arms), worshipped Valadeva. The other kings honoured him by bidding him
 welcome, and then all of them said unto Rama, ""Witness this encounter, O
 thou of mighty arms!"" Even thus those mighty car-warriors said unto the
 high-souled son of Rohini. Endued with immeasurable energy, Rama, having
-"|1|Shalya Parva|501
+"|1|Shalya Parva|501|a7cce538895c494abd66a5ba190a6ed8
 9|34||"all the (other) kings. Similarly, all of them, approaching, enquired
 after his welfare. The hero of the plough, having in return saluted all
 the high-souled Kshatriyas, and having made courteous enquiries about
@@ -4405,7 +4405,7 @@ for many years).'""
 
 
 
-"|2|Shalya Parva|289
+"|2|Shalya Parva|289|09329e96b9e548179c2bfa66747b26da
 9|35||"
 Janamejaya said, ""On the eve of the great battle (between the Kurus and
 the Pandus), the lord Rama, with Keshava's leave, had gone away (from
@@ -4435,7 +4435,7 @@ of all persons endued with might, addressed his brother Krishna, saying,
 'O mighty-armed one, O slayer of Madhu, let us render assistance to the
 Kurus!' Krishna, however, did not listen to those words of his. With
 heart filled with rage (at this), that illustrious son of Yadu's race,
-"|1|Shalya Parva|509
+"|1|Shalya Parva|509|7223b0041e8b44abbefa4b11ba176c5a
 9|35||"Accompanied by all the Yadavas, he set out under the conjunction of the
 asterism called Maitra. The Bhoja chief (Kritavarma), however, adopted
 the side of Duryodhana. Accompanied by Yuyudhana, Vasudeva adopted that
@@ -4464,7 +4464,7 @@ garments and bedsteads and coverlets were given for the gratification of
 Brahmanas, desirous of ease and comfort. Whatever Brahmana or Kshatriya
 solicited whatever thing, that O Bharata, it was seen to be ungrudgingly
 given to him. All who formed the party proceeded with great happiness and
-"|2|Shalya Parva|513
+"|2|Shalya Parva|513|02cda12217734e06aea5d1ad3da20759
 9|35||"persons desirous of making journeys, drinks to them that were thirsty,
 and savoury viands to them that were hungry, as also robes and ornaments,
 O bull of Bharata's race, to many! The road, O king, along which the
@@ -4489,7 +4489,7 @@ and the merits of the several tirthas on the Sarasvati and the ordinances
 to be observed while sojourning there! Tell me these, in their order, O
 illustrious one! My curiosity is irrepressible, O foremost of all persons
 acquainted with Brahma!""
-"|3|Shalya Parva|376
+"|3|Shalya Parva|376|267d3c3e05374e1aac1b802dd7fcfac2
 9|35||"Vaishampayana said, ""The subject of the features and origin of all these
 tirthas, O king, is very large. I shall, however, describe them to thee.
 Listen to that sacred account in its entirety, O king! Accompanied by his
@@ -4520,7 +4520,7 @@ Lord of creation, they said unto him, 'Soma doth not live with us! He
 always payeth court to Rohini only! All of us, therefore, O Lord of
 creatures, shall dwell by thy side, on regulated diet and observant of
 austere penances!' Hearing these words of theirs, Daksha (saw Soma and)
-"|4|Shalya Parva|511
+"|4|Shalya Parva|511|8aa4561790fa4115ae45bc795823866b
 9|35||"stain thee!' And Daksha then said unto those daughters of his, 'Go, all
 of you, to the presence of Sasin. At my command, he, (otherwise called)
 Candramas, will behave equally towards all of you!' Dismissed by him,
@@ -4550,7 +4550,7 @@ to grow. Their juices dried up and they became tasteless, and all of them
 became deprived of their virtues. And, in consequence of this decadence
 of the deciduous herbs, living creatures also began to decay. Indeed,
 owing to the wasting of Soma, all creatures began to be emaciated. Then
-"|5|Shalya Parva|513
+"|5|Shalya Parva|513|786b1abb1219405caf97604416473ee3
 9|35||"that thy form is not so beautiful and resplendent (as before)? Tell us
 the reason whence hath proceeded this great calamity! Hearing thy answer,
 we shall do what is needed for dispelling thy fear!' Thus addressed, the
@@ -4579,7 +4579,7 @@ Rishi (Daksha), Soma then proceeded to the Sarasvati. He arrived at that
 foremost of tirthas called Prabhasa belonging to the Sarasvati. Bathing
 there on the day of the new moon, that god of great energy and great
 effulgence got back his cool rays and continued once more to illumine the
-"|6|Shalya Parva|507
+"|6|Shalya Parva|507|5ee8ae511db44333ab2d0ab21905b7dd
 9|35||"returned with Soma amongst them to the place where Daksha was. (Receiving
 them duly) that Lord of creatures then dismissed them. Pleased with Soma,
 the adorable Daksha once more addressed him, saying, 'Do not, O son,
@@ -4602,10 +4602,10 @@ crowned with ascetic success, in consequence of their obtaining great
 merits and great blessedness at that spot, and owing also to the coolness
 of the herbs and of the land there, know that the river has an invisible
 current, O monarch, through the bowels of the earth there.""
-"|7|Shalya Parva|398
+"|7|Shalya Parva|398|f8b48b954f9b4e9498a178422c0f90c4
 9|35||"
 
-"|8|Shalya Parva|1
+"|8|Shalya Parva|1|e5d5c9bd70414271b7da93e7d9ef6222
 9|36||"
 Vaishampayana said, ""Baladeva (as already said), proceeded next to the
 tirtha called Udapana in the Sarasvati, that had formerly been the
@@ -4637,7 +4637,7 @@ here, went at last to the region (in the other world) that was fit for
 him. Those kings, however, O monarch, that had been the Yajamanas of
 Gautama, continued to worship Gautama's sons after the sire had proceeded
 to heaven. Amongst them, however, Trita, by his acts and study (of the
-"|1|Shalya Parva|514
+"|1|Shalya Parva|514|935f82657597494696c0dfd2511b19e3
 9|36||"the highly blessed ascetics, characterised by righteousness, began to
 worship Trita as they had worshipped his sire Gautama before him. Once
 upon a time, the two brothers Ekata and Dwita thought of performing a
@@ -4667,7 +4667,7 @@ terrible and capable of inspiring all creatures with fear. Then Trita, O
 king, that best of ascetics, from within that hole, began to utter wails
 of woe. His two brothers heard his cries. Understanding that he had
 fallen into a pit, his brothers Ekata and Dwita, moved by fear of the
-"|2|Shalya Parva|512
+"|2|Shalya Parva|512|3b60e18e9b564c009507a82eb2b7aa0a
 9|36||"deserted by his two brothers, who were moved by the temptation of
 appropriating those animals, the great ascetic Trita, O king, while
 within that lonely well covered with dust and herbs and creepers, thought
@@ -4697,7 +4697,7 @@ priests of the celestials said unto the latter, 'Trita is performing a
 sacrifice. We must go there, ye gods! Endued with great ascetic merit, if
 angry, he is competent to create other gods!' Hearing these words of
 Brihaspati, all the gods, united together, repaired to that spot where
-"|3|Shalya Parva|512
+"|3|Shalya Parva|512|906f1014c9a844a191469e2ec65f0889
 9|36||"gods beheld the high-souled Trita installed in the performance of his
 sacrifice. Beholding that high-souled one resplendent with beauty, the
 gods addressed him, saying, 'We have come hither for our shares (in thy
@@ -4727,10 +4727,10 @@ immeasurable prowess, Valadeva touched the waters of Udapana. And he gave
 away diverse kinds of wealth there and worshipped many Brahmanas.
 Beholding Udapana and applauding it repeatedly, Valadeva next proceeded
 to Vinasana which also was on the Sarasvati.""
-"|4|Shalya Parva|511
+"|4|Shalya Parva|511|c6295eb12ecd4b268d9eb1d35bb4f754
 9|36||"
 
-"|5|Shalya Parva|1
+"|5|Shalya Parva|1|37ca30122cbf4c419a8300a8b2c7699f
 9|37||"
 Vaishampayana said, ""Then Valadeva, O king, proceeded to Vinasana where
 the Sarasvati hath become invisible in consequence of her contempt for
@@ -4760,7 +4760,7 @@ Brahmanas, as also goats and sheep and kine and mules and camels and gold
 and silver, and feeding many Brahmanas and gratifying them with many
 costly gifts that were desired by them, Baladeva of Madhu's race
 proceeded thence, accompanied by many Brahmanas and eulogised by them.
-"|1|Shalya Parva|507
+"|1|Shalya Parva|507|4d43b3352e4d489981f700068e852a42
 9|37||"chastiser of foes, having but one earring, then proceeded to the famous
 tirtha called Gargasrota. There, in that sacred tirtha of the Sarasvati,
 the illustrious Garga of venerable years and soul cleansed by ascetic
@@ -4788,7 +4788,7 @@ away in that tirtha many milch cows, and vessels of copper and iron, and
 diverse kinds of other vessels, that tiger of Yadu's race, Baladeva,
 having the plough for his weapon, worshipped the Brahmanas and was
 worshipped by them in return. He then, O king, proceeded to the Dwaita
-"|2|Shalya Parva|509
+"|2|Shalya Parva|509|04eaf99a034e4402a0e8db557b9e0049
 9|37||"of attire. Bathing in its waters, he worshipped the Brahmanas. Having
 given away unto the Brahmanas diverse articles of enjoyment in profusion,
 Baladeva then, O king, proceeded along the southern bank of the
@@ -4812,7 +4812,7 @@ course for beholding the high-souled Rishis dwelling in the forest of
 Naimisha. Always smeared with white sandal-paste, Vala, having the plough
 for his weapon, beholding that foremost of rivers change her course,
 became, O king, filled with wonder.""
-"|3|Shalya Parva|407
+"|3|Shalya Parva|407|891abfd25f9247c2a1744184516be642
 9|37||"Janamejaya said, ""Why, O Brahmana, did the Sarasvati bend her course
 there in an easternly direction? O best of Adharyus, it behoveth thee to
 tell me everything relating to this! For what reason was that daughter of
@@ -4844,7 +4844,7 @@ that foremost of rivers exceedingly beautiful, like the celestials
 beautifying (with their presence) the heavenly stream called Mandakini.
 Hundreds upon hundreds of Rishis, all given to the observance of
 sacrifices, came thither. Those practisers of high vows, however, failed
-"|4|Shalya Parva|520
+"|4|Shalya Parva|520|5c9a71cbfd284561b640a4bf76f1275a
 9|37||"plots of land with their sacred threads, they performed their Agnihotras
 and diverse other rites. The river Sarasvati beheld, O monarch, that
 large body of Rishis penetrated with despair and plunged into anxiety for
@@ -4872,7 +4872,7 @@ Sarasvati. And it was adorned with forest of Karushakas, Vilwas, and
 Amratakas, and Atimuktas and Kashandas and Parijatas. Agreeable to the
 sight and most charming, it abounded with forests of plantains. And it
 was resorted to by diverse tribes of ascetics, some living on air, some
-"|5|Shalya Parva|502
+"|5|Shalya Parva|502|9121ef4f30f0479880e9e37e2d6dafd3
 9|37||"husked with the aid only of stones, and some that were called Vaneyas.
 And it resounded with the chanting of the Vedas, and teemed with diverse
 kinds of animals. And it was the favourite abode of men without malice
@@ -4882,7 +4882,7 @@ Mankanaka had performed his penances and became crowned with success.""
 
 
 
-"|6|Shalya Parva|105
+"|6|Shalya Parva|105|14537bf8390043649fc0d2694c349be0
 9|38||"
 Janamejaya said, ""Why was that tirtha called Sapta-Saraswat? Who was the
 ascetic Mankanaka? How did that adorable one become crowned with success?
@@ -4915,7 +4915,7 @@ king, said, 'This sacrifice cannot be said to possess high attributes,
 since that foremost of rivers, Sarasvati, is not to be seen here!'
 Hearing these words, the divine Brahman cheerfully thought of Sarasvati.
 Summoned at Pushkara by the Grandsire engaged in the performance of a
-"|1|Shalya Parva|508
+"|1|Shalya Parva|508|9f9551281a424233bcfc210d99b2b11e
 9|38||"Beholding Sarasvati quickly pay that regard to the Grandsire, the Munis
 esteemed that sacrifice highly. Even thus that foremost of rivers, the
 Sarasvati, made her appearance at Pushkara for the sake of the Grandsire
@@ -4943,7 +4943,7 @@ she became known by the name of Manorama, as those Rishis mentally called
 her. While, again, the high-souled Kuru was engaged in a sacrifice at
 Kurukshetra, that foremost of rivers, the highly blessed Sarasvati, made
 her appearance there. Summoned, O monarch, by the high-souled Vasishtha
-"|2|Shalya Parva|502
+"|2|Shalya Parva|502|e5a9b0b42d734d9383b260e7895287a9
 9|38||"water appeared at Kurukshetra under the name of Oghavati. Daksha at one
 time performed a sacrifice at the source of Ganga. The Sarasvati appeared
 there under the name of the fast-flowing Surenu. Once again, while
@@ -4971,7 +4971,7 @@ after Mankanaka had become crowned with success, O king, his hand, on one
 occasion, became pierced with a Kusa blade. Thereupon, a vegetable juice
 came out of the wound (and not red blood). Seeing that vegetable juice,
 the Rishi became filled with joy and danced about on the spot. Seeing him
-"|3|Shalya Parva|501
+"|3|Shalya Parva|501|37a883b7c45b48c29a2e8a549b36f7b1
 9|38||"energy, began to dance. Then the gods with Brahman at their head, and the
 Rishis possessed of wealth of asceticism, O king, all went to Mahadeva
 and informed him of the act of the Rishi (Mankanaka). And they said unto
@@ -5000,7 +5000,7 @@ enters thee! Thou art incapable of being known by the gods, how then
 canst thou be known by me? All forms of being that are in the universe
 are seen in thee! The gods with Brahman at their head worship thy boon
 giving self, O sinless one! Thou art everything! Thou art the creator of
-"|4|Shalya Parva|510
+"|4|Shalya Parva|510|636bfa2932fc430c92b5f593e418e4a3
 9|38||"grace, the gods pass their time in joy and perfect fearlessness!' Having
 praised Mahadeva in this manner, the Rishi bowed to him, 'Let not this
 absence of gravity, ridiculous in the extreme, that I displayed, O god,
@@ -5015,7 +5015,7 @@ energy. He was a son begotten by the god of wind upon (the lady) Sukanya.""
 
 
 
-"|5|Shalya Parva|205
+"|5|Shalya Parva|205|066a8835ceaa46fe84233d483a84223f
 9|39||"
 Vaishampayana said, ""Having passed one night more, Rama, having the
 plough for his weapon, worshipped the dwellers of that tirtha and showed
@@ -5034,7 +5034,7 @@ morals (that goes by Sukra's name) appeared to him by inward light. While
 residing there, Sukra meditated upon the war of the Daityas and the
 Danavas (with the gods). Arrived at that foremost of tirthas, Baladeva, O
 king, duly made presents unto the high-souled Brahmanas.""
-"|1|Shalya Parva|333
+"|1|Shalya Parva|333|5bde9e172d29475fa72668dc8fa4cc5d
 9|39||"Janamejaya said, ""Why is it called Kapalamochana, where the great Muni
 became freed (from the Rakshasa's head)? For what reason and how did that
 head stick unto him?""
@@ -5064,7 +5064,7 @@ Freed from that (dead) head, the Rishi felt great happiness. As regards
 the head itself, it was lost in the waters. Mahodara then, O king, freed
 from the Rakshasa's head, cheerfully returned, with cleansed soul and all
 his sins washed away, to his asylum after achieving success. The great
-"|2|Shalya Parva|515
+"|2|Shalya Parva|515|770e6bcf3b2d427e8991d94579a3ac36
 9|39||"had happened to those Rishis of cleansed souls. The assembled Rishis,
 having heard his words, bestowed the name of Kapalamochana on the tirtha.
 The great Rishi Mahodara, repairing once more to that foremost of
@@ -5093,7 +5093,7 @@ water, while employed in mentally reciting sacred mantras, would never
 again be afflicted with death!' The righteous-souled Baladeva, touching
 the water of that tirtha and bathing in it, gave considerable wealth unto
 the Brahmanas, being devoted to them. Possessed of great might and great
-"|3|Shalya Parva|517
+"|3|Shalya Parva|517|4748e52b79bf4d8d8cfb645b9dcab839
 9|39||"Grandsire had created the mountains called Lokaloka, where that foremost
 of Rishis, Arshtishena of rigid vows, O thou of Kuru's race, had by
 austere penances acquired the status of Brahmanhood, where the royal sage
@@ -5103,7 +5103,7 @@ all acquired a similar status.""
 
 
 
-"|4|Shalya Parva|103
+"|4|Shalya Parva|103|11a7b61d0bbd4801a12dc1ba9b170845
 9|40||"
 Janamejaya said, ""Why did the adorable Arshtishena undergo the austerest
 of penances? How also did Sindhudwipa acquire the status of a Brahmana?
@@ -5134,7 +5134,7 @@ his senses under control, acquired the status of Brahmanhood by
 practising well-directed austerities. There was a great Kshatriya,
 celebrated over the world, known by the name of Gadhi. He had a son born
 to him, of the name of Vishvamitra of great prowess. King Kausika became
-"|1|Shalya Parva|513
+"|1|Shalya Parva|513|688269bb2b6343cf8dd22768a1639cb1
 9|40||"his son Vishvamitra on his throne, himself having resolved to cast off
 his body. His subjects, bowing unto him, said, 'Thou shouldst not go
 away, O thou of great wisdom, but do thou protect us from a great fear!'
@@ -5163,7 +5163,7 @@ observance of his vows. His heart, however, never swerved from the vows
 (he had proposed to himself). Then, having practised diverse kinds of
 austerities with great devotion, the son of Gadhi became like the Sun
 himself in effulgence. The boon-giving Grandsire, of great energy,
-"|2|Shalya Parva|516
+"|2|Shalya Parva|516|12b7759c358a49caacd0b2028c4d4ba1
 9|40||"merit, the boon the latter desired. The boon that Vishvamitra solicited
 was that he should be permitted to become a Brahmana. Brahma the
 Grandsire of all the worlds, said unto him, 'So be it.' Having by his
@@ -5179,7 +5179,7 @@ Vaka had practised the austerest of penances.""
 
 
 
-"|3|Shalya Parva|211
+"|3|Shalya Parva|211|860adebe517e4d3eaa12ce97c3b9c7e3
 9|41||"
 Vaishampayana said, ""The delighter of the Yadus then proceeded to the
 asylum (of Vaka) which resounded with the chanting of the Vedas. There
@@ -5208,7 +5208,7 @@ filled with wrath, set his heart upon the destruction of king
 Dhritarashtra. Cutting the flesh from off the dead animals, that best of
 sages, having ignited a (sacrificial) fire on the tirtha of the
 Sarasvati, poured those pieces as libations for the destruction of king
-"|1|Shalya Parva|504
+"|1|Shalya Parva|504|5095ab8eebaa4d0d91e4b78df8ef01a6
 9|41||"O monarch, poured Dhritarashtra's kingdom as a libation on the fire, with
 the aid of those pieces of meat. Upon the commencement of that fierce
 sacrifice according to due rites, the kingdom of Dhritarashtra, O
@@ -5237,7 +5237,7 @@ protector, it behoveth thee to show me thy grace!' Beholding him thus
 overwhelmed with grief and indulging in lamentations like these, Vaka
 felt compassion for him and freed his kingdom. The Rishi became gratified
 with him, having dismissed his angry feelings. For freeing his kingdom,
-"|2|Shalya Parva|505
+"|2|Shalya Parva|505|3dda0e9c7a4143fca2abf8abcb930dc1
 9|41||"(from calamities) and taken many animals in grief, he became pleased at
 heart and once more proceeded to the Naimisha woods. The liberal-minded
 king Dhritarashtra also, of righteous soul, with a cheerful heart,
@@ -5270,11 +5270,11 @@ were filled with wonder at sight of that profusion. The illustrious
 Baladeva, of soul subdued and restrained and cleansed, having the palmyra
 on his banner, distinguished by great righteousness, and ever giving away
 the most valuable things, then proceeded to that tirtha of fierce current
-"|3|Shalya Parva|513
+"|3|Shalya Parva|513|175db4ce9117446abcfa225d4e2dff2c
 9|41||"
 
 
-"|4|Shalya Parva|1
+"|4|Shalya Parva|1|0ca0d558ec6a4310a1833e3de051fff2
 9|42||"
 Janamejaya said, ""Why is the current of (the tirtha known by the name of)
 Vasishthapavaha so rapid? For what reason did the foremost of rivers bear
@@ -5303,7 +5303,7 @@ performance of his duties, this, however, is the resolution, O Bharata,
 that he formed: 'This Sarasvati shall quickly bring, by force of her
 current, that foremost of ascetics, Vasishtha, to my presence. After he
 shall have been brought hither, I shall, without doubt, slay that
-"|1|Shalya Parva|508
+"|1|Shalya Parva|508|cb46c72f8c604fdeba877b41c00df200
 9|42||"great Rishi Vishvamitra with eyes red in wrath, thought of that foremost
 of rivers. Thus remembered by the ascetic, she became exceedingly
 agitated. The fair lady, however, repaired to that Rishi of great energy
@@ -5325,7 +5325,7 @@ heart was on the grievous curse (that either of them might pronounce on
 her). She stood in terror of both. Seeing her pale and plunged in
 anxiety, the righteous-souled Vasishtha, that foremost of men, O king,
 said these words unto her.
-"|2|Shalya Parva|357
+"|2|Shalya Parva|357|c1e2b656dee34ce9b46f3ae461621d2b
 9|42||"""Vasishtha said, 'O foremost of rivers, save thyself! O thou of rapid
 current, bear me away, otherwise Vishvamitra will curse thee. Do not feel
 any scruple.' Hearing these words of that compassionate Rishi, the river
@@ -5353,7 +5353,7 @@ look for a weapon wherewith to slay that Brahmana. Seeing him filled with
 wrath, the river from fear of (witnessing and aiding in) a Brahmana's
 slaughter, quickly bore Vasishtha away to her eastern bank once more. She
 thus obeyed the words of both, although she deceived the son of Gadhi by
-"|3|Shalya Parva|507
+"|3|Shalya Parva|507|5daf96cb4e714fed9bfdf6c423b2287b
 9|42||"vindictive Vishvamitra, filled with wrath, addressed Sarasvati, saying,
 'Since, O foremost of rivers, thou hast gone away, having deceived me,
 let thy current be changed into blood that is acceptable to Rakshasas.'
@@ -5366,7 +5366,7 @@ back her own proper condition.""
 
 
 
-"|4|Shalya Parva|156
+"|4|Shalya Parva|156|47bd75bc65304c7a97a26bcd41794e01
 9|43||"
 Vaishampayana said, ""Cursed by the intelligent Vishvamitra in anger,
 Sarasvati, in that auspicious and best of tirthas, flowed, bearing blood
@@ -5396,7 +5396,7 @@ then consulted with one another thus, 'All of us shall emancipate
 Sarasvati from her curse.' Then all those Brahmanas, O king, worshipping
 Mahadeva, that lord of the universe and protector of all creatures, with
 penance and vows and fasts and diverse kinds of abstinences and painful
-"|1|Shalya Parva|507
+"|1|Shalya Parva|507|e867a8c15cb249fc9f8c8bd8a4905f5b
 9|43||"Beholding the water of Sarasvati purified by those Munis, the Rakshasas
 (that had taken up their abode there), afflicted with hunger, sought the
 protection of those Munis themselves. Afflicted with hunger, the
@@ -5424,7 +5424,7 @@ Bathing in that new river (a branch of the Sarasvati) the Rakshasas cast
 off their bodies and went to heaven. Ascertaining all this, the chief of
 the celestials, (Indra of a hundred sacrifices), bathed in that foremost
 of tirthas and became cleansed of a grievous sin.""
-"|2|Shalya Parva|483
+"|2|Shalya Parva|483|a42d7088ab174c6bb98d9f0e1c0953ca
 9|43||"Janamejaya said, ""For what reason was Indra tainted with the sin of
 Brahmanicide? How also did he become cleansed by bathing in that tirtha?""
 
@@ -5453,7 +5453,7 @@ be freed from thy sin.' Thus addressed, Shakra, at these words of Brahma,
 O Janamejaya, performed in that abode of Sarasvati diverse sacrifices.
 Giving away many gifts and bathing in that tirtha, he of a hundred
 sacrifices, the piercer of Vala, duly performed certain sacrifices and
-"|3|Shalya Parva|511
+"|3|Shalya Parva|511|d8c845ad5c6d41a484d5e74cb4cd5d9b
 9|43||"the slaughter of a Brahmana. The lord of heaven then returned to heaven
 with a joyful heart. The head of Namuchi also fell into that stream, O
 Bharata, and the Asura obtained many eternal regions, O best of kings,
@@ -5472,10 +5472,10 @@ In that battle Skanda slew Taraka. There, on that occasion, Mahasena
 (Skanda), that destroyer of Daityas, obtained the command of the
 celestial forces. In that tirtha is a gigantic Aswattha tree. Under its
 shade, Kartikeya, otherwise called Kumara, always resides in person.""
-"|4|Shalya Parva|307
+"|4|Shalya Parva|307|05ba5e66581947fe8d537899217d7e21
 9|43||"
 
-"|5|Shalya Parva|1
+"|5|Shalya Parva|1|d0cab57847e84318adeefa97ab746cb3
 9|44||"
 Janamejaya said, ""Thou hast described the merits of the Sarasvati, O best
 of Brahmanas! It behoveth thee, O regenerate one, to describe to me the
@@ -5506,7 +5506,7 @@ beheld that child of fiery splendour. Seeing that puissant lord, that
 high-souled son of Agni, lying on a clump of heath, all the six
 Krittikas, who were desirous of a son, cried aloud, saying, 'This child
 is mine, this child is mine!' Understanding the state of mind of those
-"|1|Shalya Parva|501
+"|1|Shalya Parva|501|26b950722d2a4c24b354f30ecf6986a9
 9|44||"assumed six mouths. Beholding that puissance of the child, the Krittikas,
 those goddesses of beautiful forms, became filled with wonder. And since
 the adorable child had been cast by the river Ganga upon the summit of
@@ -5537,7 +5537,7 @@ Others were of faces like those of scorpions; others of faces like those
 of elephants and camels and owls. And some had faces like those of
 vultures and jackals. And some there were that had faces like those of
 cranes and pigeons and Kurus. And many amongst them had bodies like those
-"|2|Shalya Parva|516
+"|2|Shalya Parva|516|fa70a230d5bb4e91b9bbd824bfe2d751
 9|44||"resembled mountains and some oceans, and some stood with uplifted discs
 and maces for their weapons. And some looked like masses of antimony and
 some like white mountains. The seven Matris also were present there, O
@@ -5566,7 +5566,7 @@ sitting. Visakha went to the spot where the divine daughter of Himavat
 was. The adorable Sakha, which is Kartikeya's Vayu form proceeded towards
 Agni. Naigameya, that child of fiery splendour, proceeded to the presence
 of Ganga. All those forms, of similar appearance, were endued with great
-"|3|Shalya Parva|505
+"|3|Shalya Parva|505|67469d0056f444b6b91da3ee750ef5cd
 9|44||"goddesses (already mentioned). All this seemed exceedingly wonderful. The
 gods, the Danavas, and the Rakshasas, made a loud noise at sight of that
 exceedingly wonderful incident making the very hair to stand on end. Then
@@ -5594,10 +5594,10 @@ at Samanta-panchaka, is celebrated over the three worlds. There, on the
 sacred bank, possessing every merit, of the Sarasvati, the gods and the
 Gandharvas took their seats with hearts well-pleased in consequence of
 the gratification of all their desires.""
-"|4|Shalya Parva|482
+"|4|Shalya Parva|482|15d5d425fe55421f92c1fad7136d984d
 9|44||"
 
-"|5|Shalya Parva|1
+"|5|Shalya Parva|1|9f5a8961eb284fe5aa34559d5526849d
 9|45||"
 Vaishampayana said, ""Collecting all articles as laid down in the
 scriptures for the ceremony of investiture, Brihaspati duly poured
@@ -5623,7 +5623,7 @@ embodied forms, the eternal Vedas, the Seas, the diverse tirthas, the
 Earth, the Sky, the Cardinal and Subsidiary points of the compass, and
 all the Trees, O king, Aditi the mother of the gods, Hri, Sri, Swaha,
 Sarasvati, Uma, Sachi, Sinivali, Anumati, Kuhu, the Day of the new moon,
-"|1|Shalya Parva|519
+"|1|Shalya Parva|519|5fb51013db96438fbf4ea5fe6b829fdd
 9|45||"Vindhya, Meru of many summits, Airavat with all his followers, the
 Divisions of time called Kala, Kashtha, Fortnight, the Seasons, Night,
 and Day, O king, the prince of steeds, Ucchaisravas, Vasuki the king of
@@ -5653,7 +5653,7 @@ at will. And he was the great destroyer of Asuras. In the great battle
 between the gods and the Asuras, this companion that Sthanu gave, filled
 with wrath, slew, with his hands alone, fourteen millions of Daityas of
 fierce deeds. The gods then made over to Skanda the celestial host,
-"|2|Shalya Parva|515
+"|2|Shalya Parva|515|aa40b0a830c74f3194782198dbe32fe1
 9|45||"enemies of the gods, and of forms like that of Vishnu. The gods then,
 with Vasava at their head, and the Gandharvas, the Yakshas, the
 Rakshasas, the Munis, and the Pitris, all shouted, 'Victory (to Skanda)!'
@@ -5681,7 +5681,7 @@ The lord Mitra gave unto the high-souled Kumara two illustrious
 companions named Suvrata and Satyasandha, both of whom were endued with
 great learning and ascetic merit, possessed of agreeable features,
 capable of granting boons and celebrated over the three worlds. Vidhatri
-"|3|Shalya Parva|515
+"|3|Shalya Parva|515|a99b342be05b49018f1f7d73c324ead5
 9|45||"Suprabha and Subhakarman. Pushan gave him, O Bharata, two companions,
 Panitraka and Kalika, both endued with great powers of illusion. Vayu
 gave him, O best of the Bharatas, two companions, Vala and Ativala,
@@ -5706,7 +5706,7 @@ Sankukarna, Nilkumbha, Padmai, Kumud, Ananta, Dwadasabhuja, Krishna,
 Upakrishnaka, Ghranasravas, Kapiskandha, Kanchanaksha, Jalandhama,
 Akshasantarjana, Kunadika, Tamobhrakrit, Ekaksha, Dwadasaksha, Ekajata,
 Sahasravahu, Vikata, Vyaghraksha, Kshitikampana, Punyanaman, Sunaman,
-"|4|Shalya Parva|504
+"|4|Shalya Parva|504|99461d8629f04cc6bc9cbef2d4f880dd
 9|45||"Gajasiras, Skandhaksha, Satalochana, Jwalajibha, Karala, Sitakesa, Jati,
 Hari, Krishnakesa, Jatadhara, Chaturdanshtra, Ashtajihva, Meghananda,
 Prithusravas, Vidyutaksha, Dhanurvaktra, Jathara, Marutasana, Udaraksha,
@@ -5725,7 +5725,7 @@ Kanakaksha, Valakarakshaka, Sancharaka, Kokanada, Gridhrapatra, Jamvuka,
 Lohajvaktra, Javana, Kumbhavaktra, Kumbhaka, Mundagriva, Krishnaujas,
 Hansavaktra, Candrabha, Panikurchas, Samvuka, Panchavaktra, Sikshaka,
 Chasavaktra, Jamvuka, Kharvaktra, and Kunchaka. Besides these, many other
-"|5|Shalya Parva|518
+"|5|Shalya Parva|518|6f7376bc91924f08915398b0c73ed99a
 9|45||"regardful of Brahmanas, were given unto him by the Grandsire. Some of
 them were in youth; some were old and some, O Janamejaya, were very young
 in years. Thousands upon thousands of such came to Kartikeya. They were
@@ -5755,7 +5755,7 @@ had large limbs but lean stomachs. The necks of some were very short and
 the ears of some were very large. Some had diverse kinds of snakes for
 their ornaments. Some were clad in skins of large elephants, and some in
 black deer-skins. The mouths of some were on their shoulders. Some had
-"|6|Shalya Parva|517
+"|6|Shalya Parva|517|49c408eec70546e590606e53bce10f45
 9|45||"on their calves, and some on their flanks, and the mouths of many were
 placed on other parts of their bodies. The faces of many amongst those
 leaders of troops were like those of insects and worms. The mouths of
@@ -5786,7 +5786,7 @@ The cars and heads of some were like those of elephants. Some had noses
 like those of tortoises, some like those of wolves. Some had long lips,
 some had long hips, and some were frightful, having their faces
 downwards. Some had very large teeth, some had very short teeth, and some
-"|7|Shalya Parva|512
+"|7|Shalya Parva|512|2447609abddb433e87a90e16173831c8
 9|45||"terrible, looking like infuriated elephants of gigantic size. Some were
 of symmetrical limbs, possessed of great splendour, and adorned with
 ornaments. Some had yellow eyes, some had ears like arrows, some had
@@ -5816,7 +5816,7 @@ armed with bludgeons, O Bharata. Some, possessed of gigantic sizes and
 great strength, were armed with lances and scimitars. Some were armed
 with maces and Bhusundis and some had spears on their hands. Possessed of
 high souls and great strength and endued with great speed and great
-"|8|Shalya Parva|511
+"|8|Shalya Parva|511|f9093ae1e1004366b7e81493322f9b12
 9|45||"weapons in their arms. Beholding the installation of Kartikeya, those
 beings of mighty energy, delighting in battle and wearing on their
 persons rows of tinkling bells, danced around him in joy. These and many
@@ -5830,7 +5830,7 @@ high-souled Kartikeya and stood surrounding him.""
 
 
 
-"|9|Shalya Parva|163
+"|9|Shalya Parva|163|e782415f362a487d8093eafa30814612
 9|46||"
 Vaishampayana said, ""Listen now to the large bands of the mothers, those
 slayers of foes, O hero, that became the companions of Kumara, as I
@@ -5851,7 +5851,7 @@ Vriddhikama, Jayapriya, Dhanada, Suprasada, Bhavada, Jaleshvari, Edi,
 Bhedi, Samedi, Vetalajanani, Kanduti, Kalika, Devamitra, Lambasi, Ketaki,
 Citrasena, Bala, Kukkutika, Shankhanika, Jarjarika, Kundarika, Kokalika,
 Kandara, Shatodari, Utkrathini, Jarena, Mahavega, Kankana, Manojava,
-"|1|Shalya Parva|512
+"|1|Shalya Parva|512|25a6c46074bf433789f8757146397701
 9|46||"Taditprabha, Mandodari, Tunda, Kotara, Meghavasini, Subhaga, Lambini,
 Lamba, Vasucuda, Vikatthani, Urdhvavenidhara, Pingakshi, Lohamekhala,
 Prithuvaktra, Madhurika, Madhukumbha, Pakshalika, Manthanika, Jarayu,
@@ -5867,7 +5867,7 @@ Sugana, Bhiti, Kamada, Catushpatharata, Bhutirtha, Anyagocara, Pashuda,
 Vittada, Sukhada, Mahayasha, Payoda, Gomahishada, Suvishana, Pratishtha,
 Supratishtha, Rocamana, Surocana, Naukarni, Mukhakarni, Sasira, Stherika,
 Ekacakra, Megharava, Meghamala, and Virocana.
-"|2|Shalya Parva|430
+"|2|Shalya Parva|430|86d48035b315437eb713f52b0fd18771
 9|46||"""These and many other mothers, O bull of Bharata's race, numbering by
 thousands, of diverse forms, became the followers of Kartikeya. Their
 nails were long, their teeth were large and their lips also, O Bharata,
@@ -5890,7 +5890,7 @@ nature of Yama, some of Rudra, some of Soma, some of Kuvera, some of
 Varuna, some of Indra, and some of Agni, O scorcher of foes. And some
 partook of the nature of Vayu, some of Kumara, some of Brahma, O bull of
 Bharata's race, and some of Vishnu and some of Surya, and some of Varaha.
-"|3|Shalya Parva|393
+"|3|Shalya Parva|393|ff09634c950e48068d3ecac77837de7a
 9|46||"""Of charming and delightful features, they were beautiful like the Asuras.
 In voice they resembled the kokila and in prosperity they resembled the
 Lord of Treasures. In battle, their energy resembled that of Shakra. In
@@ -5923,7 +5923,7 @@ celestial water-pot, begotten of amrita, and Brihaspati gave him a sacred
 stick. Garuda gave him his favourite son, a peacock of beautiful
 feathers. Aruna gave him a cock of sharp talons. The royal Varuna gave
 him a snake of great energy and might. The lord Brahma gave unto that god
-"|4|Shalya Parva|505
+"|4|Shalya Parva|505|305a7416cd754b0080768e63388863b7
 9|46||"also gave him victory in all battles.
 
 ""Having obtained the command of the celestial forces, Skanda looked
@@ -5948,7 +5948,7 @@ slay you.' Having obtained this boon from that best of gods, the
 illustrious celestials regarded their foes to be already slain. After
 Skanda had granted that boon, a loud sound arose from all those creatures
 inspired with joy, filling the three worlds.
-"|5|Shalya Parva|335
+"|5|Shalya Parva|335|b55241417cbd4924affb747fbc8f74a6
 9|46||"""Accompanied by that vast host, Skanda then set out for the destruction of
 the Daityas and the protection of the denizens of heaven. Exertion, and
 Victory, and Righteousness, and Success, and Prosperity, and Courage, and
@@ -5970,7 +5970,7 @@ noise, fell upon the earth. Everything became as frightful O king, as it
 becomes on the day of universal destruction. When that terrible dart was
 once hurled by the son of Agni, millions of darts issued from it, O bull
 of Bharata's race.
-"|6|Shalya Parva|356
+"|6|Shalya Parva|356|26a98d8fa0e04bf3a7006e7ce7e85b69
 9|46||"""The puissant and adorable Skanda, filled with joy, at last slew Taraka,
 the chief of the Daityas, endued with great might and prowess, and
 surrounded (in that battle) by a 100,000 heroic and mighty Daityas. He
@@ -5992,7 +5992,7 @@ down on the surface of the Earth. Some, mangled with weapons, fell down,
 deprived of life. In this way the heroic and mighty Kartikeya slew
 innumerable foes of the gods possessed of great strength that came to
 fight with him.
-"|7|Shalya Parva|341
+"|7|Shalya Parva|341|ac32ea0bdf2b49f18c2b61a29a5c8a06
 9|46||"""Then Bali's son Vana of great might, getting upon the Kraunca mountain,
 battled with the celestial host. Possessed of great intelligence, the
 great generalissimo Skanda rushed against that foe of the gods. From fear
@@ -6012,7 +6012,7 @@ vidyadharas dwelling on its summits soared into the air. The kinnaras
 also became very anxious, distracted by the fear caused by the fall of
 Skanda's dart. The Daityas then, by hundreds and thousands, came out of
 that blazing mountain, all clad in beautiful ornaments and garlands.
-"|8|Shalya Parva|327
+"|8|Shalya Parva|327|741a0e61ebdf4fd59fc6c9ffd9325a14
 9|46||"""The followers of Kumara, prevailing over them in battle, slew them all.
 The adorable Skanda, inflamed with rage, quickly slew the son of daitya
 chief (Bali) along with his younger brother, even as Indra had slain
@@ -6038,7 +6038,7 @@ of Agni. Some again describe him as the son of Uma or of the Krittikas or
 of Ganga. Hundreds and thousands of people speak of that Lord of yogis of
 blazing form and great might, as the son of one of those, or of either of
 two of those, or of any one of four of those.
-"|9|Shalya Parva|413
+"|9|Shalya Parva|413|06490a7ddd2a4cb48c2029a484c6b183
 9|46||"""I have thus told thee, O king, everything about the installation of
 Kartikeya. Listen now to the history of the sacredness of that foremost
 of tirthas on the Sarasvati. That foremost of tirthas, O monarch, after
@@ -6058,7 +6058,7 @@ how the divine Skanda was installed by the assembled gods!""
 
 
 
-"|10|Shalya Parva|283
+"|10|Shalya Parva|283|3663d667179a49ee845947f27f84b6ae
 9|47||"
 Janamejaya said, ""This history, O regenerate one, that I have heard from
 thee is exceedingly wonderful, this narration, in detail, of the
@@ -6090,7 +6090,7 @@ reservoirs of water as Shakra protects the gods. Bathing in that tirtha
 also and giving away diverse kinds of gifts, Baladeva, the slayer of
 Pralamva, possessed of great wisdom, then proceeded to Agnitirtha, that
 spot where the eater of clarified butter, disappearing from the view,
-"|1|Shalya Parva|501
+"|1|Shalya Parva|501|9e4e5d0020e74baf8ae58e62e03a021b
 9|47||"all the worlds thus disappeared, O sinless one, the gods then repaired to
 the Grandsire of the universe. And they said, 'The adorable Agni has
 disappeared. We do not know the reason. Let not all creatures be
@@ -6122,7 +6122,7 @@ austerities), all kinds of wealth, and all the precious gems came to him
 of their own accord. Baladeva having repaired to that tirtha and bathed
 in its waters duly gave much wealth unto the Brahamanas. Rama beheld at
 that spot the excellent woods of Kuvera. In days of yore, the high-souled
-"|2|Shalya Parva|509
+"|2|Shalya Parva|509|3a77196b07a14e818d9b113c625bff10
 9|47||"austerities there, obtained many boons. There were the lordship of all
 treasures, the friendship of Rudra possessed of immeasurable energy, the
 status of a god, the regency over a particular point of the compass (the
@@ -6138,7 +6138,7 @@ and flowers and fruits of every kind are always abundant.""
 
 
 
-"|3|Shalya Parva|206
+"|3|Shalya Parva|206|1d674e231fea4f73ab817b28d2b15f0e
 9|48||"
 Vaishampayana said, ""Rama (as already said) then proceeded to the tirtha
 called Vadarapachana where dwelt many ascetics and Siddhas. There the
@@ -6168,7 +6168,7 @@ penances of the austerest kind! This is known to me, O thou of excellent
 vows! That object also, cherished in thy heart, for the attainment of
 which thou strivest, O auspicious one, shall, O thou of beautiful face,
 be accomplished for thee! Everything is attainable by penances.
-"|1|Shalya Parva|508
+"|1|Shalya Parva|508|2811efc9583c41329093089292b455e3
 9|48||"beautiful face, that belong to the gods can be obtained by penances.
 Penances are the root of great happiness. Those men that cast off their
 bodies after having practised austere penances, obtain the status of
@@ -6198,7 +6198,7 @@ words of the Rishi, 'Cook these jujubes well' were borne in her mind, O
 Bharata! The auspicious damsel, bearing those words of the great Rishi in
 her mind, began to cook those jujubes although the latter, O king, showed
 no signs of softening. The adorable Agni himself consumed her feet. For
-"|2|Shalya Parva|516
+"|2|Shalya Parva|516|20fefd3af19d46d88ebf0788a18ea8d2
 9|48||"act of hers, the Lord of the three worlds became highly satisfied. He
 then showed himself in his own proper form to the damsel. The chief of
 the celestials then addressed that maiden of very austere vows saying, 'I
@@ -6227,7 +6227,7 @@ these words, she began to cook those jujubes for doing what was agreeable
 to that Brahmana. Placing those jujubes on the fire, the celebrated
 Arundhati listened to diverse excellent and charming and sacred
 discourses (from the lips of Mahadeva). That twelve years' drought then
-"|3|Shalya Parva|510
+"|3|Shalya Parva|510|b5d68712a21a4ac1aa2f1ea4f5288394
 9|48||"cooking and listening to those auspicious discourses, that terrible
 period passed away, as if it were a single day to her. Then the seven
 Rishis, having procured fruits from the mountain, returned to that spot.
@@ -6256,7 +6256,7 @@ capable of bearing hunger and thirst. Even thus the pure-souled
 Arundhati, in days of old, obtained the highest success, like thee, O
 highly blessed lady, for my sake, O damsel of rigid vows! Thou, however,
 O amiable maiden, hast practised severer penances! Gratified with thy
-"|4|Shalya Parva|507
+"|4|Shalya Parva|507|c4fb9f30a9b34fa39d964e2efbb35bfc
 9|48||"that is superior to what was granted to Arundhati. Through the power of
 the high-souled god who had granted that boon to Arundhati and through
 the energy of thyself, O amiable one, I shall duly grant thee another
@@ -6276,7 +6276,7 @@ her time, sporting with him for ever and ever.""
 Janamejaya said, ""Who was the mother of Sruvavati, and how was that fair
 damsel reared? I desire to hear this, O Brahmana, for the curiosity I
 feel is great.""
-"|5|Shalya Parva|313
+"|5|Shalya Parva|313|92330288a0044a03bdb47faa66296169
 9|48||"Vaishampayana said, ""The vital seed of the regenerate and high-souled
 Rishi Bharadwaja fell, upon beholding the large-eyed Apsara Ghritachi as
 the latter was passing at one time. That foremost of ascetics thereupon
@@ -6293,7 +6293,7 @@ Sakta.""
 
 
 
-"|6|Shalya Parva|238
+"|6|Shalya Parva|238|23f5cdd2b1d24f95866194115cc13c6d
 9|49||"
 Vaishampayana said, ""The mighty chief of the Yadus, having proceeded to
 Indra's tirtha, bathed there according to due rites and gave away wealth
@@ -6324,7 +6324,7 @@ Having bathed in that sacred and foremost of tirthas that was the resort
 of gods and regenerate Rishis, Baladeva duly worshipped the ascetics
 there, and then proceeded to the tirtha called Yamuna. Endued with great
 effulgence, Varuna, the highly blessed son of Aditi, had in days of yore
-"|1|Shalya Parva|517
+"|1|Shalya Parva|517|bfd7dba9506241e39c1bbe83f5f541f3
 9|49||"in battle subjugated both men and celestials and Gandharvas and
 Rakshasas, Varuna, O king, that slayer of hostile heroes, performed his
 grand sacrifice in that tirtha. Upon the commencement of that foremost of
@@ -6351,10 +6351,10 @@ of virtuous soul, O Bharata, having bathed in that tirtha, obtained great
 Yoga powers and attained to high success. Endued with great ascetic
 merit, the Rishi Asita-Devala also, having bathed in that very tirtha
 with soul rapt in high Yoga meditation, obtained great Yoga powers.""
-"|2|Shalya Parva|498
+"|2|Shalya Parva|498|167ca4e6c34440d98ccdd95f9cd206b7
 9|49||"
 
-"|3|Shalya Parva|1
+"|3|Shalya Parva|1|94478bc6e1d54e1ea9e941a92a13f18b
 9|50||"
 Vaishampayana said, ""In that tirtha lived in days of yore a Rishi of
 virtuous soul, named Asita-Devala, observant of the duties of
@@ -6384,7 +6384,7 @@ Devala worshipped his guest, O Bharata, according to the measure of his
 abilities, after the rites laid down by the Rishis and with great
 attention for many years. One day, however, O king, in the sight of that
 great Muni, a deep anxiety perturbed the heart of the highsouled Devala.
-"|1|Shalya Parva|517
+"|1|Shalya Parva|517|6d7fbc02465d4751b20aee6f9a55ea8f
 9|50||"worshipping this ascetic. This idle mendicant, however, hath not yet
 spoken to me a single word!' Having thought of this, the blessed Devala
 proceeded to the shores of the ocean, journeying through the welkin and
@@ -6412,7 +6412,7 @@ mantras, then soared aloft, O monarch, from his hermitage into the sky,
 for ascertaining who Jaigishavya, wedded to a life of mendicancy, really
 was. Devala saw crowds of sky-ranging Siddhas rapt in meditation, and he
 saw Jaigishavya reverentially worshipped by those Siddhas. Firm in the
-"|2|Shalya Parva|504
+"|2|Shalya Parva|504|07ef3a8dfbc445b7962c2fae6063272a
 9|50||"filled with wrath at the sight. He then saw Jaigishavya set out for
 heaven. He next beheld him proceed to the region of the Pitris. Devala
 saw him then proceed to the region of Yama. From Yama's region the great
@@ -6442,7 +6442,7 @@ that perform the sacrifice called Dadasaha and diverse others of similar
 character. Asita next saw his guest sojourning in the region of
 Mitravaruna and then in that of the Adityas. Asita then saw his guest
 pass through the regions of the Rudras, the Vasus and Brihaspati. Having
-"|3|Shalya Parva|514
+"|3|Shalya Parva|514|7a2f55c0fb1c400c8fd94f79d4858981
 9|50||"seen to pass into these of the Brahmasatris. Having by his energy passed
 through three other regions, he was seen to proceed to those regions that
 are reserved for women that are chaste and devoted to their husbands.
@@ -6464,7 +6464,7 @@ in the regions of the Brahmasatris, Asita endeavoured to soar aloft but
 he soon fell down. The Siddhas then, once more addressing Devala, said
 unto him, 'Thou, O Devala, art not competent to proceed thither, to the
 abode of Brahman, whither Jaigishavya hath gone!'""
-"|4|Shalya Parva|342
+"|4|Shalya Parva|342|c379af99fd8048869554e319759609df
 9|50||"Vaishampayana continued, ""Hearing those words of the Siddhas, Devala came
 down, descending from one region to another in due order. Indeed, he
 repaired to his own sacred asylum very quickly, like a winged insect. As
@@ -6494,7 +6494,7 @@ Devala, O best of kings, abandoned the religion of Domesticity and
 adopted that of Moksha. Having indulged in those reflections, Devala, in
 consequence of that resolve obtained the highest success, O Bharata, and
 the highest Yoga. The celestials then, headed by Brihaspati, applauded
-"|5|Shalya Parva|515
+"|5|Shalya Parva|515|267f44e478904dab84f67073fb8011a8
 9|50||"ascetics, Narada, addressing the gods, said, 'There is no ascetic penance
 in Jaigishavya since he filled Asita with wonder!' The denizens of heaven
 then, addressing Narada who said such frightful words, said, 'Do not say
@@ -6508,7 +6508,7 @@ proceeded to the tirtha of Soma.""
 
 
 
-"|6|Shalya Parva|187
+"|6|Shalya Parva|187|dd290cf7ecf5448f8108c18f18fddccf
 9|51||"
 Vaishampayana said, ""There, in that tirtha, O Bharata, where the Lord of
 stars had in former days performed the rajasuya sacrifice, a great battle
@@ -6539,7 +6539,7 @@ seed developed into a foetus and the great river held it so that it might
 be inspired with life as a child. When the time came, the foremost of
 rivers brought forth that child and then went, O lord, taking it with
 her, to that rishi.
-"|1|Shalya Parva|482
+"|1|Shalya Parva|482|9d55ecaf5174437c985e9dab1e8d91b9
 9|51||"""Beholding that best of Rishis in a conclave, Sarasvati, O monarch, while
 making over the child, said these words, 'O regenerate rishi, this is thy
 son whom I held through devotion for thee! That seed of thine which fell
@@ -6569,7 +6569,7 @@ Brahmanas! O blessed Sarasvati, through my grace, thou shalt, O beautiful
 one, always become the foremost of all sacred rivers!' Even thus was the
 great River praised by the sage after the latter had granted her boons.
 The River then, in great joy, went away, O bull of Bharata's race, taking
-"|2|Shalya Parva|506
+"|2|Shalya Parva|506|5198ce75f67445f0a4f80a36cdbf3dcc
 9|51||"
 ""Meanwhile, on the occasion of a war between the gods and the Danavas,
 Shakra wandered through the three worlds in search of weapons. The great
@@ -6598,7 +6598,7 @@ Daityas. After a long and dreadful time had elapsed since then, a
 drought, O king, occurred that extended for twelve years. During that
 drought extending for twelve years, the great Rishis, for the sake of
 sustenance, fled away, O monarch, on all sides.
-"|3|Shalya Parva|468
+"|3|Shalya Parva|468|32587dcaa53a43bea3efcb858636244a
 9|51||"""Beholding them scattered in all directions, the sage Sarasvata also set
 his heart on flight. The river Sarasvati then said unto him, 'Thou needst
 not, O son, depart hence, for I will always supply thee with food even
@@ -6626,7 +6626,7 @@ no time and come to hate each other! It is not upon years, or
 decrepitude, or wealth, or the number of kinsmen, that Rishis found their
 claim to merit! He amongst us is great who is capable of reading and
 understanding the Vedas!'
-"|4|Shalya Parva|448
+"|4|Shalya Parva|448|61df6be1951641eca9760c8b19d5f79e
 9|51||"""Hearing these words of his, those munis duly became his disciples and
 obtaining from him their Vedas, once more began to praise their rites.
 60,000 munis became disciples of the regenerate rishi Sarasvata for the
@@ -6639,7 +6639,7 @@ lady without having passed through the ceremony of marriage.""
 
 
 
-"|5|Shalya Parva|153
+"|5|Shalya Parva|153|1e0a490d4928417981ce4936560a12a0
 9|52||"
 Janamejaya said, ""Why, O regenerate one, did that maiden betake herself
 to ascetic penances, in days of old? For what reason did she practise
@@ -6667,7 +6667,7 @@ emaciated herself by age and austerities, yet she regarded herself happy.
 At last when she (became very old so that she) could no longer move even
 a single step without being aided by somebody, she set her heart upon
 departing for the other world.
-"|1|Shalya Parva|392
+"|1|Shalya Parva|392|1898688eeba449b6b477704a184d4be3
 9|52||"""Beholding her about to cast off her body, Narada said unto her, 'O
 sinless one, thou hast no regions of blessedness to obtain in consequence
 of thy not having cleansed thyself by rite of marriage! O thou of great
@@ -6689,7 +6689,7 @@ celestial attire and decked in celestial ornaments and garlands and
 smeared with celestial unguents and perfumes. Beholding her blazing with
 beauty, Galava's son became very happy and passed one night in her
 company.
-"|2|Shalya Parva|313
+"|2|Shalya Parva|313|754df285b5dc415986b7d891576f5d53
 9|52||"""At morn she said unto him, 'The compact, O Brahmana, I had made with
 thee, hath been fulfilled, O foremost of ascetics! Blessed be thou, I
 shall now leave thee!' After obtaining his permission, she once more
@@ -6715,10 +6715,10 @@ Samantapanchaka, enquired of the Rishis about the results of the battle
 at Kurukshetra. Asked by that lion of Yadu's race about the results of
 the battle at Kurukshetra, those high-souled ones told him everything as
 it had happened.""
-"|3|Shalya Parva|376
+"|3|Shalya Parva|376|56a789bdd255463dbac304a26b364c9c
 9|52||"
 
-"|4|Shalya Parva|1
+"|4|Shalya Parva|1|6fae7b9cdc7648c784cb8b9bcbedee70
 9|53||"
 ""The Rishis said, 'O Rama, this Samantapanchaka is said to be the eternal
 northern altar of Brahman, the Lord of all creatures. There the denizens
@@ -6750,7 +6750,7 @@ him a boon, if thou canst! If men, by only dying there were to come to
 heaven, without having performed sacrifices to us, our very existence
 will be endangered!"" Thus exhorted, Shakra then came back to that royal
 sage and said, ""Do not toil any more! Act according to my words! Those
-"|1|Shalya Parva|508
+"|1|Shalya Parva|508|a4ece1cad87642ddb826adfd2222d24b
 9|53||"awake, and those that will perish here in battle, shall, O king, come to
 heaven! They, O thou of great soul, shall enjoy the blessings of heaven,
 O monarch!"" Thus addressed, king Kuru answered Shakra, saying, ""So be
@@ -6780,12 +6780,12 @@ the Lord of all creatures. Auspicious and highly sacred and much regarded
 by the denizens of heaven is this spot that possesses all attributes. It
 is for this that Kshatriyas slain in battle here obtain sacred regions of
 eternal blessedness. Even this was said by Shakra himself about the high
-"|2|Shalya Parva|512
+"|2|Shalya Parva|512|6f19066b37d142c7b2a42750954a83f3
 9|53||"sanctioned by Brahman, by Vishnu, and by Maheshvara.'""
 
 
 
-"|3|Shalya Parva|18
+"|3|Shalya Parva|18|1783c7adfa2f4d829109fe68d7cf484a
 9|54||"
 Vaishampayana said, ""Having visited Kurukshetra and given away wealth
 there, he of the Satwata race then proceeded, O Janamejaya, to a large
@@ -6815,7 +6815,7 @@ of the Sarasvati, as also the tirtha called Plakshaprasravana, Vala next
 reached another excellent and foremost of tirthas called Karavapana. The
 hero of the plough, of great strength, having made many presents there,
 bathed in the cool, clear, sacred, and sin-cleansing water (of that
-"|1|Shalya Parva|517
+"|1|Shalya Parva|517|0648ee46ceb645158f26dfeefa94b034
 9|54||"Rama then proceeded to the sacred asylum of the Mitra-Varunas. From
 Karavapana he proceeded to that spot on the Yamuna where in days of yore
 Indra and Agni and Aryaman had obtained great happiness. Bathing there,
@@ -6838,7 +6838,7 @@ saying, 'What is the state of the field? How are those kings now that had
 assembled there? I have heard everything before, O thou that art
 possessed of the wealth of penances, but my curiosity is great for
 hearing it in detail!'
-"|2|Shalya Parva|376
+"|2|Shalya Parva|376|372769f65e2844f183c69b9c8416ccff
 9|54||"""Narada said, 'Already Bhishma and Drona and the lord of the Sindhus have
 fallen! Vikartana's son Karna also hath fallen, with his sons, those
 great car-warriors! Bhurishrava too, O son of Rohini, and the valiant
@@ -6860,7 +6860,7 @@ for the present. Their terrible encounter, O Rama, will take place today!
 If thou feelest any curiosity, then hasten, O Madhava, without tarrying
 here! Go, if thou wishest, and witness that terrible battle between thy
 two disciples!'""
-"|3|Shalya Parva|389
+"|3|Shalya Parva|389|7e1fa8ffe1324b73b43398e6f9ef077d
 9|54||"Vaishampayana continued, ""Hearing these words of Narada, Rama bade a
 respectful farewell to those foremost of Brahmanas and dismissed all
 those that had accompanied him (in his pilgrimage). Indeed, he ordered
@@ -6880,10 +6880,10 @@ ascended an excellent car unto which were yoked goodly steeds. Journeying
 then on that car of great fleetness, Baladeva, that bull of Yadu's race,
 desirous of beholding the approaching encounter of his two disciples
 arrived on the field.""
-"|4|Shalya Parva|319
+"|4|Shalya Parva|319|e74baa709f9f4e488e786730dea6555a
 9|54||"
 
-"|5|Shalya Parva|1
+"|5|Shalya Parva|1|c9ccf4a811424b42a1fa0411e42a2952
 9|55||"
 Vaishampayana said, ""Even thus, O Janamejaya, did that terrible battle
 take place. King Dhritarashtra, in great sorrow, said these words with
@@ -6914,7 +6914,7 @@ armed with mace and clad in armour, the celestials in the welkin
 applauded him, saying, ""Excellent, Excellent!"" The Charanas fleet as air,
 seeing the Kuru king, became filled with delight. Surrounded by the
 Pandavas, thy son, the Kuru king, proceeded, assuming the tread of an
-"|1|Shalya Parva|505
+"|1|Shalya Parva|505|2b8fe54fae7e448f9ca82e30329c4bfe
 9|55||"blare of conchs and the loud peals of drums and the leonine roars of
 heroes. Proceeding with face westwards to the appointed spot, with thy
 son (in their midst), they scattered themselves on every side when they
@@ -6943,7 +6943,7 @@ then ran towards each other like two infuriated elephants, swelling with
 pride and mad with passion in the season of autumn and longing for the
 companionship of a she-elephant in her time. Each seemed to vomit upon
 the other the poison of his wrath like two fiery snakes. Those two
-"|2|Shalya Parva|503
+"|2|Shalya Parva|503|9da98da8b7804a7c92408b5a2a56a9ab
 9|55||"were tigers of Bharata's race, and each was possessed of great prowess.
 In encounters with the mace, those two scorchers of foes were invincible
 like lions. Indeed, O bull of Bharata's race, inspired with desire of
@@ -6974,7 +6974,7 @@ Hearing these words of Duryodhana, they did as requested. Then that large
 concourse of kings sat down and was seen to look resplendent like a
 conclave of celestials in heaven. In the midst of that concourse the
 mighty-armed and handsome elder brother of Keshava, O monarch, as he sat
-"|3|Shalya Parva|517
+"|3|Shalya Parva|517|f8eb359108a144848fc5ccea2a5c9293
 9|55||"Valadeva clad in blue robes and possessed of a fair complexion, looked
 beautiful like the moon at full surrounded in the night by thousands of
 stars. Meanwhile those two heroes, O monarch, both armed with maces and
@@ -6985,7 +6985,7 @@ upon each other, like Shakra and Vritra in fight.""
 
 
 
-"|4|Shalya Parva|107
+"|4|Shalya Parva|107|a3987dd093fd441c969be479a1a97ae0
 9|56||"
 Vaishampayana said, ""At the outset, O Janamejaya a fierce wordy encounter
 took place between the two heroes. With respect to that, king
@@ -7016,7 +7016,7 @@ Animals of diverse forms were seen to run in all directions. Terrible and
 fierce jackals, with blazing mouths, howled everywhere. Loud and terrific
 reports were heard on every side, making the hair stand on end. The four
 quarters seemed to be ablaze and many were the animals of ill omen that
-"|1|Shalya Parva|509
+"|1|Shalya Parva|509|d56225f576ec45699c02fbe048912c07
 9|56||"own accord. Loud sounds came from every side, without, O king, visible
 creatures to utter them. Beholding these and other portents, Vrikodara
 said unto his eldest brother, king Yudhishthira the just, ""This Suyodhana
@@ -7044,7 +7044,7 @@ of this wicked king of the Kurus hath come to an end! After this day, O
 monarch, he shall not again cast his eyes on female beauty! Today this
 disgrace of Santanu's line shall sleep on the bare Earth, abandoning his
 life-breath, his prosperity, and his kingdom! Today king Dhritarashtra
-"|2|Shalya Parva|510
+"|2|Shalya Parva|510|c814144826854706840f66859f6694d9
 9|56||"that were born of Shakuni's brain!"" With these words, O tiger among
 kings, Vrikodara of great energy, armed with mace, stood for fight, like
 Shakra challenging the asura Vritra. Beholding Duryodhana also standing
@@ -7072,7 +7072,7 @@ O wretch of thy race, today I shall destroy thy desire of battle! Mean
 vermin as thou art, know that Duryodhana is not capable, like an
 ordinary person, of being terrified by a person like thee! For a long
 time have I cherished this desire! For a long time hath this wish been in
-"|3|Shalya Parva|507
+"|3|Shalya Parva|507|f3c8bd2fcfb347a2b9366635ae22eb59
 9|56||"encounter with thee! What use of long speeches and empty bragging, O
 wicked-souled one! Accomplish these words of thine in acts. Do not tarry
 at all!"" Hearing these words of his, the Somakas and the other kings that
@@ -7087,7 +7087,7 @@ Pandavas who longed for victory blazed forth of their own accord.'""
 
 
 
-"|4|Shalya Parva|194
+"|4|Shalya Parva|194|648a0ab6c2804399b0eecce76e447ab0
 9|57||"
 ""Sanjaya said, 'Duryodhana, with heart undepressed, beholding Bhimasena
 in that state, rushed furiously against him, uttering a loud roar. They
@@ -7119,7 +7119,7 @@ resembled the bludgeon of Yama or the thunder-bolt of Indra. While
 Bhimasena whirled his weapon, loud and awful was the sound that it
 produced. Beholding his foe, the son of Pandu, thus whirling his mace
 endued with unrivalled impetuosity, Duryodhana became filled with
-"|1|Shalya Parva|514
+"|1|Shalya Parva|514|2728d6301ba5479f89ff3bc31ffc0824
 9|57||"diverse courses, presented a highly beautiful spectacle. Both bent upon
 carefully protecting themselves, as they approached, they repeatedly
 mangled each other like two cats fighting for a piece of meat. Bhimasena
@@ -7151,7 +7151,7 @@ careering in circles on the field of battle, Duryodhana, O monarch,
 suddenly struck him a fierce blow on one of his flanks. Struck by thy
 son, O sire, Bhima began to whirl his heavy mace for returning that blow.
 The spectators, O monarch, beheld that mace of Bhimasena look as terrible
-"|2|Shalya Parva|515
+"|2|Shalya Parva|515|c5e25357a4aa4319becdce5b99305633
 9|57||"his mace, thy son, uplifting his own terrible weapon, struck him again.
 Loud was the sound, O Bharata, produced by the descent of thy son's mace.
 So quick was that descent that it generated a flame of fire in the
@@ -7181,7 +7181,7 @@ to see his own mace thus baffled in that attack. Indeed, he became filled
 with rage like an infuriated elephant at the sight of a rival elephant.
 Adopting the left mandala, O monarch, and whirling his mace, Suyodhana
 then, firmly resolved, struck the son of Kunti on the head with his
-"|3|Shalya Parva|512
+"|3|Shalya Parva|512|46f96c18dd614111b62a0ba168cbe1a8
 9|57||"Pandu, trembled not, O monarch, at which all the spectators wondered
 exceedingly. That amazing patience, O king, of Bhimasena, who stirred not
 an inch though struck so violently, was applauded by all the warriors
@@ -7209,7 +7209,7 @@ race fell upon his knees, a loud cry arose from among the Srinjayas, O
 ruler of the world! Hearing that loud uproar of the Srinjayas, O bull
 among men, thy son became filled with rage. The mighty-armed hero, rising
 up, began to breathe like a mighty snake, and seemed to burn Bhimasena by
-"|4|Shalya Parva|501
+"|4|Shalya Parva|501|b64f3eb295664f52991cf5279fb66dd0
 9|57||"rushed at Bhimasena, as if he would that time crush the head of his
 antagonist in that battle. The high-souled Duryodhana of terrible prowess
 then struck the high-souled Bhimasena on the forehead. The latter,
@@ -7227,7 +7227,7 @@ consciousness, thy son then rose, like an elephant from a lake. That ever
 wrathful monarch and great car-warrior then careering with great skill,
 struck Bhimasena who was standing before him. At this, the son of Pandu,
 with weakened limbs, fell down on the earth.
-"|5|Shalya Parva|304
+"|5|Shalya Parva|304|0622ba0f15fd4d43a041c4fb29ec19b3
 9|57||"""'Having by his energy prostrated Bhimasena on the ground, the Kuru prince
 uttered a leonine roar. By the descent of his mace, whose violence
 resembled that of the thunder, he had fractured Bhima's coat of mail. A
@@ -7242,7 +7242,7 @@ effort.'""
 
 
 
-"|6|Shalya Parva|185
+"|6|Shalya Parva|185|f8b7afbf2c724010acac33843c20015d
 9|58||"
 ""Sanjaya said, 'Beholding that fight thus raging between those two
 foremost heroes of Kuru's race, Arjuna said unto Vasudeva, ""Between these
@@ -7273,7 +7273,7 @@ and peril. This has been an act of great folly on the part of
 Yudhishthira, O Pandava, since he hath made the result of the battle
 depend upon the victory or the defeat of only one warrior! Suyodhana is
 accomplished, he is a hero; he is again firmly resolved. This old verse
-"|1|Shalya Parva|507
+"|1|Shalya Parva|507|bccc21aa029d452286729a9366dc0976
 9|58||"thee with its true sense and meaning! 'Those amongst the remnant of a
 hostile force broken flying away for life, that rally and come back to
 the fight, should always be feared, for they are firmly resolved and have
@@ -7303,7 +7303,7 @@ hostilities, careered in that battle like two angry Yamas. Desirous of
 slaying each other, those two foremost of men, possessed of great
 heroism, fought like two Garudas desirous of catching the same snake.
 While the king and Bhima careered in beautiful circles, their maces
-"|2|Shalya Parva|513
+"|2|Shalya Parva|513|44d3cf02e197468dbf9d3ea57dd8ce84
 9|58||"Those two heroic and mighty warriors struck each other equally in that
 battle. They then resembled, O monarch, two oceans agitated by the
 tempest. Striking each other equally like two infuriated elephants, their
@@ -7333,7 +7333,7 @@ afflicted at that moment. Though deeply afflicted, Bhima sustained
 himself, summoning all his patience. Duryodhana, therefore, regarded him
 to be unmoved and ready to return the blow. It was for this that thy son
 did not then strike him again. Having rested for a little while, the
-"|3|Shalya Parva|502
+"|3|Shalya Parva|502|cd21c2813327420db42e80ec81bc41db
 9|58||"standing near. Beholding Bhimasena of immeasurable energy filled with
 rage and rushing towards him, thy high-souled son, O bull of Bharata's
 race, desiring to baffle his blow, set his heart on the manoeuvre called
@@ -7361,7 +7361,7 @@ of the (Pandava) host uttered loud cries when thy son fell. Loud also
 became the blare of conchs and the peal of drums and cymbals. A terrific
 noise seemed to come from within the bowels of the earth. Upon the fall
 of thy son, O monarch, headless beings of frightful forms, possessed of
-"|4|Shalya Parva|507
+"|4|Shalya Parva|507|8077a51b2c9a4acab7da90ce202c0dd4
 9|58||"dance and cover the earth on all sides. Warriors, O king, that stood with
 standards or weapons in their arms, began to tremble, O king, when thy
 son fell. Lakes and wells, O best of kings, vomited forth blood. Rivers
@@ -7376,7 +7376,7 @@ from which they had come, applauding those two lions among men.""
 
 
 
-"|5|Shalya Parva|194
+"|5|Shalya Parva|194|d3bf7f3cdf2b4c6ebeaa553b2e7caca9
 9|59||"
 ""Sanjaya said, 'Beholding Duryodhana felled upon the earth like a
 gigantic Sala uprooted (by the tempest) the Pandavas became filled with
@@ -7405,7 +7405,7 @@ followers! It matters little whether (as a consequence of those deeds) we
 go to heaven or fall into hell!"" Once more, uplifting the mace that lay
 on his shoulders, he struck with his left foot the head of the monarch
 who was prostrate on the earth, and addressing the deceitful Duryodhana,
-"|1|Shalya Parva|506
+"|1|Shalya Parva|506|0478b4c60bd14b1bbe46815ccc783b1c
 9|59||"were all of righteous souls, beholding the foot of the rejoicing
 Bhimasena of narrow heart placed upon the head of that foremost one of
 Kuru's race, did not at all approve of it. While Vrikodara, after having
@@ -7433,7 +7433,7 @@ dreadful consequences of thy own former acts. Without doubt this sad and
 woeful result had been ordained by the Creator himself, that we should
 injure thee and thou shouldst injure us, O foremost one of Kuru's race!
 Through thy own fault this great calamity has come upon thee, due to
-"|2|Shalya Parva|513
+"|2|Shalya Parva|513|57e6cfdc133046a3941fa999d8003484
 9|59||"brothers and sires and sons and grandsons and others to be all slain,
 thou comest now by thy own death. In consequence of thy fault, thy
 brothers, mighty car-warriors all, and thy kinsmen have been slain by us.
@@ -7453,7 +7453,7 @@ grief, began to breathe hard and indulge in lamentations.'""
 
 
 
-"|3|Shalya Parva|289
+"|3|Shalya Parva|289|1c2166b823b54f6a86d806a96f2e1837
 9|60||"
 ""Dhritarashtra said, 'Beholding the (Kuru) king struck down unfairly,
 what O Suta, did the mighty Baladeva, that foremost one of Yadu's race,
@@ -7484,7 +7484,7 @@ saying, ""There are six kinds of advancement that a person may have: one's
 own advancement, the advancement of one's friends, the advancement of
 one's friends, the decay of one's enemy, the decay of one's enemy's
 friends, and the decay of one's enemy's friends' friends. When reverses
-"|1|Shalya Parva|501
+"|1|Shalya Parva|501|47ea3f8577b2400e9587f7a8f0d5df1b
 9|60||"that one's fall is at hand and, therefore, one should at such times look
 for the means of applying a remedy. The Pandavas of unsullied prowess are
 our natural friends. They are the children of our own sire's sister! They
@@ -7513,7 +7513,7 @@ therefore, and do not give way to wrath! Know that the Kali age is at
 hand. Remember also the vow made by the son of Pandu! Let, therefore, the
 son of Pandu be regarded to have paid off the debt he owed to his
 hostility and to have fulfilled his vow!""'
-"|2|Shalya Parva|499
+"|2|Shalya Parva|499|b58690a189704c69a418de3d1d7a489c
 9|60||"""Sanjaya continued, 'Hearing this fallacious discourse from Keshava, O
 king, Rama failed to dispel his wrath and become cheerful. He then said
 in that assembly, ""Having unfairly slain king Suyodhana of righteous
@@ -7532,7 +7532,7 @@ monarch, became rather cheerless after Rama had set out for Dwaravati.
 Then Vasudeva, approaching Yudhishthira who was exceedingly melancholy
 and filled with anxiety, and who hung down his head and knew not what to
 do in consequence of his deep affliction, said unto him these words:
-"|3|Shalya Parva|319
+"|3|Shalya Parva|319|ad8aa7fa0de2431ba1a283108d1c89de
 9|60||"""'Vasudeva said, ""O Yudhishthira the just, why dost thou sanction this
 unrighteous act, since thou permittest the head of the insensible and
 fallen Duryodhana whose kinsmen and friends have all been slain to be
@@ -7562,7 +7562,7 @@ had won, Vrikodara of great energy, O king, addressed his eldest brother,
 saying, ""The Earth is today thine, O king, without brawls to disturb her
 and with all her thorns removed! Rule over her, O monarch, and observe
 the duties of thy order! He who was the cause of these hostilities and
-"|4|Shalya Parva|503
+"|4|Shalya Parva|503|947ef4f3b6cd44d3bb2b11d092bb898b
 9|60||"deception, lieth, struck down, on the bare ground, O lord of earth! All
 these wretches headed by Duhshasana, who used to utter cruel words, as
 also those other foes of thine, the son of Radha, and Shakuni, have been
@@ -7578,7 +7578,7 @@ been slain!""'""
 
 
 
-"|5|Shalya Parva|202
+"|5|Shalya Parva|202|546bb7a4b8814675bc4fc5a3955592ec
 9|61||"
 ""Dhritarashtra said, 'Beholding Duryodhana struck down in battle by
 Bhimasena, what, O Sanjaya, did the Pandavas and the Srinjayas do?'
@@ -7609,7 +7609,7 @@ luck, thou hast, by thy own energy, placed thy foot on the head of all
 those that had injured the righteous-souled king Yudhishthira! In
 consequence of having vanquished thy foes and of thy having slain
 Duryodhana, by good luck, O Bhima, thy fame hath spread over the whole
-"|1|Shalya Parva|514
+"|1|Shalya Parva|514|6c3f8a42b24b4a99a28fa2b1313e01ab
 9|61||"even as we are now applauding thee, O Bharata, after the fall of thy
 foes! Know, O Bharata, that the joy we felt upon the fall of Duryodhana
 hath not yet abated in the least!"" Even these were the words addressed to
@@ -7639,7 +7639,7 @@ slave, thou hast, it seems, no shame, for hast thou forgotten that I have
 been struck down most unfairly, judged by the rules that prevail in
 encounters with the mace? It was thou who unfairly caused this act by
 reminding Bhima with a hint about the breaking of my thighs! Dost thou
-"|2|Shalya Parva|518
+"|2|Shalya Parva|518|306472fa4e1d495fad922eb8825c8aca
 9|61||"to Bhima? Having caused thousands of kings, who always fought fairly, to
 be slain through diverse kinds of unfair means, feelest thou no shame or
 no abhorrence for those acts? Day after day having caused a great carnage
@@ -7664,7 +7664,7 @@ Bhishma and Drona by fair means, victory then, without doubt, would never
 have been yours. By adopting the most crooked and unrighteous of means
 thou hast caused many kings observant of the duties of their order and
 ourselves also to be slain!""
-"|3|Shalya Parva|441
+"|3|Shalya Parva|441|aba538bc4a2c4eaa951a124413ce0e0f
 9|61||"""'Vasudeva said, ""Thou, O son of Gandhari, hast been slain with thy
 brothers, sons, kinsmen, friends, and followers, only in consequence of
 the sinful path in which thou hast trod! Through thy evil acts those two
@@ -7690,7 +7690,7 @@ listen to the counsels of Brihaspati and Usanas! Thou didst never wait
 upon the old! Thou didst never hear beneficial words! Enslaved by
 ungovernable covetousness and thirst of gain, thou didst perpetrate many
 unrighteous acts! Bear now the consequences of those acts of thine!""
-"|4|Shalya Parva|468
+"|4|Shalya Parva|468|2915276fc16743cd8b7650d701af014c
 9|61||"""'Duryodhana said, ""I have studied, made presents according to the
 ordinance, governed the wide Earth with her seas, and stood over the
 heads of my foes! Who is there so fortunate as myself! That end again
@@ -7722,7 +7722,7 @@ use of weapons! If ye had put forth all your prowess, even then ye could
 never have slain them in battle by fighting fairly! King Duryodhana also
 could never be slain in a fair encounter! The same is the case with all
 those mighty car-warriors headed by Bhishma! From desire of doing good to
-"|5|Shalya Parva|511
+"|5|Shalya Parva|511|7feff4fb7d464dae983c6d911c9cbfa4
 9|61||"slain by diverse means in battle. If I had not adopted such deceitful
 ways in battle, victory would never have been yours, nor kingdom, nor
 wealth! Those four were very high-souled warriors and regarded as
@@ -7740,10 +7740,10 @@ cars."" Hearing these words of Vasudeva, the Pandavas and the Pancalas,
 filled with delight, roared like a multitude of lions. All of them blew
 their conchs and Jadava himself blew Panchajanya, filled with joy, O bull
 among men, at the sight of Duryodhana struck down in battle.'""
-"|6|Shalya Parva|311
+"|6|Shalya Parva|311|c5a4c8b098cc4fd9945a0a64afe170d9
 9|61||"
 
-"|7|Shalya Parva|1
+"|7|Shalya Parva|1|4138cc92016c4c1b873bb33581ddbebb
 9|62||"
 ""Sanjaya said, 'All those kings, possessed of arms that resembled spiked
 bludgeons, then proceeded towards their tents, filled with joy and
@@ -7765,7 +7765,7 @@ engaged, O bull of Bharata's race, in the good of his friend, Keshava,
 addressed the wielder of Gandiva, saying, ""Take down thy Gandiva as also
 the two inexhaustible quivers. I shall dismount after thee, O best of the
 Bharatas! Get thee down, for this is for thy good, O sinless one!""
-"|1|Shalya Parva|366
+"|1|Shalya Parva|366|2058f9b652a54036891dfdce743a62c5
 9|62||"""'Pandu's brave son Dhananjaya did as he was directed. The intelligent
 Krishna, abandoning the reins of the steeds, then dismounted from the car
 of Dhananjaya. After the high-souled Lord of all creatures had dismounted
@@ -7789,7 +7789,7 @@ kinds of weapons. It was because I had sat upon it during battle that it
 did not fall into pieces, O scorcher of foes! Previously consumed by the
 energy of brahmastra, it has been reduced to ashes upon my abandoning it
 after attainment by thee of thy objects!""
-"|2|Shalya Parva|364
+"|2|Shalya Parva|364|4532709649ac416fa6d0980c6493b9ce
 9|62||"""'Then, with a little pride, that slayer of foes, the divine Keshava,
 embracing king Yudhishthira, said unto him, ""By good luck, thou hast won
 the victory, O son of Kunti! By good luck, thy foes have been vanquished!
@@ -7811,7 +7811,7 @@ O king! With his brothers, O king of kings, that hero of true prowess hath
 come out of this dreadful battle, so destructive of heroes, with life!""
 Thus addressed by Krishna, King Yudhishthira the just, with hair standing
 on end, O monarch, said these words unto Janardana:
-"|3|Shalya Parva|328
+"|3|Shalya Parva|328|5dbcf3c8b89940699e6574c9c0856533
 9|62||"""'Yudhishthira said, ""Who else save thee, O grinder of foes, not excepting
 the thunder-wielding Purandara himself, could have withstood the
 brahmastras hurled by Drona and Karna! It was through thy grace that the
@@ -7832,7 +7832,7 @@ that inexhaustible wealth belonging to thee, O bull of Bharata's race,
 those highly blessed ones, whose foe had been slain, uttered loud cries
 of exultation. Having unyoked their animals, the Pandavas and Satyaki
 remained there awhile for resting themselves.
-"|4|Shalya Parva|316
+"|4|Shalya Parva|316|43585d9a3f1544948dc14f876eae3824
 9|62||"""'Then Vasudeva of great renown said, ""We should, as an initiatory act of
 blessedness, remain out of the camp for this night."" Answering, ""So be
 it!"" the Pandavas and Satyaki, accompanied by Vasudeva, went out of the
@@ -7851,7 +7851,7 @@ Gandhari who had lost all her sons in the war.""'""
 
 
 
-"|5|Shalya Parva|267
+"|5|Shalya Parva|267|218cd7feb0804f10ba3cdbd445c561fe
 9|63||"
 Janamejaya said, ""For what reason did that tiger among kings,
 Yudhishthira the just, despatch that scorcher of foes, Vasudeva, unto
@@ -7882,7 +7882,7 @@ the death of her son brought to such a plight by ourselves, she will, in
 wrath, with the fire of her mind, reduce us to ashes! How will Gandhari
 endure such poignant grief, after she hears her son, who always fought
 fairly, slain unfairly by us?' Having reflected in this strain for a long
-"|1|Shalya Parva|508
+"|1|Shalya Parva|508|a5cae9978c094e84a46facc003df5a73
 9|63||"words unto Vasudeva: 'Through thy grace, O Govinda, my kingdom hath been
 reft of thorns! That which we could not in imagination even aspire to
 obtain hath now become ours, O thou of unfading glory! Before my eyes, O
@@ -7911,7 +7911,7 @@ pacifying her! Except thee, O foremost of men, what other person is there
 that is able to even behold that lady of eyes red like copper in wrath
 and exceedingly afflicted with the ills that have befallen her children?
 That thou shouldst go there, O Madhava, is what I think to be proper, for
-"|2|Shalya Parva|520
+"|2|Shalya Parva|520|5c3cea6c846544a3bc1f3c3a62781c45
 9|63||"art the Creator and the Destroyer. Thou art the first cause of all the
 worlds thyself being eternal! By words fraught with reasons, visible and
 invisible that are all the result of time, thou wilt quickly, O thou of
@@ -7940,7 +7940,7 @@ course of time! From a regard for thee, the Pandavas had endeavoured to
 prevent the destruction of their race and the extermination of
 Kshatriyas, O Bharata! Having made an understanding with his brothers,
 the virtuous Yudhishthira had lived peacefully. He even went to exile
-"|3|Shalya Parva|512
+"|3|Shalya Parva|512|666ab33b6e7d4116ad6d6307abd71c84
 9|63||"concealment, attired in various disguises. They also every day got into
 diverse other woes as if they were quite helpless! On the eve of battle I
 myself came and in the presence of all men begged of thee only five
@@ -7968,7 +7968,7 @@ Having caused this slaughter of even foes that wronged him so, he is
 burning day and night, and hath not succeeded in obtaining peace of mind!
 That tiger among men, grieving for thee and for Gandhari, faileth to
 obtain any happiness. Overwhelmed with shame he cometh not before thee
-"|4|Shalya Parva|513
+"|4|Shalya Parva|513|22bfd8a760cf454cb0fb85f95378a5e1
 9|63||"understanding and senses have been agitated by that grief!' Having said
 these words unto Dhritarashtra, that foremost one of Yadu's race, O
 monarch, addressed the grief-stricken Gandhari in these words of high
@@ -7998,7 +7998,7 @@ from visible instances. Having comforted Gandhari and Dhritarashtra,
 Keshava of Madhu's race came to know (by intuition) the evil that was
 meditated by Drona's son. Rising up in haste after worshipping the feet
 of Vyasa bending his head, Keshava, O monarch, addressed Dhritarashtra,
-"|5|Shalya Parva|510
+"|5|Shalya Parva|510|b2da757dcb744a15969376dc22bb31f2
 9|63||"heart on grief! The son of Drona bears an evil purpose. It is for this
 that I rise so suddenly! It seems that he has formed a plan of destroying
 the Pandavas during the night!' Hearing these words, both Gandhari and
@@ -8015,7 +8015,7 @@ with them.""
 
 
 
-"|6|Shalya Parva|227
+"|6|Shalya Parva|227|df1bb0ef935f4b6383b29570ce71a0fa
 9|64||"
 ""Dhritarashtra said, 'Kicked at the head, his thighs broken, prostrated
 on the ground, exceedingly proud, what, O Sanjaya, did my son then say?
@@ -8046,7 +8046,7 @@ Bhurishrava, and Bhishma, and Drona of great prosperity! This is another
 very infamous act that the cruel Pandavas have perpetrated, for which, I
 am certain, they will incur the condemnation of all righteous men! What
 pleasure can a righteously disposed person enjoy at having gained a
-"|1|Shalya Parva|508
+"|1|Shalya Parva|508|c7aa82a0730846d0943424f653bdb2b5
 9|64||"his approbation to a person contravening the rules of fairness? What
 learned man is there that would rejoice after having won victory by
 unrighteousness as that sinful wretch, Vrikodara the son of Pandu,
@@ -8077,7 +8077,7 @@ necessity of serving my foes as masters. By good luck, O lord, it is only
 after my death that my swelling prosperity abandons me for waiting upon
 another! That which is desired by good Kshatriyas observant of the duties
 of their order, that death, is obtained by me! Who is there so fortunate
-"|2|Shalya Parva|515
+"|2|Shalya Parva|515|9659b15d12194171878459c4541a2c80
 9|64||"the path of hostility and to be vanquished like an ordinary person! By
 good luck, I have not been vanquished after I had done some base act!
 Like the slaughter of a person that is asleep or that is heedless, like
@@ -8105,7 +8105,7 @@ soon meet with her death! If Charvaka, the mendicant devotee who is a
 master of speech, learns everything, that blessed man will certainly
 avenge himself of my death! By dying upon the sacred field of
 Samantapanchaka, celebrated over the three worlds, I shall certainly
-"|3|Shalya Parva|504
+"|3|Shalya Parva|504|9a4c8cf860db468ebddfb0914c8b0794
 9|64||"full of tears, fled away in all directions, having heard these
 lamentations of the king. The whole Earth, with her forests and seas,
 with all her mobile and immobile creatures, began to tremble violently,
@@ -8118,7 +8118,7 @@ grief-stricken, to the place they came from.'""
 
 
 
-"|4|Shalya Parva|147
+"|4|Shalya Parva|147|f81b80f9233845db8a149add91a7516b
 9|65||"
 ""Sanjaya said, 'Having heard of Duryodhana's fall from the messengers,
 those mighty car-warriors, the unslain remnant of the Kaurava army,
@@ -8148,7 +8148,7 @@ the world of men, since thou, O tiger among men, liest on the bare earth,
 stained with dust! Thou wert a king who had laid thy commands on the
 whole Earth! Why then, O foremost of monarchs, dost thou lie alone on the
 bare ground in such a lonely wilderness? I do not see Duhshasana beside
-"|1|Shalya Parva|516
+"|1|Shalya Parva|516|db8cea18c359481cb4d88cf88f9bc50c
 9|65||"numbering in hundreds! What is this, O bull among men? Without doubt, it
 is difficult to learn the ways of Yama, since thou, O lord of all the
 worlds, thus liest on the bare ground, stained with dust! Alas, this
@@ -8178,7 +8178,7 @@ kinsmen and friends. By good luck, I behold you escaped with life from
 this great slaughter, and safe and sound. This is highly agreeable to me.
 Do not, from affection, grieve for my death. If the Vedas are any
 authority, I have certainly acquired many eternal regions! I am not
-"|2|Shalya Parva|502
+"|2|Shalya Parva|502|cbee4cb04e9a4f69800263ff16cc5988
 9|65||"caused me to fall off from the proper observance of Kshatriya duties. I
 have obtained him. On no account should anybody grieve from me. Ye have
 done what persons like ye should do. Ye have always striven for my
@@ -8206,11 +8206,11 @@ the command of the king, even a Brahmana may fight, specially one that
 has adopted Kshatriya practices! Those learned in the scriptures say
 this!"" Hearing these words of the king, Kripa, the son of Saradwat,
 installed Drona's son as generalissimo, at the king's command! The
-"|3|Shalya Parva|504
+"|3|Shalya Parva|504|ec4b9389ac8341b286dc68b6a92a55fd
 9|65||"left the spot, having caused the ten points to resound with his leonine
 roars. That foremost of kings, Duryodhana, profusely covered with blood,
 began to pass there that night so frightful to all creatures. Wending
 away quickly from the field of battle, O king, those heroes, with hearts
 agitated by grief, began to reflect anxiously and earnestly.'""
 
-The End of Shalya-parva."|4|Shalya Parva|86
+The End of Shalya-parva."|4|Shalya Parva|86|b01e0ea7cbb143f79629db9d253b055e

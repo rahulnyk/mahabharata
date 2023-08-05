@@ -1,4 +1,4 @@
-book_number|section|section_name|text|para_number|book_name|num_tokens
+book_number|section|section_name|text|para_number|book_name|num_tokens|chunk_id
 16|NA|NA|"The Mahabharata
 
 of
@@ -24,7 +24,7 @@ formatting at sacred-texts.com, by J. B. Hare, October 2003.
 
 
 
-"|1|Mausala Parva|94
+"|1|Mausala Parva|94|a50c28b4db564c62be25c055d4fcd6ce
 16|1||"
 Om! Having bowed down unto Narayana, and to Nara, the foremost of men, as
 also to the goddess Sarasvati, should the word ""Jaya"" be uttered.
@@ -53,7 +53,7 @@ those heroes could not believe. In fact the destruction of the wielder of
 Saranga was incredible to them. Informed of the incident about the iron
 bolt, the Pandavas became filled with grief and sorrow. In fact, they sat
 down, utterly cheerless and penetrated with blank despair.'
-"|1|Mausala Parva|474
+"|1|Mausala Parva|474|064716bafc934ab4870320c69fc9be5c
 16|1||"""Janamejaya said: 'Indeed, O holy one, how was it that the Andhakas along
 with Vrishnis, and those great car-warriors, the Bhojas, met with
 destruction in the very sight of Vasudeva?'
@@ -82,7 +82,7 @@ become the exterminators of your race with the exception of Rama and
 Janarddana. The blessed hero armed with the plough will enter the ocean,
 casting off his body, while a hunter of the name of Jara will pierce the
 high-souled Krishna while lying on the ground.""
-"|2|Mausala Parva|425
+"|2|Mausala Parva|425|3b10308f87754108b8d5fe7e8a48325a
 16|1||"""'Endeavoured to be deceived by those wicked ones, those ascetics, with
 eyes red in wrath, looked at each other and uttered those words. Having
 said so they then proceeded to see Keshava. The slayer of Madhu, informed
@@ -107,10 +107,10 @@ impaled alive with all his kinsmen. Through fear of the king, and knowing
 that it was the command of Rama also of unimpeachable deeds, all the
 citizens bound themselves by a rule and abstained from manufacturing
 wines and spirits.'""
-"|3|Mausala Parva|404
+"|3|Mausala Parva|404|29b670e6c80f4fcb92a465b5361b9716
 16|1||"
 
-"|4|Mausala Parva|1
+"|4|Mausala Parva|1|6cc657cf91844c9b94fec5290cdf8a3c
 16|2||"
 ""Vaishampayana said: 'While the Vrishnis and the Andhakas were thus
 endeavouring (to avoid the impending calamity), the embodied form of Time
@@ -140,7 +140,7 @@ when ignited, cast their flames towards the left. Sometimes they threw
 out flames whose splendour was blue and red. The Sun, whether when rising
 or setting over the city, seemed to be surrounded by headless trunks of
 human form. In cook rooms, upon food that was clean and well-boiled, were
-"|1|Mausala Parva|505
+"|1|Mausala Parva|505|a66e8b8709264ce289881ef8413abb2a
 16|2||"kinds. When Brahmanas, receiving gifts, blessed the day or the hour
 (fixed for this or that undertaking) or when high-souled men were engaged
 in silent recitations, the heavy tread was heard of innumerable men
@@ -167,10 +167,10 @@ the Vrishnis to make a pilgrimage to some sacred water. The messengers
 forthwith proclaimed at the command of Keshava that the Vrishnis should
 make a journey to the sea-coast for bathing in the sacred waters of the
 ocean.'""
-"|2|Mausala Parva|439
+"|2|Mausala Parva|439|2f63152973e94609baefcf348b6aa04a
 16|2||"
 
-"|3|Mausala Parva|1
+"|3|Mausala Parva|1|dab36cf5b06c47699de93f5c1e290c7a
 16|3||"
 ""Vaishampayana said: 'At that time the Vrishni ladies dreamed every night
 that a woman of black complexion and white teeth, entering their abodes,
@@ -200,7 +200,7 @@ city on cars and steeds and elephants. The Yadavas, then, with their
 wives, proceeded to Prabhasa and took up their residence there, each in
 the (temporary) habitation that was assigned to him, and all having an
 abundance of provisions consisting of edibles and drink.
-"|1|Mausala Parva|507
+"|1|Mausala Parva|507|fe6db85bd66d4dd288877a901ce9ece1
 16|3||"""'Hearing that they had taken up their abode on the sea-coast, Uddhava,
 the wisest of men, who was, besides, well-versed in Yoga, proceeded there
 and took his leave (for departing). Krishna, with joined hands, saluted
@@ -223,7 +223,7 @@ Hence, O son of Hridika, the Yadavas will never tolerate what thou hast
 done."" When Yuyudhana had said these words, Pradyumna, that foremost of
 car-warriors, applauded them, expressing his disregard for the son of
 Hridika.
-"|2|Mausala Parva|405
+"|2|Mausala Parva|405|4af674302a8a41ac805e9577582efef6
 16|3||"""'Highly incensed at this, Kritavarma, emphasising his disregard for
 Satyaki, by pointing to him with his left hand, said these words:
 ""Professing thyself to be a hero, how couldst thou so cruelly slay the
@@ -242,7 +242,7 @@ and of Dhrishtadyumna and Shikhandi, they that were slain by this sinful
 wretch, while they were asleep, with the assistance of Drona's son. O thou
 of slender waist, Kritavarma's period of life and fame have come to their
 end.""
-"|3|Mausala Parva|308
+"|3|Mausala Parva|308|dea54c43253f4d4394842a85673ad660
 16|3||"""'Having said these words, Satyaki rushed at Kritavarma and severed his
 head with a sword in the very sight of Keshava. Yuyudhana, having
 achieved this feat, began to strike down others there present. Hrishikesa
@@ -271,7 +271,7 @@ there was seen to be converted into a terrible iron bolt. All this, know,
 O king, was due to the curse denounced by Brahmanas. He who hurled a
 blade of grass saw that it pierced through even such things as were
 utterly impenetrable. In fact, every blade was seen to become a terrible
-"|4|Mausala Parva|513
+"|4|Mausala Parva|513|6d07cf17fc144d07b43cb8588f6c5d7b
 16|3||"Bharata. Inebriated with wine, they rushed and fell upon one another. The
 Kukuras and the Andhakas met with destruction like insects rushing at a
 blazing fire. As they were thus being slaughtered, no one among them
@@ -289,7 +289,7 @@ to go there where he has proceeded.""'""
 
 
 
-"|5|Mausala Parva|256
+"|5|Mausala Parva|256|d45b118462784fb59f8530b4d32c00a8
 16|4||"
 ""Vaishampayana said: 'Then Daruka and Keshava and Vabhru left that spot,
 following in the wake of Rama (for discovering his retreat). They beheld
@@ -312,7 +312,7 @@ solitary survivor of the Yadava race and slew him, who also had been
 included in the curse of the Brahmanas. Beholding Vabhru slain, Keshava
 of great energy addressed his elder brother and said, ""Do thou, O Rama
 wait for me here till I place the ladies under the care of kinsmen.""
-"|1|Mausala Parva|370
+"|1|Mausala Parva|370|998be5c6bdaa4aa1aab4003de8ba6c3a
 16|4||"""'Entering the city of Dwaravati, Janardana said these words unto his
 father, ""Do thou protect all the ladies of our house, till Dhananjaya
 comes. At the skirts of the forest Rama is waiting for me. I shall meet
@@ -342,7 +342,7 @@ high-souled Dhritarashtra, and Hrada and Kratha and Sitikantha of fierce
 energy, and Chakramanda and Atishanda, and that foremost of Nagas called
 Durmukha, and Amvarisha, and king Varuna himself, O monarch. Advancing
 forward and offering him the Arghya and water to wash his feet, and with
-"|2|Mausala Parva|509
+"|2|Mausala Parva|509|3e6c638def83471cbd04edcc0f7b68e2
 16|4||"by making the usual enquiries.
 
 ""'After his brother had thus departed from the (human) world, Vasudeva of
@@ -374,7 +374,7 @@ filling the entire welkin with splendour. When he reached Heaven, Vasava
 and the twin Ashvinis and Rudra and the Adityas and the Vasus and the
 Viswedevas, and Munis and Siddhas and many foremost ones among the
 Gandharvas, with the Apsaras, advanced to receive him. Then, O king, the
-"|3|Mausala Parva|501
+"|3|Mausala Parva|501|f389a2dfe7bb4e11b5c0cb6bb8b45d1d
 16|4||"that preceptor of Yoga, filling Heaven with his splendour, reached his
 own inconceivable region. Krishna then met the deities and (celestial)
 Rishis and Charanas, O king, and the foremost ones among the Gandharvas
@@ -386,7 +386,7 @@ joyfully praised him.'""
 
 
 
-"|4|Mausala Parva|137
+"|4|Mausala Parva|137|4a934053c64746f1b83c7e7882e8214a
 16|5||"
 ""Vaishampayana said: 'Meanwhile Daruka, going to the Kurus and seeing
 those mighty car-warriors, the son of Pritha, informed them of how the
@@ -416,7 +416,7 @@ agreeable river now seemed to Arjuna to be the fierce Vaitarani bound up
 with Time's net. Indeed, the son of Vasava, endued with great
 intelligence, beheld the city to look even thus, reft as it was of the
 Vrishni heroes. Shorn of beauty, and perfectly cheerless, it presented
-"|1|Mausala Parva|516
+"|1|Mausala Parva|516|845e18a8c3e244fb8b968bc8fbbb1f42
 16|5||"that Dwaraka presented, and seeing the numerous wives of Krishna, Arjuna
 wailed aloud with eyes bathed in tears and fell down on the earth. Then
 Satya, the daughter of Satrajit, and Rukmini too, O king, fell down
@@ -428,7 +428,7 @@ proceeded to see his maternal uncle.'""
 
 
 
-"|2|Mausala Parva|138
+"|2|Mausala Parva|138|8ca3d3ec4e6f4e1b9122124f5d459d22
 16|6||"
 ""Vaishampayana said: 'The Kuru prince beheld the heroic and high-souled
 Anakadundubhi lying on the ground and burning with grief on account of
@@ -458,7 +458,7 @@ pride, and Ekalavya, the son of the ruler of the Nishadas, and the
 Kalingas and the Magadhas, and the Gandharas and the king of Kasi, and
 many rulers assembled together in the midst of the desert, many heroes
 belonging to the East and the South, and many kings of the mountainous
-"|1|Mausala Parva|516
+"|1|Mausala Parva|516|f44d06d1118e4547bf8537238a1eb4d6
 16|6||"curse denounced by the Rishis? Thyself, Narada, and the Munis, knew him
 to be the eternal and sinless Govinda, the Deity of unfading glory. Alas,
 being puissant Vishnu himself, he witnessed, without interfering, the
@@ -486,13 +486,13 @@ do not know. Thinking of those two high-souled brothers of thine, as also
 of the terrible carnage of my kinsmen, I have abstained from all food,
 and am emaciated with grief. I shall neither eat, nor live. By good luck
 thou meetest me, O son of Pandu. Do thou accomplish all, O Partha, that
-"|2|Mausala Parva|522
+"|2|Mausala Parva|522|a6ecca90c96b4ca9b6d5184ddceca382
 16|6||"here, is thine now, O son of Pritha. As regards myself, O slayer of foes,
 I shall cast off my life-breaths dear though they be.""'""
 
 
 
-"|3|Mausala Parva|39
+"|3|Mausala Parva|39|391839b903a747c280b7fb834de4fc29
 16|7||"
 ""Vaishampayana said: 'That scorcher of foes, Vibhatsu, thus addressed by
 his maternal uncle, replied, with great cheerlessness of heart, unto
@@ -519,7 +519,7 @@ Andhakas. The sea will soon engulf this city. Equip all your cars and
 place on them all your wealth. This Vajra (the grandson of Krishna) will
 be your king at Shakraprastha. On the seventh day from this, at sunrise,
 we shall set out. Make your preparations without delay.""
-"|1|Mausala Parva|449
+"|1|Mausala Parva|449|bef68076c57b4da9a27c9a9a46cce0ae
 16|7||"""'Thus addressed by Pritha's son of pure deeds, all of them hastened their
 preparations with eagerness for achieving their safety. Arjuna passed
 that night in the mansion of Keshava. He was suddenly overwhelmed with
@@ -550,7 +550,7 @@ wood. As the funeral pyre blazed up, a loud sound was heard of the
 burning wood and other combustible materials, along with the clear chant
 of Samans and the wailing of the citizens and others who witnessed the
 rite. After it was all over, the boys of the Vrishni and Andhaka races,
-"|2|Mausala Parva|507
+"|2|Mausala Parva|507|2e8cdd0cb76e409e89db075c791a16f8
 16|7||"high-souled hero.
 
 ""'Phalguna, who was careful in observing every duty, having caused this
@@ -581,7 +581,7 @@ Vajra, the grandson of the intelligent Krishna. The widows of the other
 heroes of the Bhoja, the Vrishni, and the Andhaka races, lordless now,
 that set out with Arjuna, numbered many millions. That foremost of
 car-warriors, that conqueror of hostile towns, the son of Pritha,
-"|3|Mausala Parva|516
+"|3|Mausala Parva|516|6ace3ec9c2de4621903e5b0ff4e9fb11
 16|7||"wealth, and which looked like a veritable ocean.
 
 ""'After all the people had set out, the ocean, that home of sharks and
@@ -612,7 +612,7 @@ love your lives. Ye will rue this when I pierce your bodies with my
 shafts and take your lives."" Though thus addressed by that hero, they
 disregarded his words, and though repeatedly dissuaded, they fell upon
 Arjuna. Then Arjuna endeavoured to string his large, indestructible,
-"|4|Mausala Parva|501
+"|4|Mausala Parva|501|ab71a732ca744546a261913f9af563d8
 16|7||"stringing it, when the battle had become furious. He then began to think
 of his celestial weapons but they would not come to his mind. Beholding
 that furious battle, the loss of the might of his arm, and the
@@ -642,7 +642,7 @@ remnant of the Vrishni women, and the wealth that was still with them,
 reached Kurukshetra. Thus bringing with him the remnant of the Vrishnis,
 he established them at different places. He established the son of
 Kritavarma at the city called Marttikavat, with the remnant of the women
-"|5|Mausala Parva|510
+"|5|Mausala Parva|510|eb2e8b29316a4a2287c6c1542f96f46e
 16|7||"women, the son of Pandu established them, who were reft of heroes, in the
 city of Indraprastha. The dear son of Yuyudhana, with a company of old
 men and children and women, the righteous-souled Arjuna established on
@@ -662,7 +662,7 @@ Rishi seated at his ease.'""
 
 
 
-"|6|Mausala Parva|300
+"|6|Mausala Parva|300|4a6182bea88f400cb368b6833858a3a8
 16|8||"
 ""Vaishampayana said: 'As Arjuna entered the asylum of the truthful Rishi,
 he beheld the son of Satyavati seated in a secluded spot.
@@ -693,7 +693,7 @@ might, and leonine pride, have slaughtered one another in battle.
 Possessed of arms that looked like maces of iron, and capable of bearing
 the strokes of heavy clubs and darts, alas, they have all been slain with
 blades of Eraka grass. Behold the perverse course of Time. 500,000
-"|1|Mausala Parva|505
+"|1|Mausala Parva|505|11e2062a17a44317818cafa21aac90f5
 16|8||"they have met with destruction. Thinking repeatedly of this carnage of
 the Yadava warriors of immeasurable energy and of the illustrious
 Krishna, I fail to derive peace of mind. The death of the wielder of
@@ -722,7 +722,7 @@ despair, I fail to obtain peace of mind. I dare not live, reft of the
 heroic Janardana. As soon as I heard that Vishnu had left the Earth, my
 eyes became dim and all things disappeared from my vision. O best of men,
 it behoveth thee to tell me what is good for me now, for I am now a
-"|2|Mausala Parva|505
+"|2|Mausala Parva|505|748064dbed344daf9466bec16d37ba84
 16|8||"possession.""
 
 ""'Vyasa said, ""The mighty car-warriors of the Vrishni and the Andhaka races
@@ -753,7 +753,7 @@ position, becomes a servant for obeying the behests of others. Thy
 weapons, having achieved success, have gone away to the place they came
 from. They will, again, come into thy hands when the Time for their
 coming approaches. The time has come, O Bharata, for you all to attain to
-"|3|Mausala Parva|504
+"|3|Mausala Parva|504|907f988e464540369ef6bf94a17aaeff
 16|8||"you all, O chief of Bharata's race.""
 
 ""Vaishampayana continued: 'Having heard these words of Vyasa of
@@ -763,4 +763,4 @@ approached Yudhishthira and informed him of all that had taken place with
 reference to the Vrishnis.'""
 
 The end of Mausala-parva.
-"|4|Mausala Parva|87
+"|4|Mausala Parva|87|41e26bd1ee8f4e4b9da0785702648bdb
