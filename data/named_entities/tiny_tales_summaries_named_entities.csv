@@ -553,14 +553,14 @@ Janamejaya|PER|cid_83459627ab274af48f2617c70182ec7c|4|tiny_tales_summaries.csv
 Janamejaya|PER|cid_98f0a82cc2c5407f82eb46a9837b7159|1|tiny_tales_summaries.csv
 Janamejaya|PER|cid_9cff99b712f04e62b45edccdeb565f55|1|tiny_tales_summaries.csv
 Janamejaya|PER|cid_eb35b1e1343e47749c9e691414247c08|2|tiny_tales_summaries.csv
-Janamejaya.|PER|cid_023b20c07c0341f7899c957bbefdd88e|1|tiny_tales_summaries.csv
+Janamejaya|PER|cid_023b20c07c0341f7899c957bbefdd88e|1|tiny_tales_summaries.csv
 Jara|PER|cid_aff3998f5bb342c099c4622246d9f862|1|tiny_tales_summaries.csv
 Jara|PER|cid_c21d30059e194b7191494fd2ec1bf980|2|tiny_tales_summaries.csv
 Jayadratha|PER|cid_1145aff922d84365af4713bd172b3c39|5|tiny_tales_summaries.csv
 Jayadratha|PER|cid_1267c7f3a39744708b245add17c305b7|4|tiny_tales_summaries.csv
 Jayadratha|PER|cid_abb949b864a240e8ab49713a39ce2b27|1|tiny_tales_summaries.csv
 Jayadratha|PER|cid_f76f28cb375b4008a274eefa26a134ec|3|tiny_tales_summaries.csv
-Jayadratha,|PER|cid_f76f28cb375b4008a274eefa26a134ec|1|tiny_tales_summaries.csv
+Jayadratha|PER|cid_f76f28cb375b4008a274eefa26a134ec|1|tiny_tales_summaries.csv
 Kali|PER|cid_1b3f827512f648f49ff2a71098f817a0|1|tiny_tales_summaries.csv
 Kali|PER|cid_201d6342fa3f4486b0a246583f598772|2|tiny_tales_summaries.csv
 Kali|PER|cid_6e7f65be29794efb85cb03c8d74237f8|1|tiny_tales_summaries.csv
@@ -761,7 +761,7 @@ Kunti and Gandhari|PER|cid_4944671c3c6d40629ae6d733c4475316|1|tiny_tales_summari
 Kuru|PER|cid_246c5c09e9404163882e99ba87e33f8a|4|tiny_tales_summaries.csv
 Kuru|PER|cid_4afbac10710d43ce95d99fe233e91cf3|1|tiny_tales_summaries.csv
 Kuru|PER|cid_83459627ab274af48f2617c70182ec7c|1|tiny_tales_summaries.csv
-Kuru-Field.|MISC|cid_246c5c09e9404163882e99ba87e33f8a|1|tiny_tales_summaries.csv
+Kuru-Field|MISC|cid_246c5c09e9404163882e99ba87e33f8a|1|tiny_tales_summaries.csv
 Kuru-kshetra|LOC|cid_246c5c09e9404163882e99ba87e33f8a|1|tiny_tales_summaries.csv
 Kurukshetra|LOC|cid_002dab4dd3644544b0376d73f5332a56|1|tiny_tales_summaries.csv
 Kurukshetra|LOC|cid_3fd431bac6ea48408449ea2b153f0f8f|1|tiny_tales_summaries.csv
@@ -871,7 +871,7 @@ Pandu|PER|cid_719c98bdce254df9b21e22a8b2ce8405|1|tiny_tales_summaries.csv
 Pandu|PER|cid_72be4cf328a749138c180bb143081630|1|tiny_tales_summaries.csv
 Pandu|PER|cid_f0d34d5f629742a4b0403b5a5a694353|1|tiny_tales_summaries.csv
 Pandu the Pale|PER|cid_f0d34d5f629742a4b0403b5a5a694353|1|tiny_tales_summaries.csv
-Pandu,|PER|cid_bd069516ad834046a3eadc5c68b7ea2d|1|tiny_tales_summaries.csv
+Pandu|PER|cid_bd069516ad834046a3eadc5c68b7ea2d|1|tiny_tales_summaries.csv
 Parashara|PER|cid_0926195140d545eb88d41a372bae32d2|1|tiny_tales_summaries.csv
 Parashurama|MISC|cid_38aa2514395d435f8727a920329703f2|1|tiny_tales_summaries.csv
 Parashurama|PER|cid_5f7d365beb5e47fe902f2ab4be94b280|1|tiny_tales_summaries.csv
@@ -990,7 +990,7 @@ Shikhandini|PER|cid_24d694f83c0b4167961ce4cd58cda708|2|tiny_tales_summaries.csv
 Shikhandini|PER|cid_4a8faa8335b44a6ba822d7468de481b5|2|tiny_tales_summaries.csv
 Shikhandini|PER|cid_e269bb8f5ea14d4589f8ca5fec22fe0a|1|tiny_tales_summaries.csv
 Shishupala|PER|cid_2ad7f2c3e27b4b23ab9c6c2dcb1ff997|5|tiny_tales_summaries.csv
-Shishupala,|PER|cid_2ad7f2c3e27b4b23ab9c6c2dcb1ff997|1|tiny_tales_summaries.csv
+Shishupala|PER|cid_2ad7f2c3e27b4b23ab9c6c2dcb1ff997|1|tiny_tales_summaries.csv
 Shiva|MISC|cid_e59a70b541c14d138374ca4df1def0ef|1|tiny_tales_summaries.csv
 Shiva|PER|cid_24d694f83c0b4167961ce4cd58cda708|2|tiny_tales_summaries.csv
 Shiva|PER|cid_2c17ecb6762547e3bb01a95b6f65e9d1|2|tiny_tales_summaries.csv
@@ -1018,7 +1018,7 @@ Sudarshana-Chakra|MISC|cid_a84a8a05be5f47078dfe0ce099749c62|1|tiny_tales_summari
 Sudeshna|PER|cid_3b4870c8bced464ca25632af977608cf|1|tiny_tales_summaries.csv
 Sudeshna|PER|cid_63882153ea4e458fb265d4dde06e4455|1|tiny_tales_summaries.csv
 Sudeshna|PER|cid_da364f358c714d71be71517c4c616497|1|tiny_tales_summaries.csv
-Sughada,|PER|cid_8eab8a5a3eba4bb7842d645187f4348d|1|tiny_tales_summaries.csv
+Sughada|PER|cid_8eab8a5a3eba4bb7842d645187f4348d|1|tiny_tales_summaries.csv
 Sugriva|PER|cid_aff3998f5bb342c099c4622246d9f862|1|tiny_tales_summaries.csv
 Sulochana|PER|cid_674b31b7880647269b35261e48681ed2|1|tiny_tales_summaries.csv
 Sunda|PER|cid_f2f327348d9047e9b30267b78498eb83|3|tiny_tales_summaries.csv
@@ -1115,7 +1115,7 @@ Vidura|PER|cid_fefc36c457b7441bae3089bbb91ff336|2|tiny_tales_summaries.csv
 Vikarna|PER|cid_7a34c85198384cad95ddde8302a2b7bf|1|tiny_tales_summaries.csv
 Vikarna|PER|cid_cc9da186591c4b97b46d6ae3a2c030c1|4|tiny_tales_summaries.csv
 Vinda|PER|cid_674b31b7880647269b35261e48681ed2|1|tiny_tales_summaries.csv
-Virajas.|PER|cid_674b31b7880647269b35261e48681ed2|1|tiny_tales_summaries.csv
+Virajas|PER|cid_674b31b7880647269b35261e48681ed2|1|tiny_tales_summaries.csv
 Virata|PER|cid_3b4870c8bced464ca25632af977608cf|1|tiny_tales_summaries.csv
 Virata|PER|cid_63882153ea4e458fb265d4dde06e4455|2|tiny_tales_summaries.csv
 Virata|PER|cid_9cadd8a24afe4af9afed38527c7e923c|1|tiny_tales_summaries.csv

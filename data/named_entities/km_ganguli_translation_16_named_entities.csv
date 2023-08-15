@@ -1,7 +1,6 @@
 name|entity|chunk_id|count|file
-'Phalguna|PER|cid_6ace3ec9c2de4621903e5b0ff4e9fb11|1|km_ganguli_translation_16.csv
-'Vyasa|PER|cid_907f988e464540369ef6bf94a17aaeff|1|km_ganguli_translation_16.csv
-)|MISC|cid_a66e8b8709264ce289881ef8413abb2a|1|km_ganguli_translation_16.csv
+Phalguna|PER|cid_6ace3ec9c2de4621903e5b0ff4e9fb11|1|km_ganguli_translation_16.csv
+Vyasa|PER|cid_907f988e464540369ef6bf94a17aaeff|1|km_ganguli_translation_16.csv
 Abhiras|MISC|cid_ab71a732ca744546a261913f9af563d8|1|km_ganguli_translation_16.csv
 Adityas|MISC|cid_f389a2dfe7bb4e11b5c0cb6bb8b45d1d|1|km_ganguli_translation_16.csv
 Agni|PER|cid_fe6db85bd66d4dd288877a901ce9ece1|1|km_ganguli_translation_16.csv
@@ -134,7 +133,7 @@ Indra|PER|cid_4a934053c64746f1b83c7e7882e8214a|1|km_ganguli_translation_16.csv
 Indra|PER|cid_eb2e8b29316a4a2287c6c1542f96f46e|1|km_ganguli_translation_16.csv
 Indraprastha|LOC|cid_4a6182bea88f400cb368b6833858a3a8|2|km_ganguli_translation_16.csv
 Indraprastha|LOC|cid_bef68076c57b4da9a27c9a9a46cce0ae|1|km_ganguli_translation_16.csv
-Island-|MISC|cid_4a6182bea88f400cb368b6833858a3a8|1|km_ganguli_translation_16.csv
+Island|MISC|cid_4a6182bea88f400cb368b6833858a3a8|1|km_ganguli_translation_16.csv
 J. B. Hare|PER|cid_a50c28b4db564c62be25c055d4fcd6ce|1|km_ganguli_translation_16.csv
 Jamvabati|PER|cid_4a6182bea88f400cb368b6833858a3a8|1|km_ganguli_translation_16.csv
 Janamejaya|PER|cid_3b10308f87754108b8d5fe7e8a48325a|2|km_ganguli_translation_16.csv
@@ -218,7 +217,7 @@ Madhu|PER|cid_f44d06d1118e4547bf8537238a1eb4d6|1|km_ganguli_translation_16.csv
 Madira|PER|cid_2e8cdd0cb76e409e89db075c791a16f8|1|km_ganguli_translation_16.csv
 Magadhas|MISC|cid_f44d06d1118e4547bf8537238a1eb4d6|1|km_ganguli_translation_16.csv
 Mantra Caitanya|PER|cid_a50c28b4db564c62be25c055d4fcd6ce|1|km_ganguli_translation_16.csv
-Mausala-parva.|MISC|cid_41e26bd1ee8f4e4b9da0785702648bdb|1|km_ganguli_translation_16.csv
+Mausala-parva|MISC|cid_41e26bd1ee8f4e4b9da0785702648bdb|1|km_ganguli_translation_16.csv
 Misri|PER|cid_3e6c638def83471cbd04edcc0f7b68e2|1|km_ganguli_translation_16.csv
 Mlecchas|MISC|cid_eb2e8b29316a4a2287c6c1542f96f46e|1|km_ganguli_translation_16.csv
 Moon|LOC|cid_064716bafc934ab4870320c69fc9be5c|1|km_ganguli_translation_16.csv
@@ -361,8 +360,8 @@ Time|MISC|cid_2f63152973e94609baefcf348b6aa04a|2|km_ganguli_translation_16.csv
 Time|MISC|cid_907f988e464540369ef6bf94a17aaeff|2|km_ganguli_translation_16.csv
 Time|PER|cid_3b10308f87754108b8d5fe7e8a48325a|1|km_ganguli_translation_16.csv
 Time|PER|cid_6d07cf17fc144d07b43cb8588f6c5d7b|1|km_ganguli_translation_16.csv
-Time (|MISC|cid_a66e8b8709264ce289881ef8413abb2a|1|km_ganguli_translation_16.csv
-Time's net|MISC|cid_845e18a8c3e244fb8b968bc8fbbb1f42|1|km_ganguli_translation_16.csv
+Time |MISC|cid_a66e8b8709264ce289881ef8413abb2a|1|km_ganguli_translation_16.csv
+Times net|MISC|cid_845e18a8c3e244fb8b968bc8fbbb1f42|1|km_ganguli_translation_16.csv
 Uddhava|PER|cid_4af674302a8a41ac805e9577582efef6|3|km_ganguli_translation_16.csv
 Ugrasena|PER|cid_29b670e6c80f4fcb92a465b5361b9716|1|km_ganguli_translation_16.csv
 Vabhru|PER|cid_29b670e6c80f4fcb92a465b5361b9716|1|km_ganguli_translation_16.csv

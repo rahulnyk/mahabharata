@@ -1,8 +1,6 @@
 name|entity|chunk_id|count|file
-'Ashvatthama|PER|cid_ed7b94d15c074d779dc1c52262ce7067|1|km_ganguli_translation_10.csv
-(Vyasa|PER|cid_04b87342d0f5419c9f055830fab018ad|1|km_ganguli_translation_10.csv
-,|MISC|cid_8acfc062c8ac43729627da50aa05d14c|1|km_ganguli_translation_10.csv
--|MISC|cid_9f808cebeec74bf58ba0d35635529e7e|1|km_ganguli_translation_10.csv
+Ashvatthama|PER|cid_ed7b94d15c074d779dc1c52262ce7067|1|km_ganguli_translation_10.csv
+Vyasa|PER|cid_04b87342d0f5419c9f055830fab018ad|1|km_ganguli_translation_10.csv
 Agastya|PER|cid_20e266e06cca4edd978ba2503abe0542|1|km_ganguli_translation_10.csv
 Akshauhinis|MISC|cid_2d4c86214b8944ae8f6cda5c1d6d5d7b|1|km_ganguli_translation_10.csv
 Akshauhinis|MISC|cid_ec9554f69d374228af7b39bbbd0edbe6|1|km_ganguli_translation_10.csv
@@ -403,7 +401,7 @@ Nakula|PER|cid_75f1737b083c48f79e8dab7850c162b9|2|km_ganguli_translation_10.csv
 Nakula|PER|cid_d3b7c6a84b984a129b23787dff2d8750|1|km_ganguli_translation_10.csv
 Nara|PER|cid_2cfbe9638e8e40b2ac9201a55b6dfd11|1|km_ganguli_translation_10.csv
 Narada|PER|cid_8a76ca3b704a403ca5ff697fe2749656|1|km_ganguli_translation_10.csv
-Narada,|PER|cid_04b87342d0f5419c9f055830fab018ad|1|km_ganguli_translation_10.csv
+Narada|PER|cid_04b87342d0f5419c9f055830fab018ad|1|km_ganguli_translation_10.csv
 Narayana|PER|cid_2cfbe9638e8e40b2ac9201a55b6dfd11|1|km_ganguli_translation_10.csv
 Night|MISC|cid_2bb1b947d10f4982a2f2b4eb8a4ef80c|1|km_ganguli_translation_10.csv
 O|MISC|cid_00218a5145a34497a2bda522359e3640|2|km_ganguli_translation_10.csv
@@ -431,7 +429,7 @@ O Bharata|PER|cid_f830b613816040bf8488dc4e31e7f31c|2|km_ganguli_translation_10.c
 O Brahmana|MISC|cid_4b8918bfd64d4b7ab450b0097acd3d4d|1|km_ganguli_translation_10.csv
 O Dasharha|MISC|cid_20e266e06cca4edd978ba2503abe0542|1|km_ganguli_translation_10.csv
 O Grandsire|MISC|cid_22ba9dab07744c559a8718e7d5e4dbcd|1|km_ganguli_translation_10.csv
-O Kaurava,|PER|cid_d03b32a1ac314b349dcb28bd99719b59|1|km_ganguli_translation_10.csv
+O Kaurava|PER|cid_d03b32a1ac314b349dcb28bd99719b59|1|km_ganguli_translation_10.csv
 O Kauravya|PER|cid_f830b613816040bf8488dc4e31e7f31c|1|km_ganguli_translation_10.csv
 O Pandava|MISC|cid_33e92a603332491ea846c11fa3e26d3e|1|km_ganguli_translation_10.csv
 O Sanjaya|PER|cid_112839d5355641299f90367b7aad73b3|1|km_ganguli_translation_10.csv
@@ -580,7 +578,7 @@ Satvata|MISC|cid_a7a7996af9b84fe6b961c4790422815b|1|km_ganguli_translation_10.cs
 Satyaki|PER|cid_1b133523ac53465188fd639e44c1504a|1|km_ganguli_translation_10.csv
 Satyaki|PER|cid_819b546652974ba08c3e7cacb3f498ac|1|km_ganguli_translation_10.csv
 Satyaki|PER|cid_deeb6bdc70944c018a718df097e4c391|1|km_ganguli_translation_10.csv
-Sauptika-parva.|MISC|cid_33e92a603332491ea846c11fa3e26d3e|1|km_ganguli_translation_10.csv
+Sauptika-parva|MISC|cid_33e92a603332491ea846c11fa3e26d3e|1|km_ganguli_translation_10.csv
 Savitri|PER|cid_33e92a603332491ea846c11fa3e26d3e|1|km_ganguli_translation_10.csv
 Savitri|PER|cid_951bb080d3534333aebcd0612527e582|1|km_ganguli_translation_10.csv
 Shaibya|PER|cid_6a255a387b5a48ca8b096136eac2fd68|1|km_ganguli_translation_10.csv

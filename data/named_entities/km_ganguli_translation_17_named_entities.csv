@@ -1,10 +1,9 @@
 name|entity|chunk_id|count|file
-'Indra|PER|cid_dd9b289f001a48ccac2b66d7d582d2c3|1|km_ganguli_translation_17.csv
-'Indra|PER|cid_f11d9c97d5fc4c00963e8bb6265dedcf|1|km_ganguli_translation_17.csv
-'Shakra|PER|cid_a212e3a77afe424ab98547e1411bb3b3|2|km_ganguli_translation_17.csv
-'Yudhishthira|PER|cid_a212e3a77afe424ab98547e1411bb3b3|1|km_ganguli_translation_17.csv
-'Yudhishthira|PER|cid_dd9b289f001a48ccac2b66d7d582d2c3|2|km_ganguli_translation_17.csv
-,|PER|cid_f11d9c97d5fc4c00963e8bb6265dedcf|1|km_ganguli_translation_17.csv
+Indra|PER|cid_dd9b289f001a48ccac2b66d7d582d2c3|1|km_ganguli_translation_17.csv
+Indra|PER|cid_f11d9c97d5fc4c00963e8bb6265dedcf|1|km_ganguli_translation_17.csv
+Shakra|PER|cid_a212e3a77afe424ab98547e1411bb3b3|2|km_ganguli_translation_17.csv
+Yudhishthira|PER|cid_a212e3a77afe424ab98547e1411bb3b3|1|km_ganguli_translation_17.csv
+Yudhishthira|PER|cid_dd9b289f001a48ccac2b66d7d582d2c3|2|km_ganguli_translation_17.csv
 Andhaka|MISC|cid_a0ce9bdd674144d6b949c6953653f5ad|1|km_ganguli_translation_17.csv
 Arjuna|PER|cid_78f0a47f1b80415c847c9040cc346865|1|km_ganguli_translation_17.csv
 Arjuna|PER|cid_7cb21beb41d2416293e0df609036a2ac|2|km_ganguli_translation_17.csv
@@ -61,7 +60,7 @@ Heaven|LOC|cid_a212e3a77afe424ab98547e1411bb3b3|3|km_ganguli_translation_17.csv
 Heaven|LOC|cid_dd9b289f001a48ccac2b66d7d582d2c3|1|km_ganguli_translation_17.csv
 Himavat|LOC|cid_bc77807d6ffc41a2b0f56b3aa1b10095|2|km_ganguli_translation_17.csv
 Indra|PER|cid_dd9b289f001a48ccac2b66d7d582d2c3|1|km_ganguli_translation_17.csv
-Island-|MISC|cid_f60a7df206734669b088ffe2c8596b72|1|km_ganguli_translation_17.csv
+Island|MISC|cid_f60a7df206734669b088ffe2c8596b72|1|km_ganguli_translation_17.csv
 J. B. Hare|PER|cid_ec7aabe07751475dad7f645ad947efaf|1|km_ganguli_translation_17.csv
 Janamejaya|PER|cid_a0ce9bdd674144d6b949c6953653f5ad|1|km_ganguli_translation_17.csv
 Kaurava|MISC|cid_a0ce9bdd674144d6b949c6953653f5ad|1|km_ganguli_translation_17.csv
@@ -85,7 +84,7 @@ Kuru|PER|cid_78f0a47f1b80415c847c9040cc346865|1|km_ganguli_translation_17.csv
 Kuru|PER|cid_fae7e78ea1a94f0db088648241584826|1|km_ganguli_translation_17.csv
 Kurus|MISC|cid_f60a7df206734669b088ffe2c8596b72|1|km_ganguli_translation_17.csv
 Madravati|PER|cid_bc77807d6ffc41a2b0f56b3aa1b10095|1|km_ganguli_translation_17.csv
-Mahaprasthanika-|MISC|cid_20ab6f1909244447aaa7fd5ff951d7c5|1|km_ganguli_translation_17.csv
+Mahaprasthanika|MISC|cid_20ab6f1909244447aaa7fd5ff951d7c5|1|km_ganguli_translation_17.csv
 Manipura|LOC|cid_fae7e78ea1a94f0db088648241584826|1|km_ganguli_translation_17.csv
 Mantra Caitanya|PER|cid_ec7aabe07751475dad7f645ad947efaf|1|km_ganguli_translation_17.csv
 Markandeya|PER|cid_f60a7df206734669b088ffe2c8596b72|1|km_ganguli_translation_17.csv

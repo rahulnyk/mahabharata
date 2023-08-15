@@ -1,44 +1,32 @@
 name|entity|chunk_id|count|file
-|MISC|cid_3f220bb486e8445fa99764f7fa45ef3c|1|kaggle_tilak_summaries.csv
-,|MISC|cid_26630f230fed4169b6e905229bb28b46|2|kaggle_tilak_summaries.csv
-,|MISC|cid_494b62fdc0d4485aa72a95bb99b2f3c4|3|kaggle_tilak_summaries.csv
-,|MISC|cid_4a680417c2cb41e5bad63e72de4d4bcf|2|kaggle_tilak_summaries.csv
-,|MISC|cid_5b6553b750cb4ae397109263ae02a8de|1|kaggle_tilak_summaries.csv
-,|MISC|cid_5dbc1f547b4d41b5bd24ed633bb7bf46|4|kaggle_tilak_summaries.csv
-,|MISC|cid_8582448a534048c8b9fb935b5de771a3|1|kaggle_tilak_summaries.csv
-,|MISC|cid_a77d3d436e784cc59d9fad01d2445249|1|kaggle_tilak_summaries.csv
-,|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
-, Bhagadatta|PER|cid_b503a9ee8c414a2ca800d36ca80eb48e|1|kaggle_tilak_summaries.csv
-, Dhrishtaketu|PER|cid_f1e3d73e01354126b3cf2288ce41670e|1|kaggle_tilak_summaries.csv
-, Indradeva|PER|cid_8da7f90f3efe418198453c99029636d6|1|kaggle_tilak_summaries.csv
-, Indravarman|PER|cid_d4f3e4d4e7dd4fbf9546200e1f8883cb|1|kaggle_tilak_summaries.csv
-, Jayatsena|PER|cid_2cbf1db81b8a4f75a5688d322336efdb|1|kaggle_tilak_summaries.csv
-, Karna|MISC|cid_02d29395d8bc4302a489502d15abc44e|1|kaggle_tilak_summaries.csv
-, Krishna,|PER|cid_5c692773d3594ebf97995b55d3e6a97d|1|kaggle_tilak_summaries.csv
-, Krishna,|PER|cid_bd1f43c5ea5842e08a52c86e3188ff73|1|kaggle_tilak_summaries.csv
-, Kritavarman|PER|cid_2ec394f7970c48b185eb5919a278bc3a|1|kaggle_tilak_summaries.csv
-, Lord|MISC|cid_b00765e1e10a4ac1a8c6ba12d3152be2|1|kaggle_tilak_summaries.csv
-, Maharaja Bhima|PER|cid_ac7c91f9c7c6472b845416b494268caf|1|kaggle_tilak_summaries.csv
-, O|MISC|cid_5b6553b750cb4ae397109263ae02a8de|1|kaggle_tilak_summaries.csv
-, O|MISC|cid_8582448a534048c8b9fb935b5de771a3|1|kaggle_tilak_summaries.csv
-, O Kesava|MISC|cid_f247a2028f114d0f8c2e8857d73bc1a9|1|kaggle_tilak_summaries.csv
-, Salya|PER|cid_71b423ac13484520a92a521842caaa4d|1|kaggle_tilak_summaries.csv
-, Salya,|PER|cid_64d6335c5b904132b2be5017c0c97837|1|kaggle_tilak_summaries.csv
-, Shrutayus|PER|cid_c42015e1538a470fb0947b5a8b15fa46|1|kaggle_tilak_summaries.csv
-, Shrutayus|PER|cid_f74b60a271194f56a751c36ff36bbb31|1|kaggle_tilak_summaries.csv
-, Susharman|PER|cid_d19839dfb9194fea8f4c1692dc137fee|1|kaggle_tilak_summaries.csv
-, Virata|PER|cid_60db92c552984802b9553ece69aacca5|1|kaggle_tilak_summaries.csv
-, Virata|PER|cid_9e24cebdbc0e4bf983e524e374b4a711|1|kaggle_tilak_summaries.csv
-, Vishnu.|PER|cid_632a3a50897041a1beb4b189e9f256e3|1|kaggle_tilak_summaries.csv
-, the Personality of Godhead|MISC|cid_0e5fcf0d54d44411885109faa27cf691|1|kaggle_tilak_summaries.csv
-, the Supreme Personality of Godhead|MISC|cid_5717423f67c149dda8f96f2c61daab45|1|kaggle_tilak_summaries.csv
-.|MISC|cid_64c172868dca44fd99df3e3e9f90b44c|1|kaggle_tilak_summaries.csv
-.|MISC|cid_a9398895326848879c5ea68eb013cd40|1|kaggle_tilak_summaries.csv
-.|PER|cid_6464c9bf7d8940dba393665dbe96564b|1|kaggle_tilak_summaries.csv
-. Bhaktivedanta Swami Prabhupada. Shrila Prabhupada|PER|cid_b97a171732614afbbdf73dfbf0dd02a5|1|kaggle_tilak_summaries.csv
-. Yudhisthira|PER|cid_28a5662329954de780da3f5fbb96d665|1|kaggle_tilak_summaries.csv
+ Bhagadatta|PER|cid_b503a9ee8c414a2ca800d36ca80eb48e|1|kaggle_tilak_summaries.csv
+ Dhrishtaketu|PER|cid_f1e3d73e01354126b3cf2288ce41670e|1|kaggle_tilak_summaries.csv
+ Indradeva|PER|cid_8da7f90f3efe418198453c99029636d6|1|kaggle_tilak_summaries.csv
+ Indravarman|PER|cid_d4f3e4d4e7dd4fbf9546200e1f8883cb|1|kaggle_tilak_summaries.csv
+ Jayatsena|PER|cid_2cbf1db81b8a4f75a5688d322336efdb|1|kaggle_tilak_summaries.csv
+ Karna|MISC|cid_02d29395d8bc4302a489502d15abc44e|1|kaggle_tilak_summaries.csv
+ Krishna|PER|cid_5c692773d3594ebf97995b55d3e6a97d|1|kaggle_tilak_summaries.csv
+ Krishna|PER|cid_bd1f43c5ea5842e08a52c86e3188ff73|1|kaggle_tilak_summaries.csv
+ Kritavarman|PER|cid_2ec394f7970c48b185eb5919a278bc3a|1|kaggle_tilak_summaries.csv
+ Lord|MISC|cid_b00765e1e10a4ac1a8c6ba12d3152be2|1|kaggle_tilak_summaries.csv
+ Maharaja Bhima|PER|cid_ac7c91f9c7c6472b845416b494268caf|1|kaggle_tilak_summaries.csv
+ O|MISC|cid_5b6553b750cb4ae397109263ae02a8de|1|kaggle_tilak_summaries.csv
+ O|MISC|cid_8582448a534048c8b9fb935b5de771a3|1|kaggle_tilak_summaries.csv
+ O Kesava|MISC|cid_f247a2028f114d0f8c2e8857d73bc1a9|1|kaggle_tilak_summaries.csv
+ Salya|PER|cid_71b423ac13484520a92a521842caaa4d|1|kaggle_tilak_summaries.csv
+ Salya|PER|cid_64d6335c5b904132b2be5017c0c97837|1|kaggle_tilak_summaries.csv
+ Shrutayus|PER|cid_c42015e1538a470fb0947b5a8b15fa46|1|kaggle_tilak_summaries.csv
+ Shrutayus|PER|cid_f74b60a271194f56a751c36ff36bbb31|1|kaggle_tilak_summaries.csv
+ Susharman|PER|cid_d19839dfb9194fea8f4c1692dc137fee|1|kaggle_tilak_summaries.csv
+ Virata|PER|cid_60db92c552984802b9553ece69aacca5|1|kaggle_tilak_summaries.csv
+ Virata|PER|cid_9e24cebdbc0e4bf983e524e374b4a711|1|kaggle_tilak_summaries.csv
+ Vishnu|PER|cid_632a3a50897041a1beb4b189e9f256e3|1|kaggle_tilak_summaries.csv
+ the Personality of Godhead|MISC|cid_0e5fcf0d54d44411885109faa27cf691|1|kaggle_tilak_summaries.csv
+ the Supreme Personality of Godhead|MISC|cid_5717423f67c149dda8f96f2c61daab45|1|kaggle_tilak_summaries.csv
+ Bhaktivedanta Swami Prabhupada. Shrila Prabhupada|PER|cid_b97a171732614afbbdf73dfbf0dd02a5|1|kaggle_tilak_summaries.csv
+ Yudhisthira|PER|cid_28a5662329954de780da3f5fbb96d665|1|kaggle_tilak_summaries.csv
 / Hare Rama Hare Rama, Rama Rama, Hare Hare|MISC|cid_76bd111924cc49f7a509d242daab53f5|1|kaggle_tilak_summaries.csv
-/Hare Rama Hare Rama, Rama Rama,|MISC|cid_4a680417c2cb41e5bad63e72de4d4bcf|1|kaggle_tilak_summaries.csv
+/Hare Rama Hare Rama, Rama Rama|MISC|cid_4a680417c2cb41e5bad63e72de4d4bcf|1|kaggle_tilak_summaries.csv
 A fallen brahmana|MISC|cid_b4619ee3978d4d0aa8f38794707e79e8|1|kaggle_tilak_summaries.csv
 A.C. Bhaktivedanta Swami Prabhupada|PER|cid_12322ef365534f549cac541b55a98ba1|1|kaggle_tilak_summaries.csv
 Abhimanyu|LOC|cid_14ae36c0ff3f4f1c9bc2cf897012144b|1|kaggle_tilak_summaries.csv
@@ -133,7 +121,7 @@ Abhimanyu|PER|cid_f2d37179d10f43f1860c86a74c946a67|1|kaggle_tilak_summaries.csv
 Abhimanyu|PER|cid_f963d61a795448fab8776ba3305fffdb|1|kaggle_tilak_summaries.csv
 Abhimanyu|PER|cid_fe07ee3eacd44cb294f81172e97c56c1|1|kaggle_tilak_summaries.csv
 Abhimanyu|PER|cid_feadbd33b00d4a409577f0d29d7d47db|3|kaggle_tilak_summaries.csv
-Abhimanyu,|PER|cid_2a5576344461418687ee9af6bde6bfbe|1|kaggle_tilak_summaries.csv
+Abhimanyu|PER|cid_2a5576344461418687ee9af6bde6bfbe|1|kaggle_tilak_summaries.csv
 Abhimanyu, Drupada|PER|cid_b4f2704050b846588ac9eebadddcb3d0|1|kaggle_tilak_summaries.csv
 Abhimanyu, Virata|PER|cid_1a00a487d9d64a428f185e0eda9152ed|1|kaggle_tilak_summaries.csv
 Absolute Truth|MISC|cid_480fbc244a2a4d7c8304a0df9fa5a531|1|kaggle_tilak_summaries.csv
@@ -198,7 +186,7 @@ Agni|PER|cid_ed0d57c784fe403ebe683fc90fa6842b|1|kaggle_tilak_summaries.csv
 Agni|PER|cid_f594105e5c774272b69a4c1e0d6e8dd0|1|kaggle_tilak_summaries.csv
 Agni|PER|cid_f98bf7a965ac4873bd09cc0eaf88a71b|1|kaggle_tilak_summaries.csv
 Agni|PER|cid_fd2c68cb59bb4806b5bfdf65cb990a3b|2|kaggle_tilak_summaries.csv
-Agni,|PER|cid_77598b83b31045f5b6170e621374a5b0|1|kaggle_tilak_summaries.csv
+Agni|PER|cid_77598b83b31045f5b6170e621374a5b0|1|kaggle_tilak_summaries.csv
 Agni, Asita, Vayu, Sudasa, Go, Guha|MISC|cid_fe6e79bc708b46f1a97d4471e3602575|1|kaggle_tilak_summaries.csv
 Agni-hotra|MISC|cid_1c15fcb6ea334e56948107f0c29b6c07|1|kaggle_tilak_summaries.csv
 Agnihotras|MISC|cid_16dd87864cfd427f802855c39bd63ac4|1|kaggle_tilak_summaries.csv
@@ -298,7 +286,7 @@ Andhakas|MISC|cid_f594105e5c774272b69a4c1e0d6e8dd0|1|kaggle_tilak_summaries.csv
 Andhakas|MISC|cid_faa6fd4766dd4894b9fb1302ce489ad1|1|kaggle_tilak_summaries.csv
 Anga|LOC|cid_cb287794e88c4a6c8153f3d5d05f91a7|1|kaggle_tilak_summaries.csv
 Anga|PER|cid_9a034e64d0874b96aa0b07854912da04|1|kaggle_tilak_summaries.csv
-Angaraparna,|PER|cid_b89859ca075f4a05a7e15cb89c871c38|1|kaggle_tilak_summaries.csv
+Angaraparna|PER|cid_b89859ca075f4a05a7e15cb89c871c38|1|kaggle_tilak_summaries.csv
 Angas|MISC|cid_61514cf8dc2b4370bd666486cdd3a19f|1|kaggle_tilak_summaries.csv
 Aniruddha|PER|cid_77a762d9ee034d868c10d143f67b55a2|1|kaggle_tilak_summaries.csv
 Aniruddha|PER|cid_ccfa419263fd4a2e980292f8309ff0de|1|kaggle_tilak_summaries.csv
@@ -1104,8 +1092,8 @@ Arjuna, Nakula|PER|cid_bb5c3fead32046ff9b7ddf14877cdb68|1|kaggle_tilak_summaries
 Arjuna, Phalguna, Jishnu, Kiritin, Svetavahana, Vibhatsu, Vijaya, Krishna, Savyasachin|PER|cid_f15d25a854c3414eb87db1aeb03ed984|1|kaggle_tilak_summaries.csv
 Arjuna, Satyaki|PER|cid_3b9d575334c7415884afd0e6e1d84aaa|1|kaggle_tilak_summaries.csv
 Arjuna, Virata|PER|cid_afcf59b479c84f0292876188f2a2de3a|1|kaggle_tilak_summaries.csv
-Arjuna]|PER|cid_1bbb735123eb425fae139da76d8e6cb5|1|kaggle_tilak_summaries.csv
-Arjuna]|PER|cid_274d43be42cb4b7e833adba0ce0066e1|1|kaggle_tilak_summaries.csv
+Arjuna|PER|cid_1bbb735123eb425fae139da76d8e6cb5|1|kaggle_tilak_summaries.csv
+Arjuna|PER|cid_274d43be42cb4b7e833adba0ce0066e1|1|kaggle_tilak_summaries.csv
 Arjunas|MISC|cid_3117617f1b3c46b79ae8029e1dcfd3a1|1|kaggle_tilak_summaries.csv
 Arjunas|PER|cid_3da9a50d838a4bdd9e7996714db895c3|1|kaggle_tilak_summaries.csv
 Army|MISC|cid_001edb09494e454cbc0d2928189d532a|1|kaggle_tilak_summaries.csv
@@ -1269,8 +1257,8 @@ Ayu|PER|cid_6eb7dbd1902e4f5082699041d794a5dd|1|kaggle_tilak_summaries.csv
 B|MISC|cid_568502256309499e9471eebba9180f75|1|kaggle_tilak_summaries.csv
 B|MISC|cid_cdd6382fe23e4029ab12e0c7ec67348e|1|kaggle_tilak_summaries.csv
 B hima|MISC|cid_d4750886bac5460c8afee89a5b62213c|1|kaggle_tilak_summaries.csv
-B.S.|MISC|cid_5fe09d3703694e7bbfaf004e47c66c06|1|kaggle_tilak_summaries.csv
-B.S.|MISC|cid_acf4cd5bd21b4cb79ca1e8342d4cf9a0|1|kaggle_tilak_summaries.csv
+B.S|MISC|cid_5fe09d3703694e7bbfaf004e47c66c06|1|kaggle_tilak_summaries.csv
+B.S|MISC|cid_acf4cd5bd21b4cb79ca1e8342d4cf9a0|1|kaggle_tilak_summaries.csv
 Babhru|PER|cid_710bfa9e224b4e949b7d314ee4645211|1|kaggle_tilak_summaries.csv
 Babhru|PER|cid_d8f79affc6bd4f8eb902c2a801b722ce|4|kaggle_tilak_summaries.csv
 Babhru|PER|cid_faa6fd4766dd4894b9fb1302ce489ad1|1|kaggle_tilak_summaries.csv
@@ -1362,7 +1350,7 @@ Balarama|PER|cid_f594105e5c774272b69a4c1e0d6e8dd0|2|kaggle_tilak_summaries.csv
 Balarama|PER|cid_faa6fd4766dd4894b9fb1302ce489ad1|3|kaggle_tilak_summaries.csv
 Balaramaji|PER|cid_c3d47882d8b84d5e818edc67ccf2e4b9|2|kaggle_tilak_summaries.csv
 Balhika|PER|cid_f9e1748eeb2346019873346c18b1c160|1|kaggle_tilak_summaries.csv
-Balhika, Dhritarastra, Somadatta,|PER|cid_ada878dfca184fe39840e23007ee6c64|1|kaggle_tilak_summaries.csv
+Balhika, Dhritarastra, Somadatta|PER|cid_ada878dfca184fe39840e23007ee6c64|1|kaggle_tilak_summaries.csv
 Bali|LOC|cid_0af8f946f8534ebbb11ef0a474771257|1|kaggle_tilak_summaries.csv
 Bali|PER|cid_0fd745576e204d8ea0abace3ccb6f431|1|kaggle_tilak_summaries.csv
 Bali|PER|cid_5818e95a36f3417e9a1d5cd82d2f79d1|3|kaggle_tilak_summaries.csv
@@ -1376,8 +1364,8 @@ Battlefield of Kurukshetra|LOC|cid_bcf44f469ab944ef9610aa5dc31a636c|1|kaggle_til
 Bh|PER|cid_0785b90f56c241848b69b3b449053166|1|kaggle_tilak_summaries.csv
 Bhag|MISC|cid_7c15e47234934c78ac46713aea05b7c0|1|kaggle_tilak_summaries.csv
 Bhag|MISC|cid_93cb5efc76b54255927bf02a8c9a8bc0|1|kaggle_tilak_summaries.csv
-Bhag.|MISC|cid_4a680417c2cb41e5bad63e72de4d4bcf|1|kaggle_tilak_summaries.csv
-Bhag.|MISC|cid_650f173fefc8490a98b152e238645432|1|kaggle_tilak_summaries.csv
+Bhag|MISC|cid_4a680417c2cb41e5bad63e72de4d4bcf|1|kaggle_tilak_summaries.csv
+Bhag|MISC|cid_650f173fefc8490a98b152e238645432|1|kaggle_tilak_summaries.csv
 Bhagadatta|LOC|cid_83ea8bb5588949ba8a0468d68751c8a8|3|kaggle_tilak_summaries.csv
 Bhagadatta|LOC|cid_b17afb14819c42a294279052df73ae9e|1|kaggle_tilak_summaries.csv
 Bhagadatta|LOC|cid_eb1af3f7d99747978024ae460f54a3e8|1|kaggle_tilak_summaries.csv
@@ -1407,8 +1395,8 @@ Bhagadatta|PER|cid_eb1af3f7d99747978024ae460f54a3e8|1|kaggle_tilak_summaries.csv
 Bhagadatta|PER|cid_f03ba45f721c4808ab1de32db022c76c|1|kaggle_tilak_summaries.csv
 Bhagadatta|PER|cid_fbcb4fc45e4a4e2abd8badc501ba861f|1|kaggle_tilak_summaries.csv
 Bhagadatta|PER|cid_fe16d2b13613474e9ff07e3ecf2b4794|1|kaggle_tilak_summaries.csv
-Bhagadatta,|PER|cid_fd15ad065c9b455a89733e94608915cc|1|kaggle_tilak_summaries.csv
-Bhagadatta, Bhurisravas,|PER|cid_d761a846870441c4a91c7ac0bf27117e|1|kaggle_tilak_summaries.csv
+Bhagadatta|PER|cid_fd15ad065c9b455a89733e94608915cc|1|kaggle_tilak_summaries.csv
+Bhagadatta, Bhurisravas|PER|cid_d761a846870441c4a91c7ac0bf27117e|1|kaggle_tilak_summaries.csv
 Bhagavad-gita|MISC|cid_0b2c82b2b97b48a697790328169a4815|1|kaggle_tilak_summaries.csv
 Bhagavad-gita|MISC|cid_48a1a685b9f24c868f8934998b1e0fe2|1|kaggle_tilak_summaries.csv
 Bhagavad-gita|MISC|cid_6f9016f1f1e24457aba38fb838e8e7e4|1|kaggle_tilak_summaries.csv
@@ -1427,11 +1415,11 @@ Bhagavad-gita As It Is|MISC|cid_6464c9bf7d8940dba393665dbe96564b|1|kaggle_tilak_
 Bhagavad-gita Lord|MISC|cid_2e61825765344ae9b8ba7095a19551d3|1|kaggle_tilak_summaries.csv
 Bhagavad-gita Lord|MISC|cid_9040b44af241478d9c708be1eca5fecc|1|kaggle_tilak_summaries.csv
 Bhagavad-gita Lord|MISC|cid_93c29c4ec4164c55b16d70cf7941fa1b|1|kaggle_tilak_summaries.csv
-Bhagavad-gita,|MISC|cid_f365b96dbae242199af61eec616733b9|1|kaggle_tilak_summaries.csv
+Bhagavad-gita|MISC|cid_f365b96dbae242199af61eec616733b9|1|kaggle_tilak_summaries.csv
 Bhagavad-gita, Shrimad Bhagavatam|MISC|cid_fdae953f957946cc9bbe9ee53fa157d9|1|kaggle_tilak_summaries.csv
 Bhagavad-gita, bhaktya|MISC|cid_e1cfd1ddcaf342e2ad610c6246865be5|1|kaggle_tilak_summaries.csv
 Bhagavata Purana|MISC|cid_2eae9ad6b29045f5b7918b2fcda0455a|1|kaggle_tilak_summaries.csv
-Bhaktivedanta Swami Prabhupada.|PER|cid_6464c9bf7d8940dba393665dbe96564b|1|kaggle_tilak_summaries.csv
+Bhaktivedanta Swami Prabhupada|PER|cid_6464c9bf7d8940dba393665dbe96564b|1|kaggle_tilak_summaries.csv
 Bhanudatta|PER|cid_5a274238ed21494e9368fee0803c15b8|1|kaggle_tilak_summaries.csv
 Bhanumat|PER|cid_3b6ba1b7dd6a47f0977b520ccc30f799|5|kaggle_tilak_summaries.csv
 Bharadvaja|PER|cid_03eb902037814fddbdbd0a27c56be3cf|1|kaggle_tilak_summaries.csv
@@ -2252,9 +2240,9 @@ Bhishma Parva|MISC|cid_c429b5d62a4c463cba4baee9cc87f1a4|1|kaggle_tilak_summaries
 Bhishma Parva|MISC|cid_ea4559448c3a473e9230e50da941cc51|1|kaggle_tilak_summaries.csv
 Bhishma Parva|PER|cid_5afb62f8b573400ab06868778b0bfb38|1|kaggle_tilak_summaries.csv
 Bhishma Parva|PER|cid_823a8374ae2e41dbbd54ba01da31e8e7|1|kaggle_tilak_summaries.csv
-Bhishma's|MISC|cid_a07ee44d6fa24f4381c273ca445cd564|1|kaggle_tilak_summaries.csv
-Bhishma,|PER|cid_5b43ba20925a42df8a39a7b9c9f37131|1|kaggle_tilak_summaries.csv
-Bhishma,|PER|cid_8bbd6e426f8b4354a3aecd254554088d|1|kaggle_tilak_summaries.csv
+Bhishmas|MISC|cid_a07ee44d6fa24f4381c273ca445cd564|1|kaggle_tilak_summaries.csv
+Bhishma|PER|cid_5b43ba20925a42df8a39a7b9c9f37131|1|kaggle_tilak_summaries.csv
+Bhishma|PER|cid_8bbd6e426f8b4354a3aecd254554088d|1|kaggle_tilak_summaries.csv
 Bhishma, Dhritarastra and Vidura|PER|cid_0bd8e93488ae4811aca40c64b5dcec9e|1|kaggle_tilak_summaries.csv
 Bhishma, Drona|PER|cid_08ded46d16ab45c6a9595d5e94a5d805|1|kaggle_tilak_summaries.csv
 Bhishma, Drona|PER|cid_29a7d7e88d2f40878b220e6cecc97387|1|kaggle_tilak_summaries.csv
@@ -2266,7 +2254,7 @@ Bhishma, Drona|PER|cid_5580d602f43c4626899a1a995fe902ee|1|kaggle_tilak_summaries
 Bhishma, Drona|PER|cid_7e18a4f958dd443dae931be19a0d2679|1|kaggle_tilak_summaries.csv
 Bhishma, Drona|PER|cid_8e7781bfa7954a7bbbefe1a046eff509|1|kaggle_tilak_summaries.csv
 Bhishma, Drona|PER|cid_bf9ef0a6a4f940009522b16028376ca8|1|kaggle_tilak_summaries.csv
-Bhishma, Drona,|PER|cid_de3ac57b213e43e9bcdc873832d9a24a|1|kaggle_tilak_summaries.csv
+Bhishma, Drona|PER|cid_de3ac57b213e43e9bcdc873832d9a24a|1|kaggle_tilak_summaries.csv
 Bhishma, Drona, Ashvatthama, Bhurishrava, Salya, Jayadratha|PER|cid_bd642d0545ea43a0ad42ae0a7b44ca4d|1|kaggle_tilak_summaries.csv
 Bhishma, Drona, Dhritarastra, Duryodhana, Karna, Vidura|PER|cid_bc5d0d881ef34336afff659ded5278b3|1|kaggle_tilak_summaries.csv
 Bhishma, Drona, Dhritarastra, Vidura|PER|cid_ea2ea7a906704f1fbf7cb8e1f69af17c|1|kaggle_tilak_summaries.csv
@@ -2401,9 +2389,9 @@ Brahma|PER|cid_ccab56d9074643ffa010883c7429520d|1|kaggle_tilak_summaries.csv
 Brahma|PER|cid_ce739bd95a1e44e7bf09a238ac32bf9e|4|kaggle_tilak_summaries.csv
 Brahma|PER|cid_dbca1d4f8b8545b0aaf97739dd07857d|1|kaggle_tilak_summaries.csv
 Brahma|PER|cid_f594105e5c774272b69a4c1e0d6e8dd0|1|kaggle_tilak_summaries.csv
-Brahma Samhita,|MISC|cid_5fe09d3703694e7bbfaf004e47c66c06|1|kaggle_tilak_summaries.csv
+Brahma Samhita|MISC|cid_5fe09d3703694e7bbfaf004e47c66c06|1|kaggle_tilak_summaries.csv
 Brahma Vaivarta Purana|MISC|cid_72ca30f1e21b46a0a7577d4378fa75e8|1|kaggle_tilak_summaries.csv
-Brahma,|PER|cid_a48cbe178451441ca5f8a41dacc8af7f|1|kaggle_tilak_summaries.csv
+Brahma|PER|cid_a48cbe178451441ca5f8a41dacc8af7f|1|kaggle_tilak_summaries.csv
 Brahma, Shiva|PER|cid_5f27cd484ed24ce6b53b1bdafa7b0436|1|kaggle_tilak_summaries.csv
 Brahma, Shiva, Indra, Surya, Chandra, Varuna|PER|cid_5b2b4728e91945d69ff3ff778d3299ac|1|kaggle_tilak_summaries.csv
 Brahma, Shiva, Indra, Varuna, Vayu, Soma, Surya|PER|cid_a7954329a420433eafed0f173c898b0d|1|kaggle_tilak_summaries.csv
@@ -2438,7 +2426,7 @@ Brihadvala|PER|cid_3228feaff449414994bbeb4a3b1129d3|1|kaggle_tilak_summaries.csv
 Brihadvala|PER|cid_823a8374ae2e41dbbd54ba01da31e8e7|2|kaggle_tilak_summaries.csv
 Brihadvala|PER|cid_908b732698764cc99001f03b86836d1f|2|kaggle_tilak_summaries.csv
 Brihadvala|PER|cid_f963d61a795448fab8776ba3305fffdb|1|kaggle_tilak_summaries.csv
-Brihadvala,|PER|cid_3228feaff449414994bbeb4a3b1129d3|1|kaggle_tilak_summaries.csv
+Brihadvala|PER|cid_3228feaff449414994bbeb4a3b1129d3|1|kaggle_tilak_summaries.csv
 Brihannala|PER|cid_0518d408028f4b6d85f4904e936c988c|2|kaggle_tilak_summaries.csv
 Brihannala|PER|cid_078ed5f9a47846bbb218dc167d90ad3c|1|kaggle_tilak_summaries.csv
 Brihannala|PER|cid_0e9a35e570d140ebb41e468f0bbc53cc|1|kaggle_tilak_summaries.csv
@@ -2470,7 +2458,7 @@ Brishaspati|PER|cid_cc1328763a4c4b5f88e1f71fabbee32b|1|kaggle_tilak_summaries.cs
 British|LOC|cid_4ccb52de874545bb94312412ffa29f29|1|kaggle_tilak_summaries.csv
 Brothers|MISC|cid_bc87b6f2ed0f4e0097309bcb07b002ed|1|kaggle_tilak_summaries.csv
 Buddha|MISC|cid_72ca30f1e21b46a0a7577d4378fa75e8|1|kaggle_tilak_summaries.csv
-C.|MISC|cid_6464c9bf7d8940dba393665dbe96564b|1|kaggle_tilak_summaries.csv
+C|MISC|cid_6464c9bf7d8940dba393665dbe96564b|1|kaggle_tilak_summaries.csv
 C.C. Madhya lila|PER|cid_78dbee734db446d195dcfede9442ef40|1|kaggle_tilak_summaries.csv
 Celestial Ganga|MISC|cid_ca21f0ef966a4005a886b3f84ab5aba1|1|kaggle_tilak_summaries.csv
 Cha|PER|cid_8339607ae67b4421ae115251d6f84acf|1|kaggle_tilak_summaries.csv
@@ -2512,7 +2500,7 @@ Charanaloka|PER|cid_89add22053804139b86c1a53564669ea|1|kaggle_tilak_summaries.cs
 Charanas|MISC|cid_0629b17396ed496ea04d9e12ea28e5ba|1|kaggle_tilak_summaries.csv
 Charanas|MISC|cid_0bd8e93488ae4811aca40c64b5dcec9e|2|kaggle_tilak_summaries.csv
 Charanas|PER|cid_dd5b50df47614970a0cf0a1d989ac79d|1|kaggle_tilak_summaries.csv
-Charanas, Yakshas,|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
+Charanas, Yakshas|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
 Charmavarman|PER|cid_30bd430eea044c84870d6ada5caba7fa|1|kaggle_tilak_summaries.csv
 Charvaka|PER|cid_60c910a31ad64b4ca3dc754ca53ded40|1|kaggle_tilak_summaries.csv
 Charvaka|PER|cid_ac45b3c979ed41ff816cdb576f52f4a7|2|kaggle_tilak_summaries.csv
@@ -2769,7 +2757,7 @@ Dharma|PER|cid_56aa5aac63fc44e0b929a6a30d0f7a48|1|kaggle_tilak_summaries.csv
 Dharma|PER|cid_734823edd023459bbc778a8110ee3a31|1|kaggle_tilak_summaries.csv
 Dharma|PER|cid_a2722f146ed9488388b6f756b5e50ef5|1|kaggle_tilak_summaries.csv
 Dharma|PER|cid_f525570f728d4e3487d8e7f3ff994b34|1|kaggle_tilak_summaries.csv
-Dharma (Yudhisthira)|PER|cid_453f70ad34864822bc14aeea87868e79|1|kaggle_tilak_summaries.csv
+Dharma Yudhisthira|PER|cid_453f70ad34864822bc14aeea87868e79|1|kaggle_tilak_summaries.csv
 Dhaumya|PER|cid_17b7576e6e9d423393c8fb679e4cd876|1|kaggle_tilak_summaries.csv
 Dhaumya|PER|cid_2cee819950304ed1b04446a16890cef4|1|kaggle_tilak_summaries.csv
 Dhaumya|PER|cid_2f9d5444e1664add9c97392b623f9089|1|kaggle_tilak_summaries.csv
@@ -2871,11 +2859,11 @@ Dhristadyumna|PER|cid_f7ef9b539ba143c6918c4d34194ef0a2|1|kaggle_tilak_summaries.
 Dhristadyumna|PER|cid_f8e4303d93d0424db349a2f60f8ab1b0|1|kaggle_tilak_summaries.csv
 Dhristadyumna|PER|cid_fa9c944992d14e0cab6b144a2e570776|1|kaggle_tilak_summaries.csv
 Dhristadyumna|PER|cid_fd15ad065c9b455a89733e94608915cc|1|kaggle_tilak_summaries.csv
-Dhristadyumna, Dhristaketu,|PER|cid_73602aa28eb94790aa41ca60996b615f|1|kaggle_tilak_summaries.csv
+Dhristadyumna, Dhristaketu|PER|cid_73602aa28eb94790aa41ca60996b615f|1|kaggle_tilak_summaries.csv
 Dhristadyumna, Satyaki|PER|cid_285138616e8846fab7e05e775f0b41ca|1|kaggle_tilak_summaries.csv
 Dhristadyumna, Satyaki|PER|cid_86176ee83e3644b294cd00ee6f30bf9a|1|kaggle_tilak_summaries.csv
 Dhristadyumna, Satyaki|PER|cid_bea61c40cf0f43eabeed71ad21ec6842|1|kaggle_tilak_summaries.csv
-Dhristadyumna.|PER|cid_aad1d5439d1c41898d110f32f8123035|1|kaggle_tilak_summaries.csv
+Dhristadyumna|PER|cid_aad1d5439d1c41898d110f32f8123035|1|kaggle_tilak_summaries.csv
 Dhristaketu|PER|cid_6b6e15af2d094d14a1f8303f35f68861|5|kaggle_tilak_summaries.csv
 Dhristaketu|PER|cid_9d580269db0a4c32bda453565a1605e7|1|kaggle_tilak_summaries.csv
 Dhristaketu|PER|cid_9d82ebeee5844ae18b2b738e8f40e7ab|1|kaggle_tilak_summaries.csv
@@ -3126,8 +3114,8 @@ Dhritarastra|PER|cid_fa2ce6449e364cec9e7ff6465622bf9e|1|kaggle_tilak_summaries.c
 Dhritarastra|PER|cid_fa4916ac855f401da14fc07d3ffa9fe0|1|kaggle_tilak_summaries.csv
 Dhritarastra|PER|cid_fe07ee3eacd44cb294f81172e97c56c1|1|kaggle_tilak_summaries.csv
 Dhritarastra|PER|cid_fe16d2b13613474e9ff07e3ecf2b4794|1|kaggle_tilak_summaries.csv
-Dhritarastra Attains Liberation.|MISC|cid_a59fa03bf7f24710a60c128f77e6ae3e|1|kaggle_tilak_summaries.csv
-Dhritarastra'|PER|cid_3b7ccc574ec94f959366b2ab9bc76297|1|kaggle_tilak_summaries.csv
+Dhritarastra Attains Liberation|MISC|cid_a59fa03bf7f24710a60c128f77e6ae3e|1|kaggle_tilak_summaries.csv
+Dhritarastra|PER|cid_3b7ccc574ec94f959366b2ab9bc76297|1|kaggle_tilak_summaries.csv
 Dhritarastra, Bhishma, Drona, Kripa, Drona|PER|cid_99add6f6aa2a476b92e180081119e641|1|kaggle_tilak_summaries.csv
 Dhritarastra, Bhishma, Drona, Kripa, Duryodhana, Ashvatthama, Karna, Jayadratha|PER|cid_b7dccf7e524b483594f07b53c9e2d5bd|1|kaggle_tilak_summaries.csv
 Dhritarastra, Gandhari|PER|cid_6b20cc0cc91f4fda98ffa0a9be8e58ac|1|kaggle_tilak_summaries.csv
@@ -3139,7 +3127,7 @@ Dhrstaketu, Cekitana, Kasiraja, Purujit, Kuntibhoja|PER|cid_5654bc634b3b42f38af7
 Dhrtarastra|PER|cid_333cedcbba88406198e2c4f659dd68b0|1|kaggle_tilak_summaries.csv
 Dhrtarastra|PER|cid_52c500e44af34af18f93e9361edcc08e|1|kaggle_tilak_summaries.csv
 Dhruva|PER|cid_3ba64d9196524938b3f80e7ff9c03812|1|kaggle_tilak_summaries.csv
-Dilipa, Nahusha, Ambarisha,|PER|cid_2c83005f9bb04a828b117585ac72911e|1|kaggle_tilak_summaries.csv
+Dilipa, Nahusha, Ambarisha|PER|cid_2c83005f9bb04a828b117585ac72911e|1|kaggle_tilak_summaries.csv
 Divine Being|MISC|cid_26220b34ff4d42f3b2ab879c9f91222c|1|kaggle_tilak_summaries.csv
 Divine Grace A|MISC|cid_6464c9bf7d8940dba393665dbe96564b|1|kaggle_tilak_summaries.csv
 Divine Master|MISC|cid_0af8f946f8534ebbb11ef0a474771257|1|kaggle_tilak_summaries.csv
@@ -3364,14 +3352,14 @@ Draupadi|PER|cid_fdef936a0f734fd79bdcbf4f079fdb18|4|kaggle_tilak_summaries.csv
 Draupadi|PER|cid_fe38157a582e4db0a0dfc0723247e56f|1|kaggle_tilak_summaries.csv
 Draupadi|PER|cid_feadbd33b00d4a409577f0d29d7d47db|1|kaggle_tilak_summaries.csv
 Draupadi Kichaka|PER|cid_8985388012484df9b1f90dd81ef1df63|1|kaggle_tilak_summaries.csv
-Draupadi'|PER|cid_4f04c3509d644d3a91663449059a76ed|1|kaggle_tilak_summaries.csv
-Draupadi,|PER|cid_38e11caf3f3542dbb7b82ba0cc7613b8|1|kaggle_tilak_summaries.csv
+Draupadi|PER|cid_4f04c3509d644d3a91663449059a76ed|1|kaggle_tilak_summaries.csv
+Draupadi|PER|cid_38e11caf3f3542dbb7b82ba0cc7613b8|1|kaggle_tilak_summaries.csv
 Draupadi, Abhimanyu, Nakula|PER|cid_a76ae3a2fe254121b855e7185be520b1|1|kaggle_tilak_summaries.csv
 Draupadi, Bhima|PER|cid_bea61c40cf0f43eabeed71ad21ec6842|1|kaggle_tilak_summaries.csv
 Draupadi, Chekitana, Dhristaketu|PER|cid_a898f3366067491f9f8633492769bc6a|1|kaggle_tilak_summaries.csv
 Draupadi, Dhrishtaketu|PER|cid_80e24b17fd8e41e6b65d7ae3128d9731|1|kaggle_tilak_summaries.csv
 Draupadi, Dhristadyumna|PER|cid_30aeb103270448cabeef97c4b966fa6d|1|kaggle_tilak_summaries.csv
-Draupadi, Ghatotkacha, Bhima,|PER|cid_63e17bcf45124b35b9a54031066a4de7|1|kaggle_tilak_summaries.csv
+Draupadi, Ghatotkacha, Bhima|PER|cid_63e17bcf45124b35b9a54031066a4de7|1|kaggle_tilak_summaries.csv
 Draupadi, Ghatotkacha, Satyaki|PER|cid_7e2b45f90194423d973b3912b64f4a27|1|kaggle_tilak_summaries.csv
 Draupadi, Satyadriti, Kshatradeva|PER|cid_2a5576344461418687ee9af6bde6bfbe|1|kaggle_tilak_summaries.csv
 Draupadi, Shikhandi, Uttamaujas, Yudhamanyu, Nakula|PER|cid_285138616e8846fab7e05e775f0b41ca|1|kaggle_tilak_summaries.csv
@@ -3674,12 +3662,12 @@ Drona, Ashvatthama, Brihadvala, Kripa|PER|cid_9b5f6aa376a14e348d5f432cc8303b79|1
 Drona, Bhishma|PER|cid_df68f2e2d0ad4df28aec2a1e2e6cc60f|1|kaggle_tilak_summaries.csv
 Drona, Bhishma, Arjuna|PER|cid_040d7aba0fe541a7a34be464d9c40d41|1|kaggle_tilak_summaries.csv
 Drona, Bhishma, Somadatta, Bahlika, Vidura, Bhurishravas|PER|cid_a63e751435d6470cb521c05e106ccc3f|1|kaggle_tilak_summaries.csv
-Drona, Bhurishrava, Salya,|PER|cid_17bcb8bfe1564ae08862510df64727c1|1|kaggle_tilak_summaries.csv
+Drona, Bhurishrava, Salya|PER|cid_17bcb8bfe1564ae08862510df64727c1|1|kaggle_tilak_summaries.csv
 Drona, Duryodhana|PER|cid_073171d487d54b23b32f4b4f54e6b9b3|1|kaggle_tilak_summaries.csv
 Drona, Duryodhana, Salya|PER|cid_5ea28329293c480da70dce639b449e9d|1|kaggle_tilak_summaries.csv
 Drona, Karna|PER|cid_6d8912104dc74f0f935a7b0ca19d9b9e|1|kaggle_tilak_summaries.csv
 Drona, Karna|PER|cid_d872c28e890043ef8479b8446dc6b9a0|1|kaggle_tilak_summaries.csv
-Drona, Karna, Ashvatthaman,|PER|cid_41de24383ffb4ce68085d0ffbc7583fe|1|kaggle_tilak_summaries.csv
+Drona, Karna, Ashvatthaman|PER|cid_41de24383ffb4ce68085d0ffbc7583fe|1|kaggle_tilak_summaries.csv
 Drona, Karna, Dhristadyumna, Abhimanyu, Ghatotkacha, Virata, Drupada|PER|cid_6b20cc0cc91f4fda98ffa0a9be8e58ac|1|kaggle_tilak_summaries.csv
 Drona, Karna, Kripa, Brihadvala|PER|cid_2ec394f7970c48b185eb5919a278bc3a|1|kaggle_tilak_summaries.csv
 Drona, Karna, Kripa, Kritavarman, Ashvatthama|PER|cid_efd8312f4aee4d0087dd00b5db78dc60|1|kaggle_tilak_summaries.csv
@@ -3823,12 +3811,12 @@ Drupada|PER|cid_f1e3d73e01354126b3cf2288ce41670e|1|kaggle_tilak_summaries.csv
 Drupada|PER|cid_f3a58e96a9ee4c2daeee378f60ccfbc3|1|kaggle_tilak_summaries.csv
 Drupada|PER|cid_f432b5d49cfd48828cb95e9b319e9ccd|3|kaggle_tilak_summaries.csv
 Drupada|PER|cid_f69a72e3c4674f28a66bff5af7f2f420|1|kaggle_tilak_summaries.csv
-Drupada's|PER|cid_f69a72e3c4674f28a66bff5af7f2f420|1|kaggle_tilak_summaries.csv
-Drupada,|PER|cid_5c150d23bfb54b26ab855ee5f8385e1d|1|kaggle_tilak_summaries.csv
-Drupada,|PER|cid_bc5d0d881ef34336afff659ded5278b3|1|kaggle_tilak_summaries.csv
-Drupada, Chekitana,|PER|cid_71b423ac13484520a92a521842caaa4d|1|kaggle_tilak_summaries.csv
+Drupadas|PER|cid_f69a72e3c4674f28a66bff5af7f2f420|1|kaggle_tilak_summaries.csv
+Drupada|PER|cid_5c150d23bfb54b26ab855ee5f8385e1d|1|kaggle_tilak_summaries.csv
+Drupada|PER|cid_bc5d0d881ef34336afff659ded5278b3|1|kaggle_tilak_summaries.csv
+Drupada, Chekitana|PER|cid_71b423ac13484520a92a521842caaa4d|1|kaggle_tilak_summaries.csv
 Drupada, Dhristadyumna, Nakula|PER|cid_63e17bcf45124b35b9a54031066a4de7|1|kaggle_tilak_summaries.csv
-Drupada, Satyaki,|PER|cid_749287ce7d7d45ce83aa34cb21d331e3|1|kaggle_tilak_summaries.csv
+Drupada, Satyaki|PER|cid_749287ce7d7d45ce83aa34cb21d331e3|1|kaggle_tilak_summaries.csv
 Drupada, Satyaki, Singhasena|PER|cid_ed253120e97148c082df22ed81678b5a|1|kaggle_tilak_summaries.csv
 Drupada, Virata|PER|cid_49f0569dc16b4a75834dbb20708e1883|1|kaggle_tilak_summaries.csv
 Drupada, Virata|PER|cid_f7ef9b539ba143c6918c4d34194ef0a2|1|kaggle_tilak_summaries.csv
@@ -4426,11 +4414,11 @@ Duryodhana|PER|cid_fb335a4ae0324dd2a68130612a2dbe0e|1|kaggle_tilak_summaries.csv
 Duryodhana|PER|cid_fb6cb16d7e2c4f6fa320729d3bfbe8e2|2|kaggle_tilak_summaries.csv
 Duryodhana|PER|cid_fd15ad065c9b455a89733e94608915cc|1|kaggle_tilak_summaries.csv
 Duryodhana|PER|cid_fe07ee3eacd44cb294f81172e97c56c1|4|kaggle_tilak_summaries.csv
-Duryodhana'|PER|cid_841cf1147ab14336bf2aca4596153980|1|kaggle_tilak_summaries.csv
-Duryodhana'|PER|cid_ecb63764e6724987a23d6758a890320b|1|kaggle_tilak_summaries.csv
-Duryodhana's|PER|cid_49704b1a79854dfcad783303d3199aea|1|kaggle_tilak_summaries.csv
-Duryodhana's Palace|LOC|cid_6ecb27a5acc44e47a9193e3b5aac37c2|1|kaggle_tilak_summaries.csv
-Duryodhana,|PER|cid_a77d3d436e784cc59d9fad01d2445249|1|kaggle_tilak_summaries.csv
+Duryodhana|PER|cid_841cf1147ab14336bf2aca4596153980|1|kaggle_tilak_summaries.csv
+Duryodhana|PER|cid_ecb63764e6724987a23d6758a890320b|1|kaggle_tilak_summaries.csv
+Duryodhanas|PER|cid_49704b1a79854dfcad783303d3199aea|1|kaggle_tilak_summaries.csv
+Duryodhanas Palace|LOC|cid_6ecb27a5acc44e47a9193e3b5aac37c2|1|kaggle_tilak_summaries.csv
+Duryodhana|PER|cid_a77d3d436e784cc59d9fad01d2445249|1|kaggle_tilak_summaries.csv
 Duryodhana, Adityaketu, Vahvasin, Kundadahara, Mahodara, Aparajita, Panditaka|PER|cid_45bb1e8806d14eb99b16e869f4b48a17|1|kaggle_tilak_summaries.csv
 Duryodhana, Ashvatthama, Kritavarman|PER|cid_f81ae2ac3e4843878991c92a4513c76b|1|kaggle_tilak_summaries.csv
 Duryodhana, Chitrasena Vivinsati, Bhishma|PER|cid_94b3afa96d394a2e9426f3fb1afe3f67|1|kaggle_tilak_summaries.csv
@@ -4795,7 +4783,7 @@ Ganga|PER|cid_bdaa903d7e7f4bef957ade0b93999629|1|kaggle_tilak_summaries.csv
 Ganga|PER|cid_d50fedf8db1348be90dd2d5cd3a8bbb3|2|kaggle_tilak_summaries.csv
 Ganga|PER|cid_e97a1cc47a474b46bd00850ba2b8a8a6|1|kaggle_tilak_summaries.csv
 Ganga|PER|cid_f8e4303d93d0424db349a2f60f8ab1b0|1|kaggle_tilak_summaries.csv
-Ganga,|PER|cid_0b2c82b2b97b48a697790328169a4815|1|kaggle_tilak_summaries.csv
+Ganga|PER|cid_0b2c82b2b97b48a697790328169a4815|1|kaggle_tilak_summaries.csv
 Gange|LOC|cid_4ab591fab91344ed904c8696382d1774|1|kaggle_tilak_summaries.csv
 Ganges|LOC|cid_0629b17396ed496ea04d9e12ea28e5ba|1|kaggle_tilak_summaries.csv
 Ganges|LOC|cid_0b2c82b2b97b48a697790328169a4815|1|kaggle_tilak_summaries.csv
@@ -4955,8 +4943,8 @@ Godhead|PER|cid_f385ae8fe22940d09deb411acf697137|2|kaggle_tilak_summaries.csv
 Godhead|PER|cid_f448c2129f344a86ad79ebffa96d1563|1|kaggle_tilak_summaries.csv
 Godhead|PER|cid_f8b5b4c5ebea47feae6a402dfd8b10cf|1|kaggle_tilak_summaries.csv
 Godhead|PER|cid_fabfd86b220b4160b77fe915d9041b05|1|kaggle_tilak_summaries.csv
-Godhead,|PER|cid_ce739bd95a1e44e7bf09a238ac32bf9e|1|kaggle_tilak_summaries.csv
-Godhead,|PER|cid_f59d2e6438e64d04af09452de672d744|1|kaggle_tilak_summaries.csv
+Godhead|PER|cid_ce739bd95a1e44e7bf09a238ac32bf9e|1|kaggle_tilak_summaries.csv
+Godhead|PER|cid_f59d2e6438e64d04af09452de672d744|1|kaggle_tilak_summaries.csv
 Godly|MISC|cid_8d83de66ba12487e8669f5ac6c7069a3|1|kaggle_tilak_summaries.csv
 Godly king|MISC|cid_9765511878864c26918d57b7ebb4bc39|1|kaggle_tilak_summaries.csv
 Goloka Vrindavana|MISC|cid_a9a7bd3f400c42059588cc68e59e22ae|1|kaggle_tilak_summaries.csv
@@ -5015,7 +5003,7 @@ Granthika|PER|cid_e50d7a59cc784fc0ad2a4253eaa0f530|1|kaggle_tilak_summaries.csv
 Grantika|PER|cid_fa2f8c91b5f443cd9ca33abe38a932bc|1|kaggle_tilak_summaries.csv
 Great Battle|MISC|cid_7891e3c4f6ff4b4fb9fbca96b497b082|1|kaggle_tilak_summaries.csv
 Gudakesha|PER|cid_d2ec993d93154411a5ae74ca62c9b925|1|kaggle_tilak_summaries.csv
-Gudakesha (Arjuna)|PER|cid_f7bec54e60ae4470b6d6132609872d5e|1|kaggle_tilak_summaries.csv
+Gudakesha Arjuna|PER|cid_f7bec54e60ae4470b6d6132609872d5e|1|kaggle_tilak_summaries.csv
 Guhyakas, Rishis|PER|cid_62f8f29536df4881a845c07361cd9848|1|kaggle_tilak_summaries.csv
 Guru|MISC|cid_17b7576e6e9d423393c8fb679e4cd876|1|kaggle_tilak_summaries.csv
 Guru|PER|cid_a48cbe178451441ca5f8a41dacc8af7f|1|kaggle_tilak_summaries.csv
@@ -5069,11 +5057,11 @@ Hare Krishna maha mantra|MISC|cid_a9398895326848879c5ea68eb013cd40|1|kaggle_tila
 Hare Krishna maha-mantra|MISC|cid_5dbc1f547b4d41b5bd24ed633bb7bf46|1|kaggle_tilak_summaries.csv
 Hare Krishna mantra|MISC|cid_4a680417c2cb41e5bad63e72de4d4bcf|1|kaggle_tilak_summaries.csv
 Hare Krishna mantra|MISC|cid_a5ac820d815f47edaee1125af8eb0ae6|1|kaggle_tilak_summaries.csv
-Hare Krishna,|MISC|cid_a9398895326848879c5ea68eb013cd40|1|kaggle_tilak_summaries.csv
+Hare Krishna|MISC|cid_a9398895326848879c5ea68eb013cd40|1|kaggle_tilak_summaries.csv
 Hare Krishna, Hare Krishna, Krishna Krishna, Hare|MISC|cid_76bd111924cc49f7a509d242daab53f5|1|kaggle_tilak_summaries.csv
 Hare Krishna, Krishna, Krishna|PER|cid_494b62fdc0d4485aa72a95bb99b2f3c4|1|kaggle_tilak_summaries.csv
 Hare Rama Hare Rama|PER|cid_26630f230fed4169b6e905229bb28b46|1|kaggle_tilak_summaries.csv
-Hare Rama Hare Rama, Rama Rama,|MISC|cid_a9398895326848879c5ea68eb013cd40|1|kaggle_tilak_summaries.csv
+Hare Rama Hare Rama, Rama Rama|MISC|cid_a9398895326848879c5ea68eb013cd40|1|kaggle_tilak_summaries.csv
 Hare Rama Hare Rama, Rama Rama, Hare Hare|MISC|cid_2c9be75bd1df4190a0ac6a401b869e69|1|kaggle_tilak_summaries.csv
 Hare Rama Hare Rama, Rama Rama, Hare Hare|MISC|cid_a5ac820d815f47edaee1125af8eb0ae6|1|kaggle_tilak_summaries.csv
 Hari|MISC|cid_24d5ea81ba294724a673b11eda6bb0e9|1|kaggle_tilak_summaries.csv
@@ -5083,7 +5071,7 @@ Hari|PER|cid_3ba64d9196524938b3f80e7ff9c03812|1|kaggle_tilak_summaries.csv
 Hari|PER|cid_8da7f90f3efe418198453c99029636d6|1|kaggle_tilak_summaries.csv
 Hari|PER|cid_a124ebd74ce848b9ab0f14b081897065|1|kaggle_tilak_summaries.csv
 Hari|PER|cid_fe6e79bc708b46f1a97d4471e3602575|1|kaggle_tilak_summaries.csv
-Hari (Krishna|PER|cid_b75c54233f124aafb33f55e3b120e851|1|kaggle_tilak_summaries.csv
+Hari Krishna|PER|cid_b75c54233f124aafb33f55e3b120e851|1|kaggle_tilak_summaries.csv
 Haridas Thakur|PER|cid_cc1328763a4c4b5f88e1f71fabbee32b|2|kaggle_tilak_summaries.csv
 Harischandra|PER|cid_1aeb2e8537e6463d95ac6768b66b9bc8|2|kaggle_tilak_summaries.csv
 Harischandra|PER|cid_2aeaeaefc7f7464ab9ceb2f112f81b4a|2|kaggle_tilak_summaries.csv
@@ -5194,7 +5182,7 @@ Hastinapura|LOC|cid_f6277f96f39f4110a3eeb1e5cc374d3a|1|kaggle_tilak_summaries.cs
 Hastinapura|LOC|cid_fcc0d57547664e7d92ac7af6baf0971d|1|kaggle_tilak_summaries.csv
 Hastinapura|LOC|cid_fd3f4a5d17654c508ad755740b887a5c|2|kaggle_tilak_summaries.csv
 Hastinapura|LOC|cid_fe6e79bc708b46f1a97d4471e3602575|1|kaggle_tilak_summaries.csv
-Hastinapura.|LOC|cid_9da0a6b4ee2b45ddb87687975e4e8956|1|kaggle_tilak_summaries.csv
+Hastinapura|LOC|cid_9da0a6b4ee2b45ddb87687975e4e8956|1|kaggle_tilak_summaries.csv
 Havoc|MISC|cid_ea4559448c3a473e9230e50da941cc51|1|kaggle_tilak_summaries.csv
 He|MISC|cid_096b155fa1ad4dfebd0adf2185cecacd|2|kaggle_tilak_summaries.csv
 He|MISC|cid_101de68a0f0d4fbeb0bffed5574ec440|2|kaggle_tilak_summaries.csv
@@ -5308,7 +5296,7 @@ Hiranyakashipu|PER|cid_b06ec81303b44dd78f3eb8af5f385fc0|1|kaggle_tilak_summaries
 Hiranyaksha|PER|cid_b06ec81303b44dd78f3eb8af5f385fc0|1|kaggle_tilak_summaries.csv
 Hiranyavarman|PER|cid_104c3f4a8dfe4d50b115d514bd9e6efe|1|kaggle_tilak_summaries.csv
 Hiranyavarman|PER|cid_5b1f6a3d16464881bc2e8979f808ddfc|5|kaggle_tilak_summaries.csv
-Hiranyavarman,|PER|cid_5b1f6a3d16464881bc2e8979f808ddfc|1|kaggle_tilak_summaries.csv
+Hiranyavarman|PER|cid_5b1f6a3d16464881bc2e8979f808ddfc|1|kaggle_tilak_summaries.csv
 His|MISC|cid_00464f8636da46f881b282e34510cfe6|3|kaggle_tilak_summaries.csv
 His|MISC|cid_009f0571b23b4f1abecfa10c6a872708|3|kaggle_tilak_summaries.csv
 His|MISC|cid_048f66c065c745db8f73c1b5d474f37e|2|kaggle_tilak_summaries.csv
@@ -5418,7 +5406,7 @@ His A|MISC|cid_131eac5d2e954b969b25a35bfd1acf99|1|kaggle_tilak_summaries.csv
 His Divin|MISC|cid_05604bbaa82142c882263a703dcc22bd|1|kaggle_tilak_summaries.csv
 His Divine Grace|MISC|cid_12322ef365534f549cac541b55a98ba1|1|kaggle_tilak_summaries.csv
 His Divine Grace A.C|MISC|cid_b97a171732614afbbdf73dfbf0dd02a5|1|kaggle_tilak_summaries.csv
-His Divine Grace A.C.|MISC|cid_0785b90f56c241848b69b3b449053166|1|kaggle_tilak_summaries.csv
+His Divine Grace A.C|MISC|cid_0785b90f56c241848b69b3b449053166|1|kaggle_tilak_summaries.csv
 His Legs|MISC|cid_0af8f946f8534ebbb11ef0a474771257|1|kaggle_tilak_summaries.csv
 His Own|MISC|cid_4979359e49654fbba0cc4b2ddf2650ff|1|kaggle_tilak_summaries.csv
 His Own|MISC|cid_58a1d25f4cd24f8a804b43e8292271f7|1|kaggle_tilak_summaries.csv
@@ -5605,11 +5593,11 @@ Indra|PER|cid_fd2c68cb59bb4806b5bfdf65cb990a3b|2|kaggle_tilak_summaries.csv
 Indra|PER|cid_fddcc8a4691d469eb7784695dec5fbfa|1|kaggle_tilak_summaries.csv
 Indra|PER|cid_fe0f989811d64602820afea72e9aad3e|5|kaggle_tilak_summaries.csv
 Indra|PER|cid_ff80ff66e8be483ebd6bd6ebe2fb10cc|1|kaggle_tilak_summaries.csv
-Indra,|PER|cid_17823e94dd664044bb2650fbe6b87aa1|1|kaggle_tilak_summaries.csv
-Indra,|PER|cid_5818e95a36f3417e9a1d5cd82d2f79d1|1|kaggle_tilak_summaries.csv
-Indra,|PER|cid_e06ac18cae574b079f923b7a806be248|1|kaggle_tilak_summaries.csv
-Indra,|PER|cid_ee387d0584d04c2599a6289e70d0ea32|1|kaggle_tilak_summaries.csv
-Indra,|PER|cid_fba2af3be9bc4b229598c869682a8bef|1|kaggle_tilak_summaries.csv
+Indra|PER|cid_17823e94dd664044bb2650fbe6b87aa1|1|kaggle_tilak_summaries.csv
+Indra|PER|cid_5818e95a36f3417e9a1d5cd82d2f79d1|1|kaggle_tilak_summaries.csv
+Indra|PER|cid_e06ac18cae574b079f923b7a806be248|1|kaggle_tilak_summaries.csv
+Indra|PER|cid_ee387d0584d04c2599a6289e70d0ea32|1|kaggle_tilak_summaries.csv
+Indra|PER|cid_fba2af3be9bc4b229598c869682a8bef|1|kaggle_tilak_summaries.csv
 Indra, Kuvera|PER|cid_fe0f989811d64602820afea72e9aad3e|1|kaggle_tilak_summaries.csv
 Indradeva|PER|cid_94b968e2239c415eab0a4626d1501077|1|kaggle_tilak_summaries.csv
 Indraloka|LOC|cid_591d272b8e18414d8bff3c9bedb30461|1|kaggle_tilak_summaries.csv
@@ -5767,7 +5755,7 @@ Jarasandha|PER|cid_f4c0068822f54f5d86765c0b374a4eed|2|kaggle_tilak_summaries.csv
 Jarasandha|PER|cid_f50e1a7eadf7469b97664a3be592eb45|5|kaggle_tilak_summaries.csv
 Jarasandha|PER|cid_fa2ce6449e364cec9e7ff6465622bf9e|1|kaggle_tilak_summaries.csv
 Jarasandha|PER|cid_fcdd482e66dd441d8673ac30db3e9e25|1|kaggle_tilak_summaries.csv
-Jarasandha Slain.|PER|cid_5011c594922043489f50177a58a35fa5|1|kaggle_tilak_summaries.csv
+Jarasandha Slain|PER|cid_5011c594922043489f50177a58a35fa5|1|kaggle_tilak_summaries.csv
 Jarasandha, Shishupala|PER|cid_28f79f520b334ee8aa0fb922ad2f7e71|1|kaggle_tilak_summaries.csv
 Jatasura|PER|cid_ab89aa07ddf94216b1bd238c4879d2d0|1|kaggle_tilak_summaries.csv
 Jatasura|PER|cid_cd69ae5572254073ae91e630a42c33b2|1|kaggle_tilak_summaries.csv
@@ -5863,7 +5851,7 @@ Jayarata|PER|cid_ad7faca53896465892b92b7d45fa4377|1|kaggle_tilak_summaries.csv
 Jayatsena|PER|cid_2fea17d159f14023882736b385ab35cb|1|kaggle_tilak_summaries.csv
 Jayatsena|PER|cid_54662bd1b38c4f9fa669cf4c73a04371|1|kaggle_tilak_summaries.csv
 Jayatsena|PER|cid_ba97ad79cb2b443787293c1ce9831755|4|kaggle_tilak_summaries.csv
-Jayatsena,|PER|cid_f3a58e96a9ee4c2daeee378f60ccfbc3|1|kaggle_tilak_summaries.csv
+Jayatsena|PER|cid_f3a58e96a9ee4c2daeee378f60ccfbc3|1|kaggle_tilak_summaries.csv
 Jayatvala|PER|cid_cb830e6ad10644b48d4d14e72853b0a4|1|kaggle_tilak_summaries.csv
 Jayatvala|PER|cid_dc8c857c92074e4fb8e23bdd7705fd42|1|kaggle_tilak_summaries.csv
 Jeshthya|LOC|cid_d7f861d8577749ee9de19416d7f58b3f|1|kaggle_tilak_summaries.csv
@@ -5875,7 +5863,7 @@ Jimuta|PER|cid_fa356382ca784d71a65c445101acdcfd|3|kaggle_tilak_summaries.csv
 Jishnu|PER|cid_0c5a79320fb04a5ab851da862767a897|1|kaggle_tilak_summaries.csv
 Jishnu|PER|cid_a98762e98bb54d7aa94de3ef3e2facfa|1|kaggle_tilak_summaries.csv
 Jishnu|PER|cid_f15d25a854c3414eb87db1aeb03ed984|1|kaggle_tilak_summaries.csv
-Jishnu (Arjuna)|PER|cid_30b66589cfc84755ab878bd5b784809b|1|kaggle_tilak_summaries.csv
+Jishnu Arjuna|PER|cid_30b66589cfc84755ab878bd5b784809b|1|kaggle_tilak_summaries.csv
 Jitavati|PER|cid_42d486284c8c47ea9426bad87cbb1d48|1|kaggle_tilak_summaries.csv
 Journeys|MISC|cid_86c040cbcece4ba5a81b83184e12c576|1|kaggle_tilak_summaries.csv
 June|MISC|cid_f2976e9e66b7415d95ecbd6b613b2e02|1|kaggle_tilak_summaries.csv
@@ -5925,7 +5913,7 @@ Kali yuga|MISC|cid_fe8046464394453eb56c656518abc75b|1|kaggle_tilak_summaries.csv
 Kali, Shree Krishna Chaitanya|MISC|cid_410c23407f314186bcd766d94d208dca|1|kaggle_tilak_summaries.csv
 Kali-Santarana Upanishad|MISC|cid_a5ac820d815f47edaee1125af8eb0ae6|1|kaggle_tilak_summaries.csv
 Kali-yuga|MISC|cid_66dd2383461847f3b9db062c1daad585|1|kaggle_tilak_summaries.csv
-Kali.|PER|cid_3ee9dc62305f4d1e839cb1d595de7f64|1|kaggle_tilak_summaries.csv
+Kali|PER|cid_3ee9dc62305f4d1e839cb1d595de7f64|1|kaggle_tilak_summaries.csv
 Kalikeya|PER|cid_d37ae52b9a3d4069938b95eee8a15d8f|1|kaggle_tilak_summaries.csv
 Kalinga|LOC|cid_32be04ecd6b848c2b683104d51fea5a2|1|kaggle_tilak_summaries.csv
 Kalinga|LOC|cid_3b6ba1b7dd6a47f0977b520ccc30f799|1|kaggle_tilak_summaries.csv
@@ -6260,7 +6248,7 @@ Karna|PER|cid_ff3a9529ded54180a9aa8d0cbd64545d|1|kaggle_tilak_summaries.csv
 Karna Parva|MISC|cid_5e3251d162de4bf899804339b209a897|1|kaggle_tilak_summaries.csv
 Karna Parva|MISC|cid_9f7fdb15912d4a03986150acea9a1aa2|1|kaggle_tilak_summaries.csv
 Karna and Bhima|PER|cid_c6690087cc754cbd8178ff645ad133c0|1|kaggle_tilak_summaries.csv
-Karna'|PER|cid_4ff2efb5cc934d28a6f233653e6e4ee7|1|kaggle_tilak_summaries.csv
+Karna|PER|cid_4ff2efb5cc934d28a6f233653e6e4ee7|1|kaggle_tilak_summaries.csv
 Karna, Bhishma, Drona, Salya, Jayadratha, Bhurishravas|PER|cid_d37c80d9526d4debaa818fa0281df057|1|kaggle_tilak_summaries.csv
 Karna, Drona, Bhishma, Kripa|PER|cid_ed0d57c784fe403ebe683fc90fa6842b|1|kaggle_tilak_summaries.csv
 Karna, Drona, Bhurishravas, Salya, Sudakshina, Vikarna, Duhshasana, Vinda|PER|cid_d2469b0b4091416e999ab7eace8ee352|1|kaggle_tilak_summaries.csv
@@ -6272,7 +6260,7 @@ Karna, Shakuni|PER|cid_609c424dee094de8a5d5af3952160a1d|1|kaggle_tilak_summaries
 Karna, Shakuni|PER|cid_84726443941f4875a251bbd300d2fc82|1|kaggle_tilak_summaries.csv
 Karna, Shakuni, Bhurishravas, Sala, Drona|PER|cid_bc155ff864244ceaa8887a8002088d65|1|kaggle_tilak_summaries.csv
 Karna, Vrishasena, Salya, Ashvatthama|PER|cid_fa2b251388d547c791cac836b5a85f82|1|kaggle_tilak_summaries.csv
-Karna.|PER|cid_d14431f0d20b4490a60bd1340285254d|1|kaggle_tilak_summaries.csv
+Karna|PER|cid_d14431f0d20b4490a60bd1340285254d|1|kaggle_tilak_summaries.csv
 Karnikara|MISC|cid_2c301f9cdb2b4b95aba4de2dda8ff4ed|1|kaggle_tilak_summaries.csv
 Kartavirya|PER|cid_e6e858824317471cb33b5b2bd77c48e3|1|kaggle_tilak_summaries.csv
 Kartavirya Arjuna|PER|cid_62a12699edc247589f0138fbc4ae6e52|2|kaggle_tilak_summaries.csv
@@ -6586,8 +6574,8 @@ Kichaka|PER|cid_e7925bfc5efa455299b490b7099632fb|1|kaggle_tilak_summaries.csv
 Kichaka|PER|cid_ed95121474ec4185a70137ca44b846d5|2|kaggle_tilak_summaries.csv
 Kichaka|PER|cid_eeafa11561e04f5699e2607eac2574b2|1|kaggle_tilak_summaries.csv
 Kichaka|PER|cid_fa2ce6449e364cec9e7ff6465622bf9e|1|kaggle_tilak_summaries.csv
-Kichaka,|PER|cid_9c3b15606deb4771859c376168c71a61|1|kaggle_tilak_summaries.csv
-Kichaka.|MISC|cid_d2a35a189af24b25bcc3534b0f9d19fc|1|kaggle_tilak_summaries.csv
+Kichaka|PER|cid_9c3b15606deb4771859c376168c71a61|1|kaggle_tilak_summaries.csv
+Kichaka|MISC|cid_d2a35a189af24b25bcc3534b0f9d19fc|1|kaggle_tilak_summaries.csv
 Kimpurushas|MISC|cid_73d5b43d81434531ab1fa2a3297577c1|1|kaggle_tilak_summaries.csv
 Kindama|PER|cid_66b6648db1a2453582f0265333126dba|1|kaggle_tilak_summaries.csv
 Kindama|PER|cid_7c15e47234934c78ac46713aea05b7c0|1|kaggle_tilak_summaries.csv
@@ -7193,9 +7181,9 @@ King of the Trigartas|MISC|cid_fa088bd3cc35431189ab73af2aae8d62|1|kaggle_tilak_s
 King of the Vangas|MISC|cid_ccd70487df834b2f916121470f341f5d|2|kaggle_tilak_summaries.csv
 King of the earth|MISC|cid_d58c404230044aa08a28a6ee4b4040e0|1|kaggle_tilak_summaries.csv
 King of the snakes|MISC|cid_b8028ac4610249549779009b2031627e|1|kaggle_tilak_summaries.csv
-King's|MISC|cid_e0b96a01b19f49bd9e0181c6611fb16b|1|kaggle_tilak_summaries.csv
-King's|PER|cid_30b66589cfc84755ab878bd5b784809b|1|kaggle_tilak_summaries.csv
-King,|PER|cid_31a02f08025d484a8fb23889df18c409|1|kaggle_tilak_summaries.csv
+Kings|MISC|cid_e0b96a01b19f49bd9e0181c6611fb16b|1|kaggle_tilak_summaries.csv
+Kings|PER|cid_30b66589cfc84755ab878bd5b784809b|1|kaggle_tilak_summaries.csv
+King|PER|cid_31a02f08025d484a8fb23889df18c409|1|kaggle_tilak_summaries.csv
 King, Lord|MISC|cid_563a041a75f044c3815f393917f62e21|1|kaggle_tilak_summaries.csv
 Kingdom|LOC|cid_fa2f8c91b5f443cd9ca33abe38a932bc|1|kaggle_tilak_summaries.csv
 Kings|MISC|cid_06e9b2678db44b828a624447598dcb56|1|kaggle_tilak_summaries.csv
@@ -7242,7 +7230,7 @@ Kings of|MISC|cid_a2a221c5ecec46788f63585b77b13e62|1|kaggle_tilak_summaries.csv
 Kings of|MISC|cid_a3e6f39ec1fb490096a3bf02d1fac608|1|kaggle_tilak_summaries.csv
 Kings of|MISC|cid_f7755c6c42ed4482afe502b8b3f5d25c|1|kaggle_tilak_summaries.csv
 Kings of the earth|MISC|cid_9658f581f35043b79f3621fbf3ae6d77|1|kaggle_tilak_summaries.csv
-Kings,|MISC|cid_9d82ebeee5844ae18b2b738e8f40e7ab|1|kaggle_tilak_summaries.csv
+Kings|MISC|cid_9d82ebeee5844ae18b2b738e8f40e7ab|1|kaggle_tilak_summaries.csv
 Kingship of the World|MISC|cid_02d29395d8bc4302a489502d15abc44e|1|kaggle_tilak_summaries.csv
 Kinnar|PER|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
 Kinsmen|MISC|cid_048f66c065c745db8f73c1b5d474f37e|1|kaggle_tilak_summaries.csv
@@ -7331,7 +7319,7 @@ Kripa, Ashvatthama, Salya, Sudakshina, Bahlika|PER|cid_a08b4de26a88455b8cb60f7da
 Kripa, Ashvatthaman|PER|cid_d14431f0d20b4490a60bd1340285254d|1|kaggle_tilak_summaries.csv
 Kripa, Drona, Ashvatthama|PER|cid_f19faebcc18940dd9849521a04e65107|1|kaggle_tilak_summaries.csv
 Kripa, Karna|PER|cid_eabe46dabeec4e42a149ffe58f61d54d|1|kaggle_tilak_summaries.csv
-Kripa, Kritavarman,|PER|cid_3cbc8d9d4d884a9cac572b6f617ba452|1|kaggle_tilak_summaries.csv
+Kripa, Kritavarman|PER|cid_3cbc8d9d4d884a9cac572b6f617ba452|1|kaggle_tilak_summaries.csv
 Kripa, Kritavarman, Saivya, Shakuni Jayadratha, Sudakshina|PER|cid_17bcb8bfe1564ae08862510df64727c1|1|kaggle_tilak_summaries.csv
 Kripa, Nakula|PER|cid_3e3399d29ef447b4856a0c16e783b370|1|kaggle_tilak_summaries.csv
 Kripacharya|PER|cid_187819d21a9844a08cafb941cea03871|1|kaggle_tilak_summaries.csv
@@ -7912,7 +7900,7 @@ Krishna|PER|cid_feadbd33b00d4a409577f0d29d7d47db|1|kaggle_tilak_summaries.csv
 Krishna|PER|cid_ff80ff66e8be483ebd6bd6ebe2fb10cc|1|kaggle_tilak_summaries.csv
 Krishna|PER|cid_ffd43b423bef48528689c51fbadc4d83|1|kaggle_tilak_summaries.csv
 Krishna|PER|cid_ffdf8dd507384e419c14b64644597b68|2|kaggle_tilak_summaries.csv
-Krishna (Draupadi)|PER|cid_0e01d0abc8244d2a8b2017c5ca72263d|1|kaggle_tilak_summaries.csv
+Krishna Draupadi|PER|cid_0e01d0abc8244d2a8b2017c5ca72263d|1|kaggle_tilak_summaries.csv
 Krishna Chaitanya Mahaprabhu|PER|cid_5dbc1f547b4d41b5bd24ed633bb7bf46|1|kaggle_tilak_summaries.csv
 Krishna Consciousness|MISC|cid_0785b90f56c241848b69b3b449053166|1|kaggle_tilak_summaries.csv
 Krishna Dvaipayana Vyasa|PER|cid_098d2fd45c6747c2aa8e1fb7668bfff7|1|kaggle_tilak_summaries.csv
@@ -7926,23 +7914,23 @@ Krishna Krishna|PER|cid_4a680417c2cb41e5bad63e72de4d4bcf|1|kaggle_tilak_summarie
 Krishna Krishna|PER|cid_5dbc1f547b4d41b5bd24ed633bb7bf46|1|kaggle_tilak_summaries.csv
 Krishna Krishna, Hare Hare|PER|cid_26630f230fed4169b6e905229bb28b46|1|kaggle_tilak_summaries.csv
 Krishna [Draupadi|PER|cid_9e1d17526ae74681abbb69307aa7abbe|1|kaggle_tilak_summaries.csv
-Krishna [Draupadi]|PER|cid_d53ddfd7e77f494d95fce84036e868a6|1|kaggle_tilak_summaries.csv
+Krishna [Draupadi|PER|cid_d53ddfd7e77f494d95fce84036e868a6|1|kaggle_tilak_summaries.csv
 Krishna consciousness|MISC|cid_12322ef365534f549cac541b55a98ba1|1|kaggle_tilak_summaries.csv
-Krishna'|PER|cid_3ea4543136d64fc98a5b13fe66f4e12e|1|kaggle_tilak_summaries.csv
-Krishna,|MISC|cid_26630f230fed4169b6e905229bb28b46|1|kaggle_tilak_summaries.csv
-Krishna,|PER|cid_26f21681fb0a42af9ea845a98b0cd229|1|kaggle_tilak_summaries.csv
-Krishna,|PER|cid_58a1d25f4cd24f8a804b43e8292271f7|1|kaggle_tilak_summaries.csv
-Krishna,|PER|cid_64e536c756fd4bcba33ce99cf58ca54c|1|kaggle_tilak_summaries.csv
-Krishna,|PER|cid_6cd6e424fb3c446da8c5c557d4ab4b82|1|kaggle_tilak_summaries.csv
-Krishna,|PER|cid_d9b8b08a8a564388a97257d9f2c050f2|1|kaggle_tilak_summaries.csv
-Krishna,|PER|cid_e6e858824317471cb33b5b2bd77c48e3|1|kaggle_tilak_summaries.csv
+Krishna|PER|cid_3ea4543136d64fc98a5b13fe66f4e12e|1|kaggle_tilak_summaries.csv
+Krishna|MISC|cid_26630f230fed4169b6e905229bb28b46|1|kaggle_tilak_summaries.csv
+Krishna|PER|cid_26f21681fb0a42af9ea845a98b0cd229|1|kaggle_tilak_summaries.csv
+Krishna|PER|cid_58a1d25f4cd24f8a804b43e8292271f7|1|kaggle_tilak_summaries.csv
+Krishna|PER|cid_64e536c756fd4bcba33ce99cf58ca54c|1|kaggle_tilak_summaries.csv
+Krishna|PER|cid_6cd6e424fb3c446da8c5c557d4ab4b82|1|kaggle_tilak_summaries.csv
+Krishna|PER|cid_d9b8b08a8a564388a97257d9f2c050f2|1|kaggle_tilak_summaries.csv
+Krishna|PER|cid_e6e858824317471cb33b5b2bd77c48e3|1|kaggle_tilak_summaries.csv
 Krishna, Arjuna|PER|cid_fc8994ebb1494002b0087d6d56786127|1|kaggle_tilak_summaries.csv
 Krishna, Arjuna, Bhima, Uttamaujas|PER|cid_aba8cf008c1242aead333f293c00f0c5|1|kaggle_tilak_summaries.csv
 Krishna, Arjuna, Pradyumna|PER|cid_d91dfe69b61c40f98dd78dad780a717f|1|kaggle_tilak_summaries.csv
 Krishna, Arjuna, Yudhisthira, Bhima, Nakula, Sahadeva|PER|cid_2210461dc9b64ac3b91c5709110c4d74|1|kaggle_tilak_summaries.csv
 Krishna, Dhritarastra|PER|cid_f594105e5c774272b69a4c1e0d6e8dd0|1|kaggle_tilak_summaries.csv
 Krishna, Himself|PER|cid_84726443941f4875a251bbd300d2fc82|1|kaggle_tilak_summaries.csv
-Krishna, Krishna Krishna,|MISC|cid_a9398895326848879c5ea68eb013cd40|1|kaggle_tilak_summaries.csv
+Krishna, Krishna Krishna|MISC|cid_a9398895326848879c5ea68eb013cd40|1|kaggle_tilak_summaries.csv
 Krishna-dvaipayana|MISC|cid_22d1e8478484432bbb3da05fdab64d84|1|kaggle_tilak_summaries.csv
 Krishnas|MISC|cid_166fcb5679264d4186b421d8501c834d|1|kaggle_tilak_summaries.csv
 Krishnas|MISC|cid_66f6725828a34fa59349d73a1264a93b|1|kaggle_tilak_summaries.csv
@@ -7999,7 +7987,7 @@ Kritavarman|PER|cid_faa6fd4766dd4894b9fb1302ce489ad1|1|kaggle_tilak_summaries.cs
 Kritavarman|PER|cid_fd15ad065c9b455a89733e94608915cc|1|kaggle_tilak_summaries.csv
 Kritavarman, Kripa|PER|cid_3cbc8d9d4d884a9cac572b6f617ba452|1|kaggle_tilak_summaries.csv
 Kritavarman, Kripa|PER|cid_775d5ab467444dbba8a78e7629917ea4|1|kaggle_tilak_summaries.csv
-Kritavarman, Kripa,|PER|cid_8bd614b03f82483cae3b28e8669c5bec|1|kaggle_tilak_summaries.csv
+Kritavarman, Kripa|PER|cid_8bd614b03f82483cae3b28e8669c5bec|1|kaggle_tilak_summaries.csv
 Kriti|PER|cid_a898f3366067491f9f8633492769bc6a|1|kaggle_tilak_summaries.csv
 Krpi|PER|cid_3944b0a04db04ad5a33c322a7cf77845|1|kaggle_tilak_summaries.csv
 Ksatradharman|PER|cid_e32adb76ee934764b4dd167a304f5a68|2|kaggle_tilak_summaries.csv
@@ -8500,7 +8488,7 @@ Lakshmana|PER|cid_d0e12f4461ca4f76bc52d001f3e546f4|3|kaggle_tilak_summaries.csv
 Lakshmana|PER|cid_f8aef8d1c30d4fd5aef8b4ac25db85bd|1|kaggle_tilak_summaries.csv
 Laksmi|PER|cid_3a284b02cf0f482999d4af32173d59bf|1|kaggle_tilak_summaries.csv
 Laksmi|PER|cid_77b7099118d341379296d9fa528cbe79|1|kaggle_tilak_summaries.csv
-Lamentation Over the Dead Relatives.|MISC|cid_ffb0175f13ea48faa0a4b278f91acb34|1|kaggle_tilak_summaries.csv
+Lamentation Over the Dead Relatives|MISC|cid_ffb0175f13ea48faa0a4b278f91acb34|1|kaggle_tilak_summaries.csv
 Lanka|LOC|cid_27985b91bdcd4b3fb5d0751c6999bc5a|1|kaggle_tilak_summaries.csv
 Lanka|LOC|cid_c6be1c1b28254d4eb6bbd58b7f320081|1|kaggle_tilak_summaries.csv
 Lanka|LOC|cid_f8aef8d1c30d4fd5aef8b4ac25db85bd|2|kaggle_tilak_summaries.csv
@@ -9215,16 +9203,16 @@ Lord Krishna|PER|cid_fd2c68cb59bb4806b5bfdf65cb990a3b|1|kaggle_tilak_summaries.c
 Lord Krishna|PER|cid_fe69382b3fed41cb95893793d62529e6|1|kaggle_tilak_summaries.csv
 Lord Krishna|PER|cid_feadbd33b00d4a409577f0d29d7d47db|1|kaggle_tilak_summaries.csv
 Lord Krishna|PER|cid_ff3acdd8167040899d33778f9cbbe658|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_072ba6c2657a4e358038a92ce9ecb904|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_1c750682db224b1bab8f7306eb94a2ad|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_31a5ce0ab20943eea6d8c4ef0f53e691|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_6217abd92cd8493ab3d7dc9ca26800e6|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_66a7808cd87741598de009744b36ec7f|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_924af44da3934839b80ccef0ee1cc8b1|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_b5d6828711d04afdb91270f57c747502|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_cd20e6a64a7e4a3e913b32f36b72cc50|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_f385ae8fe22940d09deb411acf697137|1|kaggle_tilak_summaries.csv
-Lord Krishna,|PER|cid_fdae953f957946cc9bbe9ee53fa157d9|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_072ba6c2657a4e358038a92ce9ecb904|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_1c750682db224b1bab8f7306eb94a2ad|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_31a5ce0ab20943eea6d8c4ef0f53e691|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_6217abd92cd8493ab3d7dc9ca26800e6|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_66a7808cd87741598de009744b36ec7f|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_924af44da3934839b80ccef0ee1cc8b1|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_b5d6828711d04afdb91270f57c747502|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_cd20e6a64a7e4a3e913b32f36b72cc50|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_f385ae8fe22940d09deb411acf697137|1|kaggle_tilak_summaries.csv
+Lord Krishna|PER|cid_fdae953f957946cc9bbe9ee53fa157d9|1|kaggle_tilak_summaries.csv
 Lord Krishna, Bhima|PER|cid_b9eb335760a04847bab2f23e398a8514|1|kaggle_tilak_summaries.csv
 Lord Krishna. Maharaja Yudhisthira|PER|cid_66dd2383461847f3b9db062c1daad585|1|kaggle_tilak_summaries.csv
 Lord Lord|MISC|cid_cc6ed0af084a4e7ca89e89524651ee65|1|kaggle_tilak_summaries.csv
@@ -9549,10 +9537,10 @@ Maharaja Yudhisthira|PER|cid_efc7b52993f24d30b1b37f4a4e79ce96|1|kaggle_tilak_sum
 Maharaja Yudhisthira|PER|cid_f0701b32fc684929ad1f47e6a299a965|1|kaggle_tilak_summaries.csv
 Maharaja Yudhisthira|PER|cid_f7bec54e60ae4470b6d6132609872d5e|1|kaggle_tilak_summaries.csv
 Maharaja Yudhisthira|PER|cid_fcedf30ba76d46c3b80f8ab28ec644f5|1|kaggle_tilak_summaries.csv
-Maharaja Yudhisthira,|PER|cid_ca7140feeed4457995f693e9135c5921|1|kaggle_tilak_summaries.csv
+Maharaja Yudhisthira|PER|cid_ca7140feeed4457995f693e9135c5921|1|kaggle_tilak_summaries.csv
 Maharaja Yudhisthira, Bhima, Arjuna, Nakula, Sahadeva, Dhritarastra, Satyaki, Sanjaya, Kripacharya, Kunti, Gandhari, Draupadi, Subhadra, Uttara, Kripi|PER|cid_1cc2c052029a45d387ad091dc2949aa1|1|kaggle_tilak_summaries.csv
-Maharaja Yudhisthira.|PER|cid_6f72dec2cd434600b2b74420c8dc3a2d|1|kaggle_tilak_summaries.csv
-Maharaja Yudhisthira.|PER|cid_c059170e748341069b455deebd7860f7|1|kaggle_tilak_summaries.csv
+Maharaja Yudhisthira|PER|cid_6f72dec2cd434600b2b74420c8dc3a2d|1|kaggle_tilak_summaries.csv
+Maharaja Yudhisthira|PER|cid_c059170e748341069b455deebd7860f7|1|kaggle_tilak_summaries.csv
 Maharishi|PER|cid_160f7ec528ec4d16bef10d6a7ad3ac68|1|kaggle_tilak_summaries.csv
 Mahatma Vidura|PER|cid_1fe0a06627474986862ecd6eb2d2d3ce|1|kaggle_tilak_summaries.csv
 Mahatma Vidura|PER|cid_359d4f9bcbe344efa4d02fa1fee6233a|2|kaggle_tilak_summaries.csv
@@ -9697,7 +9685,7 @@ Me|PER|cid_65ec701c443f4c3cbe3f5e4b655f3771|2|kaggle_tilak_summaries.csv
 Me|PER|cid_68bfb841666145938eacedd2f3322be9|1|kaggle_tilak_summaries.csv
 Me|PER|cid_97ed198d988c4e78b6fcda3e41cb3620|1|kaggle_tilak_summaries.csv
 Me|PER|cid_de5f27ce2b924019bcfb71da7f8b964d|1|kaggle_tilak_summaries.csv
-Meanwhile,|MISC|cid_4d3daba8bdce4381b9ec7cb98cc2e4eb|1|kaggle_tilak_summaries.csv
+Meanwhile|MISC|cid_4d3daba8bdce4381b9ec7cb98cc2e4eb|1|kaggle_tilak_summaries.csv
 Meets|MISC|cid_ab89aa07ddf94216b1bd238c4879d2d0|1|kaggle_tilak_summaries.csv
 Meghasandhi|PER|cid_bed35cfb0f804c0ca75434b84aaaedb7|2|kaggle_tilak_summaries.csv
 Meghavahana|PER|cid_819f20ba1ea3485d970a3802dfa4fa00|1|kaggle_tilak_summaries.csv
@@ -9839,7 +9827,7 @@ Naga|MISC|cid_dacc6f0c6e4e48bc8bdf90a45398cfd9|1|kaggle_tilak_summaries.csv
 Naga|MISC|cid_fbe79e2df8b14f068b3ef047387c4fed|1|kaggle_tilak_summaries.csv
 Naga|PER|cid_86e891b20feb4427930e6987118d8d5f|1|kaggle_tilak_summaries.csv
 Naga|PER|cid_c5cc1ad263944adc826fa48d1eaee8e3|1|kaggle_tilak_summaries.csv
-Naga (snake|MISC|cid_8afc3739523947aa8b42d741dfb46f35|1|kaggle_tilak_summaries.csv
+Naga snake|MISC|cid_8afc3739523947aa8b42d741dfb46f35|1|kaggle_tilak_summaries.csv
 Nagadatta, Dridharatha, Viravahu, Ayobhuja, Dridha, Suhasta, Viragas, Pramatha|PER|cid_5a274238ed21494e9368fee0803c15b8|1|kaggle_tilak_summaries.csv
 Nagas|MISC|cid_1a413b1098444424adc7d36fbf2f3004|1|kaggle_tilak_summaries.csv
 Nagas|MISC|cid_47c950d1b74b40caa864f5f0c4ad3d07|1|kaggle_tilak_summaries.csv
@@ -9997,7 +9985,7 @@ Narada Muni|PER|cid_bcba9185934f4d789e3cc58f03a877a6|2|kaggle_tilak_summaries.cs
 Narada Muni|PER|cid_f38388b0a8a44c4e9286175beea8f5bd|1|kaggle_tilak_summaries.csv
 Narada Muni|PER|cid_fd6a60d2a6924254b8620aeea4e037f1|1|kaggle_tilak_summaries.csv
 Narada Muni|PER|cid_fe0f989811d64602820afea72e9aad3e|1|kaggle_tilak_summaries.csv
-Narada muni.|PER|cid_a5ac820d815f47edaee1125af8eb0ae6|1|kaggle_tilak_summaries.csv
+Narada muni|PER|cid_a5ac820d815f47edaee1125af8eb0ae6|1|kaggle_tilak_summaries.csv
 Narada rishi|PER|cid_5b2b4728e91945d69ff3ff778d3299ac|1|kaggle_tilak_summaries.csv
 Narada, As|PER|cid_8be8c94237394d6b8891660ace2197d7|1|kaggle_tilak_summaries.csv
 Narada, Asita, Vyasa|PER|cid_562713686d5840f3aad959637e49573a|1|kaggle_tilak_summaries.csv
@@ -10026,7 +10014,7 @@ Narayana astra|MISC|cid_1504cb4221484e1cafa67c6dc65cfb7f|2|kaggle_tilak_summarie
 Narayana astra|MISC|cid_4172a67e9d7e487bb797d81ab3667927|1|kaggle_tilak_summaries.csv
 Narayana astra|MISC|cid_7a7c0bce1dab4fbaa845960ecd0d9de3|1|kaggle_tilak_summaries.csv
 Narayana astra|MISC|cid_c9600c3453e14a91b380f6c59fe23ee5|1|kaggle_tilak_summaries.csv
-Narayana,|PER|cid_ec2990e154e04ddfbf265308562996af|1|kaggle_tilak_summaries.csv
+Narayana|PER|cid_ec2990e154e04ddfbf265308562996af|1|kaggle_tilak_summaries.csv
 New Vrindavana|LOC|cid_f2976e9e66b7415d95ecbd6b613b2e02|1|kaggle_tilak_summaries.csv
 New York City|LOC|cid_b97a171732614afbbdf73dfbf0dd02a5|1|kaggle_tilak_summaries.csv
 Nila|PER|cid_518b960e449a4b66b324ad8441254a78|1|kaggle_tilak_summaries.csv
@@ -10153,7 +10141,7 @@ O|MISC|cid_fa4916ac855f401da14fc07d3ffa9fe0|1|kaggle_tilak_summaries.csv
 O|MISC|cid_fe16d2b13613474e9ff07e3ecf2b4794|2|kaggle_tilak_summaries.csv
 O|PER|cid_ae669c499f6a43179571cf804941bb8e|1|kaggle_tilak_summaries.csv
 O Ajatashatru|MISC|cid_5216615e11f0402ca5af1e10c0b6f828|1|kaggle_tilak_summaries.csv
-O Ajatashatru,|MISC|cid_4c7d0b09615a49519cf86415ef38471b|1|kaggle_tilak_summaries.csv
+O Ajatashatru|MISC|cid_4c7d0b09615a49519cf86415ef38471b|1|kaggle_tilak_summaries.csv
 O Bharata|MISC|cid_43bec752436548dfb5219104ef006733|1|kaggle_tilak_summaries.csv
 O Bharata|MISC|cid_5216615e11f0402ca5af1e10c0b6f828|1|kaggle_tilak_summaries.csv
 O Bharata|MISC|cid_a07506f2c27c4788a3dc3774fdd60f8b|1|kaggle_tilak_summaries.csv
@@ -10279,11 +10267,11 @@ O King|MISC|cid_fc94f738c1f74bd68c843dc8ff57acc1|1|kaggle_tilak_summaries.csv
 O King of Chedi|MISC|cid_335d4668e49a4a80bfe30498ee509ed0|1|kaggle_tilak_summaries.csv
 O King of the Kurus|MISC|cid_7a5d71c82f5f4c40a8ef4a24bfccf194|1|kaggle_tilak_summaries.csv
 O King of the earth|MISC|cid_fac5199173d046e98293714b7fe9fc1e|1|kaggle_tilak_summaries.csv
-O King,|MISC|cid_5a6e961f8ac44a68ae41bd4150cb0411|1|kaggle_tilak_summaries.csv
-O King,|MISC|cid_77b7099118d341379296d9fa528cbe79|1|kaggle_tilak_summaries.csv
-O King,|MISC|cid_94b3afa96d394a2e9426f3fb1afe3f67|1|kaggle_tilak_summaries.csv
-O King,|MISC|cid_9d2e85678da84f8e834699f156d1ea80|1|kaggle_tilak_summaries.csv
-O King,|MISC|cid_ae52c19fbae44c59a99f200bdefbeb6b|1|kaggle_tilak_summaries.csv
+O King|MISC|cid_5a6e961f8ac44a68ae41bd4150cb0411|1|kaggle_tilak_summaries.csv
+O King|MISC|cid_77b7099118d341379296d9fa528cbe79|1|kaggle_tilak_summaries.csv
+O King|MISC|cid_94b3afa96d394a2e9426f3fb1afe3f67|1|kaggle_tilak_summaries.csv
+O King|MISC|cid_9d2e85678da84f8e834699f156d1ea80|1|kaggle_tilak_summaries.csv
+O King|MISC|cid_ae52c19fbae44c59a99f200bdefbeb6b|1|kaggle_tilak_summaries.csv
 O King, Lord|MISC|cid_75bd5a56b0ee4601a0fdbf33070a529c|1|kaggle_tilak_summaries.csv
 O Kings|MISC|cid_a592b062ecd34c268a44bfe0c291310b|1|kaggle_tilak_summaries.csv
 O Krishna|MISC|cid_0bc984496b0e4a74bae9c708a283f047|1|kaggle_tilak_summaries.csv
@@ -10295,8 +10283,8 @@ O Krishna|MISC|cid_861e8112fc0943368c832e888a892c00|1|kaggle_tilak_summaries.csv
 O Krishna|MISC|cid_b00765e1e10a4ac1a8c6ba12d3152be2|1|kaggle_tilak_summaries.csv
 O Krishna|MISC|cid_d7f861d8577749ee9de19416d7f58b3f|1|kaggle_tilak_summaries.csv
 O Krishna|MISC|cid_f2096c8261a54aca97cb2c5a383dbce9|2|kaggle_tilak_summaries.csv
-O Krishna,|MISC|cid_24d5ea81ba294724a673b11eda6bb0e9|1|kaggle_tilak_summaries.csv
-O Krishna, Krishna, O inconceivable Soul,|MISC|cid_d84409dd3ae0499d9c14e112d799009c|1|kaggle_tilak_summaries.csv
+O Krishna|MISC|cid_24d5ea81ba294724a673b11eda6bb0e9|1|kaggle_tilak_summaries.csv
+O Krishna, Krishna, O inconceivable Soul|MISC|cid_d84409dd3ae0499d9c14e112d799009c|1|kaggle_tilak_summaries.csv
 O Krishna, You|MISC|cid_a14459d0ce0c4d2ea2a734dc547bed5c|1|kaggle_tilak_summaries.csv
 O Ksatta|PER|cid_f6277f96f39f4110a3eeb1e5cc374d3a|1|kaggle_tilak_summaries.csv
 O Kunti|MISC|cid_b469573f1f00480c819d68a1325e3a07|1|kaggle_tilak_summaries.csv
@@ -10354,12 +10342,12 @@ O Suta|PER|cid_6ad6316ac8174e8b930d66c272e8e406|1|kaggle_tilak_summaries.csv
 O Suta|PER|cid_9579af44f04c4bad87eb4a255d08a5d6|1|kaggle_tilak_summaries.csv
 O Suta|PER|cid_a2f2f5742e514c77a418c3da16a5669b|1|kaggle_tilak_summaries.csv
 O Vidura|PER|cid_d73a1af05c3f4c0dbaf69ef9ae66e13b|2|kaggle_tilak_summaries.csv
-O Vidura,|MISC|cid_5580d602f43c4626899a1a995fe902ee|1|kaggle_tilak_summaries.csv
+O Vidura|MISC|cid_5580d602f43c4626899a1a995fe902ee|1|kaggle_tilak_summaries.csv
 O Yudhis|MISC|cid_ca7140feeed4457995f693e9135c5921|1|kaggle_tilak_summaries.csv
 O Yudhisthira|MISC|cid_ca7140feeed4457995f693e9135c5921|1|kaggle_tilak_summaries.csv
 O Yudhisthira|PER|cid_3ee9dc62305f4d1e839cb1d595de7f64|1|kaggle_tilak_summaries.csv
 O Yudhisthira|PER|cid_77598b83b31045f5b6170e621374a5b0|1|kaggle_tilak_summaries.csv
-O Yudhisthira,|MISC|cid_a114bda1a94c4eb7a4803fdbfca408d8|1|kaggle_tilak_summaries.csv
+O Yudhisthira|MISC|cid_a114bda1a94c4eb7a4803fdbfca408d8|1|kaggle_tilak_summaries.csv
 O Yudhisthira, O|MISC|cid_584514d23b1840cd9a68a2b5a98152c2|1|kaggle_tilak_summaries.csv
 O almighty|MISC|cid_a46b8cdf2be9425d87e862cffe24a715|1|kaggle_tilak_summaries.csv
 O best among Kings|MISC|cid_10e9eaa587e3470782359219b3022baa|1|kaggle_tilak_summaries.csv
@@ -10376,7 +10364,7 @@ O conqueror of|MISC|cid_c48fc7a70c7646358134f34eb47e35dc|1|kaggle_tilak_summarie
 O descendent of|MISC|cid_aaca84da1643464781a58f71caf2e66c|1|kaggle_tilak_summaries.csv
 O descendent of|MISC|cid_ca7140feeed4457995f693e9135c5921|1|kaggle_tilak_summaries.csv
 O descendent of Bharata|MISC|cid_95f36b9498594a9ca68a95657c4867de|1|kaggle_tilak_summaries.csv
-O descendent of Bharata.|MISC|cid_ba8a8e4b84e44046948f0b36f44f950c|1|kaggle_tilak_summaries.csv
+O descendent of Bharata|MISC|cid_ba8a8e4b84e44046948f0b36f44f950c|1|kaggle_tilak_summaries.csv
 O exalted one|MISC|cid_591d272b8e18414d8bff3c9bedb30461|1|kaggle_tilak_summaries.csv
 O father|MISC|cid_cfac9c6844534e68a1a96dc7f429db62|1|kaggle_tilak_summaries.csv
 O fiend|MISC|cid_c091d5405e3b42d887e32b3827eecd70|1|kaggle_tilak_summaries.csv
@@ -11015,7 +11003,7 @@ Parasurama|PER|cid_99c018b485d84dbda71d5be708a71a93|2|kaggle_tilak_summaries.csv
 Parasurama|PER|cid_ccab56d9074643ffa010883c7429520d|1|kaggle_tilak_summaries.csv
 Parikshit|PER|cid_8d3d2233e799493287b04e4b594dca9e|1|kaggle_tilak_summaries.csv
 Parikshit|PER|cid_c55053d900f34aa6a244362f3626c3dd|1|kaggle_tilak_summaries.csv
-Parikshit,|PER|cid_77a762d9ee034d868c10d143f67b55a2|1|kaggle_tilak_summaries.csv
+Parikshit|PER|cid_77a762d9ee034d868c10d143f67b55a2|1|kaggle_tilak_summaries.csv
 Parnasa|LOC|cid_b4b8d2878fc845caaab82f23f9d14ae3|1|kaggle_tilak_summaries.csv
 Part|PER|cid_ffd43b423bef48528689c51fbadc4d83|1|kaggle_tilak_summaries.csv
 Partha|MISC|cid_b3617fdb57da49c294279100f617fd23|1|kaggle_tilak_summaries.csv
@@ -11094,7 +11082,7 @@ Partha|PER|cid_f8548bebad2b433cbecf21e088f5a64b|1|kaggle_tilak_summaries.csv
 Partha|PER|cid_fa088bd3cc35431189ab73af2aae8d62|1|kaggle_tilak_summaries.csv
 Partha|PER|cid_fa2b251388d547c791cac836b5a85f82|1|kaggle_tilak_summaries.csv
 Partha|PER|cid_ff3acdd8167040899d33778f9cbbe658|1|kaggle_tilak_summaries.csv
-Partha (Arjuna|PER|cid_b20d78e66be54ed9b11049a37fc2b7a7|1|kaggle_tilak_summaries.csv
+Partha Arjuna|PER|cid_b20d78e66be54ed9b11049a37fc2b7a7|1|kaggle_tilak_summaries.csv
 Parvati|PER|cid_44f8a76b9b4a45b9bddc8c9c5460af4d|1|kaggle_tilak_summaries.csv
 Parvati|PER|cid_84726443941f4875a251bbd300d2fc82|1|kaggle_tilak_summaries.csv
 Pashupati|MISC|cid_59db44523b314564b8038c36dc1c6060|1|kaggle_tilak_summaries.csv
@@ -11126,8 +11114,8 @@ Personality of Godhead|MISC|cid_ccfa419263fd4a2e980292f8309ff0de|2|kaggle_tilak_
 Personality of Godhead|MISC|cid_e088dcce1fda4fd7ab24d421f4289da0|1|kaggle_tilak_summaries.csv
 Personality of Godhead|MISC|cid_fcedf30ba76d46c3b80f8ab28ec644f5|1|kaggle_tilak_summaries.csv
 Personality of Godhead|MISC|cid_fe6e79bc708b46f1a97d4471e3602575|1|kaggle_tilak_summaries.csv
-Personality of Godhead,|MISC|cid_16b27307d290416fbeb8fbe475d3423f|1|kaggle_tilak_summaries.csv
-Personality of Godhead,|MISC|cid_a124ebd74ce848b9ab0f14b081897065|1|kaggle_tilak_summaries.csv
+Personality of Godhead|MISC|cid_16b27307d290416fbeb8fbe475d3423f|1|kaggle_tilak_summaries.csv
+Personality of Godhead|MISC|cid_a124ebd74ce848b9ab0f14b081897065|1|kaggle_tilak_summaries.csv
 Personality of Godhead, Lord|MISC|cid_2f363ebff1864da1bbc7097d3d0360bf|1|kaggle_tilak_summaries.csv
 Ph|MISC|cid_603ee2fa044b4abcb19a8246101f4af8|1|kaggle_tilak_summaries.csv
 Phalguna|MISC|cid_044f6def68c14a238316609430a2977f|1|kaggle_tilak_summaries.csv
@@ -11153,9 +11141,9 @@ Phalguna|PER|cid_eca9e47f1a9148ee8243a7096662daff|1|kaggle_tilak_summaries.csv
 Phalguna|PER|cid_eed0aa2fa5594fea9ed6a474001ff45f|1|kaggle_tilak_summaries.csv
 Phalguna|PER|cid_f15d25a854c3414eb87db1aeb03ed984|1|kaggle_tilak_summaries.csv
 Phalguna|PER|cid_fa2b251388d547c791cac836b5a85f82|1|kaggle_tilak_summaries.csv
-Phalguna (Arjuna|PER|cid_f0eb2f4e5caa4070b2d6c71a6749e634|1|kaggle_tilak_summaries.csv
-Phalguna [Arjuna]|PER|cid_a07506f2c27c4788a3dc3774fdd60f8b|1|kaggle_tilak_summaries.csv
-Phalguna,|PER|cid_a93a456dc38f4208a237ee5f1515cf68|1|kaggle_tilak_summaries.csv
+Phalguna Arjuna|PER|cid_f0eb2f4e5caa4070b2d6c71a6749e634|1|kaggle_tilak_summaries.csv
+Phalguna [Arjuna|PER|cid_a07506f2c27c4788a3dc3774fdd60f8b|1|kaggle_tilak_summaries.csv
+Phalguna|PER|cid_a93a456dc38f4208a237ee5f1515cf68|1|kaggle_tilak_summaries.csv
 Pilgrimage|MISC|cid_b28db47c54794514a4fa7c0519fa1836|1|kaggle_tilak_summaries.csv
 Pindraka|LOC|cid_4ce0430431674036924dfcccc96c070d|1|kaggle_tilak_summaries.csv
 Pippala|LOC|cid_61f062e44d8f4ecba9f78409eba9e7da|1|kaggle_tilak_summaries.csv
@@ -11220,7 +11208,7 @@ Pramathin|PER|cid_ccd70487df834b2f916121470f341f5d|1|kaggle_tilak_summaries.csv
 Prapti|PER|cid_a10f75b9878743f8a9b0e4a9314b7e3a|1|kaggle_tilak_summaries.csv
 Prasena|PER|cid_285138616e8846fab7e05e775f0b41ca|1|kaggle_tilak_summaries.csv
 Pratipa|PER|cid_e5b3903460fd4ec596ccd23d31a90a90|1|kaggle_tilak_summaries.csv
-Pratipa,|PER|cid_65587f01f46243739d28ba182834bdd2|1|kaggle_tilak_summaries.csv
+Pratipa|PER|cid_65587f01f46243739d28ba182834bdd2|1|kaggle_tilak_summaries.csv
 Prativindhya|PER|cid_08ed0e2193f542e5ac210c34d4de5b91|1|kaggle_tilak_summaries.csv
 Prativindhya|PER|cid_9a5bf7e71fbf4c0c940b80bd9030cc54|1|kaggle_tilak_summaries.csv
 Prativindya|PER|cid_7714252023154d74b0f6b475155dc170|2|kaggle_tilak_summaries.csv
@@ -11530,8 +11518,8 @@ Rama Har|MISC|cid_5dbc1f547b4d41b5bd24ed633bb7bf46|1|kaggle_tilak_summaries.csv
 Rama Rama|PER|cid_26630f230fed4169b6e905229bb28b46|1|kaggle_tilak_summaries.csv
 Rama Rama|PER|cid_494b62fdc0d4485aa72a95bb99b2f3c4|1|kaggle_tilak_summaries.csv
 Rama Rama|PER|cid_5dbc1f547b4d41b5bd24ed633bb7bf46|1|kaggle_tilak_summaries.csv
-Rama,|MISC|cid_494b62fdc0d4485aa72a95bb99b2f3c4|1|kaggle_tilak_summaries.csv
-Rama,|MISC|cid_5dbc1f547b4d41b5bd24ed633bb7bf46|1|kaggle_tilak_summaries.csv
+Rama|MISC|cid_494b62fdc0d4485aa72a95bb99b2f3c4|1|kaggle_tilak_summaries.csv
+Rama|MISC|cid_5dbc1f547b4d41b5bd24ed633bb7bf46|1|kaggle_tilak_summaries.csv
 Ramachandra|PER|cid_1759be5acdbd402d9aef5e62e4dd3740|1|kaggle_tilak_summaries.csv
 Ramachandra|PER|cid_431c98c8a93b4fc0bc5716bde272d355|1|kaggle_tilak_summaries.csv
 Ramachandra|PER|cid_82befe440dfa48d6a0c86798066807f5|4|kaggle_tilak_summaries.csv
@@ -11597,7 +11585,7 @@ Rukmini, Satyabhama, Bhadra, Jambavati, Kalindi, Mitravinda, Nagnajiti, Lakshman
 Rupa Goswami|PER|cid_e32d5d6ed34744a0aa8e3d6fd5abf327|1|kaggle_tilak_summaries.csv
 Rupa Goswami|PER|cid_fdae953f957946cc9bbe9ee53fa157d9|1|kaggle_tilak_summaries.csv
 S.B|MISC|cid_8ec7d11aa5df429a968fd5c557a50743|1|kaggle_tilak_summaries.csv
-S.B.|MISC|cid_2eae9ad6b29045f5b7918b2fcda0455a|2|kaggle_tilak_summaries.csv
+S.B|MISC|cid_2eae9ad6b29045f5b7918b2fcda0455a|2|kaggle_tilak_summaries.csv
 Sabha|MISC|cid_b88ecd70c9e44b39ac7e85d2852c453c|1|kaggle_tilak_summaries.csv
 Sabha Parva|MISC|cid_85ebecbcc5bd4ee4911099e293b466c3|1|kaggle_tilak_summaries.csv
 Sabha Parva|MISC|cid_86c040cbcece4ba5a81b83184e12c576|1|kaggle_tilak_summaries.csv
@@ -11738,7 +11726,7 @@ Sahadeva|PER|cid_f81491f3f0ad4f2cac7eefb99da5ae54|1|kaggle_tilak_summaries.csv
 Sahadeva|PER|cid_f8fd34156d5d4ba3813d626852201a76|4|kaggle_tilak_summaries.csv
 Sahadeva|PER|cid_fd6a60d2a6924254b8620aeea4e037f1|1|kaggle_tilak_summaries.csv
 Sahadeva, Ghatotkacha|PER|cid_d91dfe69b61c40f98dd78dad780a717f|1|kaggle_tilak_summaries.csv
-Sahadeva.|PER|cid_8cfa27f242a949108cd2529048687f83|1|kaggle_tilak_summaries.csv
+Sahadeva|PER|cid_8cfa27f242a949108cd2529048687f83|1|kaggle_tilak_summaries.csv
 Saibya|PER|cid_5654bc634b3b42f38af7960c86c97783|1|kaggle_tilak_summaries.csv
 Sairindhri|PER|cid_14caa3269749465da83dbe75a41f5728|1|kaggle_tilak_summaries.csv
 Sairindhri|PER|cid_1514cbdb221f4f38aa3df4bc1ee6e390|1|kaggle_tilak_summaries.csv
@@ -11842,10 +11830,10 @@ Salya|PER|cid_f5eefb37c0414222bac209d372090e8d|1|kaggle_tilak_summaries.csv
 Salya|PER|cid_fa2b251388d547c791cac836b5a85f82|2|kaggle_tilak_summaries.csv
 Salya|PER|cid_fddcd5b22e3b4c40b4a39404c5c50570|1|kaggle_tilak_summaries.csv
 Salya Parva|MISC|cid_cc65511094a74df991c8c6fe4ea369eb|1|kaggle_tilak_summaries.csv
-Salya,|PER|cid_3d1f6dc448cc4153b199b88ef257516f|1|kaggle_tilak_summaries.csv
-Salya,|PER|cid_68405c262a274e9cb8fb41d4eaaee8be|1|kaggle_tilak_summaries.csv
-Salya,|PER|cid_6cd6e424fb3c446da8c5c557d4ab4b82|1|kaggle_tilak_summaries.csv
-Salya,|PER|cid_b09f89d20c254f5f91d396e194026a61|1|kaggle_tilak_summaries.csv
+Salya|PER|cid_3d1f6dc448cc4153b199b88ef257516f|1|kaggle_tilak_summaries.csv
+Salya|PER|cid_68405c262a274e9cb8fb41d4eaaee8be|1|kaggle_tilak_summaries.csv
+Salya|PER|cid_6cd6e424fb3c446da8c5c557d4ab4b82|1|kaggle_tilak_summaries.csv
+Salya|PER|cid_b09f89d20c254f5f91d396e194026a61|1|kaggle_tilak_summaries.csv
 Salya, Karna, Shakuni|PER|cid_99add6f6aa2a476b92e180081119e641|1|kaggle_tilak_summaries.csv
 Salya, Uttamaujas|PER|cid_3e3399d29ef447b4856a0c16e783b370|1|kaggle_tilak_summaries.csv
 Sam|MISC|cid_83ea8bb5588949ba8a0468d68751c8a8|1|kaggle_tilak_summaries.csv
@@ -12025,7 +12013,7 @@ Sanjaya|PER|cid_f4f8e99cccd740828d5081c8e0ec6cc3|1|kaggle_tilak_summaries.csv
 Sanjaya|PER|cid_f5b5f2b2461a4b19acd19fc09200f551|1|kaggle_tilak_summaries.csv
 Sanjaya|PER|cid_fd15ad065c9b455a89733e94608915cc|1|kaggle_tilak_summaries.csv
 Sanjaya|PER|cid_fe16d2b13613474e9ff07e3ecf2b4794|1|kaggle_tilak_summaries.csv
-Sanjaya,|PER|cid_fa4916ac855f401da14fc07d3ffa9fe0|1|kaggle_tilak_summaries.csv
+Sanjaya|PER|cid_fa4916ac855f401da14fc07d3ffa9fe0|1|kaggle_tilak_summaries.csv
 Sankara|PER|cid_5b6553b750cb4ae397109263ae02a8de|1|kaggle_tilak_summaries.csv
 Sankha|PER|cid_60db92c552984802b9553ece69aacca5|2|kaggle_tilak_summaries.csv
 Sankha|PER|cid_64d6335c5b904132b2be5017c0c97837|1|kaggle_tilak_summaries.csv
@@ -12224,10 +12212,10 @@ Sauparna astra|MISC|cid_8afc3739523947aa8b42d741dfb46f35|1|kaggle_tilak_summarie
 Sauptika Parva|MISC|cid_6a1c2c6ebe9240b4aa21837ed5f1b526|1|kaggle_tilak_summaries.csv
 Sauvira|PER|cid_dbb90da16eb54d5d98cc5b6a91d4b19d|1|kaggle_tilak_summaries.csv
 Savyasachin|PER|cid_f15d25a854c3414eb87db1aeb03ed984|1|kaggle_tilak_summaries.csv
-Savyasachin (Arjuna|PER|cid_9e2e1959812c482ab470f2100d3b3de8|1|kaggle_tilak_summaries.csv
+Savyasachin Arjuna|PER|cid_9e2e1959812c482ab470f2100d3b3de8|1|kaggle_tilak_summaries.csv
 Senapati|PER|cid_dd0054bfdaf34ca0b3d300aa885b64ed|1|kaggle_tilak_summaries.csv
 Senapati, Sushena, Jalasandha, Sulochana, Ugra, Bhimaratha, Bhima, Viravahu, Aolupa, Durmuka, Dushpradarsha, Vivitsu, Vikata|PER|cid_dd0054bfdaf34ca0b3d300aa885b64ed|1|kaggle_tilak_summaries.csv
-Seventeenth Chapter of the Adi Parva Entitled, Khandavaprastha.|MISC|cid_1d095c44ee154c888782aa0e802dcb0e|1|kaggle_tilak_summaries.csv
+Seventeenth Chapter of the Adi Parva Entitled, Khandavaprastha|MISC|cid_1d095c44ee154c888782aa0e802dcb0e|1|kaggle_tilak_summaries.csv
 Seventh Canto of the Shrimad-Bhagavatam|MISC|cid_f94f86e0c72542c1870cd464db50bd2c|1|kaggle_tilak_summaries.csv
 Seventy arrows|MISC|cid_80e24b17fd8e41e6b65d7ae3128d9731|1|kaggle_tilak_summaries.csv
 Shakata|MISC|cid_d3159cb71b6c48d5bca58099e97b589f|1|kaggle_tilak_summaries.csv
@@ -12318,7 +12306,7 @@ Shakuni|PER|cid_fb335a4ae0324dd2a68130612a2dbe0e|1|kaggle_tilak_summaries.csv
 Shakuni|PER|cid_fdef936a0f734fd79bdcbf4f079fdb18|1|kaggle_tilak_summaries.csv
 Shakuni and Karna|PER|cid_770f8ec295bd465eaf1d7d83761a8a8c|1|kaggle_tilak_summaries.csv
 Shakuni and Uluka|PER|cid_af0bd9c47b9d40848e267436c47c29d6|1|kaggle_tilak_summaries.csv
-Shakuni,|PER|cid_3c6029b6f77d453fb7a1e6d6445d725a|1|kaggle_tilak_summaries.csv
+Shakuni|PER|cid_3c6029b6f77d453fb7a1e6d6445d725a|1|kaggle_tilak_summaries.csv
 Shakuni, Karna|PER|cid_80a7e7e88820461ab0cd04180e343cc3|1|kaggle_tilak_summaries.csv
 Shakuni, Karna, Duhsasana, Asvatthama|PER|cid_bf9ef0a6a4f940009522b16028376ca8|1|kaggle_tilak_summaries.csv
 Shalva|MISC|cid_fd67961a71db4e46808cb587c06966cb|1|kaggle_tilak_summaries.csv
@@ -12344,7 +12332,7 @@ Shami|LOC|cid_0e9a35e570d140ebb41e468f0bbc53cc|1|kaggle_tilak_summaries.csv
 Shami|LOC|cid_63f337c6377c40eb86a37b3ce5405075|1|kaggle_tilak_summaries.csv
 Shami|LOC|cid_cb830e6ad10644b48d4d14e72853b0a4|1|kaggle_tilak_summaries.csv
 Shami|LOC|cid_d31bcd55bb2e4b94ab9c27e5e552391c|1|kaggle_tilak_summaries.csv
-Shankara (Shiva)|PER|cid_f2a6e1f636584fa1bdcfa400978ce860|1|kaggle_tilak_summaries.csv
+Shankara Shiva|PER|cid_f2a6e1f636584fa1bdcfa400978ce860|1|kaggle_tilak_summaries.csv
 Shantanu|PER|cid_1231eb0622ff4e4fb78dd47e1c872f57|1|kaggle_tilak_summaries.csv
 Shantanu|PER|cid_17bcb8bfe1564ae08862510df64727c1|1|kaggle_tilak_summaries.csv
 Shantanu|PER|cid_1edf9442995441a79d692b201d2620e9|2|kaggle_tilak_summaries.csv
@@ -12570,10 +12558,10 @@ Shri Krishna|PER|cid_f958a0ad0ec34270abbcc976f5a68bb3|1|kaggle_tilak_summaries.c
 Shri Krishna|PER|cid_fcedf30ba76d46c3b80f8ab28ec644f5|1|kaggle_tilak_summaries.csv
 Shri Krishna Chaitanya Mahaprabhu|PER|cid_2c9be75bd1df4190a0ac6a401b869e69|1|kaggle_tilak_summaries.csv
 Shri Krishna Chaitanya Mahaprabhu|PER|cid_f2976e9e66b7415d95ecbd6b613b2e02|1|kaggle_tilak_summaries.csv
-Shri Krishna,|PER|cid_1c15fcb6ea334e56948107f0c29b6c07|1|kaggle_tilak_summaries.csv
-Shri Krishna,|PER|cid_1f99175b51e5420480171b0cecb2b3de|1|kaggle_tilak_summaries.csv
-Shri Krishna,|PER|cid_23039fd90ab447ada7fa9d94c5dabd1d|1|kaggle_tilak_summaries.csv
-Shri Krishna,|PER|cid_e575ef3a9598428994e1323e6b7f74f3|1|kaggle_tilak_summaries.csv
+Shri Krishna|PER|cid_1c15fcb6ea334e56948107f0c29b6c07|1|kaggle_tilak_summaries.csv
+Shri Krishna|PER|cid_1f99175b51e5420480171b0cecb2b3de|1|kaggle_tilak_summaries.csv
+Shri Krishna|PER|cid_23039fd90ab447ada7fa9d94c5dabd1d|1|kaggle_tilak_summaries.csv
+Shri Krishna|PER|cid_e575ef3a9598428994e1323e6b7f74f3|1|kaggle_tilak_summaries.csv
 Shri Narada|PER|cid_59968a708a5e404f951eaaa4d3f694c1|1|kaggle_tilak_summaries.csv
 Shrila Prabhupada|PER|cid_12322ef365534f549cac541b55a98ba1|1|kaggle_tilak_summaries.csv
 Shrila Prabhupada|PER|cid_b97a171732614afbbdf73dfbf0dd02a5|2|kaggle_tilak_summaries.csv
@@ -12587,7 +12575,7 @@ Shrimad Bhagavatam|PER|cid_8339607ae67b4421ae115251d6f84acf|1|kaggle_tilak_summa
 Shrimad Bhagavatam|PER|cid_a13953c9e2de4ffc882c0b0fdce5d6c0|1|kaggle_tilak_summaries.csv
 Shrimad-Bhagavatam|MISC|cid_2eae9ad6b29045f5b7918b2fcda0455a|1|kaggle_tilak_summaries.csv
 Shrimad-Bhagavatam|MISC|cid_78dbee734db446d195dcfede9442ef40|1|kaggle_tilak_summaries.csv
-Shrimad-Bhagavatam,|MISC|cid_2eae9ad6b29045f5b7918b2fcda0455a|1|kaggle_tilak_summaries.csv
+Shrimad-Bhagavatam|MISC|cid_2eae9ad6b29045f5b7918b2fcda0455a|1|kaggle_tilak_summaries.csv
 Shringi|PER|cid_49ba0510303e4e85bf8606d43e1ca9e5|2|kaggle_tilak_summaries.csv
 Shrinjaya|LOC|cid_1fe1b59601f243ba8e44180aff3b83c7|1|kaggle_tilak_summaries.csv
 Shrinjaya|ORG|cid_f8e4303d93d0424db349a2f60f8ab1b0|1|kaggle_tilak_summaries.csv
@@ -12598,7 +12586,7 @@ Shrutadeva, Uddhava|PER|cid_ccfa419263fd4a2e980292f8309ff0de|1|kaggle_tilak_summ
 Shrutakirti|PER|cid_9a5bf7e71fbf4c0c940b80bd9030cc54|1|kaggle_tilak_summaries.csv
 Shrutasena|PER|cid_9a5bf7e71fbf4c0c940b80bd9030cc54|1|kaggle_tilak_summaries.csv
 Shrutayus|PER|cid_ff3acdd8167040899d33778f9cbbe658|2|kaggle_tilak_summaries.csv
-Shrutayus,|PER|cid_99f6218796cd4b6e945576a8b60d1b28|1|kaggle_tilak_summaries.csv
+Shrutayus|PER|cid_99f6218796cd4b6e945576a8b60d1b28|1|kaggle_tilak_summaries.csv
 Shrutayush|PER|cid_11169223e2724760a3cfd8286113037a|1|kaggle_tilak_summaries.csv
 Shrutayush|PER|cid_17bcb8bfe1564ae08862510df64727c1|1|kaggle_tilak_summaries.csv
 Shrutayush|PER|cid_4317c50a32344fc7be51c7d58125c432|3|kaggle_tilak_summaries.csv
@@ -12693,7 +12681,7 @@ Srutayudha|PER|cid_ae122aabba7046c795d60aea83a88f49|4|kaggle_tilak_summaries.csv
 Srutayudha|PER|cid_b4b8d2878fc845caaab82f23f9d14ae3|4|kaggle_tilak_summaries.csv
 Srutayus|PER|cid_101ca32bf3b44c6fa60f1f13bee2a436|4|kaggle_tilak_summaries.csv
 Srutayush|PER|cid_4317c50a32344fc7be51c7d58125c432|1|kaggle_tilak_summaries.csv
-Srutayush,|PER|cid_11169223e2724760a3cfd8286113037a|1|kaggle_tilak_summaries.csv
+Srutayush|PER|cid_11169223e2724760a3cfd8286113037a|1|kaggle_tilak_summaries.csv
 St|PER|cid_64c172868dca44fd99df3e3e9f90b44c|1|kaggle_tilak_summaries.csv
 Stree Parva|MISC|cid_ffb0175f13ea48faa0a4b278f91acb34|1|kaggle_tilak_summaries.csv
 Stuna|PER|cid_104c3f4a8dfe4d50b115d514bd9e6efe|1|kaggle_tilak_summaries.csv
@@ -12790,18 +12778,18 @@ Sughosha|MISC|cid_487d737e8b1845518f1c45861cd1b681|1|kaggle_tilak_summaries.csv
 Sugriva|PER|cid_cd69ae5572254073ae91e630a42c33b2|1|kaggle_tilak_summaries.csv
 Sugriva, Meghapuspa, Balahaka|PER|cid_b8260adc8ce544a28508c5ebc7c25e03|1|kaggle_tilak_summaries.csv
 Suka|PER|cid_d928288baa3c49168bff06f7c3ad8b82|1|kaggle_tilak_summaries.csv
-Sukracharya,|PER|cid_5818e95a36f3417e9a1d5cd82d2f79d1|1|kaggle_tilak_summaries.csv
+Sukracharya|PER|cid_5818e95a36f3417e9a1d5cd82d2f79d1|1|kaggle_tilak_summaries.csv
 Sukumara|PER|cid_3f66d9b5c7a34d24b2e608355e3ad470|1|kaggle_tilak_summaries.csv
 Sulochana|PER|cid_dd0054bfdaf34ca0b3d300aa885b64ed|1|kaggle_tilak_summaries.csv
 Sumitra|PER|cid_3f66d9b5c7a34d24b2e608355e3ad470|1|kaggle_tilak_summaries.csv
 Sumitra|PER|cid_bd4e6aeca62f4398afaade9599869733|1|kaggle_tilak_summaries.csv
 Sumitra|PER|cid_eb41a2ae27a44a4c981b040d6a2514c7|1|kaggle_tilak_summaries.csv
 Summary Study|MISC|cid_4ae463ff019e4e998a85e167250f1210|1|kaggle_tilak_summaries.csv
-Summary Study of Mahabharata.|MISC|cid_f3f32bf1174347cbaf89ab94ddd85756|1|kaggle_tilak_summaries.csv
-Summary Study of the Great Epic, Mahabharata.|MISC|cid_28270f4a18bf4dd1879d3e9f78cd546d|1|kaggle_tilak_summaries.csv
+Summary Study of Mahabharata|MISC|cid_f3f32bf1174347cbaf89ab94ddd85756|1|kaggle_tilak_summaries.csv
+Summary Study of the Great Epic, Mahabharata|MISC|cid_28270f4a18bf4dd1879d3e9f78cd546d|1|kaggle_tilak_summaries.csv
 Summary Study of the Mahabharata|MISC|cid_4b6306a05a3c486f8f6756b8ea8ab1e6|1|kaggle_tilak_summaries.csv
-Summary Study of the Mahabharata.|MISC|cid_3738a15d4ffa44648739ecb4792426b7|1|kaggle_tilak_summaries.csv
-Summary Study of the Mahabharata.|MISC|cid_df0b3e6ba15e483881d7e1cc3b30910f|1|kaggle_tilak_summaries.csv
+Summary Study of the Mahabharata|MISC|cid_3738a15d4ffa44648739ecb4792426b7|1|kaggle_tilak_summaries.csv
+Summary Study of the Mahabharata|MISC|cid_df0b3e6ba15e483881d7e1cc3b30910f|1|kaggle_tilak_summaries.csv
 Sun|MISC|cid_31d5a857b7b34deb8cab624dca6baf9d|1|kaggle_tilak_summaries.csv
 Sun|MISC|cid_64ef6eee048044f1acabb79d66c4e99c|1|kaggle_tilak_summaries.csv
 Sun|MISC|cid_68c5a791a0fb408ebaf8690b2135317e|1|kaggle_tilak_summaries.csv
@@ -13060,8 +13048,8 @@ Susharman|PER|cid_e8fe3a7cd73d435d941831bba604a494|2|kaggle_tilak_summaries.csv
 Susharman|PER|cid_f81491f3f0ad4f2cac7eefb99da5ae54|4|kaggle_tilak_summaries.csv
 Susharman|PER|cid_fa088bd3cc35431189ab73af2aae8d62|1|kaggle_tilak_summaries.csv
 Susharman|PER|cid_fd15ad065c9b455a89733e94608915cc|1|kaggle_tilak_summaries.csv
-Susharman,|PER|cid_83ea8bb5588949ba8a0468d68751c8a8|1|kaggle_tilak_summaries.csv
-Susharman,|PER|cid_e7766ba10268463bb709b371f4590a4e|1|kaggle_tilak_summaries.csv
+Susharman|PER|cid_83ea8bb5588949ba8a0468d68751c8a8|1|kaggle_tilak_summaries.csv
+Susharman|PER|cid_e7766ba10268463bb709b371f4590a4e|1|kaggle_tilak_summaries.csv
 Sushena|PER|cid_dd0054bfdaf34ca0b3d300aa885b64ed|1|kaggle_tilak_summaries.csv
 Sushena|PER|cid_e2baad1c2f0546a690ec9146b68e87b8|1|kaggle_tilak_summaries.csv
 Suta|MISC|cid_2efea22952e047da8bfc05db5fdd7e10|1|kaggle_tilak_summaries.csv
@@ -13126,7 +13114,7 @@ The Bhagavad-gita|MISC|cid_f94f86e0c72542c1870cd464db50bd2c|1|kaggle_tilak_summa
 The Bhojas|MISC|cid_faa6fd4766dd4894b9fb1302ce489ad1|1|kaggle_tilak_summaries.csv
 The Birth of Dhritarastra, Pandu|MISC|cid_d5db123ecd704e278d793b054a479012|1|kaggle_tilak_summaries.csv
 The Burning of|MISC|cid_02c6e401324c4abb9495864d1bd8f0e6|1|kaggle_tilak_summaries.csv
-The Cannibal Baka Slain.|MISC|cid_c1b88c302aa147c0bf865c38d3e824fb|1|kaggle_tilak_summaries.csv
+The Cannibal Baka Slain|MISC|cid_c1b88c302aa147c0bf865c38d3e824fb|1|kaggle_tilak_summaries.csv
 The Chedis|MISC|cid_9359220169cd46dfa1775eba3b662bd6|1|kaggle_tilak_summaries.csv
 The Colossal Armies|MISC|cid_e74dac6706c24c8b8f67374365c5a774|1|kaggle_tilak_summaries.csv
 The Curse of Parashurama|MISC|cid_4f8909cacb64410c84d44b84c9bc5956|1|kaggle_tilak_summaries.csv
@@ -13147,10 +13135,10 @@ The Fall of the Grandsire Bhishma|MISC|cid_0c005a3b425348ce84cde85280142266|1|ka
 The Fall of the Preceptor|MISC|cid_de284f84d65d4a04b6ae290764ade824|1|kaggle_tilak_summaries.csv
 The Fall of the Preceptor Drona|MISC|cid_2cc6433aadc34dafbad2dced7af14606|1|kaggle_tilak_summaries.csv
 The Fifteenth|MISC|cid_2cc6433aadc34dafbad2dced7af14606|1|kaggle_tilak_summaries.csv
-The Fifteenth of Hostilities.|MISC|cid_feb412ef9af14443b3309570b716c940|1|kaggle_tilak_summaries.csv
+The Fifteenth of Hostilities|MISC|cid_feb412ef9af14443b3309570b716c940|1|kaggle_tilak_summaries.csv
 The Fifth|MISC|cid_7891e3c4f6ff4b4fb9fbca96b497b082|1|kaggle_tilak_summaries.csv
 The Final Instructions of Grandfather|MISC|cid_03142c2d8ab5431c90255910f20c8d80|1|kaggle_tilak_summaries.csv
-The First s of Exile.|MISC|cid_32d622f33fff4df8b09f12c489a52881|1|kaggle_tilak_summaries.csv
+The First s of Exile|MISC|cid_32d622f33fff4df8b09f12c489a52881|1|kaggle_tilak_summaries.csv
 The Fourteenth|MISC|cid_7eca34ea5d8c4b8f94b3250f33293cc1|1|kaggle_tilak_summaries.csv
 The Fourth of the Great Rivalry|MISC|cid_5afb62f8b573400ab06868778b0bfb38|1|kaggle_tilak_summaries.csv
 The Gambling Match|MISC|cid_7dc01fdf19a54ce38ebe788192f4216d|1|kaggle_tilak_summaries.csv
@@ -13338,7 +13326,7 @@ The Seventh of the Great Battle|MISC|cid_5909185c60a94f38b3f44a7ea4a7a5ae|1|kagg
 The Shrinjayas|MISC|cid_76c2e33a6f03421aa574d0921dea0bd6|1|kaggle_tilak_summaries.csv
 The Somakas|MISC|cid_427e4156292d4f84a7391f34c1e79412|1|kaggle_tilak_summaries.csv
 The Somakas|MISC|cid_783f34bc4bc144e298ae6bd7b0a46ef8|1|kaggle_tilak_summaries.csv
-The Son of Drona Punished.|MISC|cid_e0c187e095c24f91a310df4187c79350|1|kaggle_tilak_summaries.csv
+The Son of Drona Punished|MISC|cid_e0c187e095c24f91a310df4187c79350|1|kaggle_tilak_summaries.csv
 The Sudharma Imperial Court|ORG|cid_ada9a9e744e84efaa3caa09c4228e56a|1|kaggle_tilak_summaries.csv
 The Sun|MISC|cid_319bf01568224a079a8444878e66c7e7|1|kaggle_tilak_summaries.csv
 The Sun God|MISC|cid_ab73c5f39bb14efa9720d35e08cbe0e0|1|kaggle_tilak_summaries.csv
@@ -13376,7 +13364,7 @@ The Supreme Personality of Godhead, Lord|MISC|cid_26f21681fb0a42af9ea845a98b0cd2
 The Supreme Personality of Godhead, Lord|MISC|cid_e575ef3a9598428994e1323e6b7f74f3|1|kaggle_tilak_summaries.csv
 The Supreme science|MISC|cid_07e539ff7dbb4c8a8d3995073376acc7|1|kaggle_tilak_summaries.csv
 The Sutas|MISC|cid_dc8c857c92074e4fb8e23bdd7705fd42|1|kaggle_tilak_summaries.csv
-The Svayamvara of Draupadi.|MISC|cid_09e65fcf91fb4198982af3a23d824df5|1|kaggle_tilak_summaries.csv
+The Svayamvara of Draupadi|MISC|cid_09e65fcf91fb4198982af3a23d824df5|1|kaggle_tilak_summaries.csv
 The Tenth of Hostilities|MISC|cid_0c005a3b425348ce84cde85280142266|1|kaggle_tilak_summaries.csv
 The Third of Rivalry|MISC|cid_ea4559448c3a473e9230e50da941cc51|1|kaggle_tilak_summaries.csv
 The Thirteenth|MISC|cid_a7a4b691e9534b8f99378b9592a5e848|1|kaggle_tilak_summaries.csv
@@ -13438,9 +13426,9 @@ Trigartas|ORG|cid_4ba2e8ed55134fcfa2d3336084e91ebe|1|kaggle_tilak_summaries.csv
 Trigartas|PER|cid_de657b2116ed45e19e01822f1a192518|1|kaggle_tilak_summaries.csv
 Trinavarta|PER|cid_61514cf8dc2b4370bd666486cdd3a19f|1|kaggle_tilak_summaries.csv
 Trishanku|PER|cid_1aeb2e8537e6463d95ac6768b66b9bc8|1|kaggle_tilak_summaries.csv
-Trita, Usana, Manu, Prithu,|LOC|cid_fe6e79bc708b46f1a97d4471e3602575|1|kaggle_tilak_summaries.csv
+Trita, Usana, Manu, Prithu|LOC|cid_fe6e79bc708b46f1a97d4471e3602575|1|kaggle_tilak_summaries.csv
 Triyuga|PER|cid_3ba64d9196524938b3f80e7ff9c03812|1|kaggle_tilak_summaries.csv
-Tuition For Drona.|MISC|cid_fb26867d9c38473b9d44fff0179fc5ad|1|kaggle_tilak_summaries.csv
+Tuition For Drona|MISC|cid_fb26867d9c38473b9d44fff0179fc5ad|1|kaggle_tilak_summaries.csv
 Tulasi|MISC|cid_f2ef12c305e64ee3b0e30128e024a357|1|kaggle_tilak_summaries.csv
 Tumburu|PER|cid_0fe7fdecedf3427eb518093b318d1eb3|1|kaggle_tilak_summaries.csv
 Tvashtra|MISC|cid_b8c4f554482647f2b625df4b0af7c656|1|kaggle_tilak_summaries.csv
@@ -13478,7 +13466,7 @@ Uluka|PER|cid_98fb4cb910e749468a9604d510e4aaf6|1|kaggle_tilak_summaries.csv
 Uluka|PER|cid_99a16e17459641f2aa113775fa569efc|1|kaggle_tilak_summaries.csv
 Uluka|PER|cid_adab453a344f4cd29657006e7602bafc|1|kaggle_tilak_summaries.csv
 Uluka|PER|cid_e208f6250e1245fdab2de2222599b42c|1|kaggle_tilak_summaries.csv
-Uluka,|PER|cid_61a83bb339d14ffb8340652377034c17|1|kaggle_tilak_summaries.csv
+Uluka|PER|cid_61a83bb339d14ffb8340652377034c17|1|kaggle_tilak_summaries.csv
 Ulupi|PER|cid_0c1fd67bfdd84638ae707879a74e4f41|1|kaggle_tilak_summaries.csv
 Ulupi|PER|cid_1797e1541f204a7792a457ced7d5661e|1|kaggle_tilak_summaries.csv
 Ulupi|PER|cid_188ba519bb7b445ebb85c2645b9738df|2|kaggle_tilak_summaries.csv
@@ -13601,7 +13589,7 @@ Vaishnavi|MISC|cid_650f173fefc8490a98b152e238645432|1|kaggle_tilak_summaries.csv
 Vajra|MISC|cid_bd9aef0433e64601803a6fd37348e52a|1|kaggle_tilak_summaries.csv
 Vajra|PER|cid_11377f79910e4771963889d0528602ab|1|kaggle_tilak_summaries.csv
 Vajra|PER|cid_eeca87285f49413eafd1aa2962a75077|1|kaggle_tilak_summaries.csv
-Vajra,|PER|cid_77a762d9ee034d868c10d143f67b55a2|1|kaggle_tilak_summaries.csv
+Vajra|PER|cid_77a762d9ee034d868c10d143f67b55a2|1|kaggle_tilak_summaries.csv
 Vajradatta|PER|cid_a75bea8cb4e2459f92dc9b68251d46da|3|kaggle_tilak_summaries.csv
 Vajradatta|PER|cid_f03ba45f721c4808ab1de32db022c76c|3|kaggle_tilak_summaries.csv
 Vaka|PER|cid_819f20ba1ea3485d970a3802dfa4fa00|1|kaggle_tilak_summaries.csv
@@ -13670,7 +13658,7 @@ Vashistha Muni|PER|cid_42d486284c8c47ea9426bad87cbb1d48|2|kaggle_tilak_summaries
 Vashistha Muni|PER|cid_5b43ba20925a42df8a39a7b9c9f37131|1|kaggle_tilak_summaries.csv
 Vashistha Muni|PER|cid_b91a034104894eca907a7fc5f9da2778|1|kaggle_tilak_summaries.csv
 Vashistha Muni|PER|cid_d50fedf8db1348be90dd2d5cd3a8bbb3|1|kaggle_tilak_summaries.csv
-Vasu,|MISC|cid_b91a034104894eca907a7fc5f9da2778|1|kaggle_tilak_summaries.csv
+Vasu|MISC|cid_b91a034104894eca907a7fc5f9da2778|1|kaggle_tilak_summaries.csv
 Vasudeva|MISC|cid_22c4e814a26a4e1f812ee74a32ab8f43|1|kaggle_tilak_summaries.csv
 Vasudeva|MISC|cid_9af600a694ca413c9aa71c1bae8714f1|1|kaggle_tilak_summaries.csv
 Vasudeva|MISC|cid_de6fb97b6bd04f9caef1a89f2b22decf|1|kaggle_tilak_summaries.csv
@@ -13842,7 +13830,7 @@ Vegavat|PER|cid_07b2095e0abb41b6a87f1e06c4a80637|2|kaggle_tilak_summaries.csv
 Vegavat, Maharudra, Vidyujihva|PER|cid_ccd70487df834b2f916121470f341f5d|1|kaggle_tilak_summaries.csv
 Vibatsu|PER|cid_0d9a047466904afc9aa39c1c5923eb41|1|kaggle_tilak_summaries.csv
 Vibatsu|PER|cid_a226ab833fbc455791778ad34057742a|1|kaggle_tilak_summaries.csv
-Vibatsu (Arjuna)|PER|cid_2ce597f4fc494302937d9f874b010a5a|1|kaggle_tilak_summaries.csv
+Vibatsu Arjuna|PER|cid_2ce597f4fc494302937d9f874b010a5a|1|kaggle_tilak_summaries.csv
 Vibhatsu|PER|cid_1c2e782f48b24ef899c72e2146cb3898|1|kaggle_tilak_summaries.csv
 Vibhatsu|PER|cid_41de24383ffb4ce68085d0ffbc7583fe|1|kaggle_tilak_summaries.csv
 Vibhatsu|PER|cid_683e71078a6248e6af0c10bf838b3dc9|1|kaggle_tilak_summaries.csv
@@ -13986,7 +13974,7 @@ Vijaya|PER|cid_ad4b24652b014aaa8ad8a37eaec84038|2|kaggle_tilak_summaries.csv
 Vijaya|PER|cid_b06ec81303b44dd78f3eb8af5f385fc0|1|kaggle_tilak_summaries.csv
 Vijaya|PER|cid_f15d25a854c3414eb87db1aeb03ed984|1|kaggle_tilak_summaries.csv
 Vijaya|PER|cid_f94f86e0c72542c1870cd464db50bd2c|2|kaggle_tilak_summaries.csv
-Vijaya (Arjuna)|PER|cid_1797e1541f204a7792a457ced7d5661e|1|kaggle_tilak_summaries.csv
+Vijaya Arjuna|PER|cid_1797e1541f204a7792a457ced7d5661e|1|kaggle_tilak_summaries.csv
 Vikarna|PER|cid_03e08eb2f0c04a049e7eda85244cdd72|3|kaggle_tilak_summaries.csv
 Vikarna|PER|cid_0f992a5915814b0d830000102a75430e|1|kaggle_tilak_summaries.csv
 Vikarna|PER|cid_30349b3bfc5545bb869e10e5b88b377a|1|kaggle_tilak_summaries.csv
@@ -14124,8 +14112,8 @@ Virata|PER|cid_fa356382ca784d71a65c445101acdcfd|3|kaggle_tilak_summaries.csv
 Virata|PER|cid_fb54e4bd647e482dab35ba245c7995db|2|kaggle_tilak_summaries.csv
 Virata Parva|MISC|cid_13bb0b1fe84d4d34aa96d06edf268884|1|kaggle_tilak_summaries.csv
 Virata and Drupada|PER|cid_bd642d0545ea43a0ad42ae0a7b44ca4d|1|kaggle_tilak_summaries.csv
-Virata'|PER|cid_3d28675aeefe4152acb8bc3aa5b71f37|1|kaggle_tilak_summaries.csv
-Virata,|PER|cid_126eb4397e1e411db4b049dab669f2b4|1|kaggle_tilak_summaries.csv
+Virata|PER|cid_3d28675aeefe4152acb8bc3aa5b71f37|1|kaggle_tilak_summaries.csv
+Virata|PER|cid_126eb4397e1e411db4b049dab669f2b4|1|kaggle_tilak_summaries.csv
 Virata, Abhimanyu, Satyaki|PER|cid_63e17bcf45124b35b9a54031066a4de7|1|kaggle_tilak_summaries.csv
 Virata, Satyaki, Shikhandi, Arjuna, Ghatotkacha|PER|cid_b4f2704050b846588ac9eebadddcb3d0|1|kaggle_tilak_summaries.csv
 Viravahu|PER|cid_dd0054bfdaf34ca0b3d300aa885b64ed|1|kaggle_tilak_summaries.csv
@@ -14279,7 +14267,7 @@ Vrishni|PER|cid_afcf59b479c84f0292876188f2a2de3a|1|kaggle_tilak_summaries.csv
 Vrishni|PER|cid_d37c80d9526d4debaa818fa0281df057|1|kaggle_tilak_summaries.csv
 Vrishni dynasty|ORG|cid_6a6c023ddfaa4f0a8c357f77ca46ba2d|1|kaggle_tilak_summaries.csv
 Vrishni race|MISC|cid_6ecb27a5acc44e47a9193e3b5aac37c2|1|kaggle_tilak_summaries.csv
-Vrishni,|MISC|cid_0af3ef5d1ae848a1a2c713dec74eed3c|1|kaggle_tilak_summaries.csv
+Vrishni|MISC|cid_0af3ef5d1ae848a1a2c713dec74eed3c|1|kaggle_tilak_summaries.csv
 Vrishnis|MISC|cid_ada9a9e744e84efaa3caa09c4228e56a|1|kaggle_tilak_summaries.csv
 Vritrasura|PER|cid_0fd745576e204d8ea0abace3ccb6f431|1|kaggle_tilak_summaries.csv
 Vritrasura|PER|cid_65ec701c443f4c3cbe3f5e4b655f3771|1|kaggle_tilak_summaries.csv
@@ -14431,7 +14419,7 @@ Yakshas|MISC|cid_4ca1d4b4fc334d04a70b1c13c404bf96|2|kaggle_tilak_summaries.csv
 Yakshas|MISC|cid_734823edd023459bbc778a8110ee3a31|1|kaggle_tilak_summaries.csv
 Yakshas|MISC|cid_d2ec993d93154411a5ae74ca62c9b925|2|kaggle_tilak_summaries.csv
 Yakshas|PER|cid_7191eb70f5e84436a4f57c9333480f1c|1|kaggle_tilak_summaries.csv
-Yakshas,|MISC|cid_5f27cd484ed24ce6b53b1bdafa7b0436|1|kaggle_tilak_summaries.csv
+Yakshas|MISC|cid_5f27cd484ed24ce6b53b1bdafa7b0436|1|kaggle_tilak_summaries.csv
 Yamaraja|LOC|cid_696d70d4563b4a659fe53dfbdf77cb73|1|kaggle_tilak_summaries.csv
 Yamaraja|LOC|cid_af4962b347f049e193055c23a916c5a3|1|kaggle_tilak_summaries.csv
 Yamaraja|LOC|cid_b5d3073aa58147c6bf068788970a50e7|1|kaggle_tilak_summaries.csv
@@ -14509,7 +14497,7 @@ Yamaraja|PER|cid_f2a6e1f636584fa1bdcfa400978ce860|1|kaggle_tilak_summaries.csv
 Yamaraja|PER|cid_f3e135df0ab64d1b820caf8674b20524|1|kaggle_tilak_summaries.csv
 Yamaraja|PER|cid_f7bec54e60ae4470b6d6132609872d5e|1|kaggle_tilak_summaries.csv
 Yamaraja|PER|cid_fa059afbf1c94e9c8fb03584192e2f41|1|kaggle_tilak_summaries.csv
-Yamaraja, Indra,|PER|cid_535223325ab0486e82411a5b4dfcf673|1|kaggle_tilak_summaries.csv
+Yamaraja, Indra|PER|cid_535223325ab0486e82411a5b4dfcf673|1|kaggle_tilak_summaries.csv
 Yamaraja, Kuvera, Varuna, Indra|PER|cid_776ca07a4f3c414cafd253568d7799b2|1|kaggle_tilak_summaries.csv
 Yamaraja, Varuna, Kuvera|PER|cid_05c3ed275ed84f7493667d79274ca197|1|kaggle_tilak_summaries.csv
 Yamuna|LOC|cid_61514cf8dc2b4370bd666486cdd3a19f|1|kaggle_tilak_summaries.csv
@@ -15235,8 +15223,8 @@ Yuga Avatara|MISC|cid_2c9be75bd1df4190a0ac6a401b869e69|1|kaggle_tilak_summaries.
 Yuvaraja|MISC|cid_6b20cc0cc91f4fda98ffa0a9be8e58ac|1|kaggle_tilak_summaries.csv
 Yuyudhana|PER|cid_215691e74a77449c951843c9bb02936e|1|kaggle_tilak_summaries.csv
 Yuyudhana|PER|cid_b88ecd70c9e44b39ac7e85d2852c453c|1|kaggle_tilak_summaries.csv
-Yuyudhana (Satyaki|PER|cid_5bcf9db0ae904514a8064d3a583df66e|1|kaggle_tilak_summaries.csv
-Yuyudhana (Satyaki|PER|cid_f3a58e96a9ee4c2daeee378f60ccfbc3|1|kaggle_tilak_summaries.csv
+Yuyudhana Satyaki|PER|cid_5bcf9db0ae904514a8064d3a583df66e|1|kaggle_tilak_summaries.csv
+Yuyudhana Satyaki|PER|cid_f3a58e96a9ee4c2daeee378f60ccfbc3|1|kaggle_tilak_summaries.csv
 Yuyudhana, Virata|PER|cid_5654bc634b3b42f38af7960c86c97783|1|kaggle_tilak_summaries.csv
 Yuyutsu|PER|cid_1d8602438fcf4bb281b535da39c6d15a|1|kaggle_tilak_summaries.csv
 Yuyutsu|PER|cid_2e5ec3bea7e0465781484712fa421764|1|kaggle_tilak_summaries.csv
@@ -15245,7 +15233,7 @@ Yuyutsu|PER|cid_a898f3366067491f9f8633492769bc6a|3|kaggle_tilak_summaries.csv
 Yuyutsu|PER|cid_aea9b9736119457f8a14597e8f4f15d0|3|kaggle_tilak_summaries.csv
 Yuyutsu|PER|cid_db68ff8fd3054eb38ad1641dd3b346d4|1|kaggle_tilak_summaries.csv
 Yuyutsu|PER|cid_f000a946f6f34647a737c235bb121c4f|1|kaggle_tilak_summaries.csv
-[Brahma-vaivarta Purana, Krishna-janma-khanda|MISC|cid_72ca30f1e21b46a0a7577d4378fa75e8|1|kaggle_tilak_summaries.csv
+Brahma-vaivarta Purana, Krishna-janma-khanda|MISC|cid_72ca30f1e21b46a0a7577d4378fa75e8|1|kaggle_tilak_summaries.csv
 a|MISC|cid_2015dafc81c1446e8f0084d919082fa4|1|kaggle_tilak_summaries.csv
 a|MISC|cid_2e3c008b44d944908672d845753cca62|1|kaggle_tilak_summaries.csv
 a|MISC|cid_6751739864b14ef0a13cc204b95ab484|1|kaggle_tilak_summaries.csv
@@ -15254,7 +15242,7 @@ a|MISC|cid_90d0e245632e4c8695911b97c14f81d6|1|kaggle_tilak_summaries.csv
 a|MISC|cid_93cb5efc76b54255927bf02a8c9a8bc0|1|kaggle_tilak_summaries.csv
 a|MISC|cid_bb1bc94b4c8f4282b512b40babfa4d83|1|kaggle_tilak_summaries.csv
 a Vaishnava|MISC|cid_4dbb4dff0955490dbfd32e49c727af84|1|kaggle_tilak_summaries.csv
-a,|MISC|cid_ca7140feeed4457995f693e9135c5921|1|kaggle_tilak_summaries.csv
+a|MISC|cid_ca7140feeed4457995f693e9135c5921|1|kaggle_tilak_summaries.csv
 abh|MISC|cid_5ed23f3eecc24fcf9889641b52ac6aeb|1|kaggle_tilak_summaries.csv
 able Lord|MISC|cid_f0f14421bdc74051a97aec4865cc3c66|1|kaggle_tilak_summaries.csv
 adhiyajna|MISC|cid_b3617fdb57da49c294279100f617fd23|1|kaggle_tilak_summaries.csv
@@ -15278,7 +15266,7 @@ ar Lord|MISC|cid_b00765e1e10a4ac1a8c6ba12d3152be2|1|kaggle_tilak_summaries.csv
 ar Lord|MISC|cid_c69a8b219a564a50a1091b3cd25969d0|2|kaggle_tilak_summaries.csv
 as|MISC|cid_bed4584da9c646439b17865fccd7b7a9|1|kaggle_tilak_summaries.csv
 as|MISC|cid_ce2b238f88804a8a80f03d49f8a6142c|1|kaggle_tilak_summaries.csv
-as,|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
+as|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
 ashvamedha|MISC|cid_410c23407f314186bcd766d94d208dca|1|kaggle_tilak_summaries.csv
 astras|MISC|cid_0b88a75b8c514b7ea71fcbdca49a981d|1|kaggle_tilak_summaries.csv
 astras|MISC|cid_e42364dc4a8a4b6289906a3459aeb321|1|kaggle_tilak_summaries.csv
@@ -15367,7 +15355,7 @@ ha|MISC|cid_247f294f16404ba4b5d72ca436796fa7|1|kaggle_tilak_summaries.csv
 ha|MISC|cid_ffd43b423bef48528689c51fbadc4d83|1|kaggle_tilak_summaries.csv
 hargava|MISC|cid_e77e456aec2b434b80e3e8d239fd4f96|1|kaggle_tilak_summaries.csv
 hari|MISC|cid_1c14fcb54bb6493baf445e7d5795755b|1|kaggle_tilak_summaries.csv
-harvas,|MISC|cid_c82122cae1af45abbfcfbc9642718081|1|kaggle_tilak_summaries.csv
+harvas|MISC|cid_c82122cae1af45abbfcfbc9642718081|1|kaggle_tilak_summaries.csv
 hasa|MISC|cid_5386026b142045a79f754618949edd51|1|kaggle_tilak_summaries.csv
 hasa|MISC|cid_60c910a31ad64b4ca3dc754ca53ded40|1|kaggle_tilak_summaries.csv
 hasa|MISC|cid_72cc849b7e234458b3781516285ac58b|1|kaggle_tilak_summaries.csv
@@ -15562,7 +15550,7 @@ of the Pandavas|MISC|cid_c74235293e3f4a2e918dbee96e8ff1c3|1|kaggle_tilak_summari
 of the rishis|MISC|cid_8ed44fee44c2442ca0621c54fd8964f9|1|kaggle_tilak_summaries.csv
 ous|MISC|cid_5b6553b750cb4ae397109263ae02a8de|1|kaggle_tilak_summaries.csv
 ous Pandavas|MISC|cid_301b2e1a321d4bb8bd529c969c31c803|1|kaggle_tilak_summaries.csv
-padi.|MISC|cid_ce43577062ea4242a727b19b2835fbb1|1|kaggle_tilak_summaries.csv
+padi|MISC|cid_ce43577062ea4242a727b19b2835fbb1|1|kaggle_tilak_summaries.csv
 parjanya|MISC|cid_b830138a720d48aab023715d64311526|1|kaggle_tilak_summaries.csv
 parvatya|MISC|cid_b830138a720d48aab023715d64311526|1|kaggle_tilak_summaries.csv
 pasupata astra|MISC|cid_f2a6e1f636584fa1bdcfa400978ce860|1|kaggle_tilak_summaries.csv
@@ -15646,7 +15634,7 @@ s Kingdom|MISC|cid_acf4cd5bd21b4cb79ca1e8342d4cf9a0|1|kaggle_tilak_summaries.csv
 s Panchajanya conch|MISC|cid_2ffc667c42f843c5b276ff88eb0c706c|1|kaggle_tilak_summaries.csv
 s Shakti|MISC|cid_8df1678b097d4b86b4beb5c6d6cfbc00|1|kaggle_tilak_summaries.csv
 s law|MISC|cid_faabb51c45494648b4e30c7eda06de0c|1|kaggle_tilak_summaries.csv
-s,|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
+s|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
 sahajiyas|MISC|cid_431c98c8a93b4fc0bc5716bde272d355|1|kaggle_tilak_summaries.csv
 sam|MISC|cid_72ca30f1e21b46a0a7577d4378fa75e8|1|kaggle_tilak_summaries.csv
 samvodhana|MISC|cid_bdaa903d7e7f4bef957ade0b93999629|1|kaggle_tilak_summaries.csv
@@ -15659,14 +15647,14 @@ sannyasi|MISC|cid_f7c39441d1d443a2ae6da81d47152138|1|kaggle_tilak_summaries.csv
 sap|LOC|cid_83ea8bb5588949ba8a0468d68751c8a8|1|kaggle_tilak_summaries.csv
 sarva siddhi|MISC|cid_0785b90f56c241848b69b3b449053166|1|kaggle_tilak_summaries.csv
 sarvatobhadra|MISC|cid_17bcb8bfe1564ae08862510df64727c1|1|kaggle_tilak_summaries.csv
-sas,|MISC|cid_5f27cd484ed24ce6b53b1bdafa7b0436|1|kaggle_tilak_summaries.csv
+sas|MISC|cid_5f27cd484ed24ce6b53b1bdafa7b0436|1|kaggle_tilak_summaries.csv
 self|PER|cid_1a32d1e30ad747d1ad44710ce4e51fc7|1|kaggle_tilak_summaries.csv
 self|PER|cid_5fe09d3703694e7bbfaf004e47c66c06|1|kaggle_tilak_summaries.csv
 self|PER|cid_8339607ae67b4421ae115251d6f84acf|2|kaggle_tilak_summaries.csv
 self|PER|cid_d88c33afd8f64288a3d8fc29691c149a|1|kaggle_tilak_summaries.csv
 sha|MISC|cid_5b07eb7d66124c40adea1110f08cfec8|1|kaggle_tilak_summaries.csv
 shas|MISC|cid_c82122cae1af45abbfcfbc9642718081|1|kaggle_tilak_summaries.csv
-shasas,|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
+shasas|MISC|cid_a7d924c73499411f9a92dc959e42a285|1|kaggle_tilak_summaries.csv
 shastras|MISC|cid_9e1d17526ae74681abbb69307aa7abbe|1|kaggle_tilak_summaries.csv
 shudras|MISC|cid_0af8f946f8534ebbb11ef0a474771257|1|kaggle_tilak_summaries.csv
 shudras|MISC|cid_24d5ea81ba294724a673b11eda6bb0e9|1|kaggle_tilak_summaries.csv
@@ -15740,10 +15728,10 @@ the Adi Parva|MISC|cid_b28db47c54794514a4fa7c0519fa1836|1|kaggle_tilak_summaries
 the Adi Parva|MISC|cid_b60e432dd1504be4a39ec9ba556f06a2|1|kaggle_tilak_summaries.csv
 the Adi Parva|MISC|cid_c374c2ed9b064790a143c7962c155e35|1|kaggle_tilak_summaries.csv
 the Adi Parva|MISC|cid_ce43577062ea4242a727b19b2835fbb1|1|kaggle_tilak_summaries.csv
-the Adi Parva Entitled, Hidimva Slain.|MISC|cid_b94510bb3c04434c92e230627a3b3b12|1|kaggle_tilak_summaries.csv
-the Adi Parva,|MISC|cid_6ec02a6f6f464a1c992219e59df7435c|1|kaggle_tilak_summaries.csv
+the Adi Parva Entitled, Hidimva Slain|MISC|cid_b94510bb3c04434c92e230627a3b3b12|1|kaggle_tilak_summaries.csv
+the Adi Parva|MISC|cid_6ec02a6f6f464a1c992219e59df7435c|1|kaggle_tilak_summaries.csv
 the Adi Parva, Maharaja Shantanu|MISC|cid_f4333851ab4443e8b7f7e87f0ec84658|1|kaggle_tilak_summaries.csv
-the Adi Parva, The Pandavas Divine Birth.|MISC|cid_fbb8965e3890485cb2972be577999073|1|kaggle_tilak_summaries.csv
+the Adi Parva, The Pandavas Divine Birth|MISC|cid_fbb8965e3890485cb2972be577999073|1|kaggle_tilak_summaries.csv
 the Agrapuja|MISC|cid_4e32627771724b34902fcbc212a3bfa4|1|kaggle_tilak_summaries.csv
 the Agrapuja|MISC|cid_51de813b21f745b19313a96f90703663|1|kaggle_tilak_summaries.csv
 the Amvashthas|MISC|cid_101ca32bf3b44c6fa60f1f13bee2a436|1|kaggle_tilak_summaries.csv
@@ -15798,7 +15786,7 @@ the Bhojas|MISC|cid_819f20ba1ea3485d970a3802dfa4fa00|1|kaggle_tilak_summaries.cs
 the Bhojas|MISC|cid_d761a846870441c4a91c7ac0bf27117e|1|kaggle_tilak_summaries.csv
 the Bhojas|MISC|cid_faa6fd4766dd4894b9fb1302ce489ad1|1|kaggle_tilak_summaries.csv
 the Brahmastra|MISC|cid_bed4584da9c646439b17865fccd7b7a9|1|kaggle_tilak_summaries.csv
-the Chaitanya Charitamrita,|MISC|cid_540bbb81e86442629566801b633a1704|1|kaggle_tilak_summaries.csv
+the Chaitanya Charitamrita|MISC|cid_540bbb81e86442629566801b633a1704|1|kaggle_tilak_summaries.csv
 the Chaitanya Charitamrita, krishna shakti|MISC|cid_12322ef365534f549cac541b55a98ba1|1|kaggle_tilak_summaries.csv
 the Chakravyuha|LOC|cid_5bcf9db0ae904514a8064d3a583df66e|1|kaggle_tilak_summaries.csv
 the Chakravyuha|MISC|cid_03eb902037814fddbdbd0a27c56be3cf|1|kaggle_tilak_summaries.csv
@@ -16580,7 +16568,7 @@ the Pandavas|MISC|cid_ff3a9529ded54180a9aa8d0cbd64545d|1|kaggle_tilak_summaries.
 the Pashupati astra|MISC|cid_60104751439442319a571472633d3130|1|kaggle_tilak_summaries.csv
 the Pashupati astra|MISC|cid_8488d847acbf4ba5ab5671bb28c82dbb|1|kaggle_tilak_summaries.csv
 the Pashupatra astra|MISC|cid_6057fd82747a48dcb0591d68e84eb347|1|kaggle_tilak_summaries.csv
-the Pashupatra astra.|MISC|cid_22784032592940a487911444f12a0288|1|kaggle_tilak_summaries.csv
+the Pashupatra astra|MISC|cid_22784032592940a487911444f12a0288|1|kaggle_tilak_summaries.csv
 the Patachcharas|MISC|cid_819f20ba1ea3485d970a3802dfa4fa00|1|kaggle_tilak_summaries.csv
 the Personality of|MISC|cid_2b6e1572b4454890b6f74d183f92f858|1|kaggle_tilak_summaries.csv
 the Personality of Godhead|MISC|cid_03aaf65b1bb145f9971bf0c4468f3a5a|1|kaggle_tilak_summaries.csv
@@ -16778,7 +16766,7 @@ the Vana Parva|MISC|cid_9304c8aea2a844c583ebe4e4264ba927|1|kaggle_tilak_summarie
 the Vana Parva|MISC|cid_ab89aa07ddf94216b1bd238c4879d2d0|1|kaggle_tilak_summaries.csv
 the Vana Parva|MISC|cid_cd99a404bad243c08c86f4f1ab811a59|1|kaggle_tilak_summaries.csv
 the Vangas|MISC|cid_ccd70487df834b2f916121470f341f5d|1|kaggle_tilak_summaries.csv
-the Vasu's|MISC|cid_42a749034aae4ac1abfbf282e61c6708|1|kaggle_tilak_summaries.csv
+the Vasus|MISC|cid_42a749034aae4ac1abfbf282e61c6708|1|kaggle_tilak_summaries.csv
 the Vasus|MISC|cid_0f614b89eeef47d3bb3fbd0748a17dac|2|kaggle_tilak_summaries.csv
 the Vasus|MISC|cid_15013572688e492fa41e30dc20ebe0b3|1|kaggle_tilak_summaries.csv
 the Vasus|MISC|cid_eb35d347a3ff4c5888fb8b73598a2940|1|kaggle_tilak_summaries.csv

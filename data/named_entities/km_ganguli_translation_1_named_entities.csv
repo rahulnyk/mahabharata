@@ -1,37 +1,27 @@
 name|entity|chunk_id|count|file
-|MISC|cid_f5448457a84c4faf9ae2e5ddae8f2683|1|km_ganguli_translation_1.csv
-"""Sukra"|PER|cid_327c78600ad741a39a379393cc2e92f8|1|km_ganguli_translation_1.csv
-"""Sukra"|PER|cid_6a9a8cd31c4b4087a86324b72700dbf8|1|km_ganguli_translation_1.csv
-"""Vaisampayana"|PER|cid_240c258f17f64fb485d60c60bbc95016|1|km_ganguli_translation_1.csv
-'|MISC|cid_dc6de1517cef45dbaf96c5d0e5adc23a|1|km_ganguli_translation_1.csv
-'Bhavishyaparva|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
-'Durvasa|MISC|cid_c2075b77dbce4376803990f4c95fb1d7|1|km_ganguli_translation_1.csv
-'Kichakas|MISC|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
-'Narada|PER|cid_fdbf31d06dd24c39bff6ba287e90417c|1|km_ganguli_translation_1.csv
-'Sauti|PER|cid_4a48ca212fab41bba749ee3b48057945|1|km_ganguli_translation_1.csv
-'Sauti|PER|cid_cfdd63c886424cbf9151240b3f1ef22c|1|km_ganguli_translation_1.csv
-(Brahman)|PER|cid_7744b4ad4f494dd3b7d0d0119a30ccd5|1|km_ganguli_translation_1.csv
-(Salya|PER|cid_a0f86f1df65646fdacd58ce71991cab4|1|km_ganguli_translation_1.csv
-(Sun)|PER|cid_cf07e9d1feee47b1a7274ccdd654b07c|1|km_ganguli_translation_1.csv
-(Surasena|PER|cid_37aaea9df87a4b91ad36d43b7d8c334f|1|km_ganguli_translation_1.csv
-(Vasuki|PER|cid_18d30919a91c459cbb50962ede0cec0b|1|km_ganguli_translation_1.csv
-(Vrihaspati)|PER|cid_2684d5a5ff7b4b9188d859a4e0fb95f7|1|km_ganguli_translation_1.csv
-(Yudhishthira|PER|cid_0a90ba308d63491486fd578be72935ab|1|km_ganguli_translation_1.csv
-,|MISC|cid_41d567aeee664dc7b7bec4bbcc50fef1|2|km_ganguli_translation_1.csv
-,|MISC|cid_4a56d7817de74f1bb1ac8f12407d5885|1|km_ganguli_translation_1.csv
-,|MISC|cid_93a8d7fc270944008cb23bd1d143409c|1|km_ganguli_translation_1.csv
-,|MISC|cid_941cb49762ce4322b6d0c0b8793b5c25|4|km_ganguli_translation_1.csv
-,|MISC|cid_ab802fa107294f3fa803bc0c1fba3786|1|km_ganguli_translation_1.csv
-,|MISC|cid_b68eadf9ba6b49a8bd69d6a9e367e4f8|5|km_ganguli_translation_1.csv
-,|MISC|cid_d116549616314eb5b1023c1c45016e5a|1|km_ganguli_translation_1.csv
-, Astika|PER|cid_2c18046cd0a641559c91eb9e04f08ce0|1|km_ganguli_translation_1.csv
-, Pauloma|MISC|cid_6716c71b1dc04e84911ede23b1c00294|1|km_ganguli_translation_1.csv
-, Rajas|MISC|cid_8278e36128a84c91a50d2f4c880689b6|1|km_ganguli_translation_1.csv
--|MISC|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
--daha|MISC|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
-. A. Barth|PER|cid_e51fef34d47448b893b7644228515dbf|1|km_ganguli_translation_1.csv
-. Pickford|PER|cid_cbd21b5b589e40199ca93597935e0ba7|1|km_ganguli_translation_1.csv
-. Rost|PER|cid_3ec1507ad1e1456bb987aa039ab51922|1|km_ganguli_translation_1.csv
+Sukra|PER|cid_327c78600ad741a39a379393cc2e92f8|1|km_ganguli_translation_1.csv
+Sukra|PER|cid_6a9a8cd31c4b4087a86324b72700dbf8|1|km_ganguli_translation_1.csv
+Vaisampayana|PER|cid_240c258f17f64fb485d60c60bbc95016|1|km_ganguli_translation_1.csv
+Bhavishyaparva|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
+Durvasa|MISC|cid_c2075b77dbce4376803990f4c95fb1d7|1|km_ganguli_translation_1.csv
+Kichakas|MISC|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
+Narada|PER|cid_fdbf31d06dd24c39bff6ba287e90417c|1|km_ganguli_translation_1.csv
+Sauti|PER|cid_4a48ca212fab41bba749ee3b48057945|1|km_ganguli_translation_1.csv
+Sauti|PER|cid_cfdd63c886424cbf9151240b3f1ef22c|1|km_ganguli_translation_1.csv
+Brahman|PER|cid_7744b4ad4f494dd3b7d0d0119a30ccd5|1|km_ganguli_translation_1.csv
+Salya|PER|cid_a0f86f1df65646fdacd58ce71991cab4|1|km_ganguli_translation_1.csv
+Sun|PER|cid_cf07e9d1feee47b1a7274ccdd654b07c|1|km_ganguli_translation_1.csv
+Surasena|PER|cid_37aaea9df87a4b91ad36d43b7d8c334f|1|km_ganguli_translation_1.csv
+Vasuki|PER|cid_18d30919a91c459cbb50962ede0cec0b|1|km_ganguli_translation_1.csv
+Vrihaspati|PER|cid_2684d5a5ff7b4b9188d859a4e0fb95f7|1|km_ganguli_translation_1.csv
+Yudhishthira|PER|cid_0a90ba308d63491486fd578be72935ab|1|km_ganguli_translation_1.csv
+ Astika|PER|cid_2c18046cd0a641559c91eb9e04f08ce0|1|km_ganguli_translation_1.csv
+ Pauloma|MISC|cid_6716c71b1dc04e84911ede23b1c00294|1|km_ganguli_translation_1.csv
+ Rajas|MISC|cid_8278e36128a84c91a50d2f4c880689b6|1|km_ganguli_translation_1.csv
+daha|MISC|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
+ A. Barth|PER|cid_e51fef34d47448b893b7644228515dbf|1|km_ganguli_translation_1.csv
+ Pickford|PER|cid_cbd21b5b589e40199ca93597935e0ba7|1|km_ganguli_translation_1.csv
+ Rost|PER|cid_3ec1507ad1e1456bb987aa039ab51922|1|km_ganguli_translation_1.csv
 A|MISC|cid_0953b0de50a74912af15571e99f5a35a|1|km_ganguli_translation_1.csv
 A|MISC|cid_674a6002570347efb59e623010fb41e9|1|km_ganguli_translation_1.csv
 A|MISC|cid_8640da9670af4cbb8ee1ed40fda89b6f|1|km_ganguli_translation_1.csv
@@ -80,8 +70,8 @@ Adi Parva|MISC|cid_6dec93d6a1a2447ba24a6b6d255bab7a|1|km_ganguli_translation_1.c
 Adi Parva|MISC|cid_8f6cdecb57ee4fb6905cdaa1fcc98da3|1|km_ganguli_translation_1.csv
 Adi Parva|MISC|cid_bf55416ae089485d94eb35b687b02fd7|1|km_ganguli_translation_1.csv
 Adi Parva of the|MISC|cid_3061d4c8ce464e929f75679a1cdb1949|1|km_ganguli_translation_1.csv
-Adi Parva.|MISC|cid_97bb4797ceca4a54a5aedfb8c67cbf4c|1|km_ganguli_translation_1.csv
-Adi Parva.|PER|cid_01eb31dfaf724a84adbc0b73a5c9b473|1|km_ganguli_translation_1.csv
+Adi Parva|MISC|cid_97bb4797ceca4a54a5aedfb8c67cbf4c|1|km_ganguli_translation_1.csv
+Adi Parva|PER|cid_01eb31dfaf724a84adbc0b73a5c9b473|1|km_ganguli_translation_1.csv
 Adi par|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Aditi|PER|cid_0c6568a68571445ea65b8b583aee5c25|1|km_ganguli_translation_1.csv
 Aditi|PER|cid_58c15396701042faa37e9cfe577289ef|2|km_ganguli_translation_1.csv
@@ -185,7 +175,7 @@ Agnivesa|PER|cid_2684d5a5ff7b4b9188d859a4e0fb95f7|1|km_ganguli_translation_1.csv
 Agnivesa|PER|cid_a372b64df321428680cfecfa30df30c4|1|km_ganguli_translation_1.csv
 Agnivesya|PER|cid_0f7b79fd8a6648b3b7ae4ac872132cf3|2|km_ganguli_translation_1.csv
 Aha|PER|cid_591bc41a6d084817b8438ea28524e530|2|km_ganguli_translation_1.csv
-Ahasta (Dharma)|PER|cid_aa2cc9aa970f4d21af100d308431bd44|1|km_ganguli_translation_1.csv
+Ahasta Dharma|PER|cid_aa2cc9aa970f4d21af100d308431bd44|1|km_ganguli_translation_1.csv
 Ahayanti|PER|cid_1cfa8258d2bd4e799550ca3986fd819d|2|km_ganguli_translation_1.csv
 Ahicchatra|LOC|cid_757ba519ed854b38a08817eb3aa09072|2|km_ganguli_translation_1.csv
 Aikshaki|PER|cid_61004890ef5146df9900b171e61ee6d9|1|km_ganguli_translation_1.csv
@@ -216,7 +206,7 @@ Ajamidha|PER|cid_6bd52354f4f3401699018ba5dade1c14|1|km_ganguli_translation_1.csv
 Ajamidha|PER|cid_a7fb12baf10a4cb7b22c97cb9cb2eccc|2|km_ganguli_translation_1.csv
 Ajamidha, Sumidha|PER|cid_61004890ef5146df9900b171e61ee6d9|1|km_ganguli_translation_1.csv
 Ajas|MISC|cid_0953b0de50a74912af15571e99f5a35a|1|km_ganguli_translation_1.csv
-Ajatasanu (Yudhishthira|PER|cid_a0c85fb99d9c4dfda21e479f89c00cc1|1|km_ganguli_translation_1.csv
+Ajatasanu Yudhishthira|PER|cid_a0c85fb99d9c4dfda21e479f89c00cc1|1|km_ganguli_translation_1.csv
 Ajatasatru|PER|cid_a0c85fb99d9c4dfda21e479f89c00cc1|1|km_ganguli_translation_1.csv
 Ajeya, Parasu, Pundra, Sambhu|PER|cid_eec74d52a8b5472b8d739fb12a19030a|1|km_ganguli_translation_1.csv
 Ak|MISC|cid_61004890ef5146df9900b171e61ee6d9|1|km_ganguli_translation_1.csv
@@ -316,8 +306,8 @@ Angiras|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
 Angiras|PER|cid_72d73f81876a44cd90c07ae71679a451|1|km_ganguli_translation_1.csv
 Angiras|PER|cid_73aa3ef609354541a886361d09f689af|2|km_ganguli_translation_1.csv
 Angiras|PER|cid_8269099b08c0476c9d1b4c60c01447a2|1|km_ganguli_translation_1.csv
-Angiras (Vrihaspati|PER|cid_eb3b507731904584a33ffb4486d428d5|1|km_ganguli_translation_1.csv
-Angiras (Vrihaspati)|PER|cid_b5c55b43df7e4f9ab231b05206398050|1|km_ganguli_translation_1.csv
+Angiras Vrihaspati|PER|cid_eb3b507731904584a33ffb4486d428d5|1|km_ganguli_translation_1.csv
+Angiras Vrihaspati|PER|cid_b5c55b43df7e4f9ab231b05206398050|1|km_ganguli_translation_1.csv
 Ani-Mandavya|PER|cid_0558f19c46754a1985aeaaadb034ba05|1|km_ganguli_translation_1.csv
 Ani-Mandavya|PER|cid_867c28d156504280a4de24f49defe679|1|km_ganguli_translation_1.csv
 Anikini|MISC|cid_5ff958a2ed5c4090a0aadefaf27f7aa2|1|km_ganguli_translation_1.csv
@@ -540,7 +530,7 @@ Arjuna|PER|cid_f1dfe2a583594556889f4b79c3d29002|3|km_ganguli_translation_1.csv
 Arjuna|PER|cid_f8d3a8492ae94dae90fb320faea85af5|1|km_ganguli_translation_1.csv
 Arjuna|PER|cid_fb2dcda108374809ae93c6ade2477721|1|km_ganguli_translation_1.csv
 Arjuna|PER|cid_fff290778510441da99d45da047a25cc|1|km_ganguli_translation_1.csv
-Arjuna)|PER|cid_c6f6a4bb42dc4dbd961dfaa5bd75cea3|1|km_ganguli_translation_1.csv
+Arjuna|PER|cid_c6f6a4bb42dc4dbd961dfaa5bd75cea3|1|km_ganguli_translation_1.csv
 Arjuna-banavasa|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
 Arjuna-vigamana|MISC|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
 Arjunas|MISC|cid_6c41034480a34e138b4d725adbf1422a|1|km_ganguli_translation_1.csv
@@ -696,12 +686,12 @@ Asura|PER|cid_8c997f69663d431782948124b638eacb|1|km_ganguli_translation_1.csv
 Asura|PER|cid_b5a619a92a8e4e869564105368deac8a|1|km_ganguli_translation_1.csv
 Asura|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
 Asura|PER|cid_fe047187603d4cd1ab30a86ac4628612|1|km_ganguli_translation_1.csv
-Asura (Maya)|PER|cid_e5762ced689241aba1b50c116c40a4e3|1|km_ganguli_translation_1.csv
+Asura Maya|PER|cid_e5762ced689241aba1b50c116c40a4e3|1|km_ganguli_translation_1.csv
 Asura Jata|MISC|cid_34a8aa2902e74118924de733e1537ded|1|km_ganguli_translation_1.csv
 Asura Vaka|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Asura Vaka|MISC|cid_e1bd06817be04ff8a0847ddb097e9cde|1|km_ganguli_translation_1.csv
 Asura Vatapi|MISC|cid_f1dfe2a583594556889f4b79c3d29002|1|km_ganguli_translation_1.csv
-Asura-|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
+Asura|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Asuras|LOC|cid_0969fd270b6c4ed298189d3b3d8de1c4|1|km_ganguli_translation_1.csv
 Asuras|MISC|cid_0115256ca8344b4e99eb068d362d1424|1|km_ganguli_translation_1.csv
 Asuras|MISC|cid_056c4870a7e44ce082beb11db21ffc25|1|km_ganguli_translation_1.csv
@@ -844,7 +834,7 @@ Ayoda-Dhaumya|PER|cid_4aef447047564081a10a18c29735834e|3|km_ganguli_translation_
 Ayodhya|LOC|cid_bbe530937bdf4328893ef5e4f105939b|3|km_ganguli_translation_1.csv
 Ayovahu, Mahavahu, Chitrachapa|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
 Ayovahu, Mahavahu, Chitranga, Chitrakundala, Bhimavega, Bhimavala, Balaki, Balavardhana, Ugrayudha|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
-Aysanku, Gaganamurdhan,|PER|cid_4fa6835ad5d54d4884da76c5d2c59ba3|1|km_ganguli_translation_1.csv
+Aysanku, Gaganamurdhan|PER|cid_4fa6835ad5d54d4884da76c5d2c59ba3|1|km_ganguli_translation_1.csv
 Ayus|PER|cid_7e7ebbff27f44327bb454822553cec0b|2|km_ganguli_translation_1.csv
 Ayus|PER|cid_a58e9a6ecdb5481187bdd2c580617e83|3|km_ganguli_translation_1.csv
 Ayuta|MISC|cid_1cfa8258d2bd4e799550ca3986fd819d|1|km_ganguli_translation_1.csv
@@ -1305,7 +1295,7 @@ Bhishma|PER|cid_f842042de5564d988f2340dcb926a8b0|2|km_ganguli_translation_1.csv
 Bhishma|PER|cid_facb5991d17d41d596b9a6b7ea94682d|1|km_ganguli_translation_1.csv
 Bhishma|PER|cid_fb2dcda108374809ae93c6ade2477721|1|km_ganguli_translation_1.csv
 Bhishma Parva|MISC|cid_4af499afa67142b2953e99b803b2278b|1|km_ganguli_translation_1.csv
-Bhishma'|PER|cid_facb5991d17d41d596b9a6b7ea94682d|1|km_ganguli_translation_1.csv
+Bhishma|PER|cid_facb5991d17d41d596b9a6b7ea94682d|1|km_ganguli_translation_1.csv
 Bhishma, Vidura, Dhritarashtra|PER|cid_b0433be4a4d54f05be3ceeb7e366cd3c|1|km_ganguli_translation_1.csv
 Bhishmaka|PER|cid_5399688eee664bff849c34f05493a538|1|km_ganguli_translation_1.csv
 Bhogavati|LOC|cid_4eb86185aafb4fb58f87ff1d20720d85|1|km_ganguli_translation_1.csv
@@ -1315,7 +1305,7 @@ Bhojas|MISC|cid_28231e78e98a4b01946334c83ea498c7|2|km_ganguli_translation_1.csv
 Bhojas|MISC|cid_3b3fcd7cde414b7fab999f3c3e627745|1|km_ganguli_translation_1.csv
 Bhojas|MISC|cid_cf984dc59ab84c4c907adc8aabb286b9|2|km_ganguli_translation_1.csv
 Bhojas|MISC|cid_e1824a29d2534348ae56b836e07a787c|1|km_ganguli_translation_1.csv
-Bhojas, Vrishnis,|MISC|cid_640df0d09b1c4401b9a0acbdf711ad4d|1|km_ganguli_translation_1.csv
+Bhojas, Vrishnis|MISC|cid_640df0d09b1c4401b9a0acbdf711ad4d|1|km_ganguli_translation_1.csv
 Bhrigu|LOC|cid_6a4e3a52660048d48f7b08c7e9ad1d0f|1|km_ganguli_translation_1.csv
 Bhrigu|LOC|cid_d2cf9b95af7d4a3892040acc6a74e2b2|1|km_ganguli_translation_1.csv
 Bhrigu|MISC|cid_2217811216e44f8d861ca1b926a046a2|1|km_ganguli_translation_1.csv
@@ -1430,8 +1420,8 @@ Brahma|PER|cid_e99cb793fa6144c39fcc2ca85c7d8933|2|km_ganguli_translation_1.csv
 Brahma|PER|cid_f8fbe0dd76a244f18b1d8c6c22792650|2|km_ganguli_translation_1.csv
 Brahma Parameshthi|PER|cid_8f1815c74b13426ab11b96df6ce59312|2|km_ganguli_translation_1.csv
 Brahma weapon|MISC|cid_ecf7dfb34e554dbf8a9923ca61dc821a|1|km_ganguli_translation_1.csv
-Brahma's|PER|cid_849822ed35e94075aaafcc84ac4d0967|1|km_ganguli_translation_1.csv
-Brahma,|PER|cid_548708cd8b6d49b08eeaf301ad6c3e20|1|km_ganguli_translation_1.csv
+Brahmas|PER|cid_849822ed35e94075aaafcc84ac4d0967|1|km_ganguli_translation_1.csv
+Brahma|PER|cid_548708cd8b6d49b08eeaf301ad6c3e20|1|km_ganguli_translation_1.csv
 Brahma, Daiva, Arsha, Prajapatya, Asura|MISC|cid_da2ea26bbe5a44d59543345dbc9e735d|1|km_ganguli_translation_1.csv
 Brahma-charin|MISC|cid_a8921cb91c9e45fe8267ce84feea466a|1|km_ganguli_translation_1.csv
 Brahma-prasnanusana|MISC|cid_c2075b77dbce4376803990f4c95fb1d7|1|km_ganguli_translation_1.csv
@@ -1442,7 +1432,7 @@ Brahmacharin|MISC|cid_78095ad0dae941798feef7b2f522c553|1|km_ganguli_translation_
 Brahmacharin|MISC|cid_9f5cd8e0dd2b4d788c0ab473941e6b13|1|km_ganguli_translation_1.csv
 Brahmacharin|MISC|cid_a60dfc3c8c674ef7b20a2cdba8c19887|1|km_ganguli_translation_1.csv
 Brahmacharin|MISC|cid_f02ac16689454a119d25dec8a89c8d62|3|km_ganguli_translation_1.csv
-Brahmacharin, Ratiguna,|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
+Brahmacharin, Ratiguna|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Brahmacharin, Vahuguna, Suvarna|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
 Brahmacharins|PER|cid_d0b96f0faab4473ea05d66c1713d5760|1|km_ganguli_translation_1.csv
 Brahmacharis|MISC|cid_a937c7465b204d819439142b73e14155|1|km_ganguli_translation_1.csv
@@ -1506,7 +1496,7 @@ Brahman|PER|cid_b42f7b77355843e9ba2d5694b9f50bf8|1|km_ganguli_translation_1.csv
 Brahman|PER|cid_b794987675e748868d09736918bc4e64|1|km_ganguli_translation_1.csv
 Brahman|PER|cid_cdaad9f63d9340328ace60c44898b05f|2|km_ganguli_translation_1.csv
 Brahman|PER|cid_d306789342284ca585606317163bceed|1|km_ganguli_translation_1.csv
-Brahman.|MISC|cid_f3aef0467598484392d2a33b821a284f|1|km_ganguli_translation_1.csv
+Brahman|MISC|cid_f3aef0467598484392d2a33b821a284f|1|km_ganguli_translation_1.csv
 Brahmana|MISC|cid_005651ced1d844b6a21e601d290c9b41|1|km_ganguli_translation_1.csv
 Brahmana|MISC|cid_0565614dfcef404c99499d7c5fb399d8|5|km_ganguli_translation_1.csv
 Brahmana|MISC|cid_08cb30e556e7485794c38384f2ea7fb0|1|km_ganguli_translation_1.csv
@@ -1679,12 +1669,12 @@ Brahmana|PER|cid_bac3cc88f48c4798ab1286418e3fef22|1|km_ganguli_translation_1.csv
 Brahmana|PER|cid_dc6de1517cef45dbaf96c5d0e5adc23a|1|km_ganguli_translation_1.csv
 Brahmana|PER|cid_f842042de5564d988f2340dcb926a8b0|1|km_ganguli_translation_1.csv
 Brahmana|PER|cid_fa619240587d4de2b0143e11780064a7|1|km_ganguli_translation_1.csv
-Brahmana (Saunaka)|PER|cid_b3cdece0fa624a50927809a2144848d0|1|km_ganguli_translation_1.csv
+Brahmana Saunaka|PER|cid_b3cdece0fa624a50927809a2144848d0|1|km_ganguli_translation_1.csv
 Brahmana Kacha|PER|cid_8269099b08c0476c9d1b4c60c01447a2|1|km_ganguli_translation_1.csv
 Brahmana Rishi|MISC|cid_2a9fe4259eb84bea86809274c200a944|1|km_ganguli_translation_1.csv
 Brahmana Rishi|MISC|cid_7662e0ed8f3e49668da497d74cbed886|1|km_ganguli_translation_1.csv
 Brahmana Rishis|PER|cid_7bfda9dc320b4f108a59d6e68b83344a|1|km_ganguli_translation_1.csv
-Brahmana,|MISC|cid_c077cd7cb7574572a28b80b909540d35|1|km_ganguli_translation_1.csv
+Brahmana|MISC|cid_c077cd7cb7574572a28b80b909540d35|1|km_ganguli_translation_1.csv
 Brahmanas|MISC|cid_025c90f603bd43d5940ef8d46997d9a7|2|km_ganguli_translation_1.csv
 Brahmanas|MISC|cid_056c4870a7e44ce082beb11db21ffc25|1|km_ganguli_translation_1.csv
 Brahmanas|MISC|cid_06c573f2b6d74991a6abc0bb7ef44e05|1|km_ganguli_translation_1.csv
@@ -1991,7 +1981,7 @@ Creator of the Universe|MISC|cid_1c5d25d4d9044c1e95c31594b95713ee|1|km_ganguli_t
 Creator of the Universe|MISC|cid_9b0d1e928da44e51827bf28ace5f6185|1|km_ganguli_translation_1.csv
 Cupid|PER|cid_b5a619a92a8e4e869564105368deac8a|1|km_ganguli_translation_1.csv
 Dadhichi|PER|cid_edf2ffa9c0d044c6ae03b35bb7504464|1|km_ganguli_translation_1.csv
-Dadhichi)|MISC|cid_2a6069bed728403bb67fd926435a00cd|1|km_ganguli_translation_1.csv
+Dadhichi|MISC|cid_2a6069bed728403bb67fd926435a00cd|1|km_ganguli_translation_1.csv
 Dahana|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
 Daitya|MISC|cid_68f89ede77ae4085aba0277d809e4ed2|1|km_ganguli_translation_1.csv
 Daitya|MISC|cid_8ddfb870280b4092870a5fa614681908|1|km_ganguli_translation_1.csv
@@ -2003,7 +1993,7 @@ Daityas|MISC|cid_805d95115d914d48800ed1fe9fdb3f41|1|km_ganguli_translation_1.csv
 Daityas|MISC|cid_8ddfb870280b4092870a5fa614681908|1|km_ganguli_translation_1.csv
 Daityas|MISC|cid_c26b3cc0d7cc449b92586a12e3d503a4|1|km_ganguli_translation_1.csv
 Daityas|PER|cid_05224cdccd334cb381af7583dccfdfae|1|km_ganguli_translation_1.csv
-Daityas)|PER|cid_0c6568a68571445ea65b8b583aee5c25|1|km_ganguli_translation_1.csv
+Daityas|PER|cid_0c6568a68571445ea65b8b583aee5c25|1|km_ganguli_translation_1.csv
 Daksha|PER|cid_152afa36458f4316bec174f82c0bbf07|1|km_ganguli_translation_1.csv
 Daksha|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Daksha|PER|cid_4a81c4cc4ff4416593ddf76851e2ce39|2|km_ganguli_translation_1.csv
@@ -2018,7 +2008,7 @@ Damaghosa|PER|cid_199a912cd697446999fe850c451040fb|1|km_ganguli_translation_1.cs
 Damayanti|PER|cid_3f47c58f0e5742f7af260792c5a873db|1|km_ganguli_translation_1.csv
 Damayanti|PER|cid_f1dfe2a583594556889f4b79c3d29002|1|km_ganguli_translation_1.csv
 Dambhodbhava, Para, Vena, Sagara, Sankriti|PER|cid_eec74d52a8b5472b8d739fb12a19030a|1|km_ganguli_translation_1.csv
-Damodara (Krishna|PER|cid_a196b31d832c4649a5df8462f9d364cf|1|km_ganguli_translation_1.csv
+Damodara Krishna|PER|cid_a196b31d832c4649a5df8462f9d364cf|1|km_ganguli_translation_1.csv
 Damvodbhava|PER|cid_81221da297304cfe89439246efb7ae17|1|km_ganguli_translation_1.csv
 Damvodvava|PER|cid_85fbc125f0f8405d942a67b834e780c5|1|km_ganguli_translation_1.csv
 Dana|PER|cid_3fd5bd622356463d9b0ca7851899bf0f|1|km_ganguli_translation_1.csv
@@ -2394,8 +2384,8 @@ Div|PER|cid_9da0638ca40b4987ab6be62a284fe8ff|1|km_ganguli_translation_1.csv
 Divi|PER|cid_b42f7b77355843e9ba2d5694b9f50bf8|1|km_ganguli_translation_1.csv
 Divya Patalas|PER|cid_6c41034480a34e138b4d725adbf1422a|1|km_ganguli_translation_1.csv
 Dr|MISC|cid_3ec1507ad1e1456bb987aa039ab51922|1|km_ganguli_translation_1.csv
-Dr.|MISC|cid_e51fef34d47448b893b7644228515dbf|1|km_ganguli_translation_1.csv
-Dr.|MISC|cid_eee26bdf62c44c25b47ca7657f649a87|1|km_ganguli_translation_1.csv
+Dr|MISC|cid_e51fef34d47448b893b7644228515dbf|1|km_ganguli_translation_1.csv
+Dr|MISC|cid_eee26bdf62c44c25b47ca7657f649a87|1|km_ganguli_translation_1.csv
 Dr. Mookherjee|PER|cid_2227be9dbc074285894425191be0e8e1|1|km_ganguli_translation_1.csv
 Drahyu|MISC|cid_63be582213a344e8be0d7be622f97f11|1|km_ganguli_translation_1.csv
 Drahyu|PER|cid_29cf56d9508e496988764a317a6f2ba4|1|km_ganguli_translation_1.csv
@@ -2447,10 +2437,10 @@ Draupadi|PER|cid_e2ad71395acd4fde9db6cf9eeea00f37|1|km_ganguli_translation_1.csv
 Draupadi|PER|cid_f02ac16689454a119d25dec8a89c8d62|1|km_ganguli_translation_1.csv
 Draupadi|PER|cid_f2180ddc8819484e9729ad4baa0f50aa|1|km_ganguli_translation_1.csv
 Draupadi|PER|cid_fb2dcda108374809ae93c6ade2477721|2|km_ganguli_translation_1.csv
-Draupadi-|PER|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
+Draupadi|PER|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
 Dravidas|MISC|cid_603aa6574b8a4e35b67baaf9b5497607|1|km_ganguli_translation_1.csv
 Dravina|PER|cid_591bc41a6d084817b8438ea28524e530|1|km_ganguli_translation_1.csv
-Dridhahasta, Suhasta, Vatavega,|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
+Dridhahasta, Suhasta, Vatavega|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
 Dridhakshatra|MISC|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
 Dridharatha|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
 Dridharatha|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
@@ -2533,15 +2523,15 @@ Drona|PER|cid_f5edead4c28d4aeea374dd8ab13bbbcf|4|km_ganguli_translation_1.csv
 Drona|PER|cid_f842042de5564d988f2340dcb926a8b0|4|km_ganguli_translation_1.csv
 Drona|PER|cid_f8d3a8492ae94dae90fb320faea85af5|1|km_ganguli_translation_1.csv
 Drona|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|2|km_ganguli_translation_1.csv
-Drona (Aswatthaman|PER|cid_9685572e73bf4583992d0173a6e90eeb|1|km_ganguli_translation_1.csv
+Drona Aswatthaman|PER|cid_9685572e73bf4583992d0173a6e90eeb|1|km_ganguli_translation_1.csv
 Drona Parva|MISC|cid_8bbdeab3230a426db571d7324fc84a6b|2|km_ganguli_translation_1.csv
-Drona)|PER|cid_4bc1c8150ce441499c3bc915304d20bb|1|km_ganguli_translation_1.csv
+Drona|PER|cid_4bc1c8150ce441499c3bc915304d20bb|1|km_ganguli_translation_1.csv
 Drona, Kritavarma, Kripa, Karna|PER|cid_a0f86f1df65646fdacd58ce71991cab4|1|km_ganguli_translation_1.csv
 Dru|PER|cid_74096f5939e74ce2809381cefb595ddb|1|km_ganguli_translation_1.csv
 Druhyu|PER|cid_fb0d1aacfd184ec9acd59b6a4b72acf3|1|km_ganguli_translation_1.csv
 Druhyu, Anu|PER|cid_7e7ebbff27f44327bb454822553cec0b|1|km_ganguli_translation_1.csv
 Druma|PER|cid_eec74d52a8b5472b8d739fb12a19030a|1|km_ganguli_translation_1.csv
-Druma.|PER|cid_4fa6835ad5d54d4884da76c5d2c59ba3|1|km_ganguli_translation_1.csv
+Druma|PER|cid_4fa6835ad5d54d4884da76c5d2c59ba3|1|km_ganguli_translation_1.csv
 Drumasena|PER|cid_674a6002570347efb59e623010fb41e9|1|km_ganguli_translation_1.csv
 Drupada|LOC|cid_00f959b4b8414086a572ecad69433614|2|km_ganguli_translation_1.csv
 Drupada|LOC|cid_24676b7899f24357a7001352d12c9c1a|1|km_ganguli_translation_1.csv
@@ -2613,7 +2603,7 @@ Drupada|PER|cid_ecf7dfb34e554dbf8a9923ca61dc821a|4|km_ganguli_translation_1.csv
 Drupada|PER|cid_f02ac16689454a119d25dec8a89c8d62|1|km_ganguli_translation_1.csv
 Drupada|PER|cid_f2180ddc8819484e9729ad4baa0f50aa|5|km_ganguli_translation_1.csv
 Drupada|PER|cid_f8d3a8492ae94dae90fb320faea85af5|2|km_ganguli_translation_1.csv
-Drupada's|PER|cid_8dcd7a4ecba0423381af12583d145b3d|1|km_ganguli_translation_1.csv
+Drupadas|PER|cid_8dcd7a4ecba0423381af12583d145b3d|1|km_ganguli_translation_1.csv
 Drupadas|MISC|cid_f8d3a8492ae94dae90fb320faea85af5|1|km_ganguli_translation_1.csv
 Druvodhana|PER|cid_9a0899ca16ad4af8a84602dcc4687fe6|1|km_ganguli_translation_1.csv
 Duhasasana|PER|cid_15343cdb1fa44c2c9343917b7066cc33|1|km_ganguli_translation_1.csv
@@ -2737,7 +2727,7 @@ Duryodhana|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.c
 Duryodhana|PER|cid_f8d3a8492ae94dae90fb320faea85af5|2|km_ganguli_translation_1.csv
 Duryodhana|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|1|km_ganguli_translation_1.csv
 Duryodhana, Duhsasana|PER|cid_a53cacec7ba64c14adabfe2ac6b0ae8d|1|km_ganguli_translation_1.csv
-Duryodhana, Duhsasana, Vikarna,|PER|cid_4adbe0492ac24aa3a766775a7b573fd6|1|km_ganguli_translation_1.csv
+Duryodhana, Duhsasana, Vikarna|PER|cid_4adbe0492ac24aa3a766775a7b573fd6|1|km_ganguli_translation_1.csv
 Duryodhana, Kama|PER|cid_dca65d682b4b4eba99b3646db342e598|1|km_ganguli_translation_1.csv
 Duryodhana, Yuyutsu, Duhsasana, Duhsaha, Duhsala, Jalasandha, Sama, Saha, Vinda|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
 Duryodhana. Karna|PER|cid_410488592003461ebdde5298ee0ba4a6|1|km_ganguli_translation_1.csv
@@ -2799,7 +2789,7 @@ Dwaravati|LOC|cid_aaa45707e70e4565b3f84f8425eb9def|1|km_ganguli_translation_1.cs
 Dwaravati|LOC|cid_e1824a29d2534348ae56b836e07a787c|1|km_ganguli_translation_1.csv
 Dwaravati|LOC|cid_e5762ced689241aba1b50c116c40a4e3|1|km_ganguli_translation_1.csv
 Dwaravati|PER|cid_45d32b141ba140ad95a106a19ef8a27e|1|km_ganguli_translation_1.csv
-Dwaravati (Dwaraka)|LOC|cid_1e94a04ebaae4d8ca5f4501086b31fc9|1|km_ganguli_translation_1.csv
+Dwaravati Dwaraka|LOC|cid_1e94a04ebaae4d8ca5f4501086b31fc9|1|km_ganguli_translation_1.csv
 Dwijas|MISC|cid_2c18046cd0a641559c91eb9e04f08ce0|1|km_ganguli_translation_1.csv
 Dwijas|MISC|cid_824ec973473d408ba1f229e3bd9703ab|2|km_ganguli_translation_1.csv
 Dwijas|MISC|cid_dc6de1517cef45dbaf96c5d0e5adc23a|1|km_ganguli_translation_1.csv
@@ -2847,7 +2837,7 @@ Earth|MISC|cid_38e08bafa37c4197b33674482002c7b9|1|km_ganguli_translation_1.csv
 Earth|MISC|cid_4e7f2b3ef1814fd8be4bd04078cba3f2|1|km_ganguli_translation_1.csv
 Earth|MISC|cid_8269099b08c0476c9d1b4c60c01447a2|1|km_ganguli_translation_1.csv
 Earth|MISC|cid_ab802fa107294f3fa803bc0c1fba3786|1|km_ganguli_translation_1.csv
-Earth-hell (Bhauma)|MISC|cid_63883e4514db46a1b660658695aaf312|1|km_ganguli_translation_1.csv
+Earth-hell Bhauma|MISC|cid_63883e4514db46a1b660658695aaf312|1|km_ganguli_translation_1.csv
 East|LOC|cid_14c557d23c75489bad39d73d104d6fd0|1|km_ganguli_translation_1.csv
 East|LOC|cid_a5a60af575df46ccbf4cf4ae52c8d30b|1|km_ganguli_translation_1.csv
 East|LOC|cid_d0b96f0faab4473ea05d66c1713d5760|1|km_ganguli_translation_1.csv
@@ -2893,7 +2883,7 @@ Fire|MISC|cid_a937c7465b204d819439142b73e14155|1|km_ganguli_translation_1.csv
 Fire-sacrifice|MISC|cid_89b3db2166454f49b74c6bf36bf305e1|1|km_ganguli_translation_1.csv
 First Cause of the Universe|MISC|cid_0969fd270b6c4ed298189d3b3d8de1c4|1|km_ganguli_translation_1.csv
 Free Translation|MISC|cid_cbd21b5b589e40199ca93597935e0ba7|1|km_ganguli_translation_1.csv
-Gada,|PER|cid_0821e5fe465b4db2b85514788288f645|1|km_ganguli_translation_1.csv
+Gada|PER|cid_0821e5fe465b4db2b85514788288f645|1|km_ganguli_translation_1.csv
 Gada, Akrura, Satyaki|PER|cid_4b70390961464dd580703270f0602280|1|km_ganguli_translation_1.csv
 Gadhi|PER|cid_4b6862f1a1874e018e011be3c4e55423|1|km_ganguli_translation_1.csv
 Gadhi|PER|cid_555d94f59bea40499ed71071fc5a3ea9|2|km_ganguli_translation_1.csv
@@ -3067,7 +3057,7 @@ Ganga|PER|cid_dda7e58861eb4ac484b9eaf4eeea91d9|1|km_ganguli_translation_1.csv
 Ganga|PER|cid_eb3b507731904584a33ffb4486d428d5|1|km_ganguli_translation_1.csv
 Ganga|PER|cid_f7aaa1f8212d4cdfa10de42cb4161516|1|km_ganguli_translation_1.csv
 Ganga|PER|cid_f842042de5564d988f2340dcb926a8b0|1|km_ganguli_translation_1.csv
-Ganga (Bhishma), Vyasa,|PER|cid_9439cd6184e14fb795af5cf305d4cc95|1|km_ganguli_translation_1.csv
+Ganga Bhishma, Vyasa|PER|cid_9439cd6184e14fb795af5cf305d4cc95|1|km_ganguli_translation_1.csv
 Gangadatta|PER|cid_152afa36458f4316bec174f82c0bbf07|1|km_ganguli_translation_1.csv
 Gangadatta|PER|cid_cbd6f545d28a40daa7dfe25d64cb3da1|1|km_ganguli_translation_1.csv
 Ganges|LOC|cid_dd0aa46153ee4c82a77a5694e40b660c|1|km_ganguli_translation_1.csv
@@ -3119,12 +3109,12 @@ Gautama|PER|cid_4a7a864fcaf84b5da25c5240be45b421|1|km_ganguli_translation_1.csv
 Gautama|PER|cid_a8440ee62c974257b532752046ac4293|1|km_ganguli_translation_1.csv
 Gautama|PER|cid_b39529191245471db44edda842436a6d|2|km_ganguli_translation_1.csv
 Gautama|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|1|km_ganguli_translation_1.csv
-Gautama (Kripa|PER|cid_f5edead4c28d4aeea374dd8ab13bbbcf|1|km_ganguli_translation_1.csv
-Gautama (Kripa)|PER|cid_c95b225da62f4f07a648e04d247082cb|1|km_ganguli_translation_1.csv
+Gautama Kripa|PER|cid_f5edead4c28d4aeea374dd8ab13bbbcf|1|km_ganguli_translation_1.csv
+Gautama Kripa|PER|cid_c95b225da62f4f07a648e04d247082cb|1|km_ganguli_translation_1.csv
 Gautami|PER|cid_e0eb07a93a50465b8435329af7074904|1|km_ganguli_translation_1.csv
 Gavalgana|PER|cid_1e94a04ebaae4d8ca5f4501086b31fc9|1|km_ganguli_translation_1.csv
 Gavalgana|PER|cid_d116549616314eb5b1023c1c45016e5a|1|km_ganguli_translation_1.csv
-Gavalgana (Sanjaya)|PER|cid_46d66e45eabd488482b5460ccb0870aa|1|km_ganguli_translation_1.csv
+Gavalgana Sanjaya|PER|cid_46d66e45eabd488482b5460ccb0870aa|1|km_ganguli_translation_1.csv
 Gaveshana, Asavaha, Aniruddha, Samika, Sarimejaya|PER|cid_4b70390961464dd580703270f0602280|1|km_ganguli_translation_1.csv
 Gaya|LOC|cid_d2cf9b95af7d4a3892040acc6a74e2b2|1|km_ganguli_translation_1.csv
 Gaya|PER|cid_ce96c5da580b4007a2b48a91c85756dd|1|km_ganguli_translation_1.csv
@@ -3209,16 +3199,16 @@ Haha|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
 Haihaya|MISC|cid_656006800cea49d7959e55ae9b2aa45a|1|km_ganguli_translation_1.csv
 Haihayas|MISC|cid_f1dfe2a583594556889f4b79c3d29002|1|km_ganguli_translation_1.csv
 Haimavati|LOC|cid_88bf93a77f554488a9323fa58fa94768|1|km_ganguli_translation_1.csv
-Haladhara (Valarama|PER|cid_0821e5fe465b4db2b85514788288f645|1|km_ganguli_translation_1.csv
+Haladhara Valarama|PER|cid_0821e5fe465b4db2b85514788288f645|1|km_ganguli_translation_1.csv
 Halayudha|PER|cid_16aa6e8d764d4662943a33ced8b3f9ea|1|km_ganguli_translation_1.csv
 Halayudha|PER|cid_c26b3cc0d7cc449b92586a12e3d503a4|1|km_ganguli_translation_1.csv
 Halayudha|PER|cid_c7adee6aecfd423f87e3d470f3cbcd52|1|km_ganguli_translation_1.csv
-Halayudha (Valadeva|PER|cid_a196b31d832c4649a5df8462f9d364cf|1|km_ganguli_translation_1.csv
+Halayudha Valadeva|PER|cid_a196b31d832c4649a5df8462f9d364cf|1|km_ganguli_translation_1.csv
 Hansa|PER|cid_15343cdb1fa44c2c9343917b7066cc33|1|km_ganguli_translation_1.csv
 Hansakuta|LOC|cid_07e60d72fbd74bbd8f4cdd162ebe48be|1|km_ganguli_translation_1.csv
 Hanuman|PER|cid_34a8aa2902e74118924de733e1537ded|3|km_ganguli_translation_1.csv
-Hara (Siva|PER|cid_37aaea9df87a4b91ad36d43b7d8c334f|1|km_ganguli_translation_1.csv
-Hara,|PER|cid_fdad650af9bb44ef9bb64d0b2be3d520|1|km_ganguli_translation_1.csv
+Hara Siva|PER|cid_37aaea9df87a4b91ad36d43b7d8c334f|1|km_ganguli_translation_1.csv
+Hara|PER|cid_fdad650af9bb44ef9bb64d0b2be3d520|1|km_ganguli_translation_1.csv
 Harana-harika|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
 Hardikya|PER|cid_0821e5fe465b4db2b85514788288f645|1|km_ganguli_translation_1.csv
 Hari|PER|cid_0115256ca8344b4e99eb068d362d1424|1|km_ganguli_translation_1.csv
@@ -3228,7 +3218,7 @@ Hari|PER|cid_4911d5394906473da9f6b8379c3e2b9b|1|km_ganguli_translation_1.csv
 Hari|PER|cid_854364f77ffb4794a0ccc4b5fea37c70|1|km_ganguli_translation_1.csv
 Hari|PER|cid_b42f7b77355843e9ba2d5694b9f50bf8|1|km_ganguli_translation_1.csv
 Hari|PER|cid_df41902f48de4e188e305e5a4a5f66a3|1|km_ganguli_translation_1.csv
-Hari (Krishna)|PER|cid_3886b1c3843543a197bf4c1e6bde295f|1|km_ganguli_translation_1.csv
+Hari Krishna|PER|cid_3886b1c3843543a197bf4c1e6bde295f|1|km_ganguli_translation_1.csv
 Harimedha|PER|cid_d5bb7aa20367474e83a419c45498e048|1|km_ganguli_translation_1.csv
 Harivansa|MISC|cid_83872324d20541d7a594a9f0886a0485|2|km_ganguli_translation_1.csv
 Harsha|PER|cid_aa2cc9aa970f4d21af100d308431bd44|2|km_ganguli_translation_1.csv
@@ -3263,7 +3253,7 @@ Hastinapura|LOC|cid_f5edead4c28d4aeea374dd8ab13bbbcf|2|km_ganguli_translation_1.
 Hastinapura|LOC|cid_fcd0d01425764a6f90bedb39899c0451|1|km_ganguli_translation_1.csv
 Havihsravas, Indrabha|PER|cid_c9d65354efa840e5aa42e4c595e77c80|1|km_ganguli_translation_1.csv
 Havyavaha|MISC|cid_20bd83a972304ca9a91bf356cc2687a2|1|km_ganguli_translation_1.csv
-Havyavahana (Agni)|PER|cid_07d4ef8d801a4c6fa292f4aedcf66624|1|km_ganguli_translation_1.csv
+Havyavahana Agni|PER|cid_07d4ef8d801a4c6fa292f4aedcf66624|1|km_ganguli_translation_1.csv
 Hayagriva|PER|cid_93a8d7fc270944008cb23bd1d143409c|1|km_ganguli_translation_1.csv
 Heaven|LOC|cid_099f736c029340bda348399e5ab57bf8|1|km_ganguli_translation_1.csv
 Heaven|LOC|cid_6a9a8cd31c4b4087a86324b72700dbf8|1|km_ganguli_translation_1.csv
@@ -3329,7 +3319,7 @@ Hridika, Prithu, Viprithu, Viduratha, Kanka, Sanku|PER|cid_4b70390961464dd580703
 Hrishikesa|PER|cid_4da94550309e42f681ffb09f23a56c0a|1|km_ganguli_translation_1.csv
 Hrishikesa|PER|cid_68f89ede77ae4085aba0277d809e4ed2|1|km_ganguli_translation_1.csv
 Huhu|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
-Huhu,|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
+Huhu|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Hunas|MISC|cid_603aa6574b8a4e35b67baaf9b5497607|1|km_ganguli_translation_1.csv
 Huta-havya|PER|cid_591bc41a6d084817b8438ea28524e530|1|km_ganguli_translation_1.csv
 Hutasana|PER|cid_05224cdccd334cb381af7583dccfdfae|1|km_ganguli_translation_1.csv
@@ -3486,7 +3476,7 @@ Indra|PER|cid_fa65fc0e5d434066baa49081d0f234b1|2|km_ganguli_translation_1.csv
 Indra|PER|cid_fa800b8a0cf542b0b4511ede55d11b8f|1|km_ganguli_translation_1.csv
 Indra|PER|cid_fa8eb645498b41beb5003ef39b761f99|1|km_ganguli_translation_1.csv
 Indra|PER|cid_fff290778510441da99d45da047a25cc|1|km_ganguli_translation_1.csv
-Indra, Agni,|PER|cid_34a8aa2902e74118924de733e1537ded|1|km_ganguli_translation_1.csv
+Indra, Agni|PER|cid_34a8aa2902e74118924de733e1537ded|1|km_ganguli_translation_1.csv
 Indra, Kuvera, Yama|PER|cid_cd51f7a726d7444b8e3edaa5ad519552|1|km_ganguli_translation_1.csv
 Indra-lokavigamana|MISC|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
 Indradyumna|LOC|cid_07e60d72fbd74bbd8f4cdd162ebe48be|1|km_ganguli_translation_1.csv
@@ -3533,7 +3523,7 @@ Jamadagni|PER|cid_85db3fd02f284a218e27fcf607e6deef|1|km_ganguli_translation_1.cs
 Jamadagni|PER|cid_9f5cd8e0dd2b4d788c0ab473941e6b13|3|km_ganguli_translation_1.csv
 Jamadagni|PER|cid_eb3b507731904584a33ffb4486d428d5|1|km_ganguli_translation_1.csv
 Jamadagni|PER|cid_f1dfe2a583594556889f4b79c3d29002|1|km_ganguli_translation_1.csv
-Jamadagni (Parasurama|PER|cid_f6d4a20d83da4c5e85a449c539556117|1|km_ganguli_translation_1.csv
+Jamadagni Parasurama|PER|cid_f6d4a20d83da4c5e85a449c539556117|1|km_ganguli_translation_1.csv
 Jamadagnya|PER|cid_1f4f0fd9737241a6a42d6fab3d611c19|1|km_ganguli_translation_1.csv
 Jamadagnya|PER|cid_58c15396701042faa37e9cfe577289ef|1|km_ganguli_translation_1.csv
 Jamadagnya|PER|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
@@ -3621,7 +3611,7 @@ Janardana|PER|cid_4da94550309e42f681ffb09f23a56c0a|2|km_ganguli_translation_1.cs
 Janardana|PER|cid_af6a64aaefd747adb039dd8117760e6a|1|km_ganguli_translation_1.csv
 Janardana|PER|cid_c26b3cc0d7cc449b92586a12e3d503a4|1|km_ganguli_translation_1.csv
 Janardana|PER|cid_c7adee6aecfd423f87e3d470f3cbcd52|2|km_ganguli_translation_1.csv
-Janardana (Krishna)|PER|cid_63ce77bd69b9436d99b34e9ed9aed307|1|km_ganguli_translation_1.csv
+Janardana Krishna|PER|cid_63ce77bd69b9436d99b34e9ed9aed307|1|km_ganguli_translation_1.csv
 Jantu|PER|cid_34a8aa2902e74118924de733e1537ded|2|km_ganguli_translation_1.csv
 Janujangha, Anaranya, Arka, Priyabhritya, Chuchi-vrata, Balabandhu, Nirmardda, Ketusringa|PER|cid_eec74d52a8b5472b8d739fb12a19030a|1|km_ganguli_translation_1.csv
 Japa|MISC|cid_7ab3bf2bb8224f7ab84bf74aa580fa9c|1|km_ganguli_translation_1.csv
@@ -3698,7 +3688,7 @@ Jishnu|PER|cid_c723584e730146129e4b15357edb0ea1|1|km_ganguli_translation_1.csv
 Jishnu|PER|cid_c7adee6aecfd423f87e3d470f3cbcd52|1|km_ganguli_translation_1.csv
 Jishnu|PER|cid_c985c89a5cbf4bc9a5cd5035ac06fc44|1|km_ganguli_translation_1.csv
 Jishnu|PER|cid_d5e15500c2c744338191f40ef3de1743|1|km_ganguli_translation_1.csv
-Jishnu (Arjuna)|PER|cid_5e0170cc3118467089c8ad743c5302c9|1|km_ganguli_translation_1.csv
+Jishnu Arjuna|PER|cid_5e0170cc3118467089c8ad743c5302c9|1|km_ganguli_translation_1.csv
 Jitari|PER|cid_c280b629e1e94405870568064ca1a578|1|km_ganguli_translation_1.csv
 Jitavati|PER|cid_c89be00f29624b4f9abd22a374cdcf8a|1|km_ganguli_translation_1.csv
 Joy|MISC|cid_aa2cc9aa970f4d21af100d308431bd44|1|km_ganguli_translation_1.csv
@@ -3744,7 +3734,7 @@ Kadru|PER|cid_d0c9912c0a21494385830e0c6cef7afa|2|km_ganguli_translation_1.csv
 Kadru|PER|cid_e77d7466f7854140a9fb51779c110a8d|2|km_ganguli_translation_1.csv
 Kadru|PER|cid_ea9a16700c764d23bc1ac68c6e26e8c9|1|km_ganguli_translation_1.csv
 Kadru|PER|cid_fa619240587d4de2b0143e11780064a7|2|km_ganguli_translation_1.csv
-Kadru (Nagas|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
+Kadru Nagas|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
 Kailasa|LOC|cid_34a8aa2902e74118924de733e1537ded|1|km_ganguli_translation_1.csv
 Kailasa|LOC|cid_6e4d9792bf5e47c3ae5063f440be083d|1|km_ganguli_translation_1.csv
 Kailasa|LOC|cid_7ddd55105d024989ba5eea25229da39d|1|km_ganguli_translation_1.csv
@@ -3769,7 +3759,7 @@ Kaleyas|MISC|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.csv
 Kaleyas|MISC|cid_674a6002570347efb59e623010fb41e9|1|km_ganguli_translation_1.csv
 Kali|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Kali|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
-Kali (Satyavati)|PER|cid_0f9a8082d8e24e8780fd53b699cf1e5c|1|km_ganguli_translation_1.csv
+Kali Satyavati|PER|cid_0f9a8082d8e24e8780fd53b699cf1e5c|1|km_ganguli_translation_1.csv
 Kalinga|LOC|cid_1cfa8258d2bd4e799550ca3986fd819d|1|km_ganguli_translation_1.csv
 Kalinga|LOC|cid_d2cf9b95af7d4a3892040acc6a74e2b2|2|km_ganguli_translation_1.csv
 Kalinga|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
@@ -3908,7 +3898,7 @@ Kasi|MISC|cid_d1dfff6e42994aa38219b47d923f9604|1|km_ganguli_translation_1.csv
 Kasi|PER|cid_9034c9f6d405496fb15d3c06eab05ef7|1|km_ganguli_translation_1.csv
 Kasi|PER|cid_a34691f1309d4bb6829b0b08a05285bf|1|km_ganguli_translation_1.csv
 Kasi|PER|cid_df92bbceb272458181041099238e5af3|1|km_ganguli_translation_1.csv
-Kasi, Sumbha,|PER|cid_5dc1c304c54241d9b88588b317e2640e|1|km_ganguli_translation_1.csv
+Kasi, Sumbha|PER|cid_5dc1c304c54241d9b88588b317e2640e|1|km_ganguli_translation_1.csv
 Kasiraja|PER|cid_674a6002570347efb59e623010fb41e9|1|km_ganguli_translation_1.csv
 Kasya|PER|cid_040628835b1749aa8c99e32664001efd|1|km_ganguli_translation_1.csv
 Kasyapa|MISC|cid_2c9138e0e88d4573b94f12bbd3909c0d|1|km_ganguli_translation_1.csv
@@ -4094,7 +4084,7 @@ Kinnaras|PER|cid_2174aee5baa54b74b1babaf24324267b|1|km_ganguli_translation_1.csv
 Kiratas, Yavanas|MISC|cid_603aa6574b8a4e35b67baaf9b5497607|1|km_ganguli_translation_1.csv
 Kiriti|PER|cid_3bc1381274a247c5bf31408587fa8bf8|1|km_ganguli_translation_1.csv
 Kiriti|PER|cid_4e17b5b15dd943c890cd680b0259ea79|1|km_ganguli_translation_1.csv
-Kiriti (Arjuna|PER|cid_06c573f2b6d74991a6abc0bb7ef44e05|1|km_ganguli_translation_1.csv
+Kiriti Arjuna|PER|cid_06c573f2b6d74991a6abc0bb7ef44e05|1|km_ganguli_translation_1.csv
 Kirmira|PER|cid_d25c96e0fb9f435fa4176295f0de3f4f|1|km_ganguli_translation_1.csv
 Kirti, Lakshmi, Dhriti, Medha, Pushti, Sraddha, Kria, Buddhi, Lajja|PER|cid_591bc41a6d084817b8438ea28524e530|1|km_ganguli_translation_1.csv
 Kisari Mohan Ganguli|PER|cid_cbd21b5b589e40199ca93597935e0ba7|1|km_ganguli_translation_1.csv
@@ -4123,7 +4113,7 @@ Kratu|PER|cid_7056dc39095b43009f4ec738343c5682|2|km_ganguli_translation_1.csv
 Kratu|PER|cid_7f77f01198ff41ce83777007d0a17f2a|1|km_ganguli_translation_1.csv
 Kratu|PER|cid_ddad258f680c4716aa109d7f4de098ae|1|km_ganguli_translation_1.csv
 Krimira|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
-Krimira-|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
+Krimira|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
 Kripa|PER|cid_342c99b1986248449c6c9e400aa60136|4|km_ganguli_translation_1.csv
 Kripa|PER|cid_38101979210a49ebb0cea20d39484676|1|km_ganguli_translation_1.csv
 Kripa|PER|cid_4a7a864fcaf84b5da25c5240be45b421|1|km_ganguli_translation_1.csv
@@ -4246,15 +4236,15 @@ Krishna|PER|cid_e5762ced689241aba1b50c116c40a4e3|2|km_ganguli_translation_1.csv
 Krishna|PER|cid_ebad48cafacb4e05b1aa9a187d88b0bb|1|km_ganguli_translation_1.csv
 Krishna|PER|cid_ec832a6169cb4e8cb324e951eb97b795|6|km_ganguli_translation_1.csv
 Krishna|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|1|km_ganguli_translation_1.csv
-Krishna (Draupadi)|PER|cid_cacb565c2f32489795df2c45b6ed1d1a|1|km_ganguli_translation_1.csv
-Krishna (Draupadi)|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|1|km_ganguli_translation_1.csv
-Krishna (Dwaipayana|PER|cid_7ed56331fd03433189381ad1dde3a5e3|1|km_ganguli_translation_1.csv
-Krishna (Dwaipayana|PER|cid_d5bb7aa20367474e83a419c45498e048|1|km_ganguli_translation_1.csv
-Krishna (Dwaipayana)|PER|cid_37aaea9df87a4b91ad36d43b7d8c334f|1|km_ganguli_translation_1.csv
-Krishna (Dwaipayana)|PER|cid_7ed56331fd03433189381ad1dde3a5e3|1|km_ganguli_translation_1.csv
+Krishna Draupadi|PER|cid_cacb565c2f32489795df2c45b6ed1d1a|1|km_ganguli_translation_1.csv
+Krishna Draupadi|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|1|km_ganguli_translation_1.csv
+Krishna Dwaipayana|PER|cid_7ed56331fd03433189381ad1dde3a5e3|1|km_ganguli_translation_1.csv
+Krishna Dwaipayana|PER|cid_d5bb7aa20367474e83a419c45498e048|1|km_ganguli_translation_1.csv
+Krishna Dwaipayana|PER|cid_37aaea9df87a4b91ad36d43b7d8c334f|1|km_ganguli_translation_1.csv
+Krishna Dwaipayana|PER|cid_7ed56331fd03433189381ad1dde3a5e3|1|km_ganguli_translation_1.csv
 Krishna Dwaipayana|PER|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Krishna Kamal Bhattacharya|PER|cid_37d7563e2f714232ae5d2a4047940079|1|km_ganguli_translation_1.csv
-Krishna)|PER|cid_3886b1c3843543a197bf4c1e6bde295f|1|km_ganguli_translation_1.csv
+Krishna|PER|cid_3886b1c3843543a197bf4c1e6bde295f|1|km_ganguli_translation_1.csv
 Krishna, Brahma|PER|cid_2d641a745c6f4771ab72f56f2b77227e|1|km_ganguli_translation_1.csv
 Krishna-Dwaipayana|PER|cid_11f5ae05b46f4dd7a76a3abc6eeb78eb|1|km_ganguli_translation_1.csv
 Krishna-Dwaipayana|PER|cid_15343cdb1fa44c2c9343917b7066cc33|1|km_ganguli_translation_1.csv
@@ -4294,7 +4284,7 @@ Krodhavasa|PER|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.c
 Krura|PER|cid_8bce3a58e56b4a49bfc34285dc01a396|1|km_ganguli_translation_1.csv
 Kshat|PER|cid_24e521d508684d9bbc77a8c21f1b3bb3|1|km_ganguli_translation_1.csv
 Kshatri|PER|cid_a81baf455bad4fa98990caed0b7bcfab|1|km_ganguli_translation_1.csv
-Kshatri (Vidura|PER|cid_9439cd6184e14fb795af5cf305d4cc95|1|km_ganguli_translation_1.csv
+Kshatri Vidura|PER|cid_9439cd6184e14fb795af5cf305d4cc95|1|km_ganguli_translation_1.csv
 Kshatriya|LOC|cid_74096f5939e74ce2809381cefb595ddb|1|km_ganguli_translation_1.csv
 Kshatriya|MISC|cid_1f4f0fd9737241a6a42d6fab3d611c19|4|km_ganguli_translation_1.csv
 Kshatriya|MISC|cid_324c6a1d17f04c009f5507e9d4ae493b|1|km_ganguli_translation_1.csv
@@ -4376,8 +4366,8 @@ Kshattri|PER|cid_8786a05164214e7d8ace636480e1e77d|1|km_ganguli_translation_1.csv
 Kshattri|PER|cid_9710b0ad0c134ddb9e3af803285e8245|1|km_ganguli_translation_1.csv
 Kshattri|PER|cid_c95b225da62f4f07a648e04d247082cb|1|km_ganguli_translation_1.csv
 Kshattri|PER|cid_ed944f8bfdcc49d5b2efa00acbe41574|1|km_ganguli_translation_1.csv
-Kshattri (Vidura|PER|cid_6b210ba34c0e49479dfec5d24c8bec00|1|km_ganguli_translation_1.csv
-Kshattri (Vidura)|PER|cid_9685572e73bf4583992d0173a6e90eeb|1|km_ganguli_translation_1.csv
+Kshattri Vidura|PER|cid_6b210ba34c0e49479dfec5d24c8bec00|1|km_ganguli_translation_1.csv
+Kshattri Vidura|PER|cid_9685572e73bf4583992d0173a6e90eeb|1|km_ganguli_translation_1.csv
 Kshema, Ugratirtha|PER|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.csv
 Kshemamurti|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
 Kshura, Naracha, Vala|MISC|cid_83319b3b789c48b38e7d98b584bf1265|1|km_ganguli_translation_1.csv
@@ -4525,7 +4515,7 @@ Kunti|PER|cid_f26a58bd5c3c4fc79ee5eb6845766ac5|1|km_ganguli_translation_1.csv
 Kunti|PER|cid_f5edead4c28d4aeea374dd8ab13bbbcf|2|km_ganguli_translation_1.csv
 Kunti|PER|cid_f8d3a8492ae94dae90fb320faea85af5|1|km_ganguli_translation_1.csv
 Kunti|PER|cid_fb2dcda108374809ae93c6ade2477721|1|km_ganguli_translation_1.csv
-Kunti)|PER|cid_57489234ee8f4a02b3f0389f830c8e91|1|km_ganguli_translation_1.csv
+Kunti|PER|cid_57489234ee8f4a02b3f0389f830c8e91|1|km_ganguli_translation_1.csv
 Kuntibhoja|PER|cid_1b47e9b9e7924a009b0be2742d9b9b0b|5|km_ganguli_translation_1.csv
 Kuntibhoja|PER|cid_371074483a574ba08c742cbc5f0e03e0|1|km_ganguli_translation_1.csv
 Kuntibhoja|PER|cid_57df9a426a2a4def8c9bd9ff4fff95f1|1|km_ganguli_translation_1.csv
@@ -4617,7 +4607,7 @@ Kuru-jangala|MISC|cid_c280b629e1e94405870568064ca1a578|1|km_ganguli_translation_
 Kurujangala|LOC|cid_3f47c58f0e5742f7af260792c5a873db|1|km_ganguli_translation_1.csv
 Kurujangala|LOC|cid_87939deaa9bf4ef8a0ea9443ce1746d9|1|km_ganguli_translation_1.csv
 Kurujangala|PER|cid_9034c9f6d405496fb15d3c06eab05ef7|1|km_ganguli_translation_1.csv
-Kurujangala, Kurukshetra,|PER|cid_2fbcd2ac517e4ca0a2889dd6644f6b98|1|km_ganguli_translation_1.csv
+Kurujangala, Kurukshetra|PER|cid_2fbcd2ac517e4ca0a2889dd6644f6b98|1|km_ganguli_translation_1.csv
 Kurukshetra|LOC|cid_4b5a701c92524de7b51b3395a49d7dd6|1|km_ganguli_translation_1.csv
 Kurukshetra|LOC|cid_4f6adb27e7d445e98507ec7e83f56583|1|km_ganguli_translation_1.csv
 Kurukshetra|LOC|cid_c723584e730146129e4b15357edb0ea1|1|km_ganguli_translation_1.csv
@@ -4673,7 +4663,7 @@ Kuvera|PER|cid_a17b116640bc49ef833c77219a829fae|2|km_ganguli_translation_1.csv
 Kuvera|PER|cid_a528badf2dac45a0960760aa63591a4b|1|km_ganguli_translation_1.csv
 Kuvera|PER|cid_c26b3cc0d7cc449b92586a12e3d503a4|1|km_ganguli_translation_1.csv
 Kuvera|PER|cid_cc1372a586054ee2baff3b847b5825a9|1|km_ganguli_translation_1.csv
-Kuvera)|PER|cid_1ab5c652cec5465a814795ee296d88a0|1|km_ganguli_translation_1.csv
+Kuvera|PER|cid_1ab5c652cec5465a814795ee296d88a0|1|km_ganguli_translation_1.csv
 Lakshmi|PER|cid_4d20102b16624154bdc2d8c078e0175f|2|km_ganguli_translation_1.csv
 Lakshmi|PER|cid_6dec93d6a1a2447ba24a6b6d255bab7a|1|km_ganguli_translation_1.csv
 Lakshmi|PER|cid_b42f7b77355843e9ba2d5694b9f50bf8|2|km_ganguli_translation_1.csv
@@ -4828,7 +4818,7 @@ Mahanjas|PER|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.csv
 Mahaprasthana|MISC|cid_dd0aa46153ee4c82a77a5694e40b660c|1|km_ganguli_translation_1.csv
 Mahaprasthanika|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Mahaprasthanika|MISC|cid_dd0aa46153ee4c82a77a5694e40b660c|2|km_ganguli_translation_1.csv
-Mahapurana-|PER|cid_eec74d52a8b5472b8d739fb12a19030a|1|km_ganguli_translation_1.csv
+Mahapurana|PER|cid_eec74d52a8b5472b8d739fb12a19030a|1|km_ganguli_translation_1.csv
 Maharatha|PER|cid_46d66e45eabd488482b5460ccb0870aa|1|km_ganguli_translation_1.csv
 Maharatha|PER|cid_8764e316779b4faf9a06e79a54e43b1e|1|km_ganguli_translation_1.csv
 Maharatha Sansaptakas|MISC|cid_ad3afbeedcca4390b6eb7db24f9d7b48|1|km_ganguli_translation_1.csv
@@ -4845,7 +4835,7 @@ Mahesh Chandra Nayaratna|PER|cid_e51fef34d47448b893b7644228515dbf|1|km_ganguli_t
 Maheswara|PER|cid_6dec93d6a1a2447ba24a6b6d255bab7a|1|km_ganguli_translation_1.csv
 Maheswara|PER|cid_a60dfc3c8c674ef7b20a2cdba8c19887|1|km_ganguli_translation_1.csv
 Mahodara|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
-Mahodara.|PER|cid_6eecc8d548b845bfb707bfd710d582b9|1|km_ganguli_translation_1.csv
+Mahodara|PER|cid_6eecc8d548b845bfb707bfd710d582b9|1|km_ganguli_translation_1.csv
 Mahya|PER|cid_9da0638ca40b4987ab6be62a284fe8ff|1|km_ganguli_translation_1.csv
 Maitreya|PER|cid_d25c96e0fb9f435fa4176295f0de3f4f|1|km_ganguli_translation_1.csv
 Makandi|LOC|cid_757ba519ed854b38a08817eb3aa09072|1|km_ganguli_translation_1.csv
@@ -4913,7 +4903,7 @@ Marichi|PER|cid_5aa790304f134f639946d839025d4f91|1|km_ganguli_translation_1.csv
 Marichi|PER|cid_6bd52354f4f3401699018ba5dade1c14|1|km_ganguli_translation_1.csv
 Marichi|PER|cid_7f77f01198ff41ce83777007d0a17f2a|1|km_ganguli_translation_1.csv
 Marichi, Angiras, Pulastya, Pulaha, Kratu, Daksha|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
-Marichi, Angiras. Atri, Pulastya, Pulaha,|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
+Marichi, Angiras. Atri, Pulastya, Pulaha|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
 Marichi, Atri, Angiras, Pulastya, Pulaha|PER|cid_7f77f01198ff41ce83777007d0a17f2a|1|km_ganguli_translation_1.csv
 Marichipas|MISC|cid_0953b0de50a74912af15571e99f5a35a|1|km_ganguli_translation_1.csv
 Markandeya|PER|cid_44bc5c7dadd949f395328e156b4794d3|2|km_ganguli_translation_1.csv
@@ -4941,7 +4931,7 @@ Master|MISC|cid_4aef447047564081a10a18c29735834e|1|km_ganguli_translation_1.csv
 Master of creation|MISC|cid_4f30cd29f3c84b548053a54de770cbf1|1|km_ganguli_translation_1.csv
 Matali|PER|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
 Matanga|PER|cid_030ccd440ea74e39ab65f869eff2b080|1|km_ganguli_translation_1.csv
-Matanga (Trisanku)|PER|cid_030ccd440ea74e39ab65f869eff2b080|1|km_ganguli_translation_1.csv
+Matanga Trisanku|PER|cid_030ccd440ea74e39ab65f869eff2b080|1|km_ganguli_translation_1.csv
 Matangi|PER|cid_854364f77ffb4794a0ccc4b5fea37c70|1|km_ganguli_translation_1.csv
 Mathura|LOC|cid_4da94550309e42f681ffb09f23a56c0a|1|km_ganguli_translation_1.csv
 Mati|PER|cid_5399688eee664bff849c34f05493a538|1|km_ganguli_translation_1.csv
@@ -5019,7 +5009,7 @@ Moon|MISC|cid_9ffa4cb6284e425bb89803b2ff9a8568|1|km_ganguli_translation_1.csv
 Moon|MISC|cid_a9c56c76a3c845e8bcd0cd11bcbbb8b2|1|km_ganguli_translation_1.csv
 Moon|MISC|cid_b30046d1aea24ffdb3250a2703c2dd5f|1|km_ganguli_translation_1.csv
 Moon|MISC|cid_cb0d914e3c96499d9423e5df4f9419d6|1|km_ganguli_translation_1.csv
-Mr.|MISC|cid_3ec1507ad1e1456bb987aa039ab51922|1|km_ganguli_translation_1.csv
+Mr|MISC|cid_3ec1507ad1e1456bb987aa039ab51922|1|km_ganguli_translation_1.csv
 Mrigamanda|PER|cid_b42f7b77355843e9ba2d5694b9f50bf8|1|km_ganguli_translation_1.csv
 Mrigamanda, Hari, Bhadramana, Matangi, Sarduli, Sweta, Surabhi|PER|cid_b42f7b77355843e9ba2d5694b9f50bf8|1|km_ganguli_translation_1.csv
 Mrigavayadha, Sarpa, Niriti|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
@@ -5151,7 +5141,7 @@ Nahusha|PER|cid_e24259e280fb4ea3939f65622484b19e|1|km_ganguli_translation_1.csv
 Nahusha|PER|cid_ec19d2155912458a99fbd53279020192|1|km_ganguli_translation_1.csv
 Nahusha|PER|cid_f3f0e2b1e85945aab8ebfcec44d29428|1|km_ganguli_translation_1.csv
 Nahusha|PER|cid_fa800b8a0cf542b0b4511ede55d11b8f|1|km_ganguli_translation_1.csv
-Nahusha, Vriddhasarman, Rajingaya,|PER|cid_a58e9a6ecdb5481187bdd2c580617e83|1|km_ganguli_translation_1.csv
+Nahusha, Vriddhasarman, Rajingaya|PER|cid_a58e9a6ecdb5481187bdd2c580617e83|1|km_ganguli_translation_1.csv
 Naimisha|LOC|cid_3e805a77e53944c5a474c3adf4b401bf|1|km_ganguli_translation_1.csv
 Naimisha|LOC|cid_4f30cd29f3c84b548053a54de770cbf1|1|km_ganguli_translation_1.csv
 Naimisha|LOC|cid_57a279c7e0544619a85e8359553da8c5|2|km_ganguli_translation_1.csv
@@ -5451,7 +5441,7 @@ O Janamejaya|PER|cid_cf984dc59ab84c4c907adc8aabb286b9|1|km_ganguli_translation_1
 O Janamejaya|PER|cid_e1824a29d2534348ae56b836e07a787c|1|km_ganguli_translation_1.csv
 O Janamejaya|PER|cid_ec832a6169cb4e8cb324e951eb97b795|1|km_ganguli_translation_1.csv
 O Janamejaya|PER|cid_fb0d1aacfd184ec9acd59b6a4b72acf3|1|km_ganguli_translation_1.csv
-O Janamejaya,|PER|cid_cacb565c2f32489795df2c45b6ed1d1a|1|km_ganguli_translation_1.csv
+O Janamejaya|PER|cid_cacb565c2f32489795df2c45b6ed1d1a|1|km_ganguli_translation_1.csv
 O Karna|MISC|cid_9d43ca5ab332459fac63105c3e129665|1|km_ganguli_translation_1.csv
 O Karna|MISC|cid_b451bf7b09254f55970b517b0168d63a|1|km_ganguli_translation_1.csv
 O Kaurava|MISC|cid_7cc9ecd9923741eba01eebd7f5cf28c4|1|km_ganguli_translation_1.csv
@@ -5487,7 +5477,7 @@ O best of Brahmanas|MISC|cid_0d6b1db6107949d494c7b81635211daf|1|km_ganguli_trans
 O best of Brahmanas|MISC|cid_2f82a0439cc244ec921ac0c28ce95e95|1|km_ganguli_translation_1.csv
 O best of Brahmanas|MISC|cid_4de0f4dc558e4e698e420f1f166cdbfc|1|km_ganguli_translation_1.csv
 O best of Brahmanas|MISC|cid_d25c96e0fb9f435fa4176295f0de3f4f|1|km_ganguli_translation_1.csv
-O best of Brahmanas,|MISC|cid_ad7d859980ff41f7afa0ad2d59d99891|1|km_ganguli_translation_1.csv
+O best of Brahmanas|MISC|cid_ad7d859980ff41f7afa0ad2d59d99891|1|km_ganguli_translation_1.csv
 O best of celestials|MISC|cid_554a3695b374425a9eea0b5b49e78907|1|km_ganguli_translation_1.csv
 O best of monarchs|MISC|cid_364a8b22ecc34d3db3798ed74df283e8|1|km_ganguli_translation_1.csv
 O best of monarchs|MISC|cid_a5a60af575df46ccbf4cf4ae52c8d30b|1|km_ganguli_translation_1.csv
@@ -5584,13 +5574,13 @@ O king|MISC|cid_f6d4a20d83da4c5e85a449c539556117|1|km_ganguli_translation_1.csv
 O king|MISC|cid_fe5999f56f1f47758832a36a3b2611b4|1|km_ganguli_translation_1.csv
 O king of kings|MISC|cid_7cbe8ea150d946fb8a3d8d400c156674|1|km_ganguli_translation_1.csv
 O king of the Panchalas|MISC|cid_9301b08c337c4cb19c9a7962dd779aa9|1|km_ganguli_translation_1.csv
-O king,|MISC|cid_65394ddb9e874464a9dcd0b8631e205d|1|km_ganguli_translation_1.csv
-O king,|MISC|cid_c9d65354efa840e5aa42e4c595e77c80|1|km_ganguli_translation_1.csv
+O king|MISC|cid_65394ddb9e874464a9dcd0b8631e205d|1|km_ganguli_translation_1.csv
+O king|MISC|cid_c9d65354efa840e5aa42e4c595e77c80|1|km_ganguli_translation_1.csv
 O lord|MISC|cid_18d30919a91c459cbb50962ede0cec0b|1|km_ganguli_translation_1.csv
 O lord|MISC|cid_95119901d79f4b388a5ec1ace55252a6|1|km_ganguli_translation_1.csv
 O lord of men|MISC|cid_0c6568a68571445ea65b8b583aee5c25|1|km_ganguli_translation_1.csv
 O mighty one|MISC|cid_a17b116640bc49ef833c77219a829fae|1|km_ganguli_translation_1.csv
-O mighty-|MISC|cid_a17b116640bc49ef833c77219a829fae|1|km_ganguli_translation_1.csv
+O mighty|MISC|cid_a17b116640bc49ef833c77219a829fae|1|km_ganguli_translation_1.csv
 O monarch|MISC|cid_00f959b4b8414086a572ecad69433614|1|km_ganguli_translation_1.csv
 O monarch|MISC|cid_0558f19c46754a1985aeaaadb034ba05|1|km_ganguli_translation_1.csv
 O monarch|MISC|cid_196383f44680406b93649bb1ae47e538|1|km_ganguli_translation_1.csv
@@ -5687,11 +5677,11 @@ Padmaja|PER|cid_93a8d7fc270944008cb23bd1d143409c|1|km_ganguli_translation_1.csv
 Padmanabha|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
 Paisacha|MISC|cid_da2ea26bbe5a44d59543345dbc9e735d|2|km_ganguli_translation_1.csv
 Paka|PER|cid_5c2fabc38cd449c3aa11e9c7e904dd07|2|km_ganguli_translation_1.csv
-Paka (Indra|PER|cid_cb0d914e3c96499d9423e5df4f9419d6|1|km_ganguli_translation_1.csv
+Paka Indra|PER|cid_cb0d914e3c96499d9423e5df4f9419d6|1|km_ganguli_translation_1.csv
 Paksha|MISC|cid_5aa790304f134f639946d839025d4f91|1|km_ganguli_translation_1.csv
 Pakshas|MISC|cid_4a81c4cc4ff4416593ddf76851e2ce39|1|km_ganguli_translation_1.csv
 Pakshas, Kulas|MISC|cid_5aa790304f134f639946d839025d4f91|1|km_ganguli_translation_1.csv
-Palasa (Butea frondosa)|MISC|cid_c94c5f622c7045d6ad5ce5af736a8a6d|1|km_ganguli_translation_1.csv
+Palasa Butea frondosa|MISC|cid_c94c5f622c7045d6ad5ce5af736a8a6d|1|km_ganguli_translation_1.csv
 Palasas|MISC|cid_30eb6b4bddea4f93a50885e6c816e506|1|km_ganguli_translation_1.csv
 Palhavas|MISC|cid_603aa6574b8a4e35b67baaf9b5497607|1|km_ganguli_translation_1.csv
 Panasas|MISC|cid_1ab5c652cec5465a814795ee296d88a0|1|km_ganguli_translation_1.csv
@@ -6052,7 +6042,7 @@ Pandu|PER|cid_f490b036c3ac4661ad906aa3510ec28c|2|km_ganguli_translation_1.csv
 Pandu|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|1|km_ganguli_translation_1.csv
 Pandu|PER|cid_fb2dcda108374809ae93c6ade2477721|1|km_ganguli_translation_1.csv
 Pandu|PER|cid_fe5999f56f1f47758832a36a3b2611b4|1|km_ganguli_translation_1.csv
-Pandu (Yudhishthira|PER|cid_6b210ba34c0e49479dfec5d24c8bec00|1|km_ganguli_translation_1.csv
+Pandu Yudhishthira|PER|cid_6b210ba34c0e49479dfec5d24c8bec00|1|km_ganguli_translation_1.csv
 Pandya|PER|cid_674a6002570347efb59e623010fb41e9|1|km_ganguli_translation_1.csv
 Pandya|PER|cid_8640da9670af4cbb8ee1ed40fda89b6f|1|km_ganguli_translation_1.csv
 Par|MISC|cid_dd0aa46153ee4c82a77a5694e40b660c|2|km_ganguli_translation_1.csv
@@ -6095,8 +6085,8 @@ Parikshit|PER|cid_cbdf7674dcf04ec5836cc086f3fbfc27|3|km_ganguli_translation_1.cs
 Parikshit|PER|cid_d5bb7aa20367474e83a419c45498e048|6|km_ganguli_translation_1.csv
 Parikshit|PER|cid_e3e8115112234cb89510e1e6b88ee52b|1|km_ganguli_translation_1.csv
 Parikshit|PER|cid_e48f2e5980994a4ab17bf9de6d772551|1|km_ganguli_translation_1.csv
-Parikshit,|PER|cid_7662e0ed8f3e49668da497d74cbed886|1|km_ganguli_translation_1.csv
-Parikshit,|PER|cid_cbdf7674dcf04ec5836cc086f3fbfc27|1|km_ganguli_translation_1.csv
+Parikshit|PER|cid_7662e0ed8f3e49668da497d74cbed886|1|km_ganguli_translation_1.csv
+Parikshit|PER|cid_cbdf7674dcf04ec5836cc086f3fbfc27|1|km_ganguli_translation_1.csv
 Parikshita|PER|cid_0a90ba308d63491486fd578be72935ab|1|km_ganguli_translation_1.csv
 Paris|LOC|cid_e51fef34d47448b893b7644228515dbf|1|km_ganguli_translation_1.csv
 Parjanya|MISC|cid_78662cd5523b4612a4927d3f4cdf228c|1|km_ganguli_translation_1.csv
@@ -6104,7 +6094,7 @@ Parjanya|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Parjanya|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
 Parjanya|PER|cid_65394ddb9e874464a9dcd0b8631e205d|1|km_ganguli_translation_1.csv
 Parjanya|PER|cid_bac3cc88f48c4798ab1286418e3fef22|1|km_ganguli_translation_1.csv
-Parjanya (Indra)|PER|cid_f66f60e1c348477fa399032a9c0872d0|1|km_ganguli_translation_1.csv
+Parjanya Indra|PER|cid_f66f60e1c348477fa399032a9c0872d0|1|km_ganguli_translation_1.csv
 Part|MISC|cid_af6a64aaefd747adb039dd8117760e6a|1|km_ganguli_translation_1.csv
 Part|PER|cid_555d94f59bea40499ed71071fc5a3ea9|1|km_ganguli_translation_1.csv
 Part|PER|cid_c6c0843a1b244f30aec84d17741fd321|1|km_ganguli_translation_1.csv
@@ -6145,8 +6135,8 @@ Partha|PER|cid_e2ad71395acd4fde9db6cf9eeea00f37|1|km_ganguli_translation_1.csv
 Partha|PER|cid_e6a8871747864dadb60888c1c477d4ac|1|km_ganguli_translation_1.csv
 Partha|PER|cid_edf2ffa9c0d044c6ae03b35bb7504464|1|km_ganguli_translation_1.csv
 Partha|PER|cid_fff290778510441da99d45da047a25cc|1|km_ganguli_translation_1.csv
-Partha (Arjuna|PER|cid_c58d01343f604c9f9005d0e405a580dd|1|km_ganguli_translation_1.csv
-Partha (Arjuna)|PER|cid_2864d5f543754cc08b00f614d70ab3a0|1|km_ganguli_translation_1.csv
+Partha Arjuna|PER|cid_c58d01343f604c9f9005d0e405a580dd|1|km_ganguli_translation_1.csv
+Partha Arjuna|PER|cid_2864d5f543754cc08b00f614d70ab3a0|1|km_ganguli_translation_1.csv
 Parva|MISC|cid_14b77cd11dcb4bb4919b504482232c5a|1|km_ganguli_translation_1.csv
 Parva|MISC|cid_1e94a04ebaae4d8ca5f4501086b31fc9|2|km_ganguli_translation_1.csv
 Parva|MISC|cid_324c6a1d17f04c009f5507e9d4ae493b|2|km_ganguli_translation_1.csv
@@ -6222,7 +6212,7 @@ Paushya|PER|cid_ceb3ce881ba64df1acfcf23ccc362851|1|km_ganguli_translation_1.csv
 Paushya|PER|cid_f3aef0467598484392d2a33b821a284f|1|km_ganguli_translation_1.csv
 Paushya of the Adi Parva of the|MISC|cid_f3dc30f15bc5405e8334528b1df51db2|1|km_ganguli_translation_1.csv
 Paushya parva|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
-Paushya,|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
+Paushya|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Pavaka|PER|cid_05224cdccd334cb381af7583dccfdfae|2|km_ganguli_translation_1.csv
 Pavaka|PER|cid_68f89ede77ae4085aba0277d809e4ed2|2|km_ganguli_translation_1.csv
 Pavaka|PER|cid_b19fe318e34947eb83792869512c6319|2|km_ganguli_translation_1.csv
@@ -6241,7 +6231,7 @@ Phalguna|PER|cid_94f7da9f1a9d4b54ab828d16474180f9|1|km_ganguli_translation_1.csv
 Phalguna|PER|cid_a81baf455bad4fa98990caed0b7bcfab|1|km_ganguli_translation_1.csv
 Phalguna|PER|cid_e26beeb180b142ecb8caae2cda16ef6c|1|km_ganguli_translation_1.csv
 Phalguna|PER|cid_e6a8871747864dadb60888c1c477d4ac|1|km_ganguli_translation_1.csv
-Phalguni (Arjuna|PER|cid_a4951472bed5423bbe64c6f4dc3221c8|1|km_ganguli_translation_1.csv
+Phalguni Arjuna|PER|cid_a4951472bed5423bbe64c6f4dc3221c8|1|km_ganguli_translation_1.csv
 Phasi|PER|cid_b42f7b77355843e9ba2d5694b9f50bf8|1|km_ganguli_translation_1.csv
 Pi|MISC|cid_e570c6da9b164dbf868b6d196daac7f3|1|km_ganguli_translation_1.csv
 Pinaka|MISC|cid_c7eaaabee01c48718ef4085960675b11|1|km_ganguli_translation_1.csv
@@ -6355,7 +6345,7 @@ Pratyusha|PER|cid_591bc41a6d084817b8438ea28524e530|1|km_ganguli_translation_1.cs
 Pratyusha|PER|cid_aa2cc9aa970f4d21af100d308431bd44|1|km_ganguli_translation_1.csv
 Pravepana|PER|cid_b68eadf9ba6b49a8bd69d6a9e367e4f8|1|km_ganguli_translation_1.csv
 Pravira|PER|cid_22beb1bdde3044cabd69f317b3657423|2|km_ganguli_translation_1.csv
-Pravira, Iswara,|PER|cid_22beb1bdde3044cabd69f317b3657423|1|km_ganguli_translation_1.csv
+Pravira, Iswara|PER|cid_22beb1bdde3044cabd69f317b3657423|1|km_ganguli_translation_1.csv
 Prayaga|LOC|cid_d5bb7aa20367474e83a419c45498e048|1|km_ganguli_translation_1.csv
 Pri|PER|cid_6c535b28bee740a985a7f898194139f3|1|km_ganguli_translation_1.csv
 Princes|MISC|cid_824ec973473d408ba1f229e3bd9703ab|1|km_ganguli_translation_1.csv
@@ -6412,7 +6402,7 @@ Pritha|PER|cid_dfad6d75e6974b4d9a838852175acb46|1|km_ganguli_translation_1.csv
 Pritha|PER|cid_e123be9d255144829a677c570a032353|1|km_ganguli_translation_1.csv
 Pritha|PER|cid_e300a2562a6a47ee814f92ceee6f2cd6|1|km_ganguli_translation_1.csv
 Pritha|PER|cid_e5762ced689241aba1b50c116c40a4e3|1|km_ganguli_translation_1.csv
-Pritha (Kunti|PER|cid_202a108ba94143eb9a0aeff82ea1a06e|1|km_ganguli_translation_1.csv
+Pritha Kunti|PER|cid_202a108ba94143eb9a0aeff82ea1a06e|1|km_ganguli_translation_1.csv
 Prithu|PER|cid_44bc5c7dadd949f395328e156b4794d3|1|km_ganguli_translation_1.csv
 Prithu|PER|cid_c89be00f29624b4f9abd22a374cdcf8a|2|km_ganguli_translation_1.csv
 Prithu, Viprithu|PER|cid_0821e5fe465b4db2b85514788288f645|1|km_ganguli_translation_1.csv
@@ -6469,8 +6459,8 @@ Purandara|PER|cid_77ee49d8ab454123b71983880dc94713|1|km_ganguli_translation_1.cs
 Purandara|PER|cid_89fbf37fda4b47f2bb667b93e64e605e|1|km_ganguli_translation_1.csv
 Purandara|PER|cid_c94c5f622c7045d6ad5ce5af736a8a6d|1|km_ganguli_translation_1.csv
 Purandara|PER|cid_cb150fabe8e74168aabc1944cca1ea2e|2|km_ganguli_translation_1.csv
-Purandara (Indra|PER|cid_8024f9f0458649d78c47f6a3f90face6|1|km_ganguli_translation_1.csv
-Purity's|PER|cid_15343cdb1fa44c2c9343917b7066cc33|1|km_ganguli_translation_1.csv
+Purandara Indra|PER|cid_8024f9f0458649d78c47f6a3f90face6|1|km_ganguli_translation_1.csv
+Puritys|PER|cid_15343cdb1fa44c2c9343917b7066cc33|1|km_ganguli_translation_1.csv
 Purna|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Purnamasas|MISC|cid_d9ead6a5614b48dca81d2ecbf8c48320|1|km_ganguli_translation_1.csv
 Purnangada, Purnamukha, Prahasa, Sakuni, Dari, Amahatha, Kumathaka, Sushena, Vyaya, Bhairava, Mundavedanga|PER|cid_941cb49762ce4322b6d0c0b8793b5c25|1|km_ganguli_translation_1.csv
@@ -6562,8 +6552,8 @@ Radha|PER|cid_bc1c3dc78d904e259cccb7d2f28c5284|1|km_ganguli_translation_1.csv
 Radha|PER|cid_ce96c5da580b4007a2b48a91c85756dd|1|km_ganguli_translation_1.csv
 Radheya|PER|cid_25c2f6d320fc413a8568b40d0fd8f329|1|km_ganguli_translation_1.csv
 Radheya|PER|cid_9d43ca5ab332459fac63105c3e129665|1|km_ganguli_translation_1.csv
-Radheya (Karna|PER|cid_a6c55b087db5424ab000bf56a1825e9c|1|km_ganguli_translation_1.csv
-Radheya (Karna)|PER|cid_d5e15500c2c744338191f40ef3de1743|1|km_ganguli_translation_1.csv
+Radheya Karna|PER|cid_a6c55b087db5424ab000bf56a1825e9c|1|km_ganguli_translation_1.csv
+Radheya Karna|PER|cid_d5e15500c2c744338191f40ef3de1743|1|km_ganguli_translation_1.csv
 Raghu|PER|cid_eec74d52a8b5472b8d739fb12a19030a|1|km_ganguli_translation_1.csv
 Rah|PER|cid_23be8885af7641b7be217522e3702282|1|km_ganguli_translation_1.csv
 Rahu|MISC|cid_3f413df682844817aaa20be9ccd021bd|1|km_ganguli_translation_1.csv
@@ -6714,10 +6704,10 @@ Rama|PER|cid_ce96c5da580b4007a2b48a91c85756dd|1|km_ganguli_translation_1.csv
 Rama|PER|cid_e6c6af4bff8246bb8346585a0ca4cf0e|2|km_ganguli_translation_1.csv
 Rama|PER|cid_eb3b507731904584a33ffb4486d428d5|1|km_ganguli_translation_1.csv
 Rama|PER|cid_f1dfe2a583594556889f4b79c3d29002|1|km_ganguli_translation_1.csv
-Rama (Parasurama|PER|cid_9f5cd8e0dd2b4d788c0ab473941e6b13|1|km_ganguli_translation_1.csv
-Rama (Valadeva|PER|cid_c26b3cc0d7cc449b92586a12e3d503a4|1|km_ganguli_translation_1.csv
-Rama (Valadeva)|PER|cid_63ce77bd69b9436d99b34e9ed9aed307|1|km_ganguli_translation_1.csv
-Rama (Valadeva)|PER|cid_a1ad40d5666b4b0ca8a9b40fd2df21de|1|km_ganguli_translation_1.csv
+Rama Parasurama|PER|cid_9f5cd8e0dd2b4d788c0ab473941e6b13|1|km_ganguli_translation_1.csv
+Rama Valadeva|PER|cid_c26b3cc0d7cc449b92586a12e3d503a4|1|km_ganguli_translation_1.csv
+Rama Valadeva|PER|cid_63ce77bd69b9436d99b34e9ed9aed307|1|km_ganguli_translation_1.csv
+Rama Valadeva|PER|cid_a1ad40d5666b4b0ca8a9b40fd2df21de|1|km_ganguli_translation_1.csv
 Ramana|PER|cid_591bc41a6d084817b8438ea28524e530|1|km_ganguli_translation_1.csv
 Ramaniyaka|LOC|cid_9ffa4cb6284e425bb89803b2ff9a8568|1|km_ganguli_translation_1.csv
 Rantideva|PER|cid_46d66e45eabd488482b5460ccb0870aa|1|km_ganguli_translation_1.csv
@@ -6914,8 +6904,8 @@ Rishi|PER|cid_dd0aa46153ee4c82a77a5694e40b660c|1|km_ganguli_translation_1.csv
 Rishi|PER|cid_e48f2e5980994a4ab17bf9de6d772551|2|km_ganguli_translation_1.csv
 Rishi|PER|cid_e70f56ffc68a41c3b3990ade85d710f4|1|km_ganguli_translation_1.csv
 Rishi|PER|cid_e862ee7242f24bf985929622228c4cdb|1|km_ganguli_translation_1.csv
-Rishi (Kanwa|PER|cid_1bfa033d38914920bef7cf7ef9061e8a|1|km_ganguli_translation_1.csv
-Rishi (Kasyapa)|PER|cid_2e89bf122df94f459ec62044e145884b|1|km_ganguli_translation_1.csv
+Rishi Kanwa|PER|cid_1bfa033d38914920bef7cf7ef9061e8a|1|km_ganguli_translation_1.csv
+Rishi Kasyapa|PER|cid_2e89bf122df94f459ec62044e145884b|1|km_ganguli_translation_1.csv
 Rishi Agnivesa|PER|cid_66b0a71578d542fcac7f6070af3c5374|1|km_ganguli_translation_1.csv
 Rishi Angiras|PER|cid_2361479ae1ef433da91306fb8804f333|1|km_ganguli_translation_1.csv
 Rishi Apava|PER|cid_a56954833434442aa060e0b423f700ef|1|km_ganguli_translation_1.csv
@@ -7073,7 +7063,7 @@ Rohini|PER|cid_00247995d1544752b318a92bfc7bad49|1|km_ganguli_translation_1.csv
 Rohini|PER|cid_3f47c58f0e5742f7af260792c5a873db|1|km_ganguli_translation_1.csv
 Rohini|PER|cid_41d567aeee664dc7b7bec4bbcc50fef1|1|km_ganguli_translation_1.csv
 Rohini|PER|cid_854364f77ffb4794a0ccc4b5fea37c70|2|km_ganguli_translation_1.csv
-Rohini (Valadeva|PER|cid_a0c85fb99d9c4dfda21e479f89c00cc1|2|km_ganguli_translation_1.csv
+Rohini Valadeva|PER|cid_a0c85fb99d9c4dfda21e479f89c00cc1|2|km_ganguli_translation_1.csv
 Rudra|PER|cid_2f82a0439cc244ec921ac0c28ce95e95|2|km_ganguli_translation_1.csv
 Rudra|PER|cid_482c97385ead47e785054797999b08e3|1|km_ganguli_translation_1.csv
 Rudra|PER|cid_6e4d9792bf5e47c3ae5063f440be083d|1|km_ganguli_translation_1.csv
@@ -7237,7 +7227,7 @@ Sakuni|PER|cid_d25c96e0fb9f435fa4176295f0de3f4f|1|km_ganguli_translation_1.csv
 Sakuni|PER|cid_dca65d682b4b4eba99b3646db342e598|1|km_ganguli_translation_1.csv
 Sakuni|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|1|km_ganguli_translation_1.csv
 Sakuni|PER|cid_facb5991d17d41d596b9a6b7ea94682d|1|km_ganguli_translation_1.csv
-Sakuni, Sauvala, Vrisaka,|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
+Sakuni, Sauvala, Vrisaka|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
 Sakuntala|PER|cid_054ac5227c93465e9b4c3ec230364296|2|km_ganguli_translation_1.csv
 Sakuntala|PER|cid_1bfa033d38914920bef7cf7ef9061e8a|1|km_ganguli_translation_1.csv
 Sakuntala|PER|cid_50a2e01ce66443ce8c82fd62799bec60|2|km_ganguli_translation_1.csv
@@ -7283,7 +7273,7 @@ Salya|PER|cid_b479a35254134fc38c54690930623738|1|km_ganguli_translation_1.csv
 Salya|PER|cid_c2075b77dbce4376803990f4c95fb1d7|1|km_ganguli_translation_1.csv
 Salya|PER|cid_d5e15500c2c744338191f40ef3de1743|1|km_ganguli_translation_1.csv
 Salya|PER|cid_f3b7b98df5d64ff9910fa43142790c2d|5|km_ganguli_translation_1.csv
-Salya,|PER|cid_fb2dcda108374809ae93c6ade2477721|1|km_ganguli_translation_1.csv
+Salya|PER|cid_fb2dcda108374809ae93c6ade2477721|1|km_ganguli_translation_1.csv
 Salya, Kama|PER|cid_98fe38d6eec745ea8dff87a8462dfb79|1|km_ganguli_translation_1.csv
 Salyaka|PER|cid_28231e78e98a4b01946334c83ea498c7|1|km_ganguli_translation_1.csv
 Sama|PER|cid_aa2cc9aa970f4d21af100d308431bd44|1|km_ganguli_translation_1.csv
@@ -7298,7 +7288,7 @@ Sambhava|MISC|cid_11f5ae05b46f4dd7a76a3abc6eeb78eb|1|km_ganguli_translation_1.cs
 Sambhava|MISC|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
 Sambhava parva|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Sambhu|PER|cid_ab802fa107294f3fa803bc0c1fba3786|1|km_ganguli_translation_1.csv
-Sambhu C. Mookherjee.|PER|cid_eee26bdf62c44c25b47ca7657f649a87|1|km_ganguli_translation_1.csv
+Sambhu C. Mookherjee|PER|cid_eee26bdf62c44c25b47ca7657f649a87|1|km_ganguli_translation_1.csv
 Samhitas|MISC|cid_c996e2be1c90435c93c9ce7878b830aa|1|km_ganguli_translation_1.csv
 Samhlada|PER|cid_4fa6835ad5d54d4884da76c5d2c59ba3|1|km_ganguli_translation_1.csv
 Samichi|PER|cid_a17b116640bc49ef833c77219a829fae|1|km_ganguli_translation_1.csv
@@ -7352,11 +7342,11 @@ Sankara|PER|cid_6e4d9792bf5e47c3ae5063f440be083d|1|km_ganguli_translation_1.csv
 Sankara|PER|cid_8d5e83925f37407a981b6bfd81a1e9bc|3|km_ganguli_translation_1.csv
 Sankara|PER|cid_a60dfc3c8c674ef7b20a2cdba8c19887|1|km_ganguli_translation_1.csv
 Sankara|PER|cid_c684270229f34fedb06e812db7dbc258|1|km_ganguli_translation_1.csv
-Sankara (Mahadeva|PER|cid_8d5e83925f37407a981b6bfd81a1e9bc|1|km_ganguli_translation_1.csv
-Sankara (Mahadeva|PER|cid_c684270229f34fedb06e812db7dbc258|1|km_ganguli_translation_1.csv
+Sankara Mahadeva|PER|cid_8d5e83925f37407a981b6bfd81a1e9bc|1|km_ganguli_translation_1.csv
+Sankara Mahadeva|PER|cid_c684270229f34fedb06e812db7dbc258|1|km_ganguli_translation_1.csv
 Sankarshana|PER|cid_4b70390961464dd580703270f0602280|1|km_ganguli_translation_1.csv
 Sankarshana|PER|cid_a196b31d832c4649a5df8462f9d364cf|1|km_ganguli_translation_1.csv
-Sankarshana (Valarama)|PER|cid_83319b3b789c48b38e7d98b584bf1265|1|km_ganguli_translation_1.csv
+Sankarshana Valarama|PER|cid_83319b3b789c48b38e7d98b584bf1265|1|km_ganguli_translation_1.csv
 Sankha|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
 Sankhya|MISC|cid_6bd52354f4f3401699018ba5dade1c14|1|km_ganguli_translation_1.csv
 Sanku|PER|cid_28231e78e98a4b01946334c83ea498c7|1|km_ganguli_translation_1.csv
@@ -7411,7 +7401,7 @@ Santanu|PER|cid_e1bd06817be04ff8a0847ddb097e9cde|1|km_ganguli_translation_1.csv
 Santanu|PER|cid_eb3b507731904584a33ffb4486d428d5|2|km_ganguli_translation_1.csv
 Santanu|PER|cid_f3b7b98df5d64ff9910fa43142790c2d|2|km_ganguli_translation_1.csv
 Santanu|PER|cid_fcd0d01425764a6f90bedb39899c0451|3|km_ganguli_translation_1.csv
-Santanu (Bhishma|PER|cid_d0b96f0faab4473ea05d66c1713d5760|1|km_ganguli_translation_1.csv
+Santanu Bhishma|PER|cid_d0b96f0faab4473ea05d66c1713d5760|1|km_ganguli_translation_1.csv
 Santi|MISC|cid_11f5ae05b46f4dd7a76a3abc6eeb78eb|1|km_ganguli_translation_1.csv
 Santi|MISC|cid_c2075b77dbce4376803990f4c95fb1d7|1|km_ganguli_translation_1.csv
 Santi|PER|cid_41d567aeee664dc7b7bec4bbcc50fef1|1|km_ganguli_translation_1.csv
@@ -7676,7 +7666,7 @@ Savyasachin|PER|cid_41d567aeee664dc7b7bec4bbcc50fef1|1|km_ganguli_translation_1.
 Seebpore|LOC|cid_3ec1507ad1e1456bb987aa039ab51922|1|km_ganguli_translation_1.csv
 Seebpore|LOC|cid_e51fef34d47448b893b7644228515dbf|1|km_ganguli_translation_1.csv
 Self|MISC|cid_6716c71b1dc04e84911ede23b1c00294|1|km_ganguli_translation_1.csv
-Self-|MISC|cid_38e08bafa37c4197b33674482002c7b9|1|km_ganguli_translation_1.csv
+Self|MISC|cid_38e08bafa37c4197b33674482002c7b9|1|km_ganguli_translation_1.csv
 Self-choice of|MISC|cid_fb2dcda108374809ae93c6ade2477721|1|km_ganguli_translation_1.csv
 Self-create|MISC|cid_591bc41a6d084817b8438ea28524e530|1|km_ganguli_translation_1.csv
 Self-create|MISC|cid_7f77f01198ff41ce83777007d0a17f2a|1|km_ganguli_translation_1.csv
@@ -7736,7 +7726,7 @@ Sisupala|PER|cid_4b70390961464dd580703270f0602280|1|km_ganguli_translation_1.csv
 Sisupala|PER|cid_4fa6835ad5d54d4884da76c5d2c59ba3|1|km_ganguli_translation_1.csv
 Sisupala|PER|cid_a0a05db3ca2f4481916cc8b1bff1e3d5|1|km_ganguli_translation_1.csv
 Sisupala|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
-Sisupala-|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
+Sisupala|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
 Sisuroman|PER|cid_b68eadf9ba6b49a8bd69d6a9e367e4f8|1|km_ganguli_translation_1.csv
 Siva|PER|cid_58c15396701042faa37e9cfe577289ef|1|km_ganguli_translation_1.csv
 Siva|PER|cid_6dec93d6a1a2447ba24a6b6d255bab7a|1|km_ganguli_translation_1.csv
@@ -7753,7 +7743,7 @@ Sivi|PER|cid_ce9d983f0ed24b7d9fc8f5f82ae3a2eb|2|km_ganguli_translation_1.csv
 Sivi|PER|cid_eb76af9a13b244e5b9d1b3b8926ac7f4|2|km_ganguli_translation_1.csv
 Sivi|PER|cid_ef3aac80935147ceb0f1ecdd5cbcc7de|2|km_ganguli_translation_1.csv
 Sivi|PER|cid_fa800b8a0cf542b0b4511ede55d11b8f|1|km_ganguli_translation_1.csv
-Skanda (Kartikeya)|PER|cid_cc1372a586054ee2baff3b847b5825a9|1|km_ganguli_translation_1.csv
+Skanda Kartikeya|PER|cid_cc1372a586054ee2baff3b847b5825a9|1|km_ganguli_translation_1.csv
 Sky|MISC|cid_38e08bafa37c4197b33674482002c7b9|1|km_ganguli_translation_1.csv
 Sky|MISC|cid_46734cd96f4d4d45a45c83a04922de7c|1|km_ganguli_translation_1.csv
 Sky|MISC|cid_528c261ead4c4c1a81fb4104509c5f43|1|km_ganguli_translation_1.csv
@@ -7800,7 +7790,7 @@ Soma juice|MISC|cid_040628835b1749aa8c99e32664001efd|1|km_ganguli_translation_1.
 Soma juice|MISC|cid_a5a60af575df46ccbf4cf4ae52c8d30b|1|km_ganguli_translation_1.csv
 Soma juice|MISC|cid_ac7ec26c44584734b2b711dc3c3c9259|1|km_ganguli_translation_1.csv
 Soma juice|MISC|cid_f1dfe2a583594556889f4b79c3d29002|1|km_ganguli_translation_1.csv
-Soma)|PER|cid_c81d90c64fcb4282bb4c64c62e4d65d1|1|km_ganguli_translation_1.csv
+Soma|PER|cid_c81d90c64fcb4282bb4c64c62e4d65d1|1|km_ganguli_translation_1.csv
 Soma, Misrakesi|PER|cid_65394ddb9e874464a9dcd0b8631e205d|1|km_ganguli_translation_1.csv
 Soma-drinking Brahmanas|MISC|cid_32bf003fbc0b475baeee1a677dd21348|1|km_ganguli_translation_1.csv
 Somadatta|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
@@ -7849,7 +7839,7 @@ Srutakriti|PER|cid_45d32b141ba140ad95a106a19ef8a27e|1|km_ganguli_translation_1.c
 Srutasena|PER|cid_8a57aa8e932b42fcbca8fcfc3c3bcecc|1|km_ganguli_translation_1.csv
 Srutasena|PER|cid_eadd7f711e8747ee89e50c5519904964|1|km_ganguli_translation_1.csv
 Srutasena|PER|cid_f3701095d7dc4ff18ea778b35fb50ec9|1|km_ganguli_translation_1.csv
-Srutasena (Kartikeya|PER|cid_86a42e9ab7da44aea148f027eecdddaf|1|km_ganguli_translation_1.csv
+Srutasena Kartikeya|PER|cid_86a42e9ab7da44aea148f027eecdddaf|1|km_ganguli_translation_1.csv
 Srutasena, Ugrasena|PER|cid_4f6adb27e7d445e98507ec7e83f56583|1|km_ganguli_translation_1.csv
 Srutasrava|PER|cid_08cb30e556e7485794c38384f2ea7fb0|1|km_ganguli_translation_1.csv
 Srutasravas|MISC|cid_75cb4574d2d64ff0a0cee3b30640b87c|1|km_ganguli_translation_1.csv
@@ -7868,7 +7858,7 @@ Sthandileyu|PER|cid_22beb1bdde3044cabd69f317b3657423|1|km_ganguli_translation_1.
 Sthanu|PER|cid_0b687f944e4d43098abc5131f988ca68|1|km_ganguli_translation_1.csv
 Sthanu|PER|cid_4a81c4cc4ff4416593ddf76851e2ce39|1|km_ganguli_translation_1.csv
 Sthanu|PER|cid_7056dc39095b43009f4ec738343c5682|3|km_ganguli_translation_1.csv
-Sthanu (Mahadeva|PER|cid_0b687f944e4d43098abc5131f988ca68|1|km_ganguli_translation_1.csv
+Sthanu Mahadeva|PER|cid_0b687f944e4d43098abc5131f988ca68|1|km_ganguli_translation_1.csv
 Sthulakesa|PER|cid_d4f31b4dc2744f4696511ce86197a57b|6|km_ganguli_translation_1.csv
 Sthuna|PER|cid_eadd7f711e8747ee89e50c5519904964|1|km_ganguli_translation_1.csv
 Stri|MISC|cid_11f5ae05b46f4dd7a76a3abc6eeb78eb|1|km_ganguli_translation_1.csv
@@ -7897,7 +7887,7 @@ Subhadra|PER|cid_e1824a29d2534348ae56b836e07a787c|2|km_ganguli_translation_1.csv
 Subhadra|PER|cid_e5762ced689241aba1b50c116c40a4e3|1|km_ganguli_translation_1.csv
 Subhadra|PER|cid_eadd7f711e8747ee89e50c5519904964|1|km_ganguli_translation_1.csv
 Subhadra-harana|PER|cid_b88b9166dd13447f851fc05b1a4ae69c|1|km_ganguli_translation_1.csv
-Subhadra.|PER|cid_45d32b141ba140ad95a106a19ef8a27e|1|km_ganguli_translation_1.csv
+Subhadra|PER|cid_45d32b141ba140ad95a106a19ef8a27e|1|km_ganguli_translation_1.csv
 Subhangi|PER|cid_a7fb12baf10a4cb7b22c97cb9cb2eccc|1|km_ganguli_translation_1.csv
 Suchandra|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Suchandra, Chandrahantri|PER|cid_8bce3a58e56b4a49bfc34285dc01a396|1|km_ganguli_translation_1.csv
@@ -7978,7 +7968,7 @@ Sukra|PER|cid_fe26f1f870da4f08b7166f55cb85b9d6|2|km_ganguli_translation_1.csv
 Sukshama|PER|cid_7620b740ded047c98a1bb0e2b09297ad|1|km_ganguli_translation_1.csv
 Sukshma|PER|cid_fdad650af9bb44ef9bb64d0b2be3d520|1|km_ganguli_translation_1.csv
 Suktimati|LOC|cid_8764e316779b4faf9a06e79a54e43b1e|1|km_ganguli_translation_1.csv
-Sukundala, Bhimavega, Bhimavala, Valaki, Bhimavikrama, Ugrayudha, Bhimaeara, Kanakayu, Dridhayudha, Dridhavarman,|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
+Sukundala, Bhimavega, Bhimavala, Valaki, Bhimavikrama, Ugrayudha, Bhimaeara, Kanakayu, Dridhayudha, Dridhavarman|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
 Sukundala, Chitrasena, Suvarcha|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
 Sulabha|PER|cid_7620b740ded047c98a1bb0e2b09297ad|1|km_ganguli_translation_1.csv
 Sulochana|PER|cid_74096f5939e74ce2809381cefb595ddb|1|km_ganguli_translation_1.csv
@@ -8096,9 +8086,9 @@ Surya|PER|cid_cf78f5f26baa45ae86c53e17db485e6f|1|km_ganguli_translation_1.csv
 Surya|PER|cid_d8e07a3b187f41f693aa0bab1f98b988|4|km_ganguli_translation_1.csv
 Surya|PER|cid_e782bc42444d4e1aba7e635a9b80a63a|2|km_ganguli_translation_1.csv
 Surya|PER|cid_fa619240587d4de2b0143e11780064a7|1|km_ganguli_translation_1.csv
-Surya (Sun)|PER|cid_371074483a574ba08c742cbc5f0e03e0|1|km_ganguli_translation_1.csv
-Surya (Sun)|PER|cid_bcef97432aec441eb14d0e269c532993|1|km_ganguli_translation_1.csv
-Surya,|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
+Surya Sun|PER|cid_371074483a574ba08c742cbc5f0e03e0|1|km_ganguli_translation_1.csv
+Surya Sun|PER|cid_bcef97432aec441eb14d0e269c532993|1|km_ganguli_translation_1.csv
+Surya|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
 Surya, Bharata, Ruru, Puru|PER|cid_6bd52354f4f3401699018ba5dade1c14|1|km_ganguli_translation_1.csv
 Suryaksha|PER|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.csv
 Suryavarchas|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
@@ -8144,7 +8134,7 @@ Suvala|PER|cid_7092af76b9484d90a6b2021ef44289b0|1|km_ganguli_translation_1.csv
 Suvala|PER|cid_ad5d58ffacd049e9822f923b555deef9|1|km_ganguli_translation_1.csv
 Suvala|PER|cid_e5762ced689241aba1b50c116c40a4e3|1|km_ganguli_translation_1.csv
 Suvala|PER|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|2|km_ganguli_translation_1.csv
-Suvala (Sakuni|PER|cid_a53cacec7ba64c14adabfe2ac6b0ae8d|1|km_ganguli_translation_1.csv
+Suvala Sakuni|PER|cid_a53cacec7ba64c14adabfe2ac6b0ae8d|1|km_ganguli_translation_1.csv
 Suvangada|PER|cid_4b70390961464dd580703270f0602280|1|km_ganguli_translation_1.csv
 Suvarcha|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
 Suvarchas|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
@@ -8156,7 +8146,7 @@ Suvira|PER|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.csv
 Suyajna|PER|cid_1cfa8258d2bd4e799550ca3986fd819d|1|km_ganguli_translation_1.csv
 Suyodhana|PER|cid_57489234ee8f4a02b3f0389f830c8e91|1|km_ganguli_translation_1.csv
 Suyodhana|PER|cid_5a8b1c6778f14ed19b6d10e1e4bfe005|1|km_ganguli_translation_1.csv
-Suyodhana (Duryodhana|PER|cid_a6c55b087db5424ab000bf56a1825e9c|1|km_ganguli_translation_1.csv
+Suyodhana Duryodhana|PER|cid_a6c55b087db5424ab000bf56a1825e9c|1|km_ganguli_translation_1.csv
 Svarga|MISC|cid_dd0aa46153ee4c82a77a5694e40b660c|1|km_ganguli_translation_1.csv
 Swadhas|MISC|cid_c26b3cc0d7cc449b92586a12e3d503a4|1|km_ganguli_translation_1.csv
 Swadhas and Swahas|MISC|cid_f8fbe0dd76a244f18b1d8c6c22792650|1|km_ganguli_translation_1.csv
@@ -8167,7 +8157,7 @@ Swarbhanu|PER|cid_a58e9a6ecdb5481187bdd2c580617e83|1|km_ganguli_translation_1.cs
 Swarbhanu, Aswa|PER|cid_7620b740ded047c98a1bb0e2b09297ad|1|km_ganguli_translation_1.csv
 Swasa|PER|cid_591bc41a6d084817b8438ea28524e530|1|km_ganguli_translation_1.csv
 Swasana|PER|cid_591bc41a6d084817b8438ea28524e530|1|km_ganguli_translation_1.csv
-Swastyatreya, Mahajana, Kushika, Sankhamekhala, Uddalaka, Katha,|PER|cid_336b4ca1aa094e15959879c3e2c2df0b|1|km_ganguli_translation_1.csv
+Swastyatreya, Mahajana, Kushika, Sankhamekhala, Uddalaka, Katha|PER|cid_336b4ca1aa094e15959879c3e2c2df0b|1|km_ganguli_translation_1.csv
 Swayamavara|MISC|cid_a3e38096fdc746cb84bab460379674b2|1|km_ganguli_translation_1.csv
 Swayamvara|LOC|cid_7db16b7e6bc0460798e0fe8217f1badb|1|km_ganguli_translation_1.csv
 Swayamvara|MISC|cid_24676b7899f24357a7001352d12c9c1a|1|km_ganguli_translation_1.csv
@@ -8243,7 +8233,7 @@ Tansu|PER|cid_fb0d1aacfd184ec9acd59b6a4b72acf3|2|km_ganguli_translation_1.csv
 Tansu, Mahan, Atiratha|PER|cid_fb0d1aacfd184ec9acd59b6a4b72acf3|1|km_ganguli_translation_1.csv
 Tapana|PER|cid_371074483a574ba08c742cbc5f0e03e0|2|km_ganguli_translation_1.csv
 Tapana|PER|cid_e782bc42444d4e1aba7e635a9b80a63a|1|km_ganguli_translation_1.csv
-Tapana (Surya)|PER|cid_c8f29e39841249f191e58e9910c69053|1|km_ganguli_translation_1.csv
+Tapana Surya|PER|cid_c8f29e39841249f191e58e9910c69053|1|km_ganguli_translation_1.csv
 Tapati|PER|cid_3202cffdeb7c4a4aaf410bbbe682174e|3|km_ganguli_translation_1.csv
 Tapati|PER|cid_555d94f59bea40499ed71071fc5a3ea9|1|km_ganguli_translation_1.csv
 Tapati|PER|cid_a7fb12baf10a4cb7b22c97cb9cb2eccc|1|km_ganguli_translation_1.csv
@@ -8340,8 +8330,8 @@ The Vedas|MISC|cid_a9a057255bce4fc28ebe945bcd82f71f|1|km_ganguli_translation_1.c
 The Vedas|MISC|cid_c5f9db42779444efb7aa5cf08b5feabd|1|km_ganguli_translation_1.csv
 The Vedic declaration|MISC|cid_cc63982e8afd476b9983fa5538d2402b|1|km_ganguli_translation_1.csv
 The Vrishnis|MISC|cid_25c303c90d02405bb6adb52dcbe63112|1|km_ganguli_translation_1.csv
-The Yakshas, Rakshasas, Gandharvas, Pisachas,|MISC|cid_3fd5bd622356463d9b0ca7851899bf0f|1|km_ganguli_translation_1.csv
-The festival of Pasupati (Siva)|MISC|cid_27582c369ede41d98b867f339dca2c04|1|km_ganguli_translation_1.csv
+The Yakshas, Rakshasas, Gandharvas, Pisachas|MISC|cid_3fd5bd622356463d9b0ca7851899bf0f|1|km_ganguli_translation_1.csv
+The festival of Pasupati Siva|MISC|cid_27582c369ede41d98b867f339dca2c04|1|km_ganguli_translation_1.csv
 The monarch|MISC|cid_f3dc30f15bc5405e8334528b1df51db2|1|km_ganguli_translation_1.csv
 Then prince|MISC|cid_27582c369ede41d98b867f339dca2c04|1|km_ganguli_translation_1.csv
 Thy Pitris|MISC|cid_5168fdf05d1a4aeca7290c9e6dfb7807|1|km_ganguli_translation_1.csv
@@ -8403,7 +8393,7 @@ Uchaihsravas, Bhangakara|PER|cid_c280b629e1e94405870568064ca1a578|1|km_ganguli_t
 Uchchaihsrava|PER|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Uchchaihsravas|PER|cid_7744b4ad4f494dd3b7d0d0119a30ccd5|1|km_ganguli_translation_1.csv
 Uchchaihsravas|PER|cid_b794987675e748868d09736918bc4e64|1|km_ganguli_translation_1.csv
-Uchchaihsravas,|PER|cid_5c19149a1fbb4dae9cfd3449ae68006f|1|km_ganguli_translation_1.csv
+Uchchaihsravas|PER|cid_5c19149a1fbb4dae9cfd3449ae68006f|1|km_ganguli_translation_1.csv
 Uchchaishravas|MISC|cid_8797d100cd5c4ba48d3cd58f75bff1ca|1|km_ganguli_translation_1.csv
 Uchchaishravas|PER|cid_7744b4ad4f494dd3b7d0d0119a30ccd5|1|km_ganguli_translation_1.csv
 Uchochikha, Carava, Bhangas, Vilwatejas|PER|cid_b68eadf9ba6b49a8bd69d6a9e367e4f8|1|km_ganguli_translation_1.csv
@@ -8430,7 +8420,7 @@ Ugrasena|PER|cid_631a8ee462704c7684b74a6375b7fc60|1|km_ganguli_translation_1.csv
 Ugrasena|PER|cid_c280b629e1e94405870568064ca1a578|1|km_ganguli_translation_1.csv
 Ugrasrava|PER|cid_57a279c7e0544619a85e8359553da8c5|1|km_ganguli_translation_1.csv
 Ugrasravas|PER|cid_d7f2aeff32ad4b1ba152e0ef7e00a96e|1|km_ganguli_translation_1.csv
-Ugrasravas, Ugrasena,|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
+Ugrasravas, Ugrasena|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
 Ugrayudha, Valaki, Kanakayu|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
 Uluka|LOC|cid_85fbc125f0f8405d942a67b834e780c5|1|km_ganguli_translation_1.csv
 Uluka|PER|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
@@ -8483,7 +8473,7 @@ Upayaja|PER|cid_3624207d26874d66a0abb6f96544907f|3|km_ganguli_translation_1.csv
 Upayaja|PER|cid_6c72fed110c641a98b3ee55d2f3a8da6|1|km_ganguli_translation_1.csv
 Upayaja|PER|cid_ecf7dfb34e554dbf8a9923ca61dc821a|2|km_ganguli_translation_1.csv
 Uraga|PER|cid_3fd5bd622356463d9b0ca7851899bf0f|1|km_ganguli_translation_1.csv
-Uragas (Nagas|PER|cid_d116549616314eb5b1023c1c45016e5a|1|km_ganguli_translation_1.csv
+Uragas Nagas|PER|cid_d116549616314eb5b1023c1c45016e5a|1|km_ganguli_translation_1.csv
 Urananabha|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
 Urnanabha|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
 Urnayus|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
@@ -8895,7 +8885,7 @@ Valakhilyas|MISC|cid_9b90157058e344479d31f301498791ec|1|km_ganguli_translation_1
 Valakhilyas|MISC|cid_c94c5f622c7045d6ad5ce5af736a8a6d|1|km_ganguli_translation_1.csv
 Valakhilyas|MISC|cid_ecdd89068f634e28b47aad11355b3eb9|1|km_ganguli_translation_1.csv
 Valandhara|PER|cid_45d32b141ba140ad95a106a19ef8a27e|1|km_ganguli_translation_1.csv
-Valavit (Indra|PER|cid_5a78aa3833684cd480a0d0b09ba5efc7|1|km_ganguli_translation_1.csv
+Valavit Indra|PER|cid_5a78aa3833684cd480a0d0b09ba5efc7|1|km_ganguli_translation_1.csv
 Valhika|LOC|cid_908d1a94d9bc43cf8ddee48160641d13|1|km_ganguli_translation_1.csv
 Valhika|PER|cid_01fb96878e46401796c7277886337e4d|1|km_ganguli_translation_1.csv
 Valhika|PER|cid_87939deaa9bf4ef8a0ea9443ce1746d9|1|km_ganguli_translation_1.csv
@@ -8960,7 +8950,7 @@ Vardhakshemi, Susarma, Senavindu, Suketu|PER|cid_169dcbb247824032b70a72792ef8e22
 Varga|PER|cid_4153f190e05d49679c0d194185266642|1|km_ganguli_translation_1.csv
 Varga|PER|cid_5658d3fb49ae4511bd8ec4f461d9949c|1|km_ganguli_translation_1.csv
 Varga|PER|cid_a17b116640bc49ef833c77219a829fae|1|km_ganguli_translation_1.csv
-Varga-Daivata (Purva-phalguni)|PER|cid_336b4ca1aa094e15959879c3e2c2df0b|1|km_ganguli_translation_1.csv
+Varga-Daivata Purva-phalguni|PER|cid_336b4ca1aa094e15959879c3e2c2df0b|1|km_ganguli_translation_1.csv
 Varhin|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Varuna|MISC|cid_1aecebc430834249912ad869bace13b4|1|km_ganguli_translation_1.csv
 Varuna|MISC|cid_5e0170cc3118467089c8ad743c5302c9|1|km_ganguli_translation_1.csv
@@ -9113,7 +9103,7 @@ Vasuki|PER|cid_ad7d859980ff41f7afa0ad2d59d99891|1|km_ganguli_translation_1.csv
 Vasuki|PER|cid_b68eadf9ba6b49a8bd69d6a9e367e4f8|2|km_ganguli_translation_1.csv
 Vasuki|PER|cid_d7f2aeff32ad4b1ba152e0ef7e00a96e|2|km_ganguli_translation_1.csv
 Vasuki|PER|cid_eee862bdb7af42798eadc05b4dcca91a|1|km_ganguli_translation_1.csv
-Vasuki, Takshaka, Kumara,|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
+Vasuki, Takshaka, Kumara|PER|cid_19456c73dbcb4bc48e0fb605eed3d9d4|1|km_ganguli_translation_1.csv
 Vasuman, Ashtaka, Pratarddana|PER|cid_fa800b8a0cf542b0b4511ede55d11b8f|1|km_ganguli_translation_1.csv
 Vasumat|MISC|cid_b64aaaea496b449381546b404d3668a6|1|km_ganguli_translation_1.csv
 Vasumat|PER|cid_8f5de78afd4c4e29a49c92e53e763f3f|1|km_ganguli_translation_1.csv
@@ -9165,7 +9155,7 @@ Vayu|PER|cid_5d9b09366d1448a0a10503b8a69e5639|1|km_ganguli_translation_1.csv
 Vayu|PER|cid_636734e5ea7f40fa8dfde0fa8756a95f|2|km_ganguli_translation_1.csv
 Vayu|PER|cid_ab165c2ed74e41f8b579fe82565fd43f|1|km_ganguli_translation_1.csv
 Vayu|PER|cid_be944207b5344fb9934684366205512a|1|km_ganguli_translation_1.csv
-Vayu (Bhima|PER|cid_e300a2562a6a47ee814f92ceee6f2cd6|1|km_ganguli_translation_1.csv
+Vayu Bhima|PER|cid_e300a2562a6a47ee814f92ceee6f2cd6|1|km_ganguli_translation_1.csv
 Vayuvega|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
 Vayuvega|PER|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.csv
 Ved|MISC|cid_3a95b44864a94c909cb75d9997c3765f|1|km_ganguli_translation_1.csv
@@ -9209,7 +9199,7 @@ Vedas|MISC|cid_df41902f48de4e188e305e5a4a5f66a3|2|km_ganguli_translation_1.csv
 Vedas|MISC|cid_e228e7045bb24fb2947158654e677128|1|km_ganguli_translation_1.csv
 Vedas|MISC|cid_e7c279ec36794b7f9962464cdd7d9ea9|1|km_ganguli_translation_1.csv
 Vedas|MISC|cid_f842042de5564d988f2340dcb926a8b0|1|km_ganguli_translation_1.csv
-Vedas, Yoga,|MISC|cid_9da0638ca40b4987ab6be62a284fe8ff|1|km_ganguli_translation_1.csv
+Vedas, Yoga|MISC|cid_9da0638ca40b4987ab6be62a284fe8ff|1|km_ganguli_translation_1.csv
 Vedic|MISC|cid_2c18046cd0a641559c91eb9e04f08ce0|1|km_ganguli_translation_1.csv
 Vedic|MISC|cid_ac7ec26c44584734b2b711dc3c3c9259|1|km_ganguli_translation_1.csv
 Vedic|MISC|cid_c19ba26aefb9404597909e231e5ad299|1|km_ganguli_translation_1.csv
@@ -9232,7 +9222,7 @@ Vibhatsu|PER|cid_c723584e730146129e4b15357edb0ea1|2|km_ganguli_translation_1.csv
 Vibhatsu|PER|cid_cb0d914e3c96499d9423e5df4f9419d6|1|km_ganguli_translation_1.csv
 Vibhatsu|PER|cid_e5762ced689241aba1b50c116c40a4e3|1|km_ganguli_translation_1.csv
 Vibhatsu|PER|cid_ec832a6169cb4e8cb324e951eb97b795|1|km_ganguli_translation_1.csv
-Vibhatsu (Arjuna)|PER|cid_c52fef590cb24253a9deee4dcf4190b0|1|km_ganguli_translation_1.csv
+Vibhatsu Arjuna|PER|cid_c52fef590cb24253a9deee4dcf4190b0|1|km_ganguli_translation_1.csv
 Vibhava|MISC|cid_e782bc42444d4e1aba7e635a9b80a63a|1|km_ganguli_translation_1.csv
 Vibhavasu|PER|cid_3f47c58f0e5742f7af260792c5a873db|1|km_ganguli_translation_1.csv
 Vibhavasu|PER|cid_6b165f1e30ff4eb48a7cd2eb7d36d51e|1|km_ganguli_translation_1.csv
@@ -9333,7 +9323,7 @@ Vikarna|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
 Vikarna|PER|cid_f2180ddc8819484e9729ad4baa0f50aa|1|km_ganguli_translation_1.csv
 Vikarna|PER|cid_f8d3a8492ae94dae90fb320faea85af5|2|km_ganguli_translation_1.csv
 Vikarna, Jalasandha, Sulochna, Vinda|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
-Vikartana (Surya|PER|cid_d5e15500c2c744338191f40ef3de1743|1|km_ganguli_translation_1.csv
+Vikartana Surya|PER|cid_d5e15500c2c744338191f40ef3de1743|1|km_ganguli_translation_1.csv
 Vikata|PER|cid_169dcbb247824032b70a72792ef8e220|1|km_ganguli_translation_1.csv
 Vikshara|PER|cid_674a6002570347efb59e623010fb41e9|2|km_ganguli_translation_1.csv
 Vikshara, Vala, Vira|PER|cid_8bce3a58e56b4a49bfc34285dc01a396|1|km_ganguli_translation_1.csv
@@ -9421,7 +9411,7 @@ Vishnu|PER|cid_df41902f48de4e188e305e5a4a5f66a3|1|km_ganguli_translation_1.csv
 Vishnu|PER|cid_e1a36dc7c75c49f5854c530fcb28f250|1|km_ganguli_translation_1.csv
 Vishnu|PER|cid_e5762ced689241aba1b50c116c40a4e3|1|km_ganguli_translation_1.csv
 Vishnu|PER|cid_e77d7466f7854140a9fb51779c110a8d|1|km_ganguli_translation_1.csv
-Vishnu)|PER|cid_7af10b88aaee429b87e197ad25bed5a4|1|km_ganguli_translation_1.csv
+Vishnu|PER|cid_7af10b88aaee429b87e197ad25bed5a4|1|km_ganguli_translation_1.csv
 Vishnuparva|MISC|cid_664dd3a80117478a8f25ce5a8823cae6|1|km_ganguli_translation_1.csv
 Vishwabhuk, Bhutadhaman|PER|cid_41d567aeee664dc7b7bec4bbcc50fef1|1|km_ganguli_translation_1.csv
 Viswa|PER|cid_674a6002570347efb59e623010fb41e9|1|km_ganguli_translation_1.csv
@@ -9467,7 +9457,7 @@ Vivaswat|PER|cid_a7fb12baf10a4cb7b22c97cb9cb2eccc|1|km_ganguli_translation_1.csv
 Vivaswat|PER|cid_c8f29e39841249f191e58e9910c69053|1|km_ganguli_translation_1.csv
 Vivaswat|PER|cid_e782bc42444d4e1aba7e635a9b80a63a|1|km_ganguli_translation_1.csv
 Vivaswat|PER|cid_fff290778510441da99d45da047a25cc|1|km_ganguli_translation_1.csv
-Vivaswat (Sun|PER|cid_57df9a426a2a4def8c9bd9ff4fff95f1|1|km_ganguli_translation_1.csv
+Vivaswat Sun|PER|cid_57df9a426a2a4def8c9bd9ff4fff95f1|1|km_ganguli_translation_1.csv
 Vivaswat, Pushan, Tvastri|PER|cid_65394ddb9e874464a9dcd0b8631e205d|1|km_ganguli_translation_1.csv
 Vivinsati|PER|cid_9c8633e60ea6483a8269c89adfd437c1|1|km_ganguli_translation_1.csv
 Vivinsati|PER|cid_f83a6030047946ba8f614270fc829009|1|km_ganguli_translation_1.csv
@@ -9495,7 +9485,7 @@ Vrihaspati|PER|cid_b5c55b43df7e4f9ab231b05206398050|2|km_ganguli_translation_1.c
 Vrihaspati|PER|cid_c2983927c0c043f6af53a65bad378a70|1|km_ganguli_translation_1.csv
 Vrihaspati|PER|cid_e7c279ec36794b7f9962464cdd7d9ea9|1|km_ganguli_translation_1.csv
 Vrihaspati|PER|cid_fe26f1f870da4f08b7166f55cb85b9d6|2|km_ganguli_translation_1.csv
-Vrihaspati, Utathya,|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
+Vrihaspati, Utathya|PER|cid_7056dc39095b43009f4ec738343c5682|1|km_ganguli_translation_1.csv
 Vrihat|PER|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.csv
 Vrihatsena|PER|cid_4812f30409c2446d9fe30c3390e7091d|1|km_ganguli_translation_1.csv
 Vrihatta, Vrihaka, Karala|PER|cid_60056eeebfba4977a986fcc323d493a9|1|km_ganguli_translation_1.csv
@@ -9519,11 +9509,11 @@ Vrikodara|PER|cid_a196b31d832c4649a5df8462f9d364cf|2|km_ganguli_translation_1.cs
 Vrikodara|PER|cid_d0a6224f2e844b6bb0161aef5c610b59|1|km_ganguli_translation_1.csv
 Vrikodara|PER|cid_eadd7f711e8747ee89e50c5519904964|1|km_ganguli_translation_1.csv
 Vrikodara|PER|cid_f490b036c3ac4661ad906aa3510ec28c|1|km_ganguli_translation_1.csv
-Vrikodara (Bhima|PER|cid_554a3695b374425a9eea0b5b49e78907|1|km_ganguli_translation_1.csv
-Vrikodara,|PER|cid_83319b3b789c48b38e7d98b584bf1265|1|km_ganguli_translation_1.csv
+Vrikodara Bhima|PER|cid_554a3695b374425a9eea0b5b49e78907|1|km_ganguli_translation_1.csv
+Vrikodara|PER|cid_83319b3b789c48b38e7d98b584bf1265|1|km_ganguli_translation_1.csv
 Vripadguru|PER|cid_eec74d52a8b5472b8d739fb12a19030a|1|km_ganguli_translation_1.csv
 Vrish|MISC|cid_4b70390961464dd580703270f0602280|1|km_ganguli_translation_1.csv
-Vrisha (Karna), Duhsasana|PER|cid_b93cb7605d094db0891b9e34699cfe7a|1|km_ganguli_translation_1.csv
+Vrisha Karna, Duhsasana|PER|cid_b93cb7605d094db0891b9e34699cfe7a|1|km_ganguli_translation_1.csv
 Vrishaparva|PER|cid_34a8aa2902e74118924de733e1537ded|1|km_ganguli_translation_1.csv
 Vrishaparvan|LOC|cid_ec19d2155912458a99fbd53279020192|1|km_ganguli_translation_1.csv
 Vrishaparvan|PER|cid_0f30692283604b6cb12e29e110e74dc5|1|km_ganguli_translation_1.csv
@@ -9635,7 +9625,7 @@ Vyasa|PER|cid_e1bd06817be04ff8a0847ddb097e9cde|3|km_ganguli_translation_1.csv
 Vyasa|PER|cid_e70f56ffc68a41c3b3990ade85d710f4|2|km_ganguli_translation_1.csv
 Vyasa|PER|cid_e99cb793fa6144c39fcc2ca85c7d8933|4|km_ganguli_translation_1.csv
 Vyasa|PER|cid_ee612bc362fa47fd9296a600e50d4199|1|km_ganguli_translation_1.csv
-Vyasa.|PER|cid_3a95b44864a94c909cb75d9997c3765f|1|km_ganguli_translation_1.csv
+Vyasa|PER|cid_3a95b44864a94c909cb75d9997c3765f|1|km_ganguli_translation_1.csv
 Vyushitas|PER|cid_a5a60af575df46ccbf4cf4ae52c8d30b|1|km_ganguli_translation_1.csv
 Vyushitaswa|PER|cid_2ad863ee019d400e9ae2e4770379cb91|1|km_ganguli_translation_1.csv
 Vyushitaswa|PER|cid_95119901d79f4b388a5ec1ace55252a6|1|km_ganguli_translation_1.csv
@@ -9675,7 +9665,7 @@ Yadu|PER|cid_bb54f1af77f1403b934f489351d9621e|3|km_ganguli_translation_1.csv
 Yadu|PER|cid_bcd074ccd6e14768a31c5494b25af226|1|km_ganguli_translation_1.csv
 Yadu|PER|cid_d100f7bee9834640a428bd349b8abcbf|2|km_ganguli_translation_1.csv
 Yadu|PER|cid_f3f0e2b1e85945aab8ebfcec44d29428|2|km_ganguli_translation_1.csv
-Yadus (Vrishnis|MISC|cid_1e94a04ebaae4d8ca5f4501086b31fc9|1|km_ganguli_translation_1.csv
+Yadus Vrishnis|MISC|cid_1e94a04ebaae4d8ca5f4501086b31fc9|1|km_ganguli_translation_1.csv
 Yaja|MISC|cid_6c72fed110c641a98b3ee55d2f3a8da6|1|km_ganguli_translation_1.csv
 Yaja|PER|cid_1f4f0fd9737241a6a42d6fab3d611c19|4|km_ganguli_translation_1.csv
 Yaja|PER|cid_3624207d26874d66a0abb6f96544907f|1|km_ganguli_translation_1.csv
@@ -9694,7 +9684,7 @@ Yajnasena|PER|cid_b50fc23441984f9a90787d4f10f6cb1a|1|km_ganguli_translation_1.cs
 Yajnasena|PER|cid_ca36ca3ea9f0460692cb0bf96abd229a|2|km_ganguli_translation_1.csv
 Yajnasena|PER|cid_cacb565c2f32489795df2c45b6ed1d1a|1|km_ganguli_translation_1.csv
 Yajnasena|PER|cid_e0eb07a93a50465b8435329af7074904|1|km_ganguli_translation_1.csv
-Yajnasena,|PER|cid_a937c7465b204d819439142b73e14155|1|km_ganguli_translation_1.csv
+Yajnasena|PER|cid_a937c7465b204d819439142b73e14155|1|km_ganguli_translation_1.csv
 Yajnaseni|PER|cid_a0a05db3ca2f4481916cc8b1bff1e3d5|1|km_ganguli_translation_1.csv
 Yajnaseni|PER|cid_b50fc23441984f9a90787d4f10f6cb1a|3|km_ganguli_translation_1.csv
 Yajur Vedas|MISC|cid_e99cb793fa6144c39fcc2ca85c7d8933|1|km_ganguli_translation_1.csv
@@ -9741,8 +9731,8 @@ Yama|PER|cid_dd0aa46153ee4c82a77a5694e40b660c|1|km_ganguli_translation_1.csv
 Yama|PER|cid_e1a36dc7c75c49f5854c530fcb28f250|1|km_ganguli_translation_1.csv
 Yama|PER|cid_eadd7f711e8747ee89e50c5519904964|1|km_ganguli_translation_1.csv
 Yama|PER|cid_f490b036c3ac4661ad906aa3510ec28c|1|km_ganguli_translation_1.csv
-Yama (Pluto|PER|cid_f982654a2fe642d48b9bf50718b818d6|1|km_ganguli_translation_1.csv
-Yama (Pluto)|PER|cid_199a912cd697446999fe850c451040fb|1|km_ganguli_translation_1.csv
+Yama Pluto|PER|cid_f982654a2fe642d48b9bf50718b818d6|1|km_ganguli_translation_1.csv
+Yama Pluto|PER|cid_199a912cd697446999fe850c451040fb|1|km_ganguli_translation_1.csv
 Yamuna|LOC|cid_2a9fe4259eb84bea86809274c200a944|1|km_ganguli_translation_1.csv
 Yamuna|LOC|cid_91a573241e8249dfb1feb6ecfc4799f3|1|km_ganguli_translation_1.csv
 Yamuna|LOC|cid_af6a64aaefd747adb039dd8117760e6a|2|km_ganguli_translation_1.csv
@@ -9804,8 +9794,8 @@ Yayati|PER|cid_ef3aac80935147ceb0f1ecdd5cbcc7de|4|km_ganguli_translation_1.csv
 Yayati|PER|cid_f3f0e2b1e85945aab8ebfcec44d29428|2|km_ganguli_translation_1.csv
 Yayati|PER|cid_fa65fc0e5d434066baa49081d0f234b1|2|km_ganguli_translation_1.csv
 Yayati|PER|cid_fa800b8a0cf542b0b4511ede55d11b8f|3|km_ganguli_translation_1.csv
-Yayati,|PER|cid_01eaedd3bfcc43f4880d71b371520752|1|km_ganguli_translation_1.csv
-Yayati,|PER|cid_fa800b8a0cf542b0b4511ede55d11b8f|1|km_ganguli_translation_1.csv
+Yayati|PER|cid_01eaedd3bfcc43f4880d71b371520752|1|km_ganguli_translation_1.csv
+Yayati|PER|cid_fa800b8a0cf542b0b4511ede55d11b8f|1|km_ganguli_translation_1.csv
 Yayati, Sanyati, Ayati|PER|cid_a58e9a6ecdb5481187bdd2c580617e83|1|km_ganguli_translation_1.csv
 Yayavara|ORG|cid_5168fdf05d1a4aeca7290c9e6dfb7807|1|km_ganguli_translation_1.csv
 Yayavaras|MISC|cid_a8921cb91c9e45fe8267ce84feea466a|1|km_ganguli_translation_1.csv
@@ -9817,7 +9807,7 @@ Yogins|MISC|cid_2bd7712a7667428b84f4fabf985bdb0d|1|km_ganguli_translation_1.csv
 Yojana|MISC|cid_24676b7899f24357a7001352d12c9c1a|1|km_ganguli_translation_1.csv
 Yojanagandha|PER|cid_91a573241e8249dfb1feb6ecfc4799f3|1|km_ganguli_translation_1.csv
 Yojanas|MISC|cid_49ab7b641f4547e7b86e6dfcedb95018|1|km_ganguli_translation_1.csv
-Yotis,|MISC|cid_2174aee5baa54b74b1babaf24324267b|1|km_ganguli_translation_1.csv
+Yotis|MISC|cid_2174aee5baa54b74b1babaf24324267b|1|km_ganguli_translation_1.csv
 Your Majesty|MISC|cid_a64ce387bbff4f64a7ca9c27997c4aea|2|km_ganguli_translation_1.csv
 Yu|LOC|cid_e77d7466f7854140a9fb51779c110a8d|1|km_ganguli_translation_1.csv
 Yu|MISC|cid_9ffa4cb6284e425bb89803b2ff9a8568|1|km_ganguli_translation_1.csv
@@ -9934,7 +9924,7 @@ Yudhishthira|PER|cid_f02ac16689454a119d25dec8a89c8d62|1|km_ganguli_translation_1
 Yudhishthira|PER|cid_f1dfe2a583594556889f4b79c3d29002|2|km_ganguli_translation_1.csv
 Yudhishthira|PER|cid_f490b036c3ac4661ad906aa3510ec28c|1|km_ganguli_translation_1.csv
 Yudhishthira|PER|cid_f5edead4c28d4aeea374dd8ab13bbbcf|1|km_ganguli_translation_1.csv
-Yudhishthira.|PER|cid_4f6fd4558edb4cfe84e8fe1b3ad25b52|1|km_ganguli_translation_1.csv
+Yudhishthira|PER|cid_4f6fd4558edb4cfe84e8fe1b3ad25b52|1|km_ganguli_translation_1.csv
 Yudishthira|PER|cid_5ff958a2ed5c4090a0aadefaf27f7aa2|1|km_ganguli_translation_1.csv
 Yuga|LOC|cid_636734e5ea7f40fa8dfde0fa8756a95f|1|km_ganguli_translation_1.csv
 Yuga|LOC|cid_e0b70d6f485949638a24590d441b97cc|1|km_ganguli_translation_1.csv
@@ -10044,7 +10034,7 @@ ha|MISC|cid_555d94f59bea40499ed71071fc5a3ea9|1|km_ganguli_translation_1.csv
 ha|MISC|cid_c6c0843a1b244f30aec84d17741fd321|1|km_ganguli_translation_1.csv
 ha|MISC|cid_fdbf31d06dd24c39bff6ba287e90417c|1|km_ganguli_translation_1.csv
 ha|PER|cid_af6a64aaefd747adb039dd8117760e6a|1|km_ganguli_translation_1.csv
-hagavat-|MISC|cid_c2075b77dbce4376803990f4c95fb1d7|1|km_ganguli_translation_1.csv
+hagavat|MISC|cid_c2075b77dbce4376803990f4c95fb1d7|1|km_ganguli_translation_1.csv
 har|ORG|cid_98fe38d6eec745ea8dff87a8462dfb79|1|km_ganguli_translation_1.csv
 har|PER|cid_1f3b6f63060648d492cbd0ae6f98a179|1|km_ganguli_translation_1.csv
 has|MISC|cid_931247b417644aabbda94fc3eb5f6b6e|1|km_ganguli_translation_1.csv
@@ -10255,19 +10245,19 @@ the Adi Parva|MISC|cid_9ffa4cb6284e425bb89803b2ff9a8568|1|km_ganguli_translation
 the Adi Parva|MISC|cid_d3e3215c5d994791855d956f95dec8a9|1|km_ganguli_translation_1.csv
 the Adi Parva|MISC|cid_d940ce8f242345c99aaa7f9c0fa418d6|1|km_ganguli_translation_1.csv
 the Adi Parva|MISC|cid_df6b29168faf4bb5bc36ece74c1f196c|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_0f1fe494185249bdab5ff34d9eae28ab|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_43ad59021f5f469497934d26bb393405|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_621a8a47dc8244b6bcc7645b44dee5e4|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_733a30aa58aa4d2fba55ee8102821ea4|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_7b30cf545f0e49dd98c2b2a4128b9227|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_8775924704c148519c3d19ab3c6b0510|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_9208a7e0824a4df8843d70cb8c3da61c|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_95ccccfb86b84787b2deed81eef335b8|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_97f02163003c405e883cd5316a3d0406|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_985712d1a52f4816a100ea1041bd0d8e|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_9c9fe51d71bd4dfc9911791d4961b470|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_c734f1c4118b4120a57c7318ce55536f|1|km_ganguli_translation_1.csv
-the Adi Parva.|MISC|cid_dd8c527432d540c9a86e643c6d929c43|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_0f1fe494185249bdab5ff34d9eae28ab|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_43ad59021f5f469497934d26bb393405|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_621a8a47dc8244b6bcc7645b44dee5e4|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_733a30aa58aa4d2fba55ee8102821ea4|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_7b30cf545f0e49dd98c2b2a4128b9227|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_8775924704c148519c3d19ab3c6b0510|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_9208a7e0824a4df8843d70cb8c3da61c|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_95ccccfb86b84787b2deed81eef335b8|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_97f02163003c405e883cd5316a3d0406|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_985712d1a52f4816a100ea1041bd0d8e|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_9c9fe51d71bd4dfc9911791d4961b470|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_c734f1c4118b4120a57c7318ce55536f|1|km_ganguli_translation_1.csv
+the Adi Parva|MISC|cid_dd8c527432d540c9a86e643c6d929c43|1|km_ganguli_translation_1.csv
 the Agnihotra|MISC|cid_e0eb07a93a50465b8435329af7074904|1|km_ganguli_translation_1.csv
 the Agnihotra|MISC|cid_f5edead4c28d4aeea374dd8ab13bbbcf|1|km_ganguli_translation_1.csv
 the Andhaka-Vrishnis|MISC|cid_faaa80fc8f4f46d7a0816d1fe44e0c0e|1|km_ganguli_translation_1.csv

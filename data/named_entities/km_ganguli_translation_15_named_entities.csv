@@ -1,18 +1,17 @@
 name|entity|chunk_id|count|file
-"""'Dhritarashtra"|PER|cid_07a53e7c2d064316b18f1daf4de86b12|1|km_ganguli_translation_15.csv
-"""'Dhritarashtra"|PER|cid_a550b601a63d4603a176bff34b6a5eee|1|km_ganguli_translation_15.csv
-"""'Kunti"|PER|cid_cccd6ae9fbfc4aa2b362290ce32dc486|1|km_ganguli_translation_15.csv
-"""Vaisampayana"|PER|cid_28b81e3b01374e119a3521ab0a7c9c8a|1|km_ganguli_translation_15.csv
-"""Vaisampayana"|PER|cid_7bde21852e9149838e3e77cdf6a665b4|1|km_ganguli_translation_15.csv
-'Dhritarashtra|PER|cid_50ad5f7e393f44d1b4fb7ae1bfe7e6fa|1|km_ganguli_translation_15.csv
-'Dhritarashtra|PER|cid_7fa12b9ed9dc4d829be8003c9ef170a2|1|km_ganguli_translation_15.csv
-'Kunti|PER|cid_30dc3ec03d244bddbc55cd40873a5736|1|km_ganguli_translation_15.csv
-'Kunti|PER|cid_716a9b6cd3a644528a31029b6f59f275|1|km_ganguli_translation_15.csv
-'Narada|PER|cid_50dea55bcd504cf888f53f1d2397d1eb|1|km_ganguli_translation_15.csv
-'Narada|PER|cid_86a32abf5fe34a41951a4ef81ae2044c|1|km_ganguli_translation_15.csv
-'Narada|PER|cid_e43a5c1284564431a65986aeb5d904eb|1|km_ganguli_translation_15.csv
-'Vyasa|PER|cid_51bbedadf3ac4e31a58230455b7597e6|1|km_ganguli_translation_15.csv
-,|PER|cid_df706713628446e3afad7d2949f5bdd7|1|km_ganguli_translation_15.csv
+Dhritarashtra|PER|cid_07a53e7c2d064316b18f1daf4de86b12|1|km_ganguli_translation_15.csv
+Dhritarashtra|PER|cid_a550b601a63d4603a176bff34b6a5eee|1|km_ganguli_translation_15.csv
+Kunti|PER|cid_cccd6ae9fbfc4aa2b362290ce32dc486|1|km_ganguli_translation_15.csv
+Vaisampayana|PER|cid_28b81e3b01374e119a3521ab0a7c9c8a|1|km_ganguli_translation_15.csv
+Vaisampayana|PER|cid_7bde21852e9149838e3e77cdf6a665b4|1|km_ganguli_translation_15.csv
+Dhritarashtra|PER|cid_50ad5f7e393f44d1b4fb7ae1bfe7e6fa|1|km_ganguli_translation_15.csv
+Dhritarashtra|PER|cid_7fa12b9ed9dc4d829be8003c9ef170a2|1|km_ganguli_translation_15.csv
+Kunti|PER|cid_30dc3ec03d244bddbc55cd40873a5736|1|km_ganguli_translation_15.csv
+Kunti|PER|cid_716a9b6cd3a644528a31029b6f59f275|1|km_ganguli_translation_15.csv
+Narada|PER|cid_50dea55bcd504cf888f53f1d2397d1eb|1|km_ganguli_translation_15.csv
+Narada|PER|cid_86a32abf5fe34a41951a4ef81ae2044c|1|km_ganguli_translation_15.csv
+Narada|PER|cid_e43a5c1284564431a65986aeb5d904eb|1|km_ganguli_translation_15.csv
+Vyasa|PER|cid_51bbedadf3ac4e31a58230455b7597e6|1|km_ganguli_translation_15.csv
 Abhimanyu|PER|cid_51bbedadf3ac4e31a58230455b7597e6|1|km_ganguli_translation_15.csv
 Abhimanyu|PER|cid_7efca7d9d8944d41902d5ef97ea34638|1|km_ganguli_translation_15.csv
 Abhimanyu|PER|cid_87e22b59afc949bdbbcf4d49dd1a8d7f|1|km_ganguli_translation_15.csv
@@ -320,7 +319,7 @@ Drona|PER|cid_7efca7d9d8944d41902d5ef97ea34638|1|km_ganguli_translation_15.csv
 Drona|PER|cid_83e5e405626b4584a630bc00cd68a183|1|km_ganguli_translation_15.csv
 Drona|PER|cid_afedf9d36ded4ad0a8460e84bf9115a7|1|km_ganguli_translation_15.csv
 Drona|PER|cid_d206a5d8097e49b2ab2b6fb3e120fbbc|1|km_ganguli_translation_15.csv
-Drona Parva,|MISC|cid_771ecbba7e4145c0a09168f1b0c33f26|1|km_ganguli_translation_15.csv
+Drona Parva|MISC|cid_771ecbba7e4145c0a09168f1b0c33f26|1|km_ganguli_translation_15.csv
 Drupada|PER|cid_16d81ccca3fe455daee93d4739ecf77c|1|km_ganguli_translation_15.csv
 Drupada|PER|cid_597fa8efe2064e3e974da93b72274a65|1|km_ganguli_translation_15.csv
 Drupada|PER|cid_b70c231dcbb44fb7bb9a4605011679de|1|km_ganguli_translation_15.csv
@@ -484,7 +483,7 @@ Irregulars|MISC|cid_771ecbba7e4145c0a09168f1b0c33f26|1|km_ganguli_translation_15
 Island|LOC|cid_1457261c2e674fd9ad7680ae2b5de284|1|km_ganguli_translation_15.csv
 Island|LOC|cid_50dea55bcd504cf888f53f1d2397d1eb|1|km_ganguli_translation_15.csv
 Island|MISC|cid_5975613ccd1e4c1bb004bc894dd50fe0|1|km_ganguli_translation_15.csv
-Island-|MISC|cid_e735ca0d0a17464e9c6b27c1838f4634|1|km_ganguli_translation_15.csv
+Island|MISC|cid_e735ca0d0a17464e9c6b27c1838f4634|1|km_ganguli_translation_15.csv
 Jalasandha|PER|cid_16d81ccca3fe455daee93d4739ecf77c|1|km_ganguli_translation_15.csv
 Janamejaya|PER|cid_01f1e5cfcf9444c6be393eadc047a48e|1|km_ganguli_translation_15.csv
 Janamejaya|PER|cid_1457261c2e674fd9ad7680ae2b5de284|1|km_ganguli_translation_15.csv
@@ -821,7 +820,7 @@ O regenerate one|MISC|cid_bd49961492fd41a580fceb0d563278b7|1|km_ganguli_translat
 O royal|MISC|cid_cd67ee0dcc8e4209a0d2d32274425ede|1|km_ganguli_translation_15.csv
 O royal|MISC|cid_f4d8f2238cb24be79df0508248133464|1|km_ganguli_translation_15.csv
 O scorcher of|MISC|cid_cc6c53df824d421f9cb128ec235cb322|1|km_ganguli_translation_15.csv
-O sinless one,|MISC|cid_01f1e5cfcf9444c6be393eadc047a48e|1|km_ganguli_translation_15.csv
+O sinless one|MISC|cid_01f1e5cfcf9444c6be393eadc047a48e|1|km_ganguli_translation_15.csv
 O slayer of foes|MISC|cid_a3c2a00f35fd4aaeb518a7e8a93285ae|1|km_ganguli_translation_15.csv
 O son|MISC|cid_a424fa4e20fb45f08dd64a5434295ade|1|km_ganguli_translation_15.csv
 O son of|MISC|cid_43619ec8520c4542ac2c03b625cc4099|1|km_ganguli_translation_15.csv
@@ -902,7 +901,7 @@ Phalguna|MISC|cid_2e70ec37558b4d2f91dd8f4c67606f09|1|km_ganguli_translation_15.c
 Phalguna|PER|cid_3ae923e28525458f90f0e98369dffdf8|1|km_ganguli_translation_15.csv
 Phalguna|PER|cid_b70c231dcbb44fb7bb9a4605011679de|1|km_ganguli_translation_15.csv
 Phalguna|PER|cid_e24069b81083440fb5b8200e650383bd|1|km_ganguli_translation_15.csv
-Phaseolus Mango.|MISC|cid_15d43f629b744492a26af7ff9bc21160|1|km_ganguli_translation_15.csv
+Phaseolus Mango|MISC|cid_15d43f629b744492a26af7ff9bc21160|1|km_ganguli_translation_15.csv
 Phatik jal|MISC|cid_7140adb915d844b891ee0156d6f3d9f5|1|km_ganguli_translation_15.csv
 Pisa|PER|cid_51bbedadf3ac4e31a58230455b7597e6|1|km_ganguli_translation_15.csv
 Pisachas|PER|cid_29f6e28649e1453f903b0f60ebe5c3cf|1|km_ganguli_translation_15.csv
@@ -1271,8 +1270,8 @@ Yamuna|LOC|cid_b9d52604076545b1be559ca409ad1d4b|1|km_ganguli_translation_15.csv
 Yoga|MISC|cid_67f5d568a9b542bb849682001e324aba|2|km_ganguli_translation_15.csv
 Yoga|MISC|cid_6ca8bdd4e8284fd79bf3700e46508de6|1|km_ganguli_translation_15.csv
 Yoga|MISC|cid_e3050befb6424a2ba8650c1a20efbdf5|1|km_ganguli_translation_15.csv
-Yoga) puissance|MISC|cid_bd49961492fd41a580fceb0d563278b7|1|km_ganguli_translation_15.csv
-Yoga-|MISC|cid_67f5d568a9b542bb849682001e324aba|1|km_ganguli_translation_15.csv
+Yoga puissance|MISC|cid_bd49961492fd41a580fceb0d563278b7|1|km_ganguli_translation_15.csv
+Yoga|MISC|cid_67f5d568a9b542bb849682001e324aba|1|km_ganguli_translation_15.csv
 Yoga-power|MISC|cid_67f5d568a9b542bb849682001e324aba|1|km_ganguli_translation_15.csv
 Yoga-pu|MISC|cid_6ca8bdd4e8284fd79bf3700e46508de6|1|km_ganguli_translation_15.csv
 Yoga-puissance|MISC|cid_771081ba88734fe0987086dbc96d419b|1|km_ganguli_translation_15.csv
@@ -1344,8 +1343,8 @@ Yudhishthira|PER|cid_e9331157b9bd4a8db9ad3ad19e07b05f|1|km_ganguli_translation_1
 Yudhishthira|PER|cid_f99096fe76e8426e9c509790305299db|1|km_ganguli_translation_15.csv
 Yudhishthira|PER|cid_fc60db4116fd4a6b93129c11b8b9fb79|2|km_ganguli_translation_15.csv
 Yudhishthira the Just|PER|cid_30dc3ec03d244bddbc55cd40873a5736|1|km_ganguli_translation_15.csv
-Yudhishthira,|PER|cid_e24069b81083440fb5b8200e650383bd|1|km_ganguli_translation_15.csv
-Yuyudhana,|PER|cid_d206a5d8097e49b2ab2b6fb3e120fbbc|1|km_ganguli_translation_15.csv
+Yudhishthira|PER|cid_e24069b81083440fb5b8200e650383bd|1|km_ganguli_translation_15.csv
+Yuyudhana|PER|cid_d206a5d8097e49b2ab2b6fb3e120fbbc|1|km_ganguli_translation_15.csv
 Yuyutsu|PER|cid_28b81e3b01374e119a3521ab0a7c9c8a|1|km_ganguli_translation_15.csv
 Yuyutsu|PER|cid_589805514d3e414988cb7e10d1efe7f9|2|km_ganguli_translation_15.csv
 Yuyutsu|PER|cid_72caf8dee04a47d390e01934d7652a80|1|km_ganguli_translation_15.csv

@@ -1,10 +1,10 @@
 name|entity|chunk_id|count|file
-"""Book of Instructions"|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|1|wikipedia_parva_summaries.csv
-"""Book of the Forest"|MISC|cid_cid_fa63e6f8b8ac4257b7b7bac39f55b14b|1|wikipedia_parva_summaries.csv
-"""Book of the Hermitage"|MISC|cid_cid_ec45bb3db7ea4284918194e1ebcaaa9b|1|wikipedia_parva_summaries.csv
-"""Book of the Sleepers"|MISC|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
-, Krishna, Satyaki|PER|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
-, Shikhandini, Uttamaujas, Yudhamanyu|PER|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
+Book of Instructions|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|1|wikipedia_parva_summaries.csv
+Book of the Forest|MISC|cid_cid_fa63e6f8b8ac4257b7b7bac39f55b14b|1|wikipedia_parva_summaries.csv
+Book of the Hermitage|MISC|cid_cid_ec45bb3db7ea4284918194e1ebcaaa9b|1|wikipedia_parva_summaries.csv
+Book of the Sleepers|MISC|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
+ Krishna, Satyaki|PER|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
+ Shikhandini, Uttamaujas, Yudhamanyu|PER|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
 Abhimanyu|PER|cid_cid_ad85990c0b734520813c28dfb3970ccf|2|wikipedia_parva_summaries.csv
 Abhimanyu, Jayadratha, Drona, Ghatotkacha|PER|cid_cid_143cd3c4bc7a4baa919750830b47644f|1|wikipedia_parva_summaries.csv
 Adi Parva|MISC|cid_cid_9148009e3fe34e6bbac0c429030084d1|4|wikipedia_parva_summaries.csv
@@ -12,8 +12,8 @@ Adi Shankara|PER|cid_cid_8a420a054aae418caa80fbaf8fff4941|1|wikipedia_parva_summ
 Anugita|PER|cid_cid_0e659c85305243eeb07fad77c5f286c7|2|wikipedia_parva_summaries.csv
 Anugita parva|MISC|cid_cid_0e659c85305243eeb07fad77c5f286c7|1|wikipedia_parva_summaries.csv
 Anushasana Parva|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|4|wikipedia_parva_summaries.csv
-Anushasana Parva (Sans|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|1|wikipedia_parva_summaries.csv
-Anuśāsanaparva)|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|1|wikipedia_parva_summaries.csv
+Anushasana Parva Sans|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|1|wikipedia_parva_summaries.csv
+Anuśāsanaparva|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|1|wikipedia_parva_summaries.csv
 Arjuna|PER|cid_cid_0e659c85305243eeb07fad77c5f286c7|1|wikipedia_parva_summaries.csv
 Arjuna|PER|cid_cid_392b8e9bf47b47738b43f757f2de75c0|1|wikipedia_parva_summaries.csv
 Arjuna|PER|cid_cid_ad85990c0b734520813c28dfb3970ccf|2|wikipedia_parva_summaries.csv
@@ -149,7 +149,7 @@ Mahabharata|MISC|cid_cid_f38bbe37d0864163bce6266046f67dca|2|wikipedia_parva_summ
 Mahabharata|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|4|wikipedia_parva_summaries.csv
 Mahabharata|MISC|cid_cid_fa63e6f8b8ac4257b7b7bac39f55b14b|1|wikipedia_parva_summaries.csv
 Mahaprasthanika Parva|MISC|cid_cid_4c93e8f3a5cd467ba2fa119de78a9045|2|wikipedia_parva_summaries.csv
-Mahaprasthanika Parva.|MISC|cid_cid_4c93e8f3a5cd467ba2fa119de78a9045|1|wikipedia_parva_summaries.csv
+Mahaprasthanika Parva|MISC|cid_cid_4c93e8f3a5cd467ba2fa119de78a9045|1|wikipedia_parva_summaries.csv
 Mahābhārata. Udyoga Parva|MISC|cid_cid_8a420a054aae418caa80fbaf8fff4941|1|wikipedia_parva_summaries.csv
 Malini|PER|cid_cid_8a3285e2deb8487b86ce54fda87cbbd2|1|wikipedia_parva_summaries.csv
 Manuscript|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|1|wikipedia_parva_summaries.csv
@@ -212,16 +212,16 @@ Spitzer Manuscript|MISC|cid_cid_f96f012f369b44d8aecaaf16a5b868e9|1|wikipedia_par
 Stree Parva|MISC|cid_cid_07a81a325b5a4a618d973f6e49e203e4|1|wikipedia_parva_summaries.csv
 Subsequent Gita|MISC|cid_cid_0e659c85305243eeb07fad77c5f286c7|1|wikipedia_parva_summaries.csv
 Svargarohana Parva|MISC|cid_cid_f38bbe37d0864163bce6266046f67dca|1|wikipedia_parva_summaries.csv
-Svargarohana Parva (|MISC|cid_cid_f38bbe37d0864163bce6266046f67dca|1|wikipedia_parva_summaries.csv
+Svargarohana Parva |MISC|cid_cid_f38bbe37d0864163bce6266046f67dca|1|wikipedia_parva_summaries.csv
 Tantipala|PER|cid_cid_8a3285e2deb8487b86ce54fda87cbbd2|1|wikipedia_parva_summaries.csv
 Taxila|LOC|cid_cid_9148009e3fe34e6bbac0c429030084d1|1|wikipedia_parva_summaries.csv
 The Adi Parva|MISC|cid_cid_5f863cddd7104055b737ff2e4aeb3a7d|1|wikipedia_parva_summaries.csv
 The Bhishma Parva|MISC|cid_cid_ad85990c0b734520813c28dfb3970ccf|1|wikipedia_parva_summaries.csv
 The Book of the Beginning|MISC|cid_cid_9148009e3fe34e6bbac0c429030084d1|1|wikipedia_parva_summaries.csv
 The Celestial Song|MISC|cid_cid_ad85990c0b734520813c28dfb3970ccf|1|wikipedia_parva_summaries.csv
-The Drona Parva (San|MISC|cid_cid_143cd3c4bc7a4baa919750830b47644f|1|wikipedia_parva_summaries.csv
+The Drona Parva San|MISC|cid_cid_143cd3c4bc7a4baa919750830b47644f|1|wikipedia_parva_summaries.csv
 The Harivamsa|MISC|cid_cid_5f863cddd7104055b737ff2e4aeb3a7d|1|wikipedia_parva_summaries.csv
-The Karna Parva (San|MISC|cid_cid_392b8e9bf47b47738b43f757f2de75c0|1|wikipedia_parva_summaries.csv
+The Karna Parva San|MISC|cid_cid_392b8e9bf47b47738b43f757f2de75c0|1|wikipedia_parva_summaries.csv
 The Kauravas|MISC|cid_cid_8a420a054aae418caa80fbaf8fff4941|1|wikipedia_parva_summaries.csv
 The Mausala Parva|MISC|cid_cid_ab0e62c2df6348dbbe419123932e88b6|1|wikipedia_parva_summaries.csv
 The Pandavas|MISC|cid_cid_8a420a054aae418caa80fbaf8fff4941|1|wikipedia_parva_summaries.csv
@@ -229,10 +229,10 @@ The Parva|MISC|cid_cid_392b8e9bf47b47738b43f757f2de75c0|1|wikipedia_parva_summar
 The Parva|MISC|cid_cid_f38bbe37d0864163bce6266046f67dca|1|wikipedia_parva_summaries.csv
 The Sauptika Parva|MISC|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
 The Shalya Parva|MISC|cid_cid_15dd4139bd12412db8897d30806f8e07|1|wikipedia_parva_summaries.csv
-The Shanti Parva (Sanskrit|MISC|cid_cid_d8af30e01b604d338d4cad6f4c0c9a4a|1|wikipedia_parva_summaries.csv
+The Shanti Parva Sanskrit|MISC|cid_cid_d8af30e01b604d338d4cad6f4c0c9a4a|1|wikipedia_parva_summaries.csv
 The Shanti parva|MISC|cid_cid_d8af30e01b604d338d4cad6f4c0c9a4a|1|wikipedia_parva_summaries.csv
 The Song of the Lord|MISC|cid_cid_ad85990c0b734520813c28dfb3970ccf|1|wikipedia_parva_summaries.csv
-The Stri Parva (Sanskrit|MISC|cid_cid_07a81a325b5a4a618d973f6e49e203e4|1|wikipedia_parva_summaries.csv
+The Stri Parva Sanskrit|MISC|cid_cid_07a81a325b5a4a618d973f6e49e203e4|1|wikipedia_parva_summaries.csv
 The Udyoga Parva|MISC|cid_cid_8a420a054aae418caa80fbaf8fff4941|1|wikipedia_parva_summaries.csv
 The parva|MISC|cid_cid_d8af30e01b604d338d4cad6f4c0c9a4a|1|wikipedia_parva_summaries.csv
 Udyoga Parva|MISC|cid_cid_8a420a054aae418caa80fbaf8fff4941|3|wikipedia_parva_summaries.csv
@@ -276,14 +276,14 @@ rava|ORG|cid_cid_15dd4139bd12412db8897d30806f8e07|1|wikipedia_parva_summaries.cs
 rava|ORG|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
 s|MISC|cid_cid_0e659c85305243eeb07fad77c5f286c7|1|wikipedia_parva_summaries.csv
 s|MISC|cid_cid_5f863cddd7104055b737ff2e4aeb3a7d|1|wikipedia_parva_summaries.csv
-"the ""Book of the Women,"|MISC|cid_cid_07a81a325b5a4a618d973f6e49e203e4|1|wikipedia_parva_summaries.csv
+the Book of the Women|MISC|cid_cid_07a81a325b5a4a618d973f6e49e203e4|1|wikipedia_parva_summaries.csv
 the Bhrigus|MISC|cid_cid_9148009e3fe34e6bbac0c429030084d1|1|wikipedia_parva_summaries.csv
 the Bhāratas|MISC|cid_cid_9148009e3fe34e6bbac0c429030084d1|1|wikipedia_parva_summaries.csv
-the Book of Bhishma,|MISC|cid_cid_ad85990c0b734520813c28dfb3970ccf|1|wikipedia_parva_summaries.csv
-the Book of Drona,|MISC|cid_cid_143cd3c4bc7a4baa919750830b47644f|1|wikipedia_parva_summaries.csv
-the Book of Effort,|MISC|cid_cid_8a420a054aae418caa80fbaf8fff4941|1|wikipedia_parva_summaries.csv
-the Book of Karna,|MISC|cid_cid_392b8e9bf47b47738b43f757f2de75c0|1|wikipedia_parva_summaries.csv
-the Book of Shalya,|MISC|cid_cid_15dd4139bd12412db8897d30806f8e07|1|wikipedia_parva_summaries.csv
+the Book of Bhishma|MISC|cid_cid_ad85990c0b734520813c28dfb3970ccf|1|wikipedia_parva_summaries.csv
+the Book of Drona|MISC|cid_cid_143cd3c4bc7a4baa919750830b47644f|1|wikipedia_parva_summaries.csv
+the Book of Effort|MISC|cid_cid_8a420a054aae418caa80fbaf8fff4941|1|wikipedia_parva_summaries.csv
+the Book of Karna|MISC|cid_cid_392b8e9bf47b47738b43f757f2de75c0|1|wikipedia_parva_summaries.csv
+the Book of Shalya|MISC|cid_cid_15dd4139bd12412db8897d30806f8e07|1|wikipedia_parva_summaries.csv
 the Harivamsa|MISC|cid_cid_5f863cddd7104055b737ff2e4aeb3a7d|1|wikipedia_parva_summaries.csv
 the Hawk|MISC|cid_cid_fa63e6f8b8ac4257b7b7bac39f55b14b|1|wikipedia_parva_summaries.csv
 the Kali Yuga|MISC|cid_cid_5f863cddd7104055b737ff2e4aeb3a7d|1|wikipedia_parva_summaries.csv
@@ -303,15 +303,15 @@ the Yadavas|MISC|cid_cid_ab0e62c2df6348dbbe419123932e88b6|1|wikipedia_parva_summ
 आदि|MISC|cid_cid_9148009e3fe34e6bbac0c429030084d1|1|wikipedia_parva_summaries.csv
 आश्रमवासिक पर्व|MISC|cid_cid_ec45bb3db7ea4284918194e1ebcaaa9b|1|wikipedia_parva_summaries.csv
 उद्योग पर्वः|MISC|cid_cid_8a420a054aae418caa80fbaf8fff4941|1|wikipedia_parva_summaries.csv
-कर्ण पर्व),|MISC|cid_cid_392b8e9bf47b47738b43f757f2de75c0|1|wikipedia_parva_summaries.csv
-द्रोण पर्व),|MISC|cid_cid_143cd3c4bc7a4baa919750830b47644f|1|wikipedia_parva_summaries.csv
+कर्ण पर्व|MISC|cid_cid_392b8e9bf47b47738b43f757f2de75c0|1|wikipedia_parva_summaries.csv
+द्रोण पर्व|MISC|cid_cid_143cd3c4bc7a4baa919750830b47644f|1|wikipedia_parva_summaries.csv
 भीष्म पर्व|MISC|cid_cid_ad85990c0b734520813c28dfb3970ccf|1|wikipedia_parva_summaries.csv
 महाप्रस्थानिक पर्व|MISC|cid_cid_4c93e8f3a5cd467ba2fa119de78a9045|1|wikipedia_parva_summaries.csv
-मौसल पर्व,|MISC|cid_cid_ab0e62c2df6348dbbe419123932e88b6|1|wikipedia_parva_summaries.csv
-शल्य पर्व),|MISC|cid_cid_15dd4139bd12412db8897d30806f8e07|1|wikipedia_parva_summaries.csv
+मौसल पर्व|MISC|cid_cid_ab0e62c2df6348dbbe419123932e88b6|1|wikipedia_parva_summaries.csv
+शल्य पर्व|MISC|cid_cid_15dd4139bd12412db8897d30806f8e07|1|wikipedia_parva_summaries.csv
 शान्ति पर्व|MISC|cid_cid_d8af30e01b604d338d4cad6f4c0c9a4a|1|wikipedia_parva_summaries.csv
 सौप्तिक पर्व|MISC|cid_cid_ea833263d6974464b1a9d003a2e26921|1|wikipedia_parva_summaries.csv
-स्त्री पर्व),|MISC|cid_cid_07a81a325b5a4a618d973f6e49e203e4|1|wikipedia_parva_summaries.csv
-स्वर्गारोहण पर्व)|MISC|cid_cid_f38bbe37d0864163bce6266046f67dca|1|wikipedia_parva_summaries.csv
+स्त्री पर्व|MISC|cid_cid_07a81a325b5a4a618d973f6e49e203e4|1|wikipedia_parva_summaries.csv
+स्वर्गारोहण पर्व|MISC|cid_cid_f38bbe37d0864163bce6266046f67dca|1|wikipedia_parva_summaries.csv
 हरिवंश Harivamśa|MISC|cid_cid_5f863cddd7104055b737ff2e4aeb3a7d|1|wikipedia_parva_summaries.csv
 “Book of Virata|MISC|cid_cid_8a3285e2deb8487b86ce54fda87cbbd2|1|wikipedia_parva_summaries.csv
