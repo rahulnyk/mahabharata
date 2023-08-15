@@ -1,5 +1,5 @@
 book_number|section|section_name|text|para_number|book_name|num_tokens|chunk_id
-10|NA|NA|"The Mahabharata
+10|||"The Mahabharata
 
 of
 
@@ -24,8 +24,8 @@ formatting at sacred-texts.com, by J. B. Hare, October 2003.
 
 
 
-"|1|Sauptika Parva|94|49a2d7fff1ba40c1ae67892c81720c3a
-10|1||"
+"|1|Sauptika Parva|94|cid_49a2d7fff1ba40c1ae67892c81720c3a
+10|1.0||"
 Om! Having bowed down unto Narayana, and Nara the most exalted of male
 beings, and unto the goddess Sarasvati, must the word Jaya be uttered!
 
@@ -56,8 +56,8 @@ days as a slave obedient to the commands of Pandu's son! Having laid my
 commands over the whole Earth and having stayed over the heads of all, O
 Sanjaya, how shall I live now as a slave in wretchedness? How shall I be
 able, O Sanjaya, to endure the words of Bhima who hath single-handed
-"|1|Sauptika Parva|502|2cfbe9638e8e40b2ac9201a55b6dfd11
-10|1||"have come to be realised! Alas, my son, O Sanjaya, did not listen to
+"|1|Sauptika Parva|502|cid_2cfbe9638e8e40b2ac9201a55b6dfd11
+10|1.0||"have come to be realised! Alas, my son, O Sanjaya, did not listen to
 those words! What, however, did Kritavarma and Kripa and Drona's son do
 after my son Duryodhana had been unfairly stuck down?'
 
@@ -84,8 +84,8 @@ night began to howl and utter their cries at will, while they that walk
 the day owned the influence of sleep. Awful became the noise of the
 night-wandering animals. The carnivorous creatures became full of glee,
 and the night, as it deepened, became dreadful.
-"|2|Sauptika Parva|407|2bb1b947d10f4982a2f2b4eb8a4ef80c
-10|1||"""'At that hour, filled with grief and sorrow, Kritavarma and Kripa and
+"|2|Sauptika Parva|407|cid_2bb1b947d10f4982a2f2b4eb8a4ef80c
+10|1.0||"""'At that hour, filled with grief and sorrow, Kritavarma and Kripa and
 Drona's son all sat down together. Seated under that banyan, they began
 to give expression to their sorrow in respect of that very matter: the
 destruction that had taken place of both the Kurus and the Pandavas.
@@ -115,8 +115,8 @@ the sky, that slayer of crows, alighting on one of the branches of the
 banyan, slew a large number of his sleeping enemies. He tore the wings of
 some and cut off the heads of others with his sharp talons and broke the
 legs of many. Endued with great strength, he slew many that fell down
-"|3|Sauptika Parva|504|f830b613816040bf8488dc4e31e7f31c
-10|1||"crows, the ground covered by the spreading branches of the banyan became
+"|3|Sauptika Parva|504|cid_f830b613816040bf8488dc4e31e7f31c
+10|1.0||"crows, the ground covered by the spreading branches of the banyan became
 thickly strewn on every side. Having slain those crows, the owl became
 filled with delight like a slayer of foes after having behaved towards
 his foes according to his pleasure.
@@ -142,8 +142,8 @@ censurable acts that are again fall of guile. As regards this matter,
 certain ancient verses, full of truth, are heard, sung by truth-seeing
 and righteousness-observing persons, who sang them after a careful
 consideration of the demands of justice.
-"|4|Sauptika Parva|410|0c101b0e9962420ea17278fc08949889
-10|1||"""'""These verses are even these: 'The enemy's force, even when fatigued, or
+"|4|Sauptika Parva|410|cid_0c101b0e9962420ea17278fc08949889
+10|1.0||"""'""These verses are even these: 'The enemy's force, even when fatigued, or
 wounded with weapons, or employed in eating, or when retiring, or when
 resting within their camp, should be smitten. They should be dealt with
 in the same way when afflicted with sleep in the dead of night, or when
@@ -175,8 +175,8 @@ neighing steeds and grunting elephants and roaring warriors! That
 deafening noise made by the rejoicing warriors as they are marching to
 their quarters, as also the frightful clatter of their car-wheels, comes
 to us from the east. So great hath been the havoc made by the Pandavas on
-"|5|Sauptika Parva|515|ec9554f69d374228af7b39bbbd0edbe6
-10|1||"carnage! Some were endued with the might of a hundred elephants, and some
+"|5|Sauptika Parva|515|cid_ec9554f69d374228af7b39bbbd0edbe6
+10|1.0||"carnage! Some were endued with the might of a hundred elephants, and some
 were masters of all weapons. Yet have they been slain by the sons of
 Pandu! I regard this to be an instance of the reverses brought about by
 Time! Truly, this is the end to which such an act leads! Truly, although
@@ -187,8 +187,8 @@ calamitous and grave affair.""'""
 
 
 
-"|6|Sauptika Parva|131|a124b45ea5414d46a0c0b5df0bdb1ce7
-10|2||"
+"|6|Sauptika Parva|131|cid_a124b45ea5414d46a0c0b5df0bdb1ce7
+10|2.0||"
 ""'Kripa said, ""We have heard all that thou hast said, O puissant one!
 Listen, however, to a few words of mine, O mighty armed one! All men are
 subjected to and governed by these two forces, Destiny and Exertion.
@@ -216,8 +216,8 @@ when well directed, is without the concurrence of destiny, seen in the
 world to be unproductive of fruit. Those, therefore, among men, that are
 idle and without intelligence, disapprove of exertion. This however, is
 not the opinion of the wise.
-"|1|Sauptika Parva|436|98a8fe070a6c43429a8332ff0e3b61cb
-10|2||"""'""Generally, an act performed is not seen to be unproductive of fruit in
+"|1|Sauptika Parva|436|cid_98a8fe070a6c43429a8332ff0e3b61cb
+10|2.0||"""'""Generally, an act performed is not seen to be unproductive of fruit in
 the world. The absent of action, again, is seen to be productive of grave
 misery. A person obtaining something of itself without having made any
 efforts, as also one not obtaining anything even after exertion, is not
@@ -248,8 +248,8 @@ those efforts. That man who, without reverence and respect for others
 (capable of giving him good counsel), seeks the accomplishment of his
 purposes, moved by passion, anger, fear, and avarice, soon loses his
 prosperity.
-"|2|Sauptika Parva|473|81de2dee2770481fa194053ed1e71b00
-10|2||"""'""This Duryodhana, stained by covetousness and bereft of foresight, had
+"|2|Sauptika Parva|473|cid_81de2dee2770481fa194053ed1e71b00
+10|2.0||"""'""This Duryodhana, stained by covetousness and bereft of foresight, had
 without taking counsel, foolishly commenced to seek the accomplishment of
 an undigested project. Disregarding all his well-wishers and taking
 counsel with only the wicked, he had, though dissuaded, waged hostilities
@@ -271,11 +271,11 @@ will say what, after all this, is for our good. We should do what they
 say. Even this is my certain resolution. Those men whose acts do not
 succeed even after the application of exertion, should, without doubt, be
 regarded as afflicted by destiny.""'""
-"|3|Sauptika Parva|349|fc954e249afa4f0e91f0037f14a3d2c2
-10|2||"
+"|3|Sauptika Parva|349|cid_fc954e249afa4f0e91f0037f14a3d2c2
+10|2.0||"
 
-"|4|Sauptika Parva|1|170f8393d5dc4f4f84eea0d20b9dc31f
-10|3||"
+"|4|Sauptika Parva|1|cid_170f8393d5dc4f4f84eea0d20b9dc31f
+10|3.0||"
 ""Sanjaya said, 'Hearing these words of Kripa that were auspicious and
 fraught with morality and profit, Ashvatthama, O monarch, became
 overwhelmed with sorrow and grief. Burning with grief as if with a
@@ -306,8 +306,8 @@ to be much afflicted. In one and the same person, through want of wisdom,
 the understanding becomes different at different times. That
 understanding which at one time is acceptable becomes the reverse of that
 at another time.
-"|1|Sauptika Parva|439|750edd32497546009d49de6d7b610576
-10|3||"""'""Having resolved, however, according to one's wisdom, that resolution
+"|1|Sauptika Parva|439|cid_750edd32497546009d49de6d7b610576
+10|3.0||"""'""Having resolved, however, according to one's wisdom, that resolution
 which is excellent should be endeavoured to be accomplished. Such
 resolution, therefore, should force him to put forth exertion. All
 persons, O chief of the Bhojas, joyfully begin to act, even in respect of
@@ -337,8 +337,8 @@ weapons in battle. If I do not avenge the slaughter of my sire, how shall
 I open my mouth in the midst of men? Paying regard to Kshatriya duties,
 therefore, without hesitation, I shall today walk in the steps of my
 high-souled sire and the king.
-"|2|Sauptika Parva|454|85cdfc3f76a84e3b9f0ca7562431fdc8
-10|3||"""'""The Pancalas, elated with victory, will trustfully sleep tonight, having
+"|2|Sauptika Parva|454|cid_85cdfc3f76a84e3b9f0ca7562431fdc8
+10|3.0||"""'""The Pancalas, elated with victory, will trustfully sleep tonight, having
 put off their armour and in great glee, and filled with happiness at the
 thought of the victory they have won, and spent with toil and exertion.
 While sleeping at their ease during the night within their own camp, I
@@ -362,11 +362,11 @@ the sleeping sons of the Pancalas and the Pandavas. Having exterminated
 the Pancalas army tonight while sunk in sleep, I shall, O thou of great
 intelligence, obtain great happiness and regard myself to have done my
 duty!""'""
-"|3|Sauptika Parva|432|ae7735868d184e67ba4df864f9633945
-10|3||"
+"|3|Sauptika Parva|432|cid_ae7735868d184e67ba4df864f9633945
+10|3.0||"
 
-"|4|Sauptika Parva|1|37bba2ffd2f6428aa021a1909bfc2578
-10|4||"
+"|4|Sauptika Parva|1|cid_37bba2ffd2f6428aa021a1909bfc2578
+10|4.0||"
 ""'Kripa said, ""By good luck, O thou of unfading glory, thy heart is set
 today on vengeance. The wielder of the thunder himself will not succeed
 in dissuading thee today. Both of us, however, shall accompany thee in
@@ -396,8 +396,8 @@ scorching our enemies, will, clad in mail, follow thee, O best of men,
 while thou shalt proceed on thy car against the enemy. Proceeding to
 their camp and proclaiming thy name in battle, thou shalt then make a
 great slaughter of the foe. Tomorrow morning, in broad daylight, having
-"|1|Sauptika Parva|510|007baab0537f4fbc870a1c5225def9d2
-10|4||"the slaughter of great Asuras. Thou art quite competent to vanquish the
+"|1|Sauptika Parva|510|cid_007baab0537f4fbc870a1c5225def9d2
+10|4.0||"the slaughter of great Asuras. Thou art quite competent to vanquish the
 army of the Pancalas in battle like the slayer of the Danavas in
 vanquishing in rage the danava host. United with myself in battle and
 protected by Kritavarma, thou art incapable of being withstood by the
@@ -430,8 +430,8 @@ would not burn after having heard the lamentations that I have heard of
 the king lying with broken thighs? Who is there so destitute of
 compassion whose eyes would not be filled with tears after hearing such
 words uttered by the king with broken thighs? They whose side was adopted
-"|2|Sauptika Parva|513|74d1b0b2b43b4f0391aee9810f2797b5
-10|4||"rush of waters enhances the sea.
+"|2|Sauptika Parva|513|cid_74d1b0b2b43b4f0391aee9810f2797b5
+10|4.0||"rush of waters enhances the sea.
 
 ""'""Protected as they are by Vasudeva and Arjuna, I regard them, O uncle, to
 be irresistible by the great Indra himself. I am unable to restrain this
@@ -443,8 +443,8 @@ shall then take rest and shall then sleep without anxiety.""'""
 
 
 
-"|3|Sauptika Parva|128|b2785ac0d8a9495db8107cc3d1fd7871
-10|5||"
+"|3|Sauptika Parva|128|cid_b2785ac0d8a9495db8107cc3d1fd7871
+10|5.0||"
 ""'Kripa said, ""A person who is bereft of intelligence and who hath not his
 passions under control, cannot, even if he waits dutifully upon his
 superiors, understand all the considerations of morality. This is my
@@ -471,8 +471,8 @@ of wisdom repeatedly and according to the extent of their power endeavour
 to restrain him. Setting thy heart on what is truly beneficial, and
 restraining thyself by thy own self, do my bidding, O son, so that thou
 mayst not have to repent afterwards.
-"|1|Sauptika Parva|402|57fc69ca4fb74b2587da4c162bcb2a8c
-10|5||"""'""In this world, the slaughter of sleeping persons is not applauded,
+"|1|Sauptika Parva|402|cid_57fc69ca4fb74b2587da4c162bcb2a8c
+10|5.0||"""'""In this world, the slaughter of sleeping persons is not applauded,
 agreeably to the dictates of religion. The same is the case with persons
 that have laid down their arms and come down from cars and steeds. They
 also are unslayable who say 'We are thine!' and they that surrender
@@ -502,8 +502,8 @@ bowman Bhurishrava, while observant of the praya vow on the field of
 battle, was slain by Yuyudhana in total disregard of the cries of all the
 kings! Duryodhana too, having encountered Bhima in battle with the mace,
 hath been slain unrighteously by the former in the very sight of all the
-"|2|Sauptika Parva|513|00218a5145a34497a2bda522359e3640
-10|5||"mighty car-warriors standing around him. Under such circumstances was
+"|2|Sauptika Parva|513|cid_00218a5145a34497a2bda522359e3640
+10|5.0||"mighty car-warriors standing around him. Under such circumstances was
 that tiger among men slain by Bhimasena. Those lamentations that I have
 heard, of the king lying prostrate on the earth with his thighs broken,
 from the messengers circulating the news, are cutting the very core of my
@@ -533,8 +533,8 @@ sinful son of the king of the Pancalas I shall today slay by a sinful
 act. It is my resolve to slay like an animal that sinful prince of the
 Pancalas in such a way that he may not attain to regions earned by
 persons slain with weapons! Put on your coats of mail without delay and
-"|3|Sauptika Parva|508|ee105aa12a3648bdb36255894ea682da
-10|5||"car-warrior and scorchers of foes.""
+"|3|Sauptika Parva|508|cid_ee105aa12a3648bdb36255894ea682da
+10|5.0||"car-warrior and scorchers of foes.""
 
 ""'Having said these words, Ashvatthama got upon his car and set out towards
 the direction of the enemy. Then Kripa, O king, and Kritavarma of the
@@ -546,8 +546,8 @@ gate, Drona's son, that mighty car-warrior, stopped.'""
 
 
 
-"|4|Sauptika Parva|131|169e593e12ef4568b4cce3339fdcab13
-10|6||"
+"|4|Sauptika Parva|131|cid_169e593e12ef4568b4cce3339fdcab13
+10|6.0||"
 ""Dhritarashtra said, 'Seeing Drona's son stop at the gate of the
 encampment, what, O Sanjaya, did those two mighty car-warriors, Kripa and
 Kritavarma, do? Tell me this!'
@@ -568,8 +568,8 @@ him, would split into a 1,000 fragments. Blazing flames of fire seemed to
 issue from his mouth and nose and ears and all those thousands of eyes.
 From those blazing flames hundreds and thousands of Hrishikeshas issued,
 armed with conchs and discs and maces.
-"|1|Sauptika Parva|330|112839d5355641299f90367b7aad73b3
-10|6||"""'Beholding that extraordinary being capable of inspiring the whole world
+"|1|Sauptika Parva|330|cid_112839d5355641299f90367b7aad73b3
+10|6.0||"""'Beholding that extraordinary being capable of inspiring the whole world
 with terror, Drona's son, without feeling any agitation, covered him with
 showers of celestial weapons. That being, however, devoured all those
 shafts shot by Drona's son. Like the vadava fire devouring the waters of
@@ -599,8 +599,8 @@ enemies, falleth off from the path of righteousness and is lost in the
 trackless wilderness of sin. One should not cast weapons upon kine,
 Brahmanas, kings, women, friends, one's own mother, one's own preceptor,
 a weak man, an idiot, a blind man, a sleeping man, a terrified man, one
-"|2|Sauptika Parva|509|b26cac7bb3fb43d18a9c68b802425251
-10|6||"heedless. The preceptors of old always inculcated this truth upon men. I
+"|2|Sauptika Parva|509|cid_b26cac7bb3fb43d18a9c68b802425251
+10|6.0||"heedless. The preceptors of old always inculcated this truth upon men. I
 have, however, by disregarding the eternal way pointed out by the
 scriptures, and by essaying to tread in a wrong path, fallen into
 terrible distress. The wise have called that to be a terrible calamity
@@ -631,11 +631,11 @@ with a garland of human skulls, that plucker of Bhaga's eyes called also
 Rudra and Hara. In ascetic austerities and prowess, he far surpasses all
 the gods. I shall, therefore, seek the protection of Girisha armed with
 the trident.""'""
-"|3|Sauptika Parva|486|25e53d8e7b82434882ba79f0c5c1daa5
-10|6||"
+"|3|Sauptika Parva|486|cid_25e53d8e7b82434882ba79f0c5c1daa5
+10|6.0||"
 
-"|4|Sauptika Parva|1|8e06d90b749844fba1772fcc878a2fa1
-10|7||"
+"|4|Sauptika Parva|1|cid_8e06d90b749844fba1772fcc878a2fa1
+10|7.0||"
 ""Sanjaya said, 'The son of Drona, O monarch, having reflected thus,
 descended from the terrace of his car and stood, bending his head unto
 that supreme god. And he said, ""I seek the protection of Him called Ugra,
@@ -652,8 +652,8 @@ on his head, and who is a brahmacari. Purifying my soul that is so
 difficult to purify, and possessed as I am of small energy, I adore the
 Destroyer of the triple city, and offer myself as the victim. Hymned thou
 hast been, deserving art thou of hymns, and I hymn to thy glory!
-"|1|Sauptika Parva|308|9246503b44bc45b4b668ab03d5e737b8
-10|7||"""'""Thy purposes are never baffled. Thou art robed in skins; thou hast red
+"|1|Sauptika Parva|308|cid_9246503b44bc45b4b668ab03d5e737b8
+10|7.0||"""'""Thy purposes are never baffled. Thou art robed in skins; thou hast red
 hair on thy head; thou art blue-throated; thou art unbearable; thou art
 irresistible! Thou art pure; thou art the Creator of Brahman; thou art
 Brahma; thou art a brahmacari; thou art an observer of vows; thou art
@@ -672,8 +672,8 @@ thy brow! With concentrated attention, I seek thy protection, O god! For
 success in getting over this dreadful distress that is so difficult to
 get over, I sacrifice unto thee, the purest of the pure, offering for thy
 acceptance the (five) elements of which my body is composed!""
-"|2|Sauptika Parva|341|676cbc4c95d44fa7b57118483e79807b
-10|7||"""'Knowing this to be his resolution in consequence of his desire to
+"|2|Sauptika Parva|341|cid_676cbc4c95d44fa7b57118483e79807b
+10|7.0||"""'Knowing this to be his resolution in consequence of his desire to
 accomplish his object, a golden altar appeared before the high-souled son
 of Drona. Upon the altar, O king, appeared a blazing fire, filling all
 the points of the compass, cardinal and subsidiary, with its splendour.
@@ -701,8 +701,8 @@ some had five tufts of hair, and some had heads that were bald. Some had
 lean stomachs; some had four teeth, some had four tongues, some had ears
 straight as arrows and some had diadems on their brows. Some had strings
 of grass on their bodies, O monarch, and some had curly hair. Some had
-"|3|Sauptika Parva|512|5a74408df9ce4037a14fd653f0d2e1f8
-10|7||"and some were adorned with ornaments. Some had ornaments made of lotuses,
+"|3|Sauptika Parva|512|cid_5a74408df9ce4037a14fd653f0d2e1f8
+10|7.0||"and some were adorned with ornaments. Some had ornaments made of lotuses,
 and some were decked with flowers. They numbered in hundreds and
 thousands.
 
@@ -733,8 +733,8 @@ slaying all foes, they were irresistible in prowess. Drinkers of blood
 and fat and other animal matter, they subsisted on the flesh and entrails
 of animals. Some had their locks tied in tall tufts above their heads.
 Some had single tufts on their heads; some had rings on their ears; and
-"|4|Sauptika Parva|512|d7f3ee52329b4d73838b42d6a247713e
-10|7||"of very short statures, and some were very high in stature. Some were
+"|4|Sauptika Parva|512|cid_d7f3ee52329b4d73838b42d6a247713e
+10|7.0||"of very short statures, and some were very high in stature. Some were
 tall and very fierce. Some had grim features, some had long lips, and the
 genital limbs of some were very long. Some had costly and diverse kinds
 of crowns upon their heads; and some had bald heads, and the heads of
@@ -758,8 +758,8 @@ austerities, and with self-restraint, they have obtained the
 companionship of Bhava. The divine Maheshvara, that lord of the past, the
 present, and the future as also Parvati, eat with those diverse tribes of
 mighty beings that partake of their own nature.
-"|5|Sauptika Parva|385|139ac70b2b2d4dfd9e1278d4923aceea
-10|7||"""'Causing the universe to resound with the peal of diverse kinds of
+"|5|Sauptika Parva|385|cid_139ac70b2b2d4dfd9e1278d4923aceea
+10|7.0||"""'Causing the universe to resound with the peal of diverse kinds of
 instruments, with noise of laughter, with loud sounds and shrieks and
 leonine roar, they approached Ashvatthama. Uttering the praises of
 Mahadeva and spreading an effulgent light all around, desirous of
@@ -778,8 +778,8 @@ sacrifice. The valiant and wrathful son of Drona then, with propitiating
 mantras, offered up his own soul as the victim. Having with fierce rites
 adored Rudra of fierce deeds, Ashvatthama with joined hands, said these
 words unto that high-souled god.
-"|6|Sauptika Parva|335|d83677c5ecfa438aa67e031ac301dc7c
-10|7||"""'Ashvatthama said, ""Sprung from Angirasa's line, I am about to pour my
+"|6|Sauptika Parva|335|cid_d83677c5ecfa438aa67e031ac301dc7c
+10|7.0||"""'Ashvatthama said, ""Sprung from Angirasa's line, I am about to pour my
 soul, O god, as a libation on this fire! Accept, O lord, this victim! In
 this hour of distress, O Soul of the universe, I offer up my own self as
 the sacrificial victim, from devotion to thee and with heart concentrated
@@ -799,8 +799,8 @@ Krishna. For honouring him and at his word I have protected the Pancalas
 and displayed diverse kinds of illusion. By protecting the Pancalas I
 have honoured him. They have, however, been afflicted by time. The period
 of their lives hath run out.""
-"|7|Sauptika Parva|332|ed7b94d15c074d779dc1c52262ce7067
-10|7||"""'Having said these words unto the high-souled Ashvatthama, the divine
+"|7|Sauptika Parva|332|cid_ed7b94d15c074d779dc1c52262ce7067
+10|7.0||"""'Having said these words unto the high-souled Ashvatthama, the divine
 Mahadeva entered Ashvatthama's body after giving him an excellent and
 polished sword. Filled by that divine being, Drona's son blazed up with
 energy. In consequence of that energy derived from godhead, he became
@@ -810,8 +810,8 @@ himself, for entering the camp of his foes.'""
 
 
 
-"|8|Sauptika Parva|118|6babaa0f8fc343e9a8e3434e4d8d2bcd
-10|8||"
+"|8|Sauptika Parva|118|cid_6babaa0f8fc343e9a8e3434e4d8d2bcd
+10|8.0||"
 ""Dhritarashtra said, 'While Drona's son, that mighty car-warrior, thus
 proceeded towards the hostile camp, did Kripa and Bhoja stop from fear? I
 hope those two car-warriors checked by vulgar guards, did not fly away
@@ -829,8 +829,8 @@ exterminate all the Kshatriyas! What need I say, therefore, of this
 remnant of the (Pandava) army, particularly when it is buried in sleep? I
 shall enter the camp and career like Yama. I am sure that you two will
 act in such way that no man may escape you with life.""
-"|1|Sauptika Parva|301|6f54bca7cb654d82b78817ff841a9b88
-10|8||"""'Having said these words, the son of Drona entered the vast camp of the
+"|1|Sauptika Parva|301|cid_6f54bca7cb654d82b78817ff841a9b88
+10|8.0||"""'Having said these words, the son of Drona entered the vast camp of the
 Parthas; casting off all fear, he penetrated into it by a spot where
 there was no door. The mighty-armed hero, having entered the camp,
 proceeded, guided by signs, very softly, towards the quarters of
@@ -854,8 +854,8 @@ kill him as if he were an animal. The Pancala prince tore Ashvatthama
 with his nails and at last softly said, ""O preceptor's son, slay me with
 a weapon, do not tarry! O best of men, let me, through thy act, repair to
 the regions of the righteous!""
-"|2|Sauptika Parva|436|926b475d12db4bcb866748204dcf0396
-10|8||"""'Having said this much, that slayer of foes, the son of the Pancala king,
+"|2|Sauptika Parva|436|cid_926b475d12db4bcb866748204dcf0396
+10|8.0||"""'Having said this much, that slayer of foes, the son of the Pancala king,
 assailed with strength by that mighty hero, became silent. Hearing those
 indistinct sounds of his, Drona's son said, ""O wretch of thy race, there
 is no region for those that slay their preceptors. For this, O thou of
@@ -884,8 +884,8 @@ being, we know not what he is! Having slain the Pancala king, he stayeth
 there!"" At these words, those foremost of warriors suddenly surrounded
 Drona's son. The latter slew them all by means of the rudrastra. Having
 slain Dhrishtadyumna and all those followers of his, he beheld Uttamauja
-"|3|Sauptika Parva|518|612943e12ffc4c808173ca69f7c9fbc1
-10|8||"Drona's son slew that great hero also while the latter writhed in agony.
+"|3|Sauptika Parva|518|cid_612943e12ffc4c808173ca69f7c9fbc1
+10|8.0||"Drona's son slew that great hero also while the latter writhed in agony.
 Yudhamanyu, coming up and believing his comrade to have been slain by a
 Rakshasa, speedily struck Drona's son in the chest with a mace. Rushing
 towards him, Ashvatthama seized him and brought him down to the ground
@@ -908,8 +908,8 @@ O Kaurava, became stupefied with the loud noise (they heard around).
 Beholding Drona's son, they looked at each other's faces and trembled
 (with fear). Those Kshatriyas, beholding the form of that crusher of
 foes, believed him to be a Rakshasa and closed their eyes.
-"|4|Sauptika Parva|387|d03b32a1ac314b349dcb28bd99719b59
-10|8||"""'Of terrible form, he careered in the camp like Yama himself, and at last
+"|4|Sauptika Parva|387|cid_d03b32a1ac314b349dcb28bd99719b59
+10|8.0||"""'Of terrible form, he careered in the camp like Yama himself, and at last
 saw the sons of Draupadi and the remnant of the Somakas. Alarmed by the
 noise, and learning that Dhrishtadyumna had been slain, those mighty
 car-warriors, the sons of Draupadi, armed with bows, fearlessly poured
@@ -936,8 +936,8 @@ Drona's son cut off his head. Then Shrutakarma, taking up a spiked
 bludgeon, attacked Ashvatthama. Furiously rushing at Drona's son, he
 assailed him violently on the left part of his forehead. Ashvatthama
 struck Shrutakarma with his excellent sword on the face. Deprived of
-"|5|Sauptika Parva|519|420b8ef38dc049288ba6e0e55d0edff9
-10|8||"this noise, the heroic Shrutakirti, that great car-warrior, coming up,
+"|5|Sauptika Parva|519|cid_420b8ef38dc049288ba6e0e55d0edff9
+10|8.0||"this noise, the heroic Shrutakirti, that great car-warrior, coming up,
 poured showers of arrows on Ashvatthama. Baffling those arrowy showers
 with his shield, Ashvatthama cut off from the enemy's trunk the latter's
 beautiful head adorned with ear-rings. Then the slayer of Bhishma, the
@@ -966,8 +966,8 @@ of the Pandava camp used to see in their dreams that figure leading away
 the sleeping combatants and Drona's son smiting them behind! The Pandava
 soldiers saw that lady and Drona's son in their dreams every night from
 the day when the battle between the Kurus and the Pandavas first
-"|6|Sauptika Parva|505|7f1f9159cb9649989257ba9df5dcfc6f
-10|8||"son who terrified them all with the frightful roars uttered by him.
+"|6|Sauptika Parva|505|cid_7f1f9159cb9649989257ba9df5dcfc6f
+10|8.0||"son who terrified them all with the frightful roars uttered by him.
 Afflicted by Destiny, the brave warriors of the Pandava camp,
 recollecting the sight they had seen in their dreams, identified it with
 what they now witnessed.
@@ -998,8 +998,8 @@ shield of his, adorned with hundred moons, and with that sword of his
 which was of the hue of the welkin, he careered amidst his enemies. Like
 an elephant agitating a large lake, Drona's son, irresistible in battle,
 agitated the camp of the Pandavas.
-"|7|Sauptika Parva|508|d13c73e8ec5e40c1a4f641b5ea7dd49b
-10|8||"""'Awaked by the noise, O king, many warriors, afflicted still with sleep
+"|7|Sauptika Parva|508|cid_d13c73e8ec5e40c1a4f641b5ea7dd49b
+10|8.0||"""'Awaked by the noise, O king, many warriors, afflicted still with sleep
 and fear, and with senses still under a cloud, ran hither and thither.
 Many shrieked in harsh tones and many uttered incoherent exclamations.
 Many succeeded not in obtaining their weapons and armour. The locks of
@@ -1030,8 +1030,8 @@ their senses and not knowing whither they proceeded. They slew one
 another, the slayers, O lord, not recognising the slain. Afflicted by
 Fate, they cried after their sires and sons. While they fled, abandoning
 their friends and relatives, they called upon one another, mentioning
-"|8|Sauptika Parva|508|7481f57cce4b4d7fbddcf0f884751a35
-10|8||"down on the earth. In the midst of the battle, Drona's son, recognising
+"|8|Sauptika Parva|508|cid_7481f57cce4b4d7fbddcf0f884751a35
+10|8.0||"down on the earth. In the midst of the battle, Drona's son, recognising
 them, slew them all.
 
 ""'Other Kshatriyas, while being slaughtered, lost their senses, and
@@ -1062,8 +1062,8 @@ of Drona mangled the backs of some, cut off the heads of some, and caused
 some to turn away from the fight. And he cut off some at the middle, and
 lopped off the ears of others, and struck others on the shoulders, and
 pressed down the heads of some into their trunks.
-"|9|Sauptika Parva|510|7070aca87da24496ab48b3e54cc1c633
-10|8||"""'As Ashvatthama careered in this way, slaughtering thousands of men, the
+"|9|Sauptika Parva|510|cid_7070aca87da24496ab48b3e54cc1c633
+10|8.0||"""'As Ashvatthama careered in this way, slaughtering thousands of men, the
 deep night became more terrible in consequence of the darkness that set
 in. The earth became terrible to behold, strewn with thousands of human
 beings dead and dying and innumerable steeds and elephants. Cut off by
@@ -1084,8 +1084,8 @@ joined his hands in supplication, or one that is retreating, or one whose
 locks have been dishevelled. Alas, they are Rakshasas of wicked deeds who
 are perpetrating such terrible act upon us."" Uttering such words, many
 laid themselves down.
-"|10|Sauptika Parva|371|8acfc062c8ac43729627da50aa05d14c
-10|8||"""'The loud din caused by the cries and groans of human beings died away
+"|10|Sauptika Parva|371|cid_8acfc062c8ac43729627da50aa05d14c
+10|8.0||"""'The loud din caused by the cries and groans of human beings died away
 within a short space of time. The earth being drenched with blood, O
 king, that thick and frightful dust soon disappeared. Thousands of men
 moving in agony, overwhelmed with anxiety and overcome with despair, were
@@ -1114,8 +1114,8 @@ were the forms seen there of the Rakshasas that came. Quaffing the blood
 that ran in streams, they became filled with joy and began to dance in
 separate bands. ""This is excellent!"" ""This is pure!"" ""This is very
 sweet!"" these were the words they uttered.
-"|11|Sauptika Parva|467|4dde81c90a8d43548004ad06b023144e
-10|8||"""'Other carnivorous creatures, subsisting upon animal food, having gorged
+"|11|Sauptika Parva|467|cid_4dde81c90a8d43548004ad06b023144e
+10|8.0||"""'Other carnivorous creatures, subsisting upon animal food, having gorged
 upon fat and marrow and bones and blood, began to eat the delicate parts
 of corpses. Others, drinking the fat that flowed in streams, ran naked
 over the field. Possessed of diverse kinds of faces, other carnivorous
@@ -1135,8 +1135,8 @@ agreeably to his vow, and having trod in that untrodden way, Drona's son,
 O lord, forgot his grief for the slaughter of his sire. The Pandava camp,
 in consequence of the sleep in which all within it were buried, was
 perfectly still when Drona's son had entered it in the night.
-"|12|Sauptika Parva|327|e020c360d9b846bda03d9e8f7d780b6d
-10|8||"""'After the nocturnal slaughter, when all became once more quiet,
+"|12|Sauptika Parva|327|cid_e020c360d9b846bda03d9e8f7d780b6d
+10|8.0||"""'After the nocturnal slaughter, when all became once more quiet,
 Ashvatthama issued from it. Having issued from the camp, the valiant
 Ashvatthama met his two companions and, filled with joy, told them of his
 feat, gladdening them, O king, by the intelligence. Those two, in return,
@@ -1167,12 +1167,12 @@ them. In great joy the latter uttered these words: ""All the Pancalas have
 been slain, as also all the sons of Draupadi! All the Somakas also, as
 well as all that remained of the Matsyas, have been slaughtered by me!
 Crowned with success, let us without delay go there where the king is! If
-"|13|Sauptika Parva|509|deeb6bdc70944c018a718df097e4c391
-10|8||"
+"|13|Sauptika Parva|509|cid_deeb6bdc70944c018a718df097e4c391
+10|8.0||"
 
 
-"|14|Sauptika Parva|1|118ffacb49804a64aba0c382dcd20dfa
-10|9||"
+"|14|Sauptika Parva|1|cid_118ffacb49804a64aba0c382dcd20dfa
+10|9.0||"
 ""Sanjaya said, 'Having slain all the Pancalas and the sons of Draupadi,
 the three Kuru heroes together came to that spot where Duryodhana lay,
 struck down by the foe. Arrived there, they beheld that life had not been
@@ -1194,8 +1194,8 @@ in that highly undeserving plight, the three heroes wept in unendurable
 sorrow. Wiping the blood from off his face with their hands, they uttered
 these piteous lamentations in the hearing of the king lying on the field
 of battle.
-"|1|Sauptika Parva|350|83d1ff22bf90455a8290ed9d156a743a
-10|9||"""'Kripa said, ""There is nothing too difficult for destiny to bring about,
+"|1|Sauptika Parva|350|cid_83d1ff22bf90455a8290ed9d156a743a
+10|9.0||"""'Kripa said, ""There is nothing too difficult for destiny to bring about,
 since even this king Duryodhana who was the lord of eleven Akshauhinis of
 troops sleepeth on the bare ground, struck down by the foes and covered
 with blood! Behold, fond he was of the mace, and that mace decked with
@@ -1213,8 +1213,8 @@ ground, struck down by foes. He to whom hundreds of kings used to bow
 down in fear, lieth today on the field of battle, surrounded by beasts of
 prey. The Brahmanas formerly used to wait upon this lord for wealth.
 Alas, beasts of prey wait upon him today for feeding upon his body!""'
-"|2|Sauptika Parva|327|2d4c86214b8944ae8f6cda5c1d6d5d7b
-10|9||"""Sanjaya continued, 'Beholding that chief of Kuru's race lying on the
+"|2|Sauptika Parva|327|cid_2d4c86214b8944ae8f6cda5c1d6d5d7b
+10|9.0||"""Sanjaya continued, 'Beholding that chief of Kuru's race lying on the
 ground, Ashvatthama, O best of the Bharatas, uttered these piteous
 lamentations: ""O tiger among kings, all people indicated thee as the
 foremost of all bowmen! People also said that (in encounters with the
@@ -1232,8 +1232,8 @@ head of one unrighteously struck down in battle to be touched with the
 foot! In all battles warriors will certainly reprove Vrikodara as long as
 the world will last. Without doubt, thou hast been struck down
 unrighteously!
-"|3|Sauptika Parva|325|727155afac174ba69e6e63876b204fce
-10|9||"""'""The valiant Rama of Yadu's race, O king, always used to say that there
+"|3|Sauptika Parva|325|cid_727155afac174ba69e6e63876b204fce
+10|9.0||"""'""The valiant Rama of Yadu's race, O king, always used to say that there
 is no one equal to Duryodhana in encounters with the mace. He of the
 Vrishni race, O Bharata, used to boast of thee, O lord, in every assembly,
 saying, Duryodhana of Kurus race is a worthy disciple of mine!' Thou hast
@@ -1251,8 +1251,8 @@ Gandhari, since thou hast been slain on the field of battle, O bull among
 men, while advancing fairly against the foe. Alas, what will be the
 plight of Gandhari who is now childless, and who hath lost all her
 kinsmen and relatives! What also will be the plight of the blind king!
-"|4|Sauptika Parva|341|48b6ea5f724f4fd1b3481eb124cbe771
-10|9||"""'""Fie on Kritavarma, on myself, as also on mighty car-warrior Kripa, since
+"|4|Sauptika Parva|341|cid_48b6ea5f724f4fd1b3481eb124cbe771
+10|9.0||"""'""Fie on Kritavarma, on myself, as also on mighty car-warrior Kripa, since
 we have not yet gone to heaven with thy royal self before us! Fie on us,
 lowest of mortals, since we do not follow thee that wert the granter of
 all wishes, the protector of all men, and the benefactor of all thy
@@ -1269,8 +1269,8 @@ painfully dwelling upon thy prosperity, alas, what will be our lot since
 we do not go with thee? Without doubt, O chief of Kuru's race, we shall
 have to wander in grief on the earth. Deprived of thee, O king, where can
 we have peace and where can we have happiness?
-"|5|Sauptika Parva|308|d65b7e9b73454c63bb07300a0dcbe392
-10|9||"""'""Going from this world, O monarch, and meeting with those mighty
+"|5|Sauptika Parva|308|cid_d65b7e9b73454c63bb07300a0dcbe392
+10|9.0||"""'""Going from this world, O monarch, and meeting with those mighty
 car-warriors (that have preceded thee), show thy regards to them, at my
 request, one after another, according to the order of their rank and
 years. Having offered worship to thy preceptor, that foremost of all
@@ -1294,8 +1294,8 @@ done! The Pandavas are now childless! While buried in sleep, the men and
 animals in their camp have all been slain! Penetrating into their camp in
 the night, O king, I have slain Dhrishtadyumna, that wight of sinful
 deeds, as one kills an animal.""
-"|6|Sauptika Parva|425|1b133523ac53465188fd639e44c1504a
-10|9||"""'Duryodhana then, having heard those words that were so agreeable to his
+"|6|Sauptika Parva|425|cid_1b133523ac53465188fd639e44c1504a
+10|9.0||"""'Duryodhana then, having heard those words that were so agreeable to his
 heart, regained his senses and said these words in reply, ""That which
 neither Ganga's son, nor Karna, nor thy sire, could achieve, hath at last
 been achieved by thee today, accompanied by Kripa and Bhoja. Thou hast
@@ -1316,14 +1316,14 @@ Even thus the armies of the Kurus and Pandavas have been destroyed. Great
 and terrible have been that carnage, O king, caused by thy evil policy.
 After thy son had ascended to heaven, I became afflicted with grief and
 the spiritual sight which the rishi gave hath been lost by me!'""
-"|7|Sauptika Parva|357|acf9876653804ba7b04272829a9aba2d
-10|9||"Vaishampayana continued, ""The king, hearing of his son's death, breathed
+"|7|Sauptika Parva|357|cid_acf9876653804ba7b04272829a9aba2d
+10|9.0||"Vaishampayana continued, ""The king, hearing of his son's death, breathed
 long and hot sighs, and became plunged in great anxiety.""
 
 
 
-"|8|Sauptika Parva|33|c78b88ef8a984583b5ee1403d26d2d72
-10|10||"
+"|8|Sauptika Parva|33|cid_c78b88ef8a984583b5ee1403d26d2d72
+10|10.0||"
 Vaishampayana said, ""After that night had gone away, the driver of
 Dhrishtadyumna's car gave intelligence to king Yudhishthira of the great
 slaughter that had been caused during the hour of sleep.
@@ -1354,8 +1354,8 @@ and kinsmen, and counsellors, and having vanquished them all, we
 ourselves are vanquished at last! Misery looks like prosperity and
 prosperity looks like misery! This our victory has assumed the shape of
 defeat. Our victory, therefore, has ended in defeat! Having won the
-"|1|Sauptika Parva|517|819b546652974ba08c3e7cacb3f498ac
-10|10||"regard it as a victory? In reality, I have been doubly defeated by the
+"|1|Sauptika Parva|517|cid_819b546652974ba08c3e7cacb3f498ac
+10|10.0||"regard it as a victory? In reality, I have been doubly defeated by the
 foe. They for whose sake we have incurred the sin of victory by slaying
 our kinsmen and friends, alas, they, after victory had crowned them, have
 been vanquished by defeated foes that were heedful!
@@ -1386,8 +1386,8 @@ hostile army was the heap of dry forest-grass that was assailed by that
 fire. Alas, even they that had endured that fierce fire whose terrible
 energy was represented by the mighty weapons in Bhishma's hand have at
 last fallen through heedlessness.
-"|2|Sauptika Parva|484|9f808cebeec74bf58ba0d35635529e7e
-10|10||"""'A heedless person can never acquire knowledge, asceticism, prosperity, or
+"|2|Sauptika Parva|484|cid_9f808cebeec74bf58ba0d35635529e7e
+10|10.0||"""'A heedless person can never acquire knowledge, asceticism, prosperity, or
 great renown. Behold, Indra has obtained great happiness after slaying
 all his foes heedfully. Behold the survivors among our foes have, through
 our heedlessness, slain so many sons and grandsons of kings, each of whom
@@ -1420,13 +1420,13 @@ with fierce sights, the king saw his sons, well-wishers, and friends, all
 lying on the ground, covered with blood, their bodies mangled, and heads
 separated from their trunks. Beholding them in that plight, Yudhishthira,
 that foremost of righteous men, became deeply afflicted. That chief of
-"|3|Sauptika Parva|514|75f1737b083c48f79e8dab7850c162b9
-10|10||"of his senses, along with all his followers.""
+"|3|Sauptika Parva|514|cid_75f1737b083c48f79e8dab7850c162b9
+10|10.0||"of his senses, along with all his followers.""
 
 
 
-"|4|Sauptika Parva|10|fb5f3c65ee92472a94c7f4bfab12dfa9
-10|11||"
+"|4|Sauptika Parva|10|cid_fb5f3c65ee92472a94c7f4bfab12dfa9
+10|11.0||"
 Vaishampayana said, ""Beholding his sons, grandsons, and friends all slain
 in battle, the king's soul became overwhelmed with great grief, O
 Janamejaya! Recollecting those sons and grandsons and brothers and
@@ -1458,8 +1458,8 @@ recollect thy heroic sons slaughtered in the observance of Kshatriya
 duties. O son of Pritha, hearing of the slaughter of those sleeping
 heroes by Drona's son of sinful deeds, grief burns me as if I were in the
 midst of a fire. If Drona's son be not made to reap the fruit of that
-"|1|Sauptika Parva|501|5a7ca7cba4444461bfbf528e2369855d
-10|11||"not take the life of that wretch of sinful deeds, along with the lives of
+"|1|Sauptika Parva|501|cid_5a7ca7cba4444461bfbf528e2369855d
+10|11.0||"not take the life of that wretch of sinful deeds, along with the lives of
 all his followers, then listen to me, ye Pandavas, I shall sit here in
 praya!'
 
@@ -1489,8 +1489,8 @@ the same way. Like Maghavat rescuing (his spouse) the daughter of Puloma,
 thou didst rescue my afflicted self, in Virata's city, from a great
 calamity. Like those great feats, O Partha, that thou didst achieve in
 former days, slay now, O slayer of foes, the son of Drona and be thou
-"|2|Sauptika Parva|501|b96895981eae400492ca0b46a9152052
-10|11||"
+"|2|Sauptika Parva|501|cid_b96895981eae400492ca0b46a9152052
+10|11.0||"
 ""Hearing these and other piteous lamentations of the princess, Kunti's
 son, Bhimasena, of great might, could not endure them. He mounted upon
 his great car adorned with gold and took his beautiful bow with arrow
@@ -1503,8 +1503,8 @@ proceeded with great celerity along the track of Ashvatthama's vehicle.""
 
 
 
-"|3|Sauptika Parva|163|d3b7c6a84b984a129b23787dff2d8750
-10|12||"
+"|3|Sauptika Parva|163|cid_d3b7c6a84b984a129b23787dff2d8750
+10|12.0||"
 Vaishampayana said, ""After the irresistible Bhimasena had set out, that
 bull of Yadu's race, possessed of eyes like lotus-petals, addressed
 Kuru's son Yudhishthira, saying, 'O son of Pandu, this brother of thine,
@@ -1527,8 +1527,8 @@ among men, thou wilt not, it seems, walk in the path of the righteous.""
 Hearing those bitter words of his sire, the wicked-souled Ashvatthama, in
 despair of obtaining every kind of prosperity, began in grief to wander
 over the earth.
-"|1|Sauptika Parva|396|a56a2db511b14d099b4e0be55b097190
-10|12||"""'Then, O chief of the Kurus, while you were living in the woods, O
+"|1|Sauptika Parva|396|cid_a56a2db511b14d099b4e0be55b097190
+10|12.0||"""'Then, O chief of the Kurus, while you were living in the woods, O
 Bharata, he came to Dvaraka and took up his abode there, worshipped by
 the Vrishnis. One day, after he had taken up his abode in Dvaraka, he
 came to me, without a companion and when I myself was without anybody by
@@ -1549,8 +1549,8 @@ I have this bow, this dart, this discus, and this mace. I will give thee
 whichever amongst these thou desirest to have from me. Without giving me
 the weapon thou wishest to give, take from among these weapons of mine
 whichever thou mayest be able to wield and use in battle.""
-"|2|Sauptika Parva|364|20e266e06cca4edd978ba2503abe0542
-10|12||"""'Thus addressed, the illustrious son of Drona, as if challenging me,
+"|2|Sauptika Parva|364|cid_20e266e06cca4edd978ba2503abe0542
+10|12.0||"""'Thus addressed, the illustrious son of Drona, as if challenging me,
 solicited at my hands my discus of excellent nave and hard as thunder,
 possessed of a 1,000 spokes, and made of iron. ""Take it,"" I said unto him.
 Thus addressed, he rose suddenly and seized the discus with his left
@@ -1572,8 +1572,8 @@ whom I have no dearer friend on earth, that friend to whom there is
 nothing that I cannot give including my very wives and children, that
 dear friend Partha of unstained acts, never said unto me, O Brahmana,
 such words as these which thou hast uttered.
-"|3|Sauptika Parva|344|4b8918bfd64d4b7ab450b0097acd3d4d
-10|12||"""'""That son whom I obtained through ascetic penances and observances of
+"|3|Sauptika Parva|344|cid_4b8918bfd64d4b7ab450b0097acd3d4d
+10|12.0||"""'""That son whom I obtained through ascetic penances and observances of
 austere brahmacarya for twelve years on the breast of Himavati whither I
 had gone for the purpose, that son of mine, Pradyumna, of great energy
 and a portion of Sanat-kumara himself, begotten by me upon my wife
@@ -1598,16 +1598,16 @@ almost unattainable wish, I am about to leave thee, O Govinda! Address me
 in fair words now. This terrible weapon is held by thee that art the
 foremost of all terrible persons. Unrivalled art thou for this weapon!
 There is none else in this world capable of possessing it.""
-"|4|Sauptika Parva|408|f5de91b120974129a83b5d8c8a733180
-10|12||"""'Having said these words unto me, the son of Drona, taking many couples of
+"|4|Sauptika Parva|408|cid_f5de91b120974129a83b5d8c8a733180
+10|12.0||"""'Having said these words unto me, the son of Drona, taking many couples of
 steeds and much wealth and diverse kinds of gems, left Dvaraka. He is
 wrathful, wicked-souled, restless, and very cruel. He knows the weapon
 called brahmashira. Vrikodara should be protected from him!'""
 
 
 
-"|5|Sauptika Parva|77|920afaa69cbd44549a09faf6ea0f98d9
-10|13||"
+"|5|Sauptika Parva|77|cid_920afaa69cbd44549a09faf6ea0f98d9
+10|13.0||"
 Vaishampayana said, ""Having said these words, that foremost of all
 wielders of weapons, that delighter of all the Yadavas, mounted upon his
 excellent car equipped with every kind of powerful weapons. Unto that
@@ -1634,8 +1634,8 @@ after them that excellent vehicle ridden by the two sons of Pandu and by
 that bull of Yadu's race. Endued with great speed, as those animals bore
 away the wielder of Sharnga, loud became the noise caused by their rush,
 like that of birds coursing through the air.
-"|1|Sauptika Parva|440|6a255a387b5a48ca8b096136eac2fd68
-10|13||"""Proceeding with great speed, they soon came up, O bull of Bharata's race,
+"|1|Sauptika Parva|440|cid_6a255a387b5a48ca8b096136eac2fd68
+10|13.0||"""Proceeding with great speed, they soon came up, O bull of Bharata's race,
 with the mighty bowman Bhimasena in whose wake they had followed.
 Although those great car-warriors met Bhima, they failed however to stop
 that son of Kunti, as filled with wrath he proceeded fiercely towards the
@@ -1663,11 +1663,11 @@ kings, the valiant son of Drona let off that weapon for stupefying all
 the worlds. A fire then was born in that blade of grass, which seemed
 capable of consuming the three worlds like the all-destroying Yama at the
 end of the yuga.""
-"|2|Sauptika Parva|469|d021028aa3414ad2b248e433ad86db5a
-10|13||"
+"|2|Sauptika Parva|469|cid_d021028aa3414ad2b248e433ad86db5a
+10|13.0||"
 
-"|3|Sauptika Parva|1|ea5326e29cb6408faf4e2d9911900586
-10|14||"
+"|3|Sauptika Parva|1|cid_ea5326e29cb6408faf4e2d9911900586
+10|14.0||"
 Vaishampayana said, ""At the very outset the mighty-armed hero of
 Dasharha's race understood from signs the intention of Drona's son.
 Addressing Arjuna, he said, 'O Arjuna, O son of Pandu, the time is come
@@ -1700,8 +1700,8 @@ Dhananjaya. Conversant with all duties and desirous of the welfare of all
 creatures, the two sages, possessed of great energy, stood in the midst
 of those two blazing weapons. Incapable of being overwhelmed by any
 force, those two illustrious Rishis, placing themselves between the two
-"|1|Sauptika Parva|515|04b87342d0f5419c9f055830fab018ad
-10|14||"creature endued with life, and adorned by the gods and Danavas, they two
+"|1|Sauptika Parva|515|cid_04b87342d0f5419c9f055830fab018ad
+10|14.0||"creature endued with life, and adorned by the gods and Danavas, they two
 acted in this way, neutralising the energy of the two weapons and doing
 good to all the world.
 
@@ -1712,8 +1712,8 @@ ye heroes, that ye have done?'""
 
 
 
-"|2|Sauptika Parva|100|4bb28b1b5d374bee92dbf0ce6144748e
-10|15||"
+"|2|Sauptika Parva|100|cid_4bb28b1b5d374bee92dbf0ce6144748e
+10|15.0||"
 Vaishampayana said, ""At the very sight, O tiger among men, of those two
 Rishis possessed of splendour like that of fire, Dhananjaya quickly
 resolved to withdraw his celestial shaft. Joining his hands, he addressed
@@ -1738,8 +1738,8 @@ situations of the greatest danger. Observant of the vow of truth,
 possessed of great heroism, leading the life of a brahmacari, the son of
 Pandu was submissive and obedient to all his superiors. It was for this
 that he succeeded in withdrawing his weapon.
-"|1|Sauptika Parva|403|c7dfad0628084368842a4c49b3f999fe
-10|15||"""Drona's son, beholding those two Rishis standing before him, could not by
+"|1|Sauptika Parva|403|cid_c7dfad0628084368842a4c49b3f999fe
+10|15.0||"""Drona's son, beholding those two Rishis standing before him, could not by
 his energy withdraw his own terrible weapon. Unable to withdraw the high
 weapon in battle, Drona's son, O king, with a cheerless heart, said unto
 the island-born rishi these words, 'Threatened by a great danger, and
@@ -1768,8 +1768,8 @@ do not pour a drop of water there for this period. For this reason, the
 mighty-armed son of Pandu, although he had the power, would not, from
 desire of doing good to living creatures, baffle thy weapon with his. The
 Pandavas should be protected; thy own self should be protected; the
-"|2|Sauptika Parva|517|7349d9702a904baba558c8d4bee67963
-10|15||"withdraw this celestial weapon of thine. Dispel this wrath from thy heart
+"|2|Sauptika Parva|517|cid_7349d9702a904baba558c8d4bee67963
+10|15.0||"withdraw this celestial weapon of thine. Dispel this wrath from thy heart
 and let the Pandavas be safe. The royal sage Yudhishthira never desires
 to win victory by perpetrating any sinful act. Give unto these that gem
 which is on thy head. Taking that, the Pandavas will in return grant thee
@@ -1789,8 +1789,8 @@ regenerate one, I am unable to withdraw it, having once let it off. I
 will now throw this weapon into the wombs of the Pandava women. As
 regards thy commands in other respects, O holy one, I shall certainly
 obey them.'
-"|3|Sauptika Parva|324|585b8ab0c7d24ff588eba2b31db7f611
-10|15||"""Vyasa said, 'Do then this. Do not, however, entertain any other purpose,
+"|3|Sauptika Parva|324|cid_585b8ab0c7d24ff588eba2b31db7f611
+10|15.0||"""Vyasa said, 'Do then this. Do not, however, entertain any other purpose,
 O sinless one! Throwing this weapon into the wombs of the Pandava women,
 stop thyself.'""
 
@@ -1800,8 +1800,8 @@ women.""
 
 
 
-"|4|Sauptika Parva|84|7226461f4ae344aba9656ea05fa0d24c
-10|16||"
+"|4|Sauptika Parva|84|cid_7226461f4ae344aba9656ea05fa0d24c
+10|16.0||"
 Vaishampayana said, ""Understanding that that weapon was thrown (into the
 wombs of the Pandava women) by Drona's son of sinful deeds, Hrishikesha,
 with a cheerful heart, said these words unto him: 'A certain Brahmana of
@@ -1830,8 +1830,8 @@ wretch, thou shalt have no place in the midst of men. The stench of pus
 and blood shall emanate from thee, and inaccessible forests and dreary
 moors shall be thy abode! Thou shalt wander over the Earth, O thou of
 sinful soul, with the weight of all diseases on thee.
-"|1|Sauptika Parva|490|a7a7996af9b84fe6b961c4790422815b
-10|16||"""'The heroic Parikshit, attaining to age and a knowledge of the Vedas and
+"|1|Sauptika Parva|490|cid_a7a7996af9b84fe6b961c4790422815b
+10|16.0||"""'The heroic Parikshit, attaining to age and a knowledge of the Vedas and
 the practice of pious vows, shall obtain all weapons from the son of
 Sharadvata. Having obtained a knowledge of all high weapons, and
 observant of all Kshatriya duties, that righteous-souled king shall rule
@@ -1857,8 +1857,8 @@ placed Govinda and the island-born Krishna and the great ascetic Narada
 at their head, and taking the gem that was born with Ashvatthama, quickly
 came back to the intelligent Draupadi who was sitting in observance of
 the praya vow.
-"|2|Sauptika Parva|387|8a76ca3b704a403ca5ff697fe2749656
-10|16||"""Those tigers among men, borne by their excellent steeds resembling the
+"|2|Sauptika Parva|387|cid_8a76ca3b704a403ca5ff697fe2749656
+10|16.0||"""Those tigers among men, borne by their excellent steeds resembling the
 wind in fleetness, came back with him of Dasharha's race to their
 encampment. Speedily alighting from their cars, those great car-warriors,
 themselves much more afflicted, beheld Drupada's daughter Krishna
@@ -1885,8 +1885,8 @@ set him free for the sake of his being a Brahmana and of the respect that
 should be shown to our deceased preceptor. His fame hath been destroyed,
 O goddess, only his body remains! He has been divested of his gem and on
 earth he has been reft of his weapons!'
-"|3|Sauptika Parva|442|b2d6dfd9b526453d885c976e1e912562
-10|16||"""Draupadi said, 'I desired to only pay off our debt for the injury we have
+"|3|Sauptika Parva|442|cid_b2d6dfd9b526453d885c976e1e912562
+10|16.0||"""Draupadi said, 'I desired to only pay off our debt for the injury we have
 sustained. The preceptor's son is worthy of my reverence as the preceptor
 himself. Let the king bind this gem on his head, O Bharata!' The king
 then, taking that gem, placed it on his head, at the desire of Draupadi
@@ -1899,8 +1899,8 @@ mighty-armed Krishna, saying the following words.""
 
 
 
-"|4|Sauptika Parva|176|7a1340a3d4484053849bf67fa70b947b
-10|17||"
+"|4|Sauptika Parva|176|cid_7a1340a3d4484053849bf67fa70b947b
+10|17.0||"
 Vaishampayana said, ""After all the troops had been slain during the hour
 of sleep by those three car-warriors, king Yudhishthira in great grief
 said these words unto him of Dasharha's race: 'How, O Krishna, could my
@@ -1922,8 +1922,8 @@ such valour as will succeed in checking Indra himself. I know Mahadeva
 truly, O bull of Bharata's race! I know also his various acts of old. He,
 O Bharata, is the beginning, the middle, and the end of all creatures.
 This entire universe acts and moves through his energy.
-"|1|Sauptika Parva|356|01a2c95899f846789debc23aaa7d456d
-10|17||"""'The puissant Grandsire, desirous of creating living creatures, saw Rudra;
+"|1|Sauptika Parva|356|cid_01a2c95899f846789debc23aaa7d456d
+10|17.0||"""'The puissant Grandsire, desirous of creating living creatures, saw Rudra;
 and the Grandsire asked him, saying, ""Create living creatures without
 delay!"" Thus asked, Rudra of tawny locks, saying, ""So be it!"" plunged
 into the water and practised austerities for a long time, inasmuch as he
@@ -1949,8 +1949,8 @@ their food, and unto those that were strong he assigned the weaker
 creatures as the means of sustenance. Their sustenance having been thus
 assigned, the newly-created creatures all went away to regions they
 desired, and cheerfully multiplied by union with their respective species.
-"|2|Sauptika Parva|404|aa0158b4afcf4cadac6602f3354ee6b5
-10|17||"""'After the creatures had multiplied and the Grandsire had become well
+"|2|Sauptika Parva|404|cid_aa0158b4afcf4cadac6602f3354ee6b5
+10|17.0||"""'After the creatures had multiplied and the Grandsire had become well
 pleased, the first-born rose from the water and beheld the living
 creation. He saw that diverse kinds of creatures had been created and
 that they had multiplied by their own energy. At this sight, Rudra became
@@ -1969,8 +1969,8 @@ austerities.'""
 
 
 
-"|3|Sauptika Parva|253|22ba9dab07744c559a8718e7d5e4dbcd
-10|18||"
+"|3|Sauptika Parva|253|cid_22ba9dab07744c559a8718e7d5e4dbcd
+10|18.0||"
 ""The holy one said, 'After the krita-yuga had elapsed, the gods, desirous
 of performing a sacrifice, duly made preparation for one according to the
 directions laid down in the Vedas. They collected clarified butter and
@@ -1991,8 +1991,8 @@ materials the first and the fourth kinds of Sacrifices. The length of
 that bow was five cubits. The sacred (mantra) ""vashat,"" O Bharata, was
 made its string. The four parts, of which a Sacrifice consists, became
 the adornments of that bow.
-"|1|Sauptika Parva|305|3b129f8777c548e6a1eeb8deb696c0bf
-10|18||"""'Then Mahadeva, filled with rage, and taking up that bow, proceeded to
+"|1|Sauptika Parva|305|cid_3b129f8777c548e6a1eeb8deb696c0bf
+10|18.0||"""'Then Mahadeva, filled with rage, and taking up that bow, proceeded to
 that spot where the celestials were engaged in their Sacrifice. Beholding
 the unfading Rudra arrive there attired as a brahmacari and armed with
 that bow, the goddess Earth shrunk with fear and the very mountains began
@@ -2019,8 +2019,8 @@ a cry. At their command, the string of the bow broke. The string having
 broken, the bow became stretched into a line. The gods then approached
 the bowless god of gods and, with the embodied form of Sacrifice, sought
 the protection of the puissant Mahadeva and endeavoured to gratify him.
-"|2|Sauptika Parva|468|951bb080d3534333aebcd0612527e582
-10|18||"""'Gratified, the great god threw his wrath into the water, O king, that
+"|2|Sauptika Parva|468|cid_951bb080d3534333aebcd0612527e582
+10|18.0||"""'Gratified, the great god threw his wrath into the water, O king, that
 wrath, assuming the form of fire, is always employed in consuming that
 liquid element. He then gave unto Savitri his arms, Bhaga his eyes, and
 Pushana his teeth. And he also restored the Sacrifices themselves, O
@@ -2036,4 +2036,4 @@ shouldst not suffer thy mind to dwell on it. It was not Drona's son that
 accomplished that act. It was done through the grace of Mahadeva. Do now
 what should next be done.'""
 
-The end of Sauptika-parva."|3|Sauptika Parva|256|33e92a603332491ea846c11fa3e26d3e
+The end of Sauptika-parva."|3|Sauptika Parva|256|cid_33e92a603332491ea846c11fa3e26d3e
